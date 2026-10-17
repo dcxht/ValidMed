@@ -603,6 +603,50 @@ export default [
   {
     "id": "s2surg-0048",
     "category": "Surg Cardio",
+    "q": "Balloon valvuloplasty in mitral stenosis per p7?",
+    "a": "First-line treatment for mitral stenosis, done if the valve has minimal calcification (and the patient has pulmonary HTN, per the source). Replacement if valvuloplasty fails, or severe MS with dyspnea, arrhythmia, or valve calcification.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 7,
+      "url": "/mehlman/hy-surgery.pdf#page=7"
+    }
+  },
+  {
+    "id": "s2surg-0049",
+    "category": "Surg Cardio",
+    "q": "Libman-Sacks endocarditis per p7?",
+    "a": "Seen in SLE; due to antiphospholipid antibodies; a type of NBTE.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 7,
+      "url": "/mehlman/hy-surgery.pdf#page=7"
+    }
+  },
+  {
+    "id": "s2surg-0050",
+    "category": "Surg Cardio",
+    "q": "Does mitral valve prolapse progress to mitral regurgitation per p7?",
+    "a": "Almost always not. MVP and MR are not the same.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 7,
+      "url": "/mehlman/hy-surgery.pdf#page=7"
+    }
+  },
+  {
+    "id": "s2surg-0051",
+    "category": "Surg Cardio",
+    "q": "Mitral stenosis murmur without an opening snap per p7?",
+    "a": "Still MS: an NBME 2CK question had a 4/6 rumbling diastolic murmur without an opening snap in a patient with prior rheumatic heart disease.",
+    "source": {
+      "title": "Mehlman HY Surgery",
+      "page": 7,
+      "url": "/mehlman/hy-surgery.pdf#page=7"
+    }
+  },
+  {
+    "id": "s2surg-0052",
+    "category": "Surg Cardio",
     "q": "Aortic regurgitation murmur and pulse per p8?",
     "a": "Decrescendo holodiastolic (pan-diastolic) murmur, also called early diastolic murmur or diastolic murmur loudest after S2. Wide pulse pressure (e.g., 160/50 or 120/40) causing head-bobbing and bounding pulses (not the slow-rising pulses of aortic stenosis).",
     "source": {
@@ -616,7 +660,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0049",
+    "id": "s2surg-0053",
     "category": "Surg Cardio",
     "q": "Bounding pulses per p8: how often is it AR and what else causes it?",
     "a": "About 4 out of 5 times AR; the other 1 in 5 is PDA or AV fistulae. Blood quickly leaves the arterial circulation: back into the LV in AR, into the ductus in PDA, into a vein in AV fistulae. NBME wording: brisk upstroke with precipitous downstroke.",
@@ -631,7 +675,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0050",
+    "id": "s2surg-0054",
     "category": "Surg Cardio",
     "q": "Highest yield cause of AR on USMLE per p8?",
     "a": "Aortic dissection propagating retrograde to the aortic root, causing root dilatation and AR. AR is second most common in Marfan and EDS after MVP, because of dissection.",
@@ -642,7 +686,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0051",
+    "id": "s2surg-0055",
     "category": "Surg Cardio",
     "q": "Left ventricular consequence of AR per p8, and when is the valve replaced?",
     "a": "Volume overload and eccentric hypertrophy. Replace the valve if EF <50%, significant LV dilatation, or severe endocarditis obliterating the valve.",
@@ -657,7 +701,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0052",
+    "id": "s2surg-0056",
     "category": "Surg Cardio",
     "q": "Aortic stenosis murmur per p8?",
     "a": "Mid-systolic (or just systolic) murmur, also late-peaking systolic murmur with an ejection click; radiates to the carotids (far more often on NBME than MR radiating to the axilla); causes slow-rising pulses (pulsus parvus et tardus).",
@@ -672,7 +716,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0053",
+    "id": "s2surg-0057",
     "category": "Surg Cardio",
     "q": "Classic symptom triad of aortic stenosis per p8?",
     "a": "SAD: Syncope, Angina, Dyspnea (not mandatory). A systolic murmur with chest pain or fainting is AS.",
@@ -687,7 +731,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0054",
+    "id": "s2surg-0058",
     "category": "Surg Cardio",
     "q": "Cause of aortic stenosis and inheritance of bicuspid valve per p8?",
     "a": "Often a bicuspid aortic valve. The patient need not have Turner syndrome; bicuspid valve is usually inherited as autosomal dominant. It need not calcify in middle age and can present with an AS murmur in a child or high schooler.",
@@ -702,7 +746,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0055",
+    "id": "s2surg-0059",
     "category": "Surg Cardio",
     "q": "Tricuspid regurgitation murmur per p8 and why it varies with breathing?",
     "a": "Holosystolic murmur that increases with inspiration. Right-sided murmurs worsen with inspiration: diaphragm moves down, intrathoracic pressure decreases, right heart filling increases. Can cause a pulsatile liver.",
@@ -717,7 +761,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0056",
+    "id": "s2surg-0060",
     "category": "Surg Cardio",
     "q": "Highest yield cause of TR on USMLE per p8?",
     "a": "Pulmonary hypertension / cor pulmonale (seen all over the NBME exams).",
@@ -732,7 +776,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0057",
+    "id": "s2surg-0061",
     "category": "Surg Cardio",
     "q": "IV drug user endocarditis and carcinoid as causes of TR per p8?",
     "a": "IV drug user endocarditis is an obvious risk factor for TR but weirdly nonexistent on USMLE. Carcinoid syndrome is a theoretical cause but lower yield.",
@@ -743,7 +787,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0058",
+    "id": "s2surg-0062",
     "category": "Surg Cardio",
     "q": "Late-peaking systolic murmur with ejection click per p8?",
     "a": "Another way to describe aortic stenosis. Syncope + angina + dyspnea (SAD): aortic stenosis.",
@@ -754,7 +798,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0059",
+    "id": "s2surg-0063",
     "category": "Surg Cardio",
     "q": "Aortic regurgitation clues per p8?",
     "a": "Bounding pulses + massively wide pulse pressure; brisk upstroke + precipitous downstroke of the pulse.",
@@ -765,7 +809,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0060",
+    "id": "s2surg-0064",
     "category": "Surg Cardio",
     "q": "Tricuspid stenosis per p9?",
     "a": "Nonexistent murmur on USMLE (never assessed on any NBME for Steps 1 and 2). In theory a rumbling diastolic murmur like mitral stenosis, increasing with inspiration since it is right-sided.",
@@ -776,7 +820,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0061",
+    "id": "s2surg-0065",
     "category": "Surg Cardio",
     "q": "Pulmonic regurgitation per p9?",
     "a": "Nonexistent on USMLE. In theory the same as aortic regurgitation on the right (holodiastolic murmur), increasing with inspiration.",
@@ -787,7 +831,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0062",
+    "id": "s2surg-0066",
     "category": "Surg Cardio",
     "q": "Pulmonic stenosis murmur per p9?",
     "a": "Seen in tetralogy of Fallot; mid-systolic (just systolic) murmur that increases with inspiration at the left sternal border, 2nd intercostal space (theoretical location; AS is the right 2nd intercostal space, but USMLE is often not strict).",
@@ -802,7 +846,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0063",
+    "id": "s2surg-0067",
     "category": "Surg Cardio",
     "q": "PDA murmur descriptions on USMLE per p9?",
     "a": "Continuous machinery-like; pan-systolic pan-diastolic (continuous through both); and to-and-fro (appeared on 2CK offline NBME 6).",
@@ -813,7 +857,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0064",
+    "id": "s2surg-0068",
     "category": "Surg Cardio",
     "q": "PDA association and maternal history per p9?",
     "a": "Classically associated with congenital rubella (high yield). For a kid born with PDA, the mother experienced arthritis and/or rash (rubella often presents as arthritis in adults).",
@@ -824,7 +868,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0065",
+    "id": "s2surg-0069",
     "category": "Surg Cardio",
     "q": "Drug to close a PDA and drug to keep it open per p9?",
     "a": "Indomethacin (NSAID) closes the PDA; prostaglandin E1 keeps it open (cyanotic congenital heart malformation, to buy time until surgery).",
@@ -839,7 +883,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0066",
+    "id": "s2surg-0070",
     "category": "Surg Cardio",
     "q": "Open PDA masking cyanosis per p9, and a week-old cyanotic baby with normal APGARs?",
     "a": "An open PDA can mask cyanosis in conditions such as hypoplastic left heart syndrome or pre-ductal coarctation. A kid with normal APGARs who becomes cyanotic a week later: closure of the ductus arteriosus.",
@@ -850,7 +894,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0067",
+    "id": "s2surg-0071",
     "category": "Surg Cardio",
     "q": "Four components of tetralogy of Fallot and the prognosis determinant per p9?",
     "a": "1) Pulmonic stenosis; 2) RVH; 3) overriding aorta; 4) VSD. Prognosis is determined by the degree of pulmonic stenosis.",
@@ -865,7 +909,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0068",
+    "id": "s2surg-0072",
     "category": "Surg Cardio",
     "q": "Tetralogy of Fallot cyanosis timeline per p9?",
     "a": "The child is not cyanotic at birth, and years later develops Eisenmenger syndrome (reversal of the L to R shunt over the VSD) and cyanosis; the stem gives a school-age kid who squats on the playground.",
@@ -880,7 +924,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0069",
+    "id": "s2surg-0073",
     "category": "Surg Cardio",
     "q": "Why does squatting relieve symptoms in tetralogy of Fallot per p9?",
     "a": "Squatting increases afterload, which increases LV pressure and decreases the pressure gradient of the R to L shunt, mitigating cyanosis. It also increases preload by increasing venous return, but the afterload effect is most related to symptom relief.",
@@ -895,7 +939,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0070",
+    "id": "s2surg-0074",
     "category": "Surg Cardio",
     "q": "Treatment of tetralogy of Fallot per p9?",
     "a": "Surgical correction in infancy or early childhood.",
@@ -910,7 +954,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0071",
+    "id": "s2surg-0075",
     "category": "Surg Cardio",
     "q": "Functional (flow) murmur per p9?",
     "a": "Systolic murmur with a higher heart rate from infection, anemia or pregnancy, due to increased flow across the pulmonic and/or aortic valves; goes away when the heart rate comes down. Seen all over 2CK for kids with a simple viral infection. With ASD, fixed S2 splitting plus a systolic murmur reflects higher right-sided volume across the pulmonic valve.",
@@ -925,7 +969,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0072",
+    "id": "s2surg-0076",
     "category": "Surg Cardio",
     "q": "Venous hum per p9?",
     "a": "A murmur in the neck that abates when the kid is laid supine with the neck rotated; benign, do not treat.",
@@ -940,7 +984,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0073",
+    "id": "s2surg-0077",
     "category": "Surg Cardio",
     "q": "PDA murmurs per p9?",
     "a": "To-and-fro murmur (on a 2CK NBME), pan-systolic-pan-diastolic murmur, continuous machinery-like murmur: PDA. Congenital rubella syndrome: PDA.",
@@ -951,7 +995,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0074",
+    "id": "s2surg-0078",
     "category": "Surg Cardio",
     "q": "Ball-in-valve murmur per p10?",
     "a": "Diastolic rumbling murmur that abates when the patient is repositioned (e.g., onto the right side); associated with cardiac tumors (myxoma in adults; rhabdomyoma in kids with tuberous sclerosis).",
@@ -966,7 +1010,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0075",
+    "id": "s2surg-0079",
     "category": "Surg Cardio",
     "q": "Post-term neonate (42-43 weeks) with meconium-stained fluid and an echo showing R to L shunt across the foramen ovale per p10?",
     "a": "Persistent fetal circulation (persistent pulmonary hypertension): the answer is failure of pulmonary vasodilation. Meconium aspiration can decrease opening of the lung vasculature, increasing right heart pressure and risk.",
@@ -981,7 +1025,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0076",
+    "id": "s2surg-0080",
     "category": "Surg Cardio",
     "q": "S3 versus S4 per p10: both diastolic; mechanism and causes of S3?",
     "a": "S3 is due to high volume/preload in the left ventricle causing a reverberation against the wall. It can be physiologic in pregnancy and high-endurance athletes (eccentric hypertrophy); pathologic S3 is due to dilated cardiomyopathy with reduced EF (<55%) or high-output cardiac failure (EF >70%).",
@@ -996,7 +1040,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0077",
+    "id": "s2surg-0081",
     "category": "Surg Cardio",
     "q": "S4 mechanism, hypertrophy type and causes per p10?",
     "a": "High pressure/afterload on the left (sometimes right) ventricle, causing a stiffened ventricle with diastolic dysfunction and concentric hypertrophy (sarcomeres in parallel). Always pathologic; usually caused by systemic hypertension or aortic stenosis.",
@@ -1011,7 +1055,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0078",
+    "id": "s2surg-0082",
     "category": "Surg Cardio",
     "q": "S3 and S4 together per p10?",
     "a": "High-output cardiac failure (e.g., AV fistula/conduit or Paget disease). High-output failure can present with isolated S3 or S3 + S4 together, never S4 alone on USMLE.",
@@ -1022,7 +1066,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0079",
+    "id": "s2surg-0083",
     "category": "Surg Cardio",
     "q": "Loud P2 per p10?",
     "a": "Pulmonary hypertension or cor pulmonale on USMLE: the pulmonic valve slams shut due to high pressure distal to it. Remember both TR and loud P2. Loud A2 would in theory mean systemic hypertension; soft P2 refers to pulmonic stenosis but is low yield.",
@@ -1037,7 +1081,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0080",
+    "id": "s2surg-0084",
     "category": "Surg Cardio",
     "q": "Paradoxical splitting of S2 per p11?",
     "a": "Means left ventricular hypertrophy on USMLE: A2 occurs after P2 because high LV pressure delays A2. Paradoxical splitting, left-axis deviation and LBBB all = LVH on USMLE.",
@@ -1052,7 +1096,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0081",
+    "id": "s2surg-0085",
     "category": "Surg Cardio",
     "q": "Coarctation of the aorta per p11: terminology, association and exam?",
     "a": "Narrowing of the aortic arch (call it coarctation, not stenosis). Classically Turner syndrome but not mandatory; often idiopathic. Upper extremities have higher BP, brisk pulses and are warmer; lower extremities have lower BP, weak pulses and are cooler.",
@@ -1067,7 +1111,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0082",
+    "id": "s2surg-0086",
     "category": "Surg Cardio",
     "q": "Brisk radial pulses in a vignette per p11?",
     "a": "Implies the pulses in the legs are not brisk (coarctation).",
@@ -1078,7 +1122,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0083",
+    "id": "s2surg-0087",
     "category": "Surg Cardio",
     "q": "Coarctation murmur and ECG per p11?",
     "a": "Murmur not important for USMLE; can be a systolic murmur heard in the infrascapular region. Can cause LVH with left-axis deviation on ECG.",
@@ -1089,7 +1133,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0084",
+    "id": "s2surg-0088",
     "category": "Surg Cardio",
     "q": "Pre-ductal versus post-ductal coarctation per p11?",
     "a": "USMLE does not test pre- versus post-ductal. In theory pre-ductal presents as a very sick neonate; post-ductal presents as an adult (most cases).",
@@ -1100,7 +1144,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0085",
+    "id": "s2surg-0089",
     "category": "Surg Cardio",
     "q": "Subclavian steal syndrome mechanism per p11?",
     "a": "Narrowing/stenosis of the proximal subclavian artery before the vertebral branch point lowers vertebral pressure, causing backflow of blood in the vertebral artery and miscellaneous neuro findings such as dizziness; blood pressure differs between the two arms. The vertebral artery is the first branch of the subclavian.",
@@ -1115,7 +1159,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0086",
+    "id": "s2surg-0090",
     "category": "Surg Cardio",
     "q": "How does USMLE ask about subclavian steal per p11?",
     "a": "1) Dizziness with different BP between the arms; answer subclavian steal or backflow in a vertebral artery. Or 2) BP in one arm plus dizziness; answer: check BP in the other arm. Next best step in diagnosis is CT or MR angiography. About 3/4 of questions with different arm pressures are aortic dissection and 1/4 subclavian steal (the source's observation).",
@@ -1126,7 +1170,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0087",
+    "id": "s2surg-0091",
     "category": "Surg Cardio",
     "q": "Vertebral artery stenosis per p11?",
     "a": "Presents like subclavian steal with unexplained dizziness, but BP is not different between the arms; caused by atherosclerosis; CT or MR angiography diagnoses. Vertebrobasilar insufficiency is the broader term covering subclavian steal syndrome or vertebral artery stenosis.",
@@ -1137,7 +1181,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0088",
+    "id": "s2surg-0092",
     "category": "Surg Cardio",
     "q": "Vertebral artery dissection per p11?",
     "a": "A false lumen causes stasis and clot that can embolize to the brain and cause stroke; neck manipulation (chiropractor) is a known cause. NBME answer for posterior stroke due to vertebral artery dissection: heparin.",
@@ -1152,7 +1196,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0089",
+    "id": "s2surg-0093",
     "category": "Surg Cardio",
     "q": "Carotid artery dissection presentation per p12?",
     "a": "Stroke-like presentation with simultaneous ipsilateral facial/neck pain, due to stretching of nociceptors from vascular dilation; stasis within the false lumen can embolize to brain or eye.",
@@ -1167,7 +1211,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0090",
+    "id": "s2surg-0094",
     "category": "Surg Cardio",
     "q": "Carotid artery stenosis cause and risk factor per p12?",
     "a": "Caused by atherosclerosis; hypertension is the biggest risk factor for carotid atherosclerosis (strong systolic impulse pounds the carotids, endothelial damage, plaque). A carotid bruit is present in only about 25% of questions.",
@@ -1178,7 +1222,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0091",
+    "id": "s2surg-0095",
     "category": "Surg Cardio",
     "q": "Stroke, TIA or retinal artery occlusion in a hypertensive patient per p12?",
     "a": "A plaque from one of the carotids has launched off; HTN increases risk.",
@@ -1189,7 +1233,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0092",
+    "id": "s2surg-0096",
     "category": "Surg Cardio",
     "q": "Next best step in carotid stenosis per p12?",
     "a": "Carotid duplex ultrasonography to determine the degree of occlusion; carotid angiography has never been a correct answer on the NBME.",
@@ -1204,7 +1248,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0093",
+    "id": "s2surg-0097",
     "category": "Surg Cardio",
     "q": "Endarterectomy thresholds per p12?",
     "a": "Endarterectomy if occlusion >70% symptomatic, or >80% asymptomatic. Symptomatic = stroke, TIA or retinal artery occlusion; a mere bruit is a sign, not a symptom.",
@@ -1219,7 +1263,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0094",
+    "id": "s2surg-0098",
     "category": "Surg Cardio",
     "q": "Medical management when under the threshold per p12?",
     "a": "A triad: 1) statin; 2) ACEi or ARB; 3) anti-platelet therapy.",
@@ -1234,7 +1278,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0095",
+    "id": "s2surg-0099",
     "category": "Surg Cardio",
     "q": "Statin potency on USMLE per p12?",
     "a": "USMLE will not force you to choose between low- and high-potency statins.",
@@ -1245,7 +1289,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0096",
+    "id": "s2surg-0100",
     "category": "Surg Cardio",
     "q": "Favorite ACE inhibitor and antiplatelet on NBME for HTN control and carotid disease per p12?",
     "a": "Lisinopril is the favorite ACEi. Aspirin alone is sufficient as antiplatelet therapy on NBME exams, though in real life patients can get aspirin alone, aspirin + dipyridamole, or clopidogrel alone.",
@@ -1260,7 +1304,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0097",
+    "id": "s2surg-0101",
     "category": "Surg Cardio",
     "q": "Carotid occlusion percentages on USMLE per p12?",
     "a": "They will not give borderline thresholds; they say 30% or 90%. If the percent is low, check the vignette for drugs: a patient already on statin, lisinopril and aspirin means continue current regimen. 'Add clopidogrel' has been a wrong answer there since aspirin + clopidogrel is not given.",
@@ -1271,7 +1315,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0098",
+    "id": "s2surg-0102",
     "category": "Surg Cardio",
     "q": "Low carotid occlusion and the patient is on 2 of 3 drugs in the triad per p12?",
     "a": "The answer is the missing one: add aspirin, add statin or add lisinopril.",
@@ -1282,7 +1326,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0099",
+    "id": "s2surg-0103",
     "category": "Surg Cardio",
     "q": "Stroke, TIA or retinal artery occlusion in a person over 50 with no HTN mentioned per p12?",
     "a": "Next best step is carotid ultrasonography for stenosis; the vignette assumes a carotid plaque.",
@@ -1293,7 +1337,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0100",
+    "id": "s2surg-0104",
     "category": "Surg Cardio",
     "q": "Episodes of unexplained syncope or light-headedness, but no stroke, TIA or retinal artery occlusion per p12?",
     "a": "ECG, then Holter monitor, looking for atrial fibrillation (AF causes LA mural thrombus that launches off to brain/eye).",
@@ -1308,7 +1352,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0101",
+    "id": "s2surg-0105",
     "category": "Surg Cardio",
     "q": "Statin + ACEi/ARB + antiplatelet triad outside carotid disease per p12?",
     "a": "The triad is also used for general peripheral vascular disease unrelated to carotid stenosis, e.g., intermittent claudication.",
@@ -1319,7 +1363,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0102",
+    "id": "s2surg-0106",
     "category": "Surg Cardio",
     "q": "Aortic dissection and aortic regurgitation per p13?",
     "a": "USMLE loves dissection as the most common cause of AR, due to retrograde propagation toward the aortic root. A patient with HTN, cocaine use or a connective tissue disorder (Marfan, Ehlers-Danlos) with a diastolic murmur is dissection.",
@@ -1334,7 +1378,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0103",
+    "id": "s2surg-0107",
     "category": "Surg Cardio",
     "q": "Aortic dissection histology term on NBME per p13?",
     "a": "'Medial necrosis'. 'Cystic medial necrosis' was once buzzy for Marfan dissection; the source has not seen USMLE care about it, but has seen an NBME dissection due to hypertension where 'medial necrosis' is the answer.",
@@ -1349,7 +1393,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0104",
+    "id": "s2surg-0108",
     "category": "Surg Cardio",
     "q": "Treatment of ascending (type A) versus descending (type B) aortic aneurysm for 2CK per p13?",
     "a": "Type A: labetalol + surgery. Type B: labetalol alone initially.",
@@ -1364,7 +1408,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0105",
+    "id": "s2surg-0109",
     "category": "Surg Cardio",
     "q": "Traumatic rupture of the aorta cause per p13?",
     "a": "Deceleration injury; most common cause of death due to car accident or fall. Exceedingly HY on 2CK.",
@@ -1379,7 +1423,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0106",
+    "id": "s2surg-0110",
     "category": "Surg Cardio",
     "q": "Patient after a motor vehicle accident with widening of the mediastinum, next best step per p13?",
     "a": "Aortic angiography (aortography) OR CT angiography. A new 2CK form has 'CT scan of the chest' as the answer, meaning CT angiography. NBME/USMLE will not force a choice between aortography and CTA.",
@@ -1394,7 +1438,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0107",
+    "id": "s2surg-0111",
     "category": "Surg Cardio",
     "q": "First-line drug in aortic dissection and traumatic rupture per p13?",
     "a": "Labetalol first; nitroprusside comes after.",
@@ -1409,7 +1453,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0108",
+    "id": "s2surg-0112",
     "category": "Surg Cardio",
     "q": "2CK answer 'esmolol + nitroprusside' per p13?",
     "a": "Appears for a traumatic rupture question once, but almost always they will just want labetalol.",
@@ -1424,7 +1468,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0109",
+    "id": "s2surg-0113",
     "category": "Surg Cardio",
     "q": "Emergency surgical repair timing in traumatic rupture per p13?",
     "a": "Emergency surgical repair is indicated following IV drug administration.",
@@ -1439,7 +1483,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0110",
+    "id": "s2surg-0114",
     "category": "Surg Cardio",
     "q": "Labetalol in dissection and traumatic rupture per p13?",
     "a": "Labetalol is first-line in aortic dissection and traumatic rupture; nitroprusside comes after. A 2CK Q once gave 'esmolol + nitroprusside' for traumatic rupture, but almost always they want labetalol.",
@@ -1450,7 +1494,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0111",
+    "id": "s2surg-0115",
     "category": "Surg Cardio",
     "q": "Thoracic aortic aneurysm exam wording per p14?",
     "a": "'Visible pulsation' on USMLE: 'visible pulsation above the manubrium' or 'pulsatile mass above the manubrium'. There can also be a tracheal shift (do not choose pneumothorax). For AAA: 'visible pulsation in the epigastrium'.",
@@ -1461,7 +1505,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0112",
+    "id": "s2surg-0116",
     "category": "Surg Cardio",
     "q": "Biggest risk factor for AAA and screening per p14?",
     "a": "Smoking. For Family Med, a one-off abdominal ultrasound in men 65+ who are ever-smokers.",
@@ -1476,7 +1520,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0113",
+    "id": "s2surg-0117",
     "category": "Surg Cardio",
     "q": "AAA repair indications per p14?",
     "a": "AAA >5.5 cm, or growth of >0.5 cm over 6 months. On a Surgery form, a patient with a 4-cm AAA and the reason for serial ultrasounds: 'size of aneurysm'.",
@@ -1491,7 +1535,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0114",
+    "id": "s2surg-0118",
     "category": "Surg Cardio",
     "q": "Perioperative MI risk in a 6-cm AAA patient per p14?",
     "a": "Assess with a pre-op stress test. 2CK NBME Q: dipyridamole and thallium pharmacologic stress test.",
@@ -1502,7 +1546,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0115",
+    "id": "s2surg-0119",
     "category": "Surg Cardio",
     "q": "Diabetes and aortic aneurysm per p14?",
     "a": "Diabetes is protective against aneurysm: non-enzymatic glycosylation of endothelium stiffens the vascular wall.",
@@ -1517,7 +1561,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0116",
+    "id": "s2surg-0120",
     "category": "Surg Cardio",
     "q": "AAA repair in patients with advanced comorbidities or terminal disease per p14?",
     "a": "Do not do AAA repair on USMLE in such patients, e.g., stage 4 lung cancer.",
@@ -1528,7 +1572,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0117",
+    "id": "s2surg-0121",
     "category": "Surg Cardio",
     "q": "Pulsatile hematoma in the neck of a trauma patient per p14?",
     "a": "2CK loves this; the answer is endotracheal intubation.",
@@ -1539,7 +1583,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0118",
+    "id": "s2surg-0122",
     "category": "Surg Cardio",
     "q": "Arteriovenous fistula causes per p14?",
     "a": "Idiopathic, iatrogenic (e.g., dialysis), from injury (e.g., stab wound), or caused by other disease (e.g., hereditary hemorrhagic telangiectasia or Paget disease of bone).",
@@ -1550,7 +1594,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0119",
+    "id": "s2surg-0123",
     "category": "Surg Cardio",
     "q": "AV fistula and pulsatile mass per p14?",
     "a": "Like aortic aneurysms, AV fistulae can present with a pulsatile mass in an odd location, e.g., around the left ear in a patient with tinnitus (on an NBME exam).",
@@ -1561,7 +1605,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0120",
+    "id": "s2surg-0124",
     "category": "Surg Cardio",
     "q": "Highest yield point of AV fistula and why per p14?",
     "a": "They can cause high-output cardiac failure: blood quickly enters the venous circulation from the arterial, increasing preload to the right heart, plus poorer arterial perfusion distal to the fistula, causing compensatory increased cardiac output.",
@@ -1576,7 +1620,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0121",
+    "id": "s2surg-0125",
     "category": "Surg Cardio",
     "q": "Murmur and pulse of an AV fistula per p14?",
     "a": "A continuous machinery murmur like a PDA since blood flows through it continuously (e.g., in the leg at a prior stab wound), and bounding pulses like AR.",
@@ -1587,7 +1631,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0122",
+    "id": "s2surg-0126",
     "category": "Surg Cardio",
     "q": "How to tell AV fistula from similar conditions per p14?",
     "a": "Look for HY points: lone S3 or S3/S4 combo, EF >70%, history of penetrating trauma, or Paget disease.",
@@ -1598,7 +1642,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0123",
+    "id": "s2surg-0127",
     "category": "Surg Cardio",
     "q": "Why AF is hugely important per p16?",
     "a": "Turbulence/stasis in the left atrium leads to LA mural thrombus; the thrombus can embolize to brain (stroke, TIA, retinal artery occlusion), SMA/IMA (acute mesenteric ischemia) and legs (acute limb ischemia).",
@@ -1609,7 +1653,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0124",
+    "id": "s2surg-0128",
     "category": "Surg Cardio",
     "q": "AF vignette per p16?",
     "a": "HY in older patients, especially >75: stroke, TIA or retinal artery occlusion with normal BP (so carotid stenosis is not the source of the embolus).",
@@ -1620,7 +1664,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0125",
+    "id": "s2surg-0129",
     "category": "Surg Cardio",
     "q": "75-year-old with a TIA, normal BP and a sinus-rhythm ECG per p16: next best step?",
     "a": "Holter monitor (24-hour ambulatory ECG) to pick up paroxysmal AF, which comes and goes.",
@@ -1635,7 +1679,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0126",
+    "id": "s2surg-0130",
     "category": "Surg Cardio",
     "q": "After AF is diagnosed on ECG or Holter, 2CK next best step per p16?",
     "a": "Echocardiography, to visualize the LA mural thrombus.",
@@ -1646,7 +1690,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0127",
+    "id": "s2surg-0131",
     "category": "Surg Cardio",
     "q": "Severe abdominal pain with AF or hyperthyroidism per p16?",
     "a": "Acute mesenteric ischemia; next best step is mesenteric angiography; treatment is laparotomy if unstable (NBME answer).",
@@ -1661,7 +1705,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0128",
+    "id": "s2surg-0132",
     "category": "Surg Cardio",
     "q": "Severe leg pain with absent pulses in a patient with irregularly irregular rhythm per p16?",
     "a": "Acute limb ischemia (embolus from AF); USMLE wants embolectomy.",
@@ -1672,7 +1716,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0129",
+    "id": "s2surg-0133",
     "category": "Surg Cardio",
     "q": "Structural causes of AF per p16?",
     "a": "Any structural heart abnormality: LV hypertrophy, ischemia, growth hormone/anabolic steroid use, prior MI, etc.",
@@ -1683,7 +1727,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0130",
+    "id": "s2surg-0134",
     "category": "Surg Cardio",
     "q": "AF stroke prevention drug choice and score per p16?",
     "a": "Patient gets either a NOAC or warfarin; aspirin is no longer indicated for AF. Decided by CHADS2: CHF, HTN, Age 75+, Diabetes, Stroke/TIA/emboli (1 point each, but stroke/TIA/emboli is 2). More points favors warfarin.",
@@ -1698,7 +1742,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0131",
+    "id": "s2surg-0135",
     "category": "Surg Cardio",
     "q": "NOACs on NBME per p16?",
     "a": "The source has never seen NBME care about apixaban etc. for non-valvular AF; NBME seems old-school with warfarin as the answer, since use of NOACs is less textbook.",
@@ -1713,7 +1757,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0132",
+    "id": "s2surg-0136",
     "category": "Surg Cardio",
     "q": "AF rate vs rhythm control per p16?",
     "a": "Rate control comes before rhythm control; USMLE does not care about this part. In theory metoprolol or verapamil is standard. For Step 3: flecainide is first-line for rhythm control if rate control fails, with structurally normal heart and no coronary artery disease.",
@@ -1728,7 +1772,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0133",
+    "id": "s2surg-0137",
     "category": "Surg Cardio",
     "q": "When to use 'regular' metoprolol per p16?",
     "a": "Classically first-line for atrial fibrillation rate control.",
@@ -1739,7 +1783,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0134",
+    "id": "s2surg-0138",
     "category": "Surg Cardio",
     "q": "AF with hemodynamic instability (low BP) per p17?",
     "a": "NBME 2CK: electrical cardioversion. AF can trigger 'rapid ventricular response' (HR >150) with low BP.",
@@ -1750,7 +1794,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0135",
+    "id": "s2surg-0139",
     "category": "Surg Cardio",
     "q": "VT treatment per p17?",
     "a": "Anti-arrhythmics, e.g., amiodarone. If coma or hemodynamic instability (low BP): NBME answer is direct current countershock/cardioversion (same thing).",
@@ -1765,7 +1809,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0136",
+    "id": "s2surg-0140",
     "category": "Surg Cardio",
     "q": "Wide- vs narrow-complex tachycardia per p17?",
     "a": "Wide-complex: ventricular tachycardia (VT). Narrow-complex: SVT.",
@@ -1776,7 +1820,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0137",
+    "id": "s2surg-0141",
     "category": "Surg Cardio",
     "q": "First step for stable SVT per p18?",
     "a": "Carotid massage (vagal maneuvers). In pediatrics, ice pack to the face.",
@@ -1791,7 +1835,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0138",
+    "id": "s2surg-0142",
     "category": "Surg Cardio",
     "q": "Inferior MI on ECG (II, III, aVF) per p18: affected vessel?",
     "a": "Posterior descending artery (supplies the diaphragmatic surface). Since >85% of people are right-dominant (PDA from the right coronary), the answer can just be right coronary artery. If the Q says left-dominant: left main, left circumflex, then PDA.",
@@ -1806,7 +1850,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0139",
+    "id": "s2surg-0143",
     "category": "Surg Cardio",
     "q": "ST elevations in V1-V3 per p18?",
     "a": "LAD (supplies the apex of the heart).",
@@ -1817,7 +1861,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0140",
+    "id": "s2surg-0144",
     "category": "Surg Cardio",
     "q": "ST elevations in V4-V6 (lateral MI) per p18?",
     "a": "Left circumflex artery (supplies the left-lateral heart).",
@@ -1828,7 +1872,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0141",
+    "id": "s2surg-0145",
     "category": "Surg Cardio",
     "q": "Reciprocal ST depressions in V1-V3 per p18?",
     "a": "Can reflect posterior wall MI: the elevations are out the back of the heart, so they look like depressions on anterior leads.",
@@ -1839,7 +1883,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0142",
+    "id": "s2surg-0146",
     "category": "Surg Cardio",
     "q": "New systolic murmur hours to days after MI per p19?",
     "a": "Mitral regurgitation (papillary muscle rupture), with or without dyspnea.",
@@ -1850,7 +1894,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0143",
+    "id": "s2surg-0147",
     "category": "Surg Cardio",
     "q": "Stroke-like presentation in a patient with MI weeks ago per p19?",
     "a": "Embolus from ventricular septal aneurysm (on a 2CK form).",
@@ -1861,7 +1905,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0144",
+    "id": "s2surg-0148",
     "category": "Surg Cardio",
     "q": "Post-MI fibrosis and Q waves per p19?",
     "a": "Fibrosis in months to years after MI raises risk of arrhythmias (AF, SVT, VT); no specific one needs memorizing. Q waves mean old MI: fainting with Q waves in II, III, aVF and the answer is something like paroxysmal SVT; the point is history of MI means risk for nearly any arrhythmia.",
@@ -1872,7 +1916,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0145",
+    "id": "s2surg-0149",
     "category": "Surg Cardio",
     "q": "MI histology per p19?",
     "a": "Coagulative necrosis of the myocardium.",
@@ -1883,7 +1927,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0146",
+    "id": "s2surg-0150",
     "category": "Surg Cardio",
     "q": "Cardiogenic shock hemodynamics from MI per p19?",
     "a": "Decreased cardiac output, increased peripheral vascular resistance, increased PCWP.",
@@ -1894,7 +1938,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0147",
+    "id": "s2surg-0151",
     "category": "Surg Cardio",
     "q": "Kidney injury after MI with cardiogenic shock per p19?",
     "a": "Acute tubular necrosis from acute drop in renal perfusion; not pre-renal (discussed in the renal section).",
@@ -1905,7 +1949,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0148",
+    "id": "s2surg-0152",
     "category": "Surg Cardio",
     "q": "First MI drugs per p19?",
     "a": "Aspirin first; next clopidogrel (ADP P2Y12 blocker) as dual antiplatelet therapy.",
@@ -1920,7 +1964,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0149",
+    "id": "s2surg-0153",
     "category": "Surg Cardio",
     "q": "Acute coronary syndrome (MI or unstable angina) per p19?",
     "a": "Gets coronary catheterization (answer on the new 2CK NBME).",
@@ -1931,7 +1975,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0150",
+    "id": "s2surg-0154",
     "category": "Surg Cardio",
     "q": "Nitrates in right heart MI per p19?",
     "a": "Contraindicated, which includes inferior MI in most people (right coronary supplies the PDA): right-sided MIs are preload-dependent and need sufficient preload to maintain BP. Other MI management (beta-blockers, nitrates, morphine, oxygen, statin, PCI) is not assessed in detail.",
@@ -1946,7 +1990,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0151",
+    "id": "s2surg-0155",
     "category": "Surg Cardio",
     "q": "PCI timing in STEMI per p19?",
     "a": "PCI within 90 minutes of reaching hospital.",
@@ -1961,7 +2005,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0152",
+    "id": "s2surg-0156",
     "category": "Surg Cardio",
     "q": "Pericarditis ECG per p19?",
     "a": "Diffuse ST elevations (all leads, not 3-4 contiguous leads as with MI); PR depressions can also be seen but USMLE does not care.",
@@ -1972,7 +2016,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0153",
+    "id": "s2surg-0157",
     "category": "Surg Cardio",
     "q": "Pericarditis pain per p19?",
     "a": "Worse lying back, better leaning forward; may walk in bent over at the waist.",
@@ -1983,7 +2027,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0154",
+    "id": "s2surg-0158",
     "category": "Surg Cardio",
     "q": "Serous pericarditis causes per p19?",
     "a": "Post-viral, autoimmune disease, or cocaine use. NBME: pericarditis plus a list of organism types, the answer is virus.",
@@ -1994,7 +2038,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0155",
+    "id": "s2surg-0159",
     "category": "Surg Cardio",
     "q": "RA or SLE with a pericardial friction rub per p19?",
     "a": "Do not be confused; patients with RA or SLE are notably at risk for pericarditis.",
@@ -2005,7 +2049,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0156",
+    "id": "s2surg-0160",
     "category": "Surg Cardio",
     "q": "Uremic pericarditis per p19?",
     "a": "HY for 2CK: very high creatinine and BUN with a friction rub; treatment is hemodialysis.",
@@ -2020,7 +2064,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0157",
+    "id": "s2surg-0161",
     "category": "Surg Cardio",
     "q": "Pericarditis treatment per p19?",
     "a": "Same as acute gout: NSAIDs, colchicine, steroids.",
@@ -2035,7 +2079,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0158",
+    "id": "s2surg-0162",
     "category": "Surg Cardio",
     "q": "Fibrinous pericarditis after MI per p19?",
     "a": "Two types: 1) 'post-MI fibrinous pericarditis': friction rub within days of MI; 2) Dressler syndrome: antibody-mediated, 2-6 weeks post-MI.",
@@ -2050,7 +2094,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0159",
+    "id": "s2surg-0163",
     "category": "Surg Cardio",
     "q": "Typical pericarditis, next best step in diagnosis per p20?",
     "a": "Echocardiography, to look for a concomitant effusion (ECG is first step but may not be listed).",
@@ -2061,7 +2105,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0160",
+    "id": "s2surg-0164",
     "category": "Surg Cardio",
     "q": "Chronic constrictive pericarditis per p20 (USMLE yield)?",
     "a": "A separate condition that does not present with standard pericarditis findings. Low yield, but students confuse it with tamponade.",
@@ -2072,7 +2116,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0161",
+    "id": "s2surg-0165",
     "category": "Surg Cardio",
     "q": "Two ways chronic constrictive pericarditis shows up per p20?",
     "a": "1) Tuberculosis is a classic cause (calcification around the heart on imaging may or may not be present): TB plus impaired heart filling = chronic constrictive pericarditis. 2) Kussmaul sign: JVD with inspiration rather than expiration.",
@@ -2087,7 +2131,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0162",
+    "id": "s2surg-0166",
     "category": "Surg Cardio",
     "q": "Why Kussmaul sign occurs in constriction but not tamponade per p20?",
     "a": "Normally inspiration lowers intrathoracic pressure and pulls blood into the RA. With a rigid constricting pericardium the drop is not transmitted to the right heart, so JVP does not fall (and can rise). In tamponade the pericardium is filled with blood that can shift with respiration, allowing right heart expansion, so Kussmaul sign does not occur.",
@@ -2102,7 +2146,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0163",
+    "id": "s2surg-0167",
     "category": "Surg Cardio",
     "q": "Cardiac tamponade definition per p20?",
     "a": "Pericardial effusion + low blood pressure.",
@@ -2113,7 +2157,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0164",
+    "id": "s2surg-0168",
     "category": "Surg Cardio",
     "q": "What determines tamponade per p20?",
     "a": "The rate of fluid accumulation, not the volume: a stab wound or post-MI LV free-wall rupture can cause tamponade with a small volume; slow, large accumulation from cancer might not.",
@@ -2124,7 +2168,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0165",
+    "id": "s2surg-0169",
     "category": "Surg Cardio",
     "q": "Beck triad per p20?",
     "a": "1) Hypotension, 2) JVD, 3) muffled/distant heart sounds. Questions basically always give hypotension and JVD, sometimes not heart sounds.",
@@ -2139,7 +2183,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0166",
+    "id": "s2surg-0170",
     "category": "Surg Cardio",
     "q": "'The pulsus paradoxus is <10 mm Hg' in a 2CK NBME vignette?",
     "a": "The vignette's odd way of saying the diagnosis is not tamponade (pulsus paradoxus is a drop in systolic BP >10 mm Hg with inspiration).",
@@ -2150,7 +2194,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0167",
+    "id": "s2surg-0171",
     "category": "Surg Cardio",
     "q": "Next best step in diagnosis of tamponade per p21?",
     "a": "ECG first if listed; if not listed, echocardiography, which confirms fluid over the heart.",
@@ -2161,7 +2205,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0168",
+    "id": "s2surg-0172",
     "category": "Surg Cardio",
     "q": "Next best step in management of obvious tamponade per p21?",
     "a": "Pericardiocentesis or pericardial window; USMLE will not list both. NBME 8 offline for 2CK has pericardial window as the answer with pericardiocentesis not listed.",
@@ -2172,7 +2216,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0169",
+    "id": "s2surg-0173",
     "category": "Surg Cardio",
     "q": "Antiarrhythmics that cause torsades per p21?",
     "a": "Sodium- and potassium-channel blockers such as quinidine and ibutilide. NBME asks directly: patient given ibutilide, increased risk of torsades.",
@@ -2187,7 +2231,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0170",
+    "id": "s2surg-0174",
     "category": "Surg Cardio",
     "q": "QT prolongation and torsades per p21?",
     "a": "QT prolongation is a risk factor for torsades. Antipsychotics, macrolides and metoclopramide prolong the QT.",
@@ -2198,7 +2242,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0171",
+    "id": "s2surg-0175",
     "category": "Surg Cardio",
     "q": "Treatment USMLE wants for torsades per p21?",
     "a": "Magnesium (asked directly on the new 2CK form), which stabilizes the myocardium.",
@@ -2213,7 +2257,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0172",
+    "id": "s2surg-0176",
     "category": "Surg Cardio",
     "q": "Hyperkalemia with ECG changes per p22: treatment?",
     "a": "IV calcium gluconate or calcium chloride, which stabilizes the myocardium. Calcium gluconate is classic; calcium chloride shows up as an answer on a 2CK NBME.",
@@ -2228,7 +2272,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0173",
+    "id": "s2surg-0177",
     "category": "Surg Cardio",
     "q": "J waves per p22?",
     "a": "Hypothermia. You do not need to identify them on ECG; they show up in a 2CK vignette with body temperature of 89.6 F.",
@@ -2243,7 +2287,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0174",
+    "id": "s2surg-0178",
     "category": "Surg Cardio",
     "q": "Why Mobitz II is more dangerous than Mobitz I, and its treatment on USMLE per p23?",
     "a": "Higher chance of progression to third-degree (type III) heart block. Treatment on USMLE is pacemaker insertion (asked on a new 2CK NBME).",
@@ -2258,7 +2302,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0175",
+    "id": "s2surg-0179",
     "category": "Surg Cardio",
     "q": "Dilated cardiomyopathy definition per p23?",
     "a": "Isolated ventricular or diffuse 4-chamber dilation; many causes, key feature is systolic dysfunction with reduced ejection fraction (<55%; normal 55-70).",
@@ -2273,7 +2317,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0176",
+    "id": "s2surg-0180",
     "category": "Surg Cardio",
     "q": "Causes of DCM mnemonic per p24?",
     "a": "ABCD: Alcohol; B = wet Beriberi (thiamine deficiency); C = Coxsackie B virus, Cocaine, Chagas disease; D = Drugs, doxorubicin (Adriamycin).",
@@ -2288,7 +2332,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0177",
+    "id": "s2surg-0181",
     "category": "Surg Cardio",
     "q": "Other notable DCM causes per p24?",
     "a": "Pregnancy (peripartum cardiomyopathy), hemochromatosis, rheumatic heart disease (myocarditis leading to DCM).",
@@ -2303,7 +2347,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0178",
+    "id": "s2surg-0182",
     "category": "Surg Cardio",
     "q": "Arrows for diastolic dysfunction per p24?",
     "a": "Unchanged EF; unchanged LVEDV; increased LVEDP. EF is normal because the heart pumps fine; students think LVEDV should be low, but USMLE wants normal volume reached with more force/pressure.",
@@ -2314,7 +2358,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0179",
+    "id": "s2surg-0183",
     "category": "Surg Cardio",
     "q": "Lateralized apex and LVH signs per p24?",
     "a": "PMI can be lateralized from LV hypertrophy. Paradoxical splitting of S2, left-axis deviation and LBBB can all be seen from LVH; they just mean LVH.",
@@ -2325,7 +2369,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0180",
+    "id": "s2surg-0184",
     "category": "Surg Cardio",
     "q": "Hypertensive heart disease associations per p24?",
     "a": "Hypertensive retinopathy (narrowed retinal vessels, flame hemorrhages, AV-nicking) and hypertensive nephropathy (hyperplastic arteriolosclerosis with raised creatinine).",
@@ -2336,7 +2380,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0181",
+    "id": "s2surg-0185",
     "category": "Surg Cardio",
     "q": "HOCM genetics and histology per p25?",
     "a": "Mutations in the beta-myosin heavy-chain gene; autosomal dominant; disordered/disarrayed myocardial fibers.",
@@ -2351,7 +2395,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0182",
+    "id": "s2surg-0186",
     "category": "Surg Cardio",
     "q": "HOCM mechanism per p25?",
     "a": "Asymmetric septal hypertrophy results in the anterior mitral valve leaflet obstructing the LV outflow tract, so it can sound like aortic stenosis.",
@@ -2362,7 +2406,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0183",
+    "id": "s2surg-0187",
     "category": "Surg Cardio",
     "q": "HOCM classic presentation per p25?",
     "a": "Sudden death in a young athlete; cause of death is ventricular fibrillation due to acute left heart strain with fast heart rate.",
@@ -2373,7 +2417,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0184",
+    "id": "s2surg-0188",
     "category": "Surg Cardio",
     "q": "HOCM murmur per p25?",
     "a": "Systolic murmur that worsens with Valsalva or standing (aortic stenosis gets softer or does not change). HOCM and MVP are the only two murmurs that get worse with less volume in the heart; all other murmurs get worse with more volume. Valsalva increases intrathoracic pressure and decreases venous return; standing decreases venous return.",
@@ -2384,7 +2428,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0185",
+    "id": "s2surg-0189",
     "category": "Surg Cardio",
     "q": "Heart rate rise from exercise or stress per p25 (NBME)?",
     "a": "Diastole is shortened more than systole.",
@@ -2395,7 +2439,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0186",
+    "id": "s2surg-0190",
     "category": "Surg Cardio",
     "q": "HOCM beta-blocker per p25?",
     "a": "Metoprolol or propranolol (both NBME answers) slow heart rate, maximizing diastolic filling and decreasing symptoms and risk of death.",
@@ -2410,7 +2454,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0187",
+    "id": "s2surg-0191",
     "category": "Surg Cardio",
     "q": "HOCM ICD and myectomy per p25?",
     "a": "ICD if any arrhythmia, syncope, low blood pressure or LV wall thickness >30 mm. Septal myectomy if LVOT gradient >50 mm Hg, but ICD is usually first-line.",
@@ -2425,7 +2469,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0188",
+    "id": "s2surg-0192",
     "category": "Surg Cardio",
     "q": "Restrictive cardiomyopathy per p25?",
     "a": "Heart failure from diastolic dysfunction where HTN is not the cause. JVD is HY; an S4 can be seen; the heart is not dilated.",
@@ -2436,7 +2480,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0189",
+    "id": "s2surg-0193",
     "category": "Surg Cardio",
     "q": "HY causes of RCM per p25?",
     "a": "History of radiation (fibrosis), amyloidosis and hemochromatosis.",
@@ -2451,7 +2495,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0190",
+    "id": "s2surg-0194",
     "category": "Surg Cardio",
     "q": "Hemochromatosis: DCM or RCM per p25?",
     "a": "Whichever the vignette gives. Large cardiac silhouette with S3 and lateralized apex beat = DCM. JVD + S4 + nothing about a lateralized apex = RCM.",
@@ -2462,7 +2506,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0191",
+    "id": "s2surg-0195",
     "category": "Surg Cardio",
     "q": "Amyloidosis and RCM per p25?",
     "a": "Amyloidosis is protein depositing where it should not. Highest yield cause on USMLE is multiple myeloma, which leads to RCM.",
@@ -2477,7 +2521,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0192",
+    "id": "s2surg-0196",
     "category": "Surg Cardio",
     "q": "RCM arrows per p25?",
     "a": "Same as HCM (diastolic dysfunction): unchanged EF; unchanged LVEDV; increased LVEDP.",
@@ -2488,7 +2532,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0193",
+    "id": "s2surg-0197",
     "category": "Surg Cardio",
     "q": "Stable angina per p25?",
     "a": "Chest pain that occurs predictably with exercise, due to atherosclerotic plaques with >70% occlusion (can be calcific). Classically ST depressions on ECG.",
@@ -2499,7 +2543,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0194",
+    "id": "s2surg-0198",
     "category": "Surg Cardio",
     "q": "Nitrates in stable angina per p25?",
     "a": "Donate nitric oxide, which upregulates guanylyl cyclase in venous smooth muscle: increased cGMP, relaxation, venous pooling, decreased venous return, decreased myocardial oxygen demand, relief of chest pain.",
@@ -2514,7 +2558,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0195",
+    "id": "s2surg-0199",
     "category": "Surg Cardio",
     "q": "Nitrates and PDE-5 inhibitors per p25?",
     "a": "Contraindicated together (e.g., Viagra) due to risk of low blood pressure.",
@@ -2525,7 +2569,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0196",
+    "id": "s2surg-0200",
     "category": "Surg Cardio",
     "q": "Where does sodium nitroprusside act per p25?",
     "a": "Used for hypertensive emergencies; dilates arterioles in addition to the veins. If USMLE asks where the drug acts, choose arterioles.",
@@ -2536,7 +2580,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0197",
+    "id": "s2surg-0201",
     "category": "Surg Cardio",
     "q": "Unstable angina per p26?",
     "a": "Unpredictable chest pain that can occur at rest, due to partial plaque rupture with partial occlusion; ST depressions. Patients need cardiac catheterization. Diltiazem is the answer on the new 2CK NBME.",
@@ -2551,7 +2595,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0198",
+    "id": "s2surg-0202",
     "category": "Surg Cardio",
     "q": "Prinzmetal angina per p26?",
     "a": "Vasospastic angina at rest (e.g., watching TV or sleeping) in younger adults; not caused by atherosclerosis. ST elevations on ECG. Also called variant angina pectoris: an NBME vignette of Prinzmetal wants 'variant angina pectoris' as the answer.",
@@ -2562,7 +2606,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0199",
+    "id": "s2surg-0203",
     "category": "Surg Cardio",
     "q": "Prinzmetal treatment per p26?",
     "a": "Nitrates (cause coronary dilation unrelated to venous pooling) or dihydropyridine calcium channel blockers (e.g., nifedipine). Avoid alpha-1 agonists (vasoconstriction) and non-selective beta-blockers like propranolol (unopposed alpha effects).",
@@ -2577,7 +2621,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0200",
+    "id": "s2surg-0204",
     "category": "Surg Cardio",
     "q": "Hypertensive emergency definition per p26?",
     "a": "HTN >180/120 with signs of end-organ damage: hypertensive encephalopathy (confusion), nephropathy (poor renal function tests), retinopathy, acute heart failure, etc.",
@@ -2592,7 +2636,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0201",
+    "id": "s2surg-0205",
     "category": "Surg Cardio",
     "q": "BP lowering in hypertensive emergency per p26?",
     "a": "Lower by no more than 20-25% in the first hour, since drastic lowering can compromise brain and vital organ perfusion. Bring under 160/100 by 24-48 hours.",
@@ -2607,7 +2651,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0202",
+    "id": "s2surg-0206",
     "category": "Surg Cardio",
     "q": "Drugs for hypertensive emergency per p26?",
     "a": "IV sodium nitroprusside, IV nicardipine, IV labetalol and oral captopril.",
@@ -2618,7 +2662,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0203",
+    "id": "s2surg-0207",
     "category": "Surg Cardio",
     "q": "Hypertensive urgency per p26?",
     "a": "HTN >180/120 with no signs of end-organ damage. BP under 160/100 by 24-48 hours; the source lists the same drugs: IV nitroprusside, IV nicardipine, IV labetalol, oral captopril.",
@@ -2633,7 +2677,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0204",
+    "id": "s2surg-0208",
     "category": "Surg Cardio",
     "q": "Acute endocarditis per p26?",
     "a": "Bacterial infection of a valve in a patient with no previous valve problem; caused by Staph aureus (coagulase positive) on USMLE. Left-sided valves (aortic and mitral) most affected because of greater pressure changes and turbulence enabling seeding.",
@@ -2644,7 +2688,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0205",
+    "id": "s2surg-0209",
     "category": "Surg Cardio",
     "q": "IV drug user with endocarditis per p26?",
     "a": "Venous blood inoculated with S. aureus travels to the heart and causes vegetation of the tricuspid valve.",
@@ -2655,7 +2699,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0206",
+    "id": "s2surg-0210",
     "category": "Surg Cardio",
     "q": "Subacute endocarditis per p26?",
     "a": "Bacterial infection of a valve with a history of valve abnormality (congenital bicuspid aortic valve, rheumatic heart disease); caused by Strep viridans on USMLE (S. sanguinis, S. mutans, S. mitis). HY precipitant is a dental procedure, with blood inoculated via the oral cavity.",
@@ -2670,7 +2714,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0207",
+    "id": "s2surg-0211",
     "category": "Surg Cardio",
     "q": "New-onset murmur with fever per p26?",
     "a": "Endocarditis until proven otherwise on USMLE.",
@@ -2681,7 +2725,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0208",
+    "id": "s2surg-0212",
     "category": "Surg Cardio",
     "q": "Platelets of 900,000 in an endocarditis question per p26?",
     "a": "Reactive thrombocytosis from infection; not unique to endocarditis, but USMLE likes endocarditis as a cause.",
@@ -2692,7 +2736,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0209",
+    "id": "s2surg-0213",
     "category": "Surg Cardio",
     "q": "Endocarditis embolic findings per p26?",
     "a": "Hematuria from vegetations that launch to the kidney; endocarditis + stroke-like episode = septic embolus to the brain.",
@@ -2703,7 +2747,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0210",
+    "id": "s2surg-0214",
     "category": "Surg Cardio",
     "q": "New-onset murmur + fever per p26?",
     "a": "Endocarditis till proven otherwise.",
@@ -2714,7 +2758,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0211",
+    "id": "s2surg-0215",
     "category": "Surg Cardio",
     "q": "Janeway, Osler, splinter hemorrhages and HACEK per p27?",
     "a": "Low yield for USMLE, mainly school talking points; HACEK organisms are nonexistent on USMLE.",
@@ -2725,7 +2769,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0212",
+    "id": "s2surg-0216",
     "category": "Surg Cardio",
     "q": "Endocarditis diagnosis per p27?",
     "a": "Blood cultures before antibiotics (important for 2CK); TEE confirms diagnosis after blood cultures; the source says TTE is not done for endocarditis.",
@@ -2740,7 +2784,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0213",
+    "id": "s2surg-0217",
     "category": "Surg Cardio",
     "q": "Empiric endocarditis treatment for 2CK per p27?",
     "a": "Vancomycin PLUS either gentamicin or ampicillin/sulbactam. Vancomycin targets gram-positives (including MRSA); gentamicin targets gram-negatives.",
@@ -2755,7 +2799,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0214",
+    "id": "s2surg-0218",
     "category": "Surg Cardio",
     "q": "Dental endocarditis prophylaxis drug per p27?",
     "a": "Ampicillin or a second-generation cephalosporin such as cefoxitin.",
@@ -2770,7 +2814,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0215",
+    "id": "s2surg-0219",
     "category": "Surg Cardio",
     "q": "Endocarditis prophylaxis indication 4 per p27?",
     "a": "History of heart transplant with valvular regurgitation of any kind.",
@@ -2785,7 +2829,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0216",
+    "id": "s2surg-0220",
     "category": "Surg Cardio",
     "q": "Highest yield point on endocarditis prophylaxis per p27?",
     "a": "MVP, valve regurgitations or stenoses are not indications: no prophylaxis for MVP, MR, AS, etc. Bicuspid aortic valve is also not an indication.",
@@ -2796,7 +2840,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0217",
+    "id": "s2surg-0221",
     "category": "Surg Cardio",
     "q": "Panic attack vs MI per p27?",
     "a": "NBME loves to make you think MI: young healthy patient with doom/impending death, sometimes family history of MI as distraction, sometimes a mid-systolic click with the cause of symptoms being panic disorder, not MVP (almost always asymptomatic). Treat with a benzodiazepine.",
@@ -2807,7 +2851,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0218",
+    "id": "s2surg-0222",
     "category": "Surg Cardio",
     "q": "Vasovagal syncope per p27?",
     "a": "Fainting in response to a stressor. Stress triggers a sympathetic response, then an excessive compensatory parasympathetic response: arterioles dilate and heart slows, decreasing cerebral perfusion. 2CK: tilt-table test can diagnose by reproducing symptoms. USMLE likes this for Steps 1 and 2.",
@@ -2822,7 +2866,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0219",
+    "id": "s2surg-0223",
     "category": "Surg Cardio",
     "q": "Carotid sinus hypersensitivity per p27?",
     "a": "Patient shaving then lightheaded or fainted. Mechanism: increased stretch of carotid sinus baroreceptors, increased afferent CN IX to the solitary nucleus, increased efferent CN X parasympathetic firing to cardiac nodal tissue, decreased HR, CO and cerebral perfusion.",
@@ -2837,7 +2881,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0220",
+    "id": "s2surg-0224",
     "category": "Surg Cardio",
     "q": "Pleurodynia per p28?",
     "a": "An MSK condition asked twice on 2CK material with nothing to do with the lungs despite the name. Viral infection (Coxsackie B) causing sharp lateral chest pain from intercostal muscle spasm. Creatine kinase can be elevated from increased muscle tone. Students sometimes choose pericarditis.",
@@ -2852,7 +2896,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0221",
+    "id": "s2surg-0225",
     "category": "Surg Cardio",
     "q": "Viral pleurisy per p28?",
     "a": "Viral inflammation of the pleura causing sharp chest pain; if this is the answer, CK is normal (unlike pleurodynia, which is MSK).",
@@ -2863,7 +2907,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0222",
+    "id": "s2surg-0226",
     "category": "Surg Cardio",
     "q": "Diffuse esophageal spasm per p28?",
     "a": "Can cause angina-like pain in a patient without cardiovascular disease (covered in the Gastro section).",
@@ -2874,7 +2918,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0223",
+    "id": "s2surg-0227",
     "category": "Surg Cardio",
     "q": "GERD as chest pain per p28?",
     "a": "Can present as chest pain confused for MI; ECG will be normal (covered in the Gastro section).",
@@ -2885,7 +2929,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0224",
+    "id": "s2surg-0228",
     "category": "Surg Cardio",
     "q": "Arterial disease presentation per p28?",
     "a": "Atherosclerotic disease with diminished peripheral pulses in a patient over 50 with risk factors (diabetes, smoking, HTN). Lower legs can be shiny and glabrous (trophic changes).",
@@ -2896,7 +2940,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0225",
+    "id": "s2surg-0229",
     "category": "Surg Cardio",
     "q": "First step in diagnosis of peripheral arterial disease per p28?",
     "a": "Ankle-brachial index (exceedingly HY on 2CK): ankle BP compared with arm; <0.9 reflects decreased peripheral blood flow from atherosclerosis. If ABI is not listed, choose Doppler ultrasound (one 2CK NBME Q).",
@@ -2911,7 +2955,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0226",
+    "id": "s2surg-0230",
     "category": "Surg Cardio",
     "q": "After ABI in PAD per p28?",
     "a": "Exercise stress test if listed (to determine exercise tolerance); if not, 'recommend an exercise/walking program'. Do not choose cilostazol first or arteriography. One NBME form has 'prescription for an exercise program' as the answer.",
@@ -2926,7 +2970,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0227",
+    "id": "s2surg-0231",
     "category": "Surg Cardio",
     "q": "Surgery for peripheral arterial disease per p28?",
     "a": "Indicated in critical limb ischemia: chronic ischemic rest pain, ulcers or gangrene. First surgical intervention is usually angioplasty +/- stenting; endarterectomy and bypass for more severe blockages.",
@@ -2941,7 +2985,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0228",
+    "id": "s2surg-0232",
     "category": "Surg Cardio",
     "q": "Lateral chest pain after viral infection + increased CK per p28?",
     "a": "Pleurodynia (intercostal muscle spasm).",
@@ -2952,7 +2996,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0229",
+    "id": "s2surg-0233",
     "category": "Surg Cardio",
     "q": "Drug triad in all patients with arterial disease per p29?",
     "a": "1) ACEi/ARB, 2) statin, 3) antiplatelet therapy (same as carotid stenosis), unrelated to the sequence exercise program, cilostazol, surgery.",
@@ -2963,7 +3007,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0230",
+    "id": "s2surg-0234",
     "category": "Surg Cardio",
     "q": "Venous disease definition per p29?",
     "a": "Congestion of the venous system usually from valvular incompetence; idiopathic/familial. Varicose veins are one type and not synonymous; patients can have venous disease without varicosities. Peripheral pulses are normal.",
@@ -2978,7 +3022,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0231",
+    "id": "s2surg-0235",
     "category": "Surg Cardio",
     "q": "Diagnosis and first treatment of venous disease per p29?",
     "a": "Venous duplex ultrasonography of the legs; first treatment is compression stockings. Never choose venous stripping or glue agents.",
@@ -2993,7 +3037,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0232",
+    "id": "s2surg-0236",
     "category": "Surg Cardio",
     "q": "Venous disease with active DVT or superficial thrombophlebitis per p29?",
     "a": "Venous disease increases risk of DVT and superficial thrombophlebitis; if active, answer subcutaneous enoxaparin over compression stockings.",
@@ -3008,7 +3052,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0233",
+    "id": "s2surg-0237",
     "category": "Surg Cardio",
     "q": "Surgery in venous disease per p29?",
     "a": "Indicated for significant skin changes, venous ulcers or symptomatic varicose veins (pain, itching, swelling, cramps). Sclerotherapy (injecting a sclerosing agent so the vein closes and blood reroutes) is often the first procedure, but basically always the answer is compression stockings, or rarely heparin for DVT/STP.",
@@ -3019,7 +3063,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0234",
+    "id": "s2surg-0238",
     "category": "Surg Cardio",
     "q": "Cardiac stress test questions per p29?",
     "a": "Most 2CK Qs are about perioperative MI risk. Rare to choose between types: 4/5 Qs list just one stress test, testing whether you know a stress test should be done. Also done for peripheral arterial disease before recommending an exercise/walking program.",
@@ -3034,7 +3078,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0235",
+    "id": "s2surg-0239",
     "category": "Surg Cardio",
     "q": "Exercise ECG per p29?",
     "a": "Most common stress test; the answer for stable angina when looking for ST depressions (evidence of ischemia) with exertion.",
@@ -3045,7 +3089,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0236",
+    "id": "s2surg-0240",
     "category": "Surg Cardio",
     "q": "Exercise ECG requirement per p29?",
     "a": "Requires a normal baseline ECG. A long stem that mentions in the last line a baseline LBBB from a year ago means the ECG stress test is wrong.",
@@ -3060,7 +3104,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0237",
+    "id": "s2surg-0241",
     "category": "Surg Cardio",
     "q": "Treatment of venous insufficiency and varicose veins per p29?",
     "a": "Compression stockings. Varicose veins are one presentation of venous insufficiency.",
@@ -3071,7 +3115,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0238",
+    "id": "s2surg-0242",
     "category": "Surg Cardio",
     "q": "47F varicose veins + painful palpable cord by the ankle per p29?",
     "a": "Superficial thrombophlebitis: subcutaneous enoxaparin (not compression stockings).",
@@ -3082,7 +3126,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0239",
+    "id": "s2surg-0243",
     "category": "Surg Cardio",
     "q": "Exercise ECG baseline problem and the 1/5 stress test Qs per p30?",
     "a": "The 1/5 Qs that force a choice between stress tests want you to know exercise ECG needs a normal baseline ECG: choose the non-ECG stress test instead.",
@@ -3093,7 +3137,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0240",
+    "id": "s2surg-0244",
     "category": "Surg Cardio",
     "q": "Exercise echo per p30?",
     "a": "Used to look for heart failure (decreased EF) with exertion, not overt ischemia. The answer for patients with shortness of breath rather than chest pain on exertion (not stable angina), reflecting left heart decompensation with possible decreased EF. Also the answer for patients with abnormal baseline ECG.",
@@ -3108,7 +3152,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0241",
+    "id": "s2surg-0245",
     "category": "Surg Cardio",
     "q": "Pharmacologic stress test per p30?",
     "a": "Refers to many answer choices (dobutamine-echo, dipyridamole-thallium). The answer for patients who cannot exercise, such as angina when walking up a single flight of stairs, or patients about to undergo major surgery (e.g., AAA repair) where perioperative MI risk needs assessment. USMLE will usually list only one.",
@@ -3119,7 +3163,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0242",
+    "id": "s2surg-0246",
     "category": "Surg Cardio",
     "q": "Cardiac scintigraphy per p30?",
     "a": "Broad term for any heart evaluation using a radiotracer (thallium, technetium, sestamibi). On USMLE it is the same as a pharmacologic stress test for all intents and purposes (technically it can be done at rest). Choose it if the patient cannot exercise.",
@@ -3130,7 +3174,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0243",
+    "id": "s2surg-0247",
     "category": "Surg Cardio",
     "q": "Myocardial perfusion scan per p30?",
     "a": "One type of cardiac scintigraphy evaluating blood flow to myocardium; non-invasive, whereas coronary angiography is invasive (catheter). Interchangeable with cardiac scintigraphy and pharmacologic stress test on USMLE.",
@@ -3141,7 +3185,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0244",
+    "id": "s2surg-0248",
     "category": "Surg Cardio",
     "q": "MVA with a knee injury and absent distal pulses per p30?",
     "a": "Knee relocation first, followed by arteriography to look for popliteal artery injury. If the knee is already relocated: 'arteriography with runoff' (2CK).",
@@ -3156,7 +3200,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0245",
+    "id": "s2surg-0249",
     "category": "Surg Cardio",
     "q": "Gunshot wound to the knee with absent distal pulses per p30?",
     "a": "Go straight to surgical exploration: the knee equivalent of a gunshot wound to the abdomen going straight to laparotomy (even if stable).",
@@ -3167,7 +3211,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0246",
+    "id": "s2surg-0250",
     "category": "Surg Cardio",
     "q": "Abnormal baseline ECG (e.g., BBB) before stress testing per p30?",
     "a": "Echo stress test instead.",
@@ -3178,7 +3222,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0247",
+    "id": "s2surg-0251",
     "category": "Surg Cardio",
     "q": "Patient who cannot exercise per p30?",
     "a": "Dobutamine-echo stress test.",
@@ -3189,7 +3233,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0248",
+    "id": "s2surg-0252",
     "category": "Surg Cardio",
     "q": "Takayasu arteritis per p31?",
     "a": "'Pulseless disease'; classically Asian women in their 40s or younger. Inflammation of large vessels including the aorta; always affects the subclavian arteries, hence weak or non-palpable upper extremity pulses.",
@@ -3204,7 +3248,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0249",
+    "id": "s2surg-0253",
     "category": "Surg Cardio",
     "q": "Temporal arteritis per p31?",
     "a": "Aka giant cell arteritis. 9/10 Qs are painful unilateral headache in a patient over 50 (once bilateral on an NBME). Flares can have low-grade fever and high ESR.",
@@ -3219,7 +3263,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0250",
+    "id": "s2surg-0254",
     "category": "Surg Cardio",
     "q": "Temporal arteritis and PMR per p31?",
     "a": "Patients can get proximal muscle pain and stiffness: polymyalgia rheumatica (PMR). They do not always go together, but the association is HY. PMR has no raised CK and no proximal muscle weakness on exam (unlike polymyositis).",
@@ -3234,7 +3278,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0251",
+    "id": "s2surg-0255",
     "category": "Surg Cardio",
     "q": "Jaw claudication per p31?",
     "a": "Pain with chewing (temporal arteritis).",
@@ -3245,7 +3289,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0252",
+    "id": "s2surg-0256",
     "category": "Surg Cardio",
     "q": "Highest yield point of temporal arteritis treatment per p31?",
     "a": "Give steroids before biopsy to prevent blindness. An NBME has 'ischemic optic neuropathy' as the complication prevented. IV methylprednisolone is typically given since it is faster than oral prednisone.",
@@ -3260,7 +3304,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0253",
+    "id": "s2surg-0257",
     "category": "Surg Cardio",
     "q": "Steroid and biopsy timing answers on 2CK per p31?",
     "a": "Scattered answers such as 'steroids now and then biopsy within 3 days' or 'IV methylprednisolone and biopsy within a week'; USMLE gives varied time frames.",
@@ -3271,7 +3315,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0254",
+    "id": "s2surg-0258",
     "category": "Surg Cardio",
     "q": "Temporal arteritis and polymyalgia rheumatica per p31?",
     "a": "Patients can get proximal muscle pain and stiffness (polymyalgia rheumatica, PMR). The two do not always go together, but the association is high yield. Do not confuse PMR with polymyositis: polymyositis has increased CK and/or proximal muscle weakness on exam; PMR has neither.",
@@ -3282,7 +3326,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0255",
+    "id": "s2surg-0259",
     "category": "Surg Cardio",
     "q": "Temporal arteritis: jaw claudication per p31?",
     "a": "Patients can get pain with chewing (jaw claudication).",
@@ -3293,7 +3337,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0256",
+    "id": "s2surg-0260",
     "category": "Surg Cardio",
     "q": "Temporal arteritis: steroids before biopsy per p31?",
     "a": "Highest-yield point: give steroids before biopsy to prevent blindness. An NBME has 'ischemic optic neuropathy' as the complication being prevented.",
@@ -3308,7 +3352,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0257",
+    "id": "s2surg-0261",
     "category": "Surg Cardio",
     "q": "Temporal arteritis: which steroid per p31?",
     "a": "IV methylprednisolone is typically the steroid given, since it is faster than oral prednisone.",
@@ -3323,7 +3367,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0258",
+    "id": "s2surg-0262",
     "category": "Surg Cardio",
     "q": "Temporal arteritis: biopsy timing answers per p31?",
     "a": "The source observes many 2CK NBME questions give answers like 'steroids now and then biopsy within 3 days' or 'IV methylprednisolone and biopsy within a week'. Students ask about time frames, but USMLE gives scattered answers.",
@@ -3334,7 +3378,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0259",
+    "id": "s2surg-0263",
     "category": "Surg Cardio",
     "q": "65F unilateral temporal headache + muscle pain/stiffness per p31?",
     "a": "Temporal arteritis + polymyalgia rheumatica.",
@@ -3345,7 +3389,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0260",
+    "id": "s2surg-0264",
     "category": "Surg Cardio",
     "q": "Thromboangiitis obliterans per p32?",
     "a": "Aka Buerger disease; technically a vasculitis. Dry gangrene of fingers or toes, generally in a male over 30 who is a heavy smoker. Treatment is smoking cessation. Do not confuse with Berger disease (IgA nephropathy).",
@@ -3360,7 +3404,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0261",
+    "id": "s2surg-0265",
     "category": "Surg Cardio",
     "q": "Ascending aortitis per p32?",
     "a": "Tertiary syphilis can cause ascending aortitis + aortic aneurysm, with 'tree-barking' of the aorta.",
@@ -3375,7 +3419,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0262",
+    "id": "s2surg-0266",
     "category": "Surg Cardio",
     "q": "DVT presentation and risk factors per p32?",
     "a": "Unilateral thigh or lower leg swelling with risk factors such as post-surgery, prolonged sedentation, OCP use, history of thrombotic disorders (Factor V Leiden, prothrombin mutation).",
@@ -3390,7 +3434,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0263",
+    "id": "s2surg-0267",
     "category": "Surg Cardio",
     "q": "Virchow triad per p32?",
     "a": "1) Venous stasis (post-surgery sedentation), 2) hypercoagulable state (estrogen use, malignancy), 3) endothelial damage (smoking).",
@@ -3405,7 +3449,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0264",
+    "id": "s2surg-0268",
     "category": "Surg Cardio",
     "q": "OCPs in smokers over 35 per p32?",
     "a": "Contraindicated because estrogen causes a hypercoagulable state: 1) upregulates fibrinogen; 2) upregulates factors Va and VIIIa.",
@@ -3420,7 +3464,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0265",
+    "id": "s2surg-0269",
     "category": "Surg Cardio",
     "q": "Nephrotic syndrome and DVT per p32?",
     "a": "USMLE loves it as a cause of DVT: loss of antithrombin III in the urine causes a hypercoagulable state.",
@@ -3431,7 +3475,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0266",
+    "id": "s2surg-0270",
     "category": "Surg Cardio",
     "q": "Antiphospholipid syndrome per p32?",
     "a": "DVTs despite a paradoxically high PTT. May or may not be due to SLE. Antibodies against phospholipids cause in vivo platelet clumping and increased clot initiation, but disrupt the in vitro PTT assay, giving a high PTT.",
@@ -3446,7 +3490,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0267",
+    "id": "s2surg-0271",
     "category": "Surg Cardio",
     "q": "DVT major danger and exam sign per p32?",
     "a": "DVT can embolize to the lungs causing PE (acute shortness of breath and tachycardia; death with a saddle embolus). Homan sign (calf pain with dorsiflexion of the foot) can mean DVT.",
@@ -3461,7 +3505,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0268",
+    "id": "s2surg-0272",
     "category": "Surg Cardio",
     "q": "DVT diagnosis and treatment per p32?",
     "a": "Duplex venous ultrasound of the leg/calf; treatment is heparin.",
@@ -3476,7 +3520,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0269",
+    "id": "s2surg-0273",
     "category": "Surg Cardio",
     "q": "Prophylactic vs therapeutic heparin per p32?",
     "a": "2CK cares: prophylactic dose is lower, used perioperatively in patients with venous disease/stasis or high risk; for full-blown DVT give the therapeutic (higher) dose.",
@@ -3487,7 +3531,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0270",
+    "id": "s2surg-0274",
     "category": "Surg Cardio",
     "q": "2CK heparin dose questions per p32?",
     "a": "1) A man going to surgery with a history of venous stasis: 'prophylactic heparin dose'; therapeutic dose is wrong. 2) A man already on prophylactic heparin who gets a DVT: 'heparin', meaning a therapeutic (higher) dose now for the active DVT.",
@@ -3498,7 +3542,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0271",
+    "id": "s2surg-0275",
     "category": "Surg Cardio",
     "q": "DVT and stroke per p32?",
     "a": "DVT can rarely cause stroke if an ASD is present (paradoxical embolus). Low yield, but shows up.",
@@ -3509,7 +3553,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0272",
+    "id": "s2surg-0276",
     "category": "Surg Cardio",
     "q": "Post-op migratory thrombophlebitis per p32?",
     "a": "Thrombophlebitis means inflammation of a vein. Post-surgery it is usually due to changes in hemostasis and coagulability: pink/red painful lesions appearing asymmetrically on the limbs within days of surgery.",
@@ -3520,7 +3564,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0273",
+    "id": "s2surg-0277",
     "category": "Surg Cardio",
     "q": "Trousseau sign of malignancy per p32?",
     "a": "Migratory thrombophlebitis, classically due to head of pancreas adenocarcinoma, but can be seen with adenocarcinomas in general (e.g., pulmonary).",
@@ -3531,7 +3575,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0274",
+    "id": "s2surg-0278",
     "category": "Surg Cardio",
     "q": "Catheter-associated septic thrombophlebitis per p32?",
     "a": "2CK form: patient who had a catheter in develops a 4-cm indurated, painful, fluctuant cord in the arm (a vein). Answer: excision of vein.",
@@ -3546,7 +3590,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0275",
+    "id": "s2surg-0279",
     "category": "Surg Cardio",
     "q": "Pelvic septic thrombophlebitis per p33?",
     "a": "Postpartum endometritis (fever + tender lower abdomen) with persistent fever >48 hours despite antibiotics; endometritis raises risk of local infective clots in the ovarian veins.",
@@ -3561,7 +3605,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0276",
+    "id": "s2surg-0280",
     "category": "Surg Cardio",
     "q": "Postpartum sepsis not fitting pelvic septic thrombophlebitis per p33?",
     "a": "The 2CK answer is 'puerperal sepsis', a more general term that can include many causes (including PST).",
@@ -3576,7 +3620,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0277",
+    "id": "s2surg-0281",
     "category": "Surg Cardio",
     "q": "Superficial thrombophlebitis per p33?",
     "a": "Painful palpable cord in the ankle that may or may not track up to the knee, in patients with venous insufficiency. Answer: subcutaneous enoxaparin; compression stockings are the first step in venous insufficiency, but active ST or DVT needs heparin as first step.",
@@ -3587,7 +3631,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0278",
+    "id": "s2surg-0282",
     "category": "Surg Cardio",
     "q": "Verapamil per p33?",
     "a": "Non-dihydropyridine calcium channel blocker (acts on nodal calcium channels). Causes constipation. Sometimes used for AF rate control in place of metoprolol; USMLE only wants MOA and side effect.",
@@ -3602,7 +3646,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0279",
+    "id": "s2surg-0283",
     "category": "Surg Cardio",
     "q": "Nifedipine per p33?",
     "a": "Dihydropyridine calcium channel blocker (acts on arteriolar calcium channels, dilates arterioles, decreases peripheral vascular resistance and BP). Causes peripheral edema/fluid retention (HY on Family Med). Used for essential HTN in patients without diabetes, atherosclerotic disease or renal disease.",
@@ -3613,7 +3657,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0280",
+    "id": "s2surg-0284",
     "category": "Surg Cardio",
     "q": "Beta-blockers in heart failure and adverse effects per p33?",
     "a": "In heart failure, beta-blocker is given after ACEi/ARB (choose ACEi or ARB first). Metoprolol is used for rate control in AF. Beta-blockers can cause depression and sexual dysfunction; avoid in lung disease or severe/psychotic depression.",
@@ -3628,7 +3672,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0281",
+    "id": "s2surg-0285",
     "category": "Surg Cardio",
     "q": "Amiodarone per p33?",
     "a": "Potassium channel blocker. Can cause TdP, greyish skin discoloration and thyroiditis. Used for VT in patients without coma or low BP.",
@@ -3643,7 +3687,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0282",
+    "id": "s2surg-0286",
     "category": "Surg Cardio",
     "q": "Quinidine per p33?",
     "a": "Sodium channel blocker. Can cause TdP and cinchonism (headache + tinnitus).",
@@ -3658,7 +3702,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0283",
+    "id": "s2surg-0287",
     "category": "Surg Cardio",
     "q": "Digoxin mechanism per p33?",
     "a": "Directly blocks the myocardial Na+/K+ ATPase pump, causing indirect inactivation of the myocardial Na+/Ca2+ exchange (source says ATPase) so more Ca2+ stays in the cell: increased contractility. Also parasympathomimetic at nodal tissue, slowing HR. It both slows HR and increases contractility.",
@@ -3673,7 +3717,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0284",
+    "id": "s2surg-0288",
     "category": "Surg Cardio",
     "q": "Why hypokalemia causes digoxin toxicity per p33?",
     "a": "Digoxin binds the extracellular K+ binding site, so with less K+ competing a lower dose is needed to induce the effect.",
@@ -3688,7 +3732,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0285",
+    "id": "s2surg-0289",
     "category": "Surg Cardio",
     "q": "Classic digoxin toxicity vision per p33?",
     "a": "Yellow/wavy 'Vincent van Gogh' vision.",
@@ -3699,7 +3743,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0286",
+    "id": "s2surg-0290",
     "category": "Surg Cardio",
     "q": "Lisinopril per p33?",
     "a": "USMLE-favorite ACE inhibitor. Prevents conversion of AT-I into AT-II in the lungs. Used for HTN in patients with pre-diabetes, diabetes, atherosclerotic disease or renal disease.",
@@ -3710,7 +3754,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0287",
+    "id": "s2surg-0291",
     "category": "Surg Cardio",
     "q": "Punched-out foot ulcer + intermittent claudication per p33?",
     "a": "Arterial insufficiency (peripheral vascular disease).",
@@ -3721,7 +3765,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0288",
+    "id": "s2surg-0292",
     "category": "Surg Cardio",
     "q": "Statin mechanisms per p34?",
     "a": "1) Inhibit HMG-CoA reductase; 2) upregulate LDL receptors on hepatocytes.",
@@ -3736,7 +3780,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0289",
+    "id": "s2surg-0293",
     "category": "Surg Cardio",
     "q": "Valsartan per p34?",
     "a": "ARB. Use-cases are identical to ACEi on USMLE (if both are answer choices they are usually both wrong since the same). Does not cause dry cough like ACEi.",
@@ -3747,7 +3791,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0290",
+    "id": "s2surg-0294",
     "category": "Surg Cardio",
     "q": "Alpha-1 agonists oxymetazoline and phenylephrine per p34?",
     "a": "Constrict arterioles, raising BP, with reflex decrease in HR. Highest-yield use is nasal decongestion (constrict nasal mucosal capillaries). Can cause rhinitis medicamentosa (rebound congestion upon withdrawal) if used non-stop for about 5 days; use only as needed for max ~3-4 days.",
@@ -3762,7 +3806,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0291",
+    "id": "s2surg-0295",
     "category": "Surg Cardio",
     "q": "Isoproterenol per p34?",
     "a": "Beta-1/2 agonist: increases HR and decreases peripheral vascular resistance.",
@@ -3773,7 +3817,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0292",
+    "id": "s2surg-0296",
     "category": "Surg Cardio",
     "q": "Hydralazine per p34?",
     "a": "Dilates arterioles: decreased BP, HR goes up to compensate. Used for hypertensive emergencies in pregnancy. Affects calcium currents (but is not a calcium channel blocker).",
@@ -3784,7 +3828,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0293",
+    "id": "s2surg-0297",
     "category": "Surg Cardio",
     "q": "Statins adverse effects per p34?",
     "a": "Myopathy and toxic hepatitis. An offline NBME has myopathy as correct over toxic hepatitis. (MOAs: inhibit HMG-CoA reductase; upregulate LDL receptors.)",
@@ -3795,7 +3839,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0294",
+    "id": "s2surg-0298",
     "category": "Surg Cardio",
     "q": "Statin LDL cutoff 100 vs 70 per p34?",
     "a": "Some sources use 70 instead of 100 for the latter two cutoffs; the source has seen 2CK NBME Qs using 100 (LDL of 95 and statin is wrong, implying satisfactory LDL). CVD risk >7.5% is a moot point; one 2CK Q shows risk in the stem but does not depend on it.",
@@ -3810,7 +3854,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0295",
+    "id": "s2surg-0299",
     "category": "Surg Cardio",
     "q": "Fibrates per p34?",
     "a": "Fenofibrate; upregulate PPAR-alpha and lipoprotein lipase; best drugs to decrease triglycerides; give if TG >300 mg/dL. Can cause myopathy, hepatotoxicity and cholesterol gallstones.",
@@ -3825,7 +3869,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0296",
+    "id": "s2surg-0300",
     "category": "Surg Cardio",
     "q": "Why statins + fibrates raise myopathy risk per p34?",
     "a": "'P-450 interaction' per the source.",
@@ -3836,7 +3880,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0297",
+    "id": "s2surg-0301",
     "category": "Surg Cardio",
     "q": "Cholestyramine per p34?",
     "a": "Bile acid sequestrant; decreases LDL; does not decrease mortality. Reduces enterohepatic circulation of bile acids at the terminal ileum, so the liver converts more cholesterol into bile acids, pulling cholesterol out of the blood.",
@@ -3847,7 +3891,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0298",
+    "id": "s2surg-0302",
     "category": "Surg Cardio",
     "q": "Orlistat per p34?",
     "a": "Pancreatic lipase inhibitor used for obesity; can cause steatorrhea.",
@@ -3858,7 +3902,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0299",
+    "id": "s2surg-0303",
     "category": "Surg Cardio",
     "q": "Niacin MOAs per p34?",
     "a": "Vitamin B3: 1) decreases VLDL export by the liver; 2) increases HDL more than any other medication.",
@@ -3869,7 +3913,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0300",
+    "id": "s2surg-0304",
     "category": "Surg Cardio",
     "q": "Niacin adverse effects per p34?",
     "a": "Flushing (caused by prostaglandin, so mitigated by aspirin), gout and insulin resistance.",
@@ -3884,7 +3928,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0301",
+    "id": "s2surg-0305",
     "category": "Surg Cardio",
     "q": "Niacin deficiency per p34?",
     "a": "Pellagra: 3Ds: dementia, dermatitis, diarrhea. May present as delirium instead of overt dementia (underlying dementia is the biggest risk factor for delirium). Dermatitis appears as forearm hyperpigmentation or Casal necklace.",
@@ -3895,7 +3939,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0302",
+    "id": "s2surg-0306",
     "category": "Surg Cardio",
     "q": "Cholestyramine per p34?",
     "a": "Bile acid sequestrant. Reduces enterohepatic circulation of bile acids at the terminal ileum; the liver converts more cholesterol into bile acids and pulls cholesterol out of the blood.",
@@ -3910,7 +3954,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0303",
+    "id": "s2surg-0307",
     "category": "Surg Cardio",
     "q": "Orlistat per p34?",
     "a": "Pancreatic lipase inhibitor for obesity; can cause steatorrhea.",
@@ -3925,7 +3969,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0304",
+    "id": "s2surg-0308",
     "category": "Surg Cardio",
     "q": "Procainamide per p35?",
     "a": "Sodium channel blocker that can be used in Wolff-Parkinson-White. Can cause drug-induced lupus with anti-histone antibodies.",
@@ -3940,7 +3984,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0305",
+    "id": "s2surg-0309",
     "category": "Surg Cardio",
     "q": "Flecainide per p35?",
     "a": "Na+ channel blocker used as first-line rhythm control in patients who fail rate control for AF; patient should have no structural or coronary artery disease, otherwise use a potassium channel blocker like amiodarone or dofetilide.",
@@ -3955,7 +3999,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0306",
+    "id": "s2surg-0310",
     "category": "Surg Cardio",
     "q": "Dofetilide and ibutilide per p35?",
     "a": "Potassium channel blockers; can cause torsades (asked on NBME).",
@@ -3966,7 +4010,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0307",
+    "id": "s2surg-0311",
     "category": "Surg Cardio",
     "q": "Post-op pain, max morphine, elevated BP per p35?",
     "a": "2CK answer: increase bolus of morphine; pain can raise BP, and we always fully treat pain. Treating pain can bring BP down.",
@@ -3977,7 +4021,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0308",
+    "id": "s2surg-0312",
     "category": "Surg Cardio",
     "q": "Morphine in treatment per p35?",
     "a": "Treatment of MI, acute limb ischemia and sickle crisis usually includes oxygen + morphine.",
@@ -3988,7 +4032,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0309",
+    "id": "s2surg-0313",
     "category": "Surg Cardio",
     "q": "Morphine overdose with a self-administering pump per p35?",
     "a": "NBME answer: morphine is converted into active metabolites that accumulate.",
@@ -3999,7 +4043,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0310",
+    "id": "s2surg-0314",
     "category": "Surg Pulmonary",
     "q": "HY obstructive and restrictive conditions per p36?",
     "a": "Obstructive: asthma, COPD (chronic bronchitis + emphysema), old age (healthy person age 70 vs 20). Restrictive: pulmonary fibrosis due to any cause (idiopathic, radiation, drugs, autoimmune disease) and pneumoconioses.",
@@ -4010,7 +4054,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0311",
+    "id": "s2surg-0315",
     "category": "Surg Pulmonary",
     "q": "DLCO in obstructive versus restrictive per p36?",
     "a": "Obstructive: decreased (but increased in asthma on USMLE). Restrictive: decreased (normal if neuromuscular).",
@@ -4021,7 +4065,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0312",
+    "id": "s2surg-0316",
     "category": "Surg Pulmonary",
     "q": "Why FEV1/FVC is increased/normal in restrictive per p36?",
     "a": "Radial traction: a 'stickiness' on the outside of the airways (such as from fibrosis) that prevents them from closing as rapidly as in obstructive disease.",
@@ -4036,7 +4080,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0313",
+    "id": "s2surg-0317",
     "category": "Surg Pulmonary",
     "q": "Inspiratory capacity and inspiratory reserve volume per p37?",
     "a": "IC: maximum air that can be inhaled after a normal exhalation. IRV: additional air that can be inhaled after a normal inhalation.",
@@ -4047,7 +4091,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0314",
+    "id": "s2surg-0318",
     "category": "Surg Pulmonary",
     "q": "Expiratory reserve volume, FRC and residual volume per p37?",
     "a": "ERV: additional air that can be exhaled after a normal exhalation. FRC: volume remaining in the lungs after a normal exhalation. RV: volume remaining after a maximal exhalation.",
@@ -4058,7 +4102,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0315",
+    "id": "s2surg-0319",
     "category": "Surg Pulmonary",
     "q": "Small cell carcinoma location and risk factor per p38?",
     "a": "Occurs centrally in the lung (hilar/medial); smoking is the biggest risk factor.",
@@ -4069,7 +4113,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0316",
+    "id": "s2surg-0320",
     "category": "Surg Pulmonary",
     "q": "Paraneoplastic syndromes of small cell carcinoma per p38?",
     "a": "SIADH (ADH secretion); Cushing syndrome from ACTH; Lambert-Eaton syndrome (antibodies against presynaptic voltage-gated calcium channels); cerebellar dysfunction/ataxia (anti-Hu/anti-Yo antibodies).",
@@ -4084,7 +4128,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0317",
+    "id": "s2surg-0321",
     "category": "Surg Pulmonary",
     "q": "Treatment of small cell carcinoma on 2CK per p38?",
     "a": "Chemotherapy; do not do surgery. The source believes it is the only time it has seen straight 'chemotherapy' as the correct NBME answer.",
@@ -4099,7 +4143,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0318",
+    "id": "s2surg-0322",
     "category": "Surg Pulmonary",
     "q": "Squamous cell carcinoma location per p38?",
     "a": "Like small cell, occurs centrally (hilar/medial); smoking is the biggest risk factor. The two cancers that start with an 'ssss' sound (small cell and squamous cell) are central.",
@@ -4110,7 +4154,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0319",
+    "id": "s2surg-0323",
     "category": "Surg Pulmonary",
     "q": "Highest yield point of squamous cell carcinoma per p38?",
     "a": "It secretes PTHrP, which acts like PTH (increases calcium, decreases phosphate) but is not PTH. Endogenous PTH is suppressed by negative feedback from high calcium: choose a down arrow for PTH.",
@@ -4125,7 +4169,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0320",
+    "id": "s2surg-0324",
     "category": "Surg Pulmonary",
     "q": "Adenocarcinoma per p38?",
     "a": "Cancer of glands: biopsy with glandular morphology. The answer for lung cancer in a non-smoker (classically female non-smokers, but NBME Qs have men).",
@@ -4136,7 +4180,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0321",
+    "id": "s2surg-0325",
     "category": "Surg Pulmonary",
     "q": "Radon and lung cancer in non-smokers per p38?",
     "a": "Ground radiation from radon is an accepted cause of lung cancer in non-smokers; an NBME Q has a non-smoker living in a basement who develops lung cancer. The source thinks the correlation is probably nonsense in real life.",
@@ -4151,7 +4195,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0322",
+    "id": "s2surg-0326",
     "category": "Surg Pulmonary",
     "q": "Adenocarcinoma location per p38?",
     "a": "Does not occur centrally on NBME, unlike small cell and squamous; described as apical or peripheral lung lesions in non-smokers.",
@@ -4162,7 +4206,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0323",
+    "id": "s2surg-0327",
     "category": "Surg Pulmonary",
     "q": "Brachiocephalic syndrome and Pemberton sign per p38?",
     "a": "Brachiocephalic syndrome: only the right side of the face/neck affected, due to impingement on venous return. A positive Pemberton sign is worsening of flushing and neck vein congestion when raising the arms above the head.",
@@ -4177,7 +4221,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0324",
+    "id": "s2surg-0328",
     "category": "Surg Pulmonary",
     "q": "Lung cancer and migratory thrombophlebitis per p38?",
     "a": "Can be associated with Trousseau sign of malignancy; not limited to head-of-pancreas cancer. Adenocarcinomas in general are associated with a hypercoagulable state; USMLE will not ask the mechanism, but tissue factor (factor III) liberation is a proposed etiology.",
@@ -4188,7 +4232,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0325",
+    "id": "s2surg-0329",
     "category": "Surg Pulmonary",
     "q": "Hypertrophic osteoarthropathy per p38?",
     "a": "Associated with lung cancer: clubbing + hand pain; mechanism is fibrovascular proliferation. Literature says lung adenocarcinoma is the most common cause, though not 100% specific.",
@@ -4203,7 +4247,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0326",
+    "id": "s2surg-0330",
     "category": "Surg Pulmonary",
     "q": "Lung cancer screening criteria on 2CK per p38?",
     "a": "Annual low-dose chest CT if all of: age 50-80, 20-pack-year smoking history, and smoked within the past 15 years.",
@@ -4218,7 +4262,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0327",
+    "id": "s2surg-0331",
     "category": "Surg Pulmonary",
     "q": "Pancreatic cancer paraneoplastic per p38?",
     "a": "Migratory thrombophlebitis (Trousseau sign of malignancy).",
@@ -4233,7 +4277,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0328",
+    "id": "s2surg-0332",
     "category": "Surg Pulmonary",
     "q": "Small cell lung carcinoma paraneoplastic per p38?",
     "a": "Cushing syndrome (ACTH secretion); SIADH (ADH secretion); Lambert-Eaton (antibodies against presynaptic voltage-gated Ca2+ channels); cerebellar dysfunction/ataxia (anti-Hu/anti-Yo antibodies).",
@@ -4248,7 +4292,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0329",
+    "id": "s2surg-0333",
     "category": "Surg Pulmonary",
     "q": "Squamous cell carcinoma of the lung paraneoplastic per p38?",
     "a": "Hypercalcemia/hypophosphatemia from PTHrP secretion. PTHrP is not the same as endogenous PTH, which is suppressed due to negative feedback from high calcium.",
@@ -4259,7 +4303,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0330",
+    "id": "s2surg-0334",
     "category": "Surg Pulmonary",
     "q": "Picture of a cavitating lung cancer per p38?",
     "a": "Squamous cell carcinoma (can cavitate).",
@@ -4270,7 +4314,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0331",
+    "id": "s2surg-0335",
     "category": "Surg Pulmonary",
     "q": "Asbestosis findings per p39?",
     "a": "Pleural or supradiaphragmatic plaques ('soft tissue plaques seen on CXR'); pulmonary biopsy shows ferruginous bodies.",
@@ -4285,7 +4329,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0332",
+    "id": "s2surg-0336",
     "category": "Surg Pulmonary",
     "q": "Nasopharyngeal carcinoma per p39?",
     "a": "Can be caused by EBV; a type of squamous cell carcinoma of the airway.",
@@ -4296,7 +4340,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0333",
+    "id": "s2surg-0337",
     "category": "Surg Pulmonary",
     "q": "Laryngeal cancer per p39?",
     "a": "Squamous cell carcinoma of the vocal cords; smoking is the major risk factor. A new NBME Q wants you to know it spreads to cervical lymph nodes.",
@@ -4307,7 +4351,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0334",
+    "id": "s2surg-0338",
     "category": "Surg Pulmonary",
     "q": "Asbestosis occupational exposure per p39?",
     "a": "Shipyard workers, construction workers and electricians; can give rise to mesothelioma later in life.",
@@ -4318,7 +4362,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0335",
+    "id": "s2surg-0339",
     "category": "Surg Pulmonary",
     "q": "Berylliosis per p39?",
     "a": "Occupational exposure to beryllium in the aerospace/aeronautical industry; restrictive lung pattern; can cause granulomas.",
@@ -4333,7 +4377,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0336",
+    "id": "s2surg-0340",
     "category": "Surg Pulmonary",
     "q": "Silicosis exposure and findings per p39?",
     "a": "Silica (sand) in foundry or stone quarry workers (the source says 'silicon'). Can cause egg-shell calcifications in upper lobes ('egg-shelf' in the source).",
@@ -4348,7 +4392,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0337",
+    "id": "s2surg-0341",
     "category": "Surg Pulmonary",
     "q": "Silicosis and tuberculosis per p39?",
     "a": "Increases risk of TB infection. Avoid anti-TNF-alpha agents (infliximab, adalimumab, etanercept) in these patients due to increased TB risk (TNF-alpha is needed to fight TB).",
@@ -4363,7 +4407,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0338",
+    "id": "s2surg-0342",
     "category": "Surg Pulmonary",
     "q": "Anthracosis per p39?",
     "a": "Aka 'coal miner's lung'; black discoloration of the lung; can be obstructive or restrictive.",
@@ -4374,7 +4418,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0339",
+    "id": "s2surg-0343",
     "category": "Surg Pulmonary",
     "q": "Caplan syndrome per p39?",
     "a": "Rheumatoid arthritis + any pneumoconiosis, presenting as pulmonary nodules. Clinically, patients with RA are at increased risk of pneumoconioses if they have a workplace exposure.",
@@ -4389,7 +4433,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0340",
+    "id": "s2surg-0344",
     "category": "Surg Pulmonary",
     "q": "Physical exam clues in IPF per p40?",
     "a": "Loud P2 (pulmonary hypertension) with dry inspiratory crackles heard bilaterally.",
@@ -4400,7 +4444,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0341",
+    "id": "s2surg-0345",
     "category": "Surg Pulmonary",
     "q": "Atypical IPF vignette per p40?",
     "a": "About 1/10 times: over 50 with increasing fatigue and shortness of breath over 6-12 months and only 1 month of cough, initially sounding like heart failure; CXR says 'interstitial markings' instead of reticular. The stem will still say 'decreased FEV1/FVC showing restrictive pattern' (source wording).",
@@ -4411,7 +4455,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0342",
+    "id": "s2surg-0346",
     "category": "Surg Pulmonary",
     "q": "Usual interstitial pneumonitis per p40?",
     "a": "UIP is another name for idiopathic pulmonary fibrosis. NBME has twice written 'usual interstitial pneumonitis' as the answer instead of IPF. UIP is technically a broader term for many restrictive conditions, but on NBME it is synonymous with IPF.",
@@ -4422,7 +4466,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0343",
+    "id": "s2surg-0347",
     "category": "Surg Pulmonary",
     "q": "Treatment of IPF on 2CK per p41?",
     "a": "Pirfenidone, an anti-fibrotic agent that inhibits TGF-beta-mediated synthesis of collagen.",
@@ -4437,7 +4481,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0344",
+    "id": "s2surg-0348",
     "category": "Surg Pulmonary",
     "q": "What is COPD per p41?",
     "a": "Chronic bronchitis + emphysema. Smokers have a combination of the two. In theory COPD can cover any chronic obstructive disease (asthma, Kartagener), but without a specific condition attached it means the combo of chronic bronchitis and emphysema.",
@@ -4448,7 +4492,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0345",
+    "id": "s2surg-0349",
     "category": "Surg Pulmonary",
     "q": "Home oxygen indications on 2CK per p41?",
     "a": "O2 saturation <88% (55 mm Hg), or <89% (60 mm Hg) if the patient has cor pulmonale.",
@@ -4463,7 +4507,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0346",
+    "id": "s2surg-0350",
     "category": "Surg Pulmonary",
     "q": "First-line COPD drug therapy per p41?",
     "a": "A long-acting muscarinic antagonist (LAMA, e.g., tiotropium) or a long-acting beta-2 agonist (LABA, e.g., olodaterol), alone or combined. If insufficient, add an inhaled corticosteroid (e.g., fluticasone).",
@@ -4478,7 +4522,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0347",
+    "id": "s2surg-0351",
     "category": "Surg Pulmonary",
     "q": "SAMA or SABA as first-line COPD answer per p41?",
     "a": "An earlier NBME had ipratropium (SAMA) as the answer when no other anti-muscarinic or beta-2 agonist was listed. If forced to choose a SAMA or SABA (albuterol) these are OK, but newer guidelines say start with a LAMA or LABA.",
@@ -4489,7 +4533,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0348",
+    "id": "s2surg-0352",
     "category": "Surg Pulmonary",
     "q": "Antibiotics in COPD exacerbation on 2CK per p41?",
     "a": "Exacerbations can be triggered by minor chest infections, so always give antibiotics on 2CK, even though the etiology is usually viral.",
@@ -4504,7 +4548,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0349",
+    "id": "s2surg-0353",
     "category": "Surg Pulmonary",
     "q": "Acid-base status in chronic COPD per p42?",
     "a": "Chronic CO2 retainers: chronic respiratory acidosis (increased CO2 and bicarb; pH can be low or compensated back into normal range).",
@@ -4515,7 +4559,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0350",
+    "id": "s2surg-0354",
     "category": "Surg Pulmonary",
     "q": "Chronic bronchitis definition and Reid index per p42?",
     "a": "Productive cough for at least 3 months in a year for 2+ years. Reid index >0.5 (ratio of bronchial mucous gland thickness to bronchial wall); <0.4 is normal.",
@@ -4530,7 +4574,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0351",
+    "id": "s2surg-0355",
     "category": "Surg Pulmonary",
     "q": "Chronic bronchitis to cor pulmonale per p42?",
     "a": "Hypoxic vasoconstriction causes pulmonary hypertension, raising right ventricular afterload: RV hypertrophy and right heart decompensation. Right heart failure (JVD, peripheral edema) from a pulmonary cause = cor pulmonale. Pulmonary hypertension can cause a loud P2 and tricuspid regurgitation before cor pulmonale occurs.",
@@ -4541,7 +4585,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0352",
+    "id": "s2surg-0356",
     "category": "Surg Pulmonary",
     "q": "Chronic vs acute bronchitis per p42?",
     "a": "Do not confuse: acute bronchitis is a worsening cough, with or without COPD, after a viral infection; temporary airway irritation/inflammation that self-resolves.",
@@ -4552,7 +4596,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0353",
+    "id": "s2surg-0357",
     "category": "Surg Pulmonary",
     "q": "Emphysema and 'pink puffer' per p42?",
     "a": "Emphysema = loss/destruction of alveolar surface area, which also reduces alveolar capillary surface area and gas exchange. 'Pink puffer': gas exchange is impaired, but sudden acute increases in hypoxic vasoconstriction as in chronic bronchitis are not a feature. 'Bullous changes' on CXR are synonymous with emphysema on USMLE.",
@@ -4563,7 +4607,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0354",
+    "id": "s2surg-0358",
     "category": "Surg Pulmonary",
     "q": "Emphysema patterns per p42?",
     "a": "Smokers: centri-acinar (proximal alveolar structure destroyed). Alpha-1-antitrypsin deficiency: pan-acinar (entire alveolus destroyed).",
@@ -4574,7 +4618,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0355",
+    "id": "s2surg-0359",
     "category": "Surg Pulmonary",
     "q": "Alpha-1-antitrypsin deficiency per p42?",
     "a": "Codominant genetic condition causing emphysema and hepatic cirrhosis; ZZ allele combination is worst. A1AT is made in the liver, travels to the lungs and breaks down neutrophil elastase; excess elastase destroys alveoli. Vignette: a young adult with a sibling or parent with early-onset emphysema or cirrhosis.",
@@ -4589,7 +4633,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0356",
+    "id": "s2surg-0360",
     "category": "Surg Pulmonary",
     "q": "Asthma definition per p43?",
     "a": "Bronchospasm that occurs idiopathically/hereditarily, or in response to allergens or cold air.",
@@ -4600,7 +4644,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0357",
+    "id": "s2surg-0361",
     "category": "Surg Pulmonary",
     "q": "Cough-variant asthma per p43?",
     "a": "One-third of patients with asthma only have a dry cough and no breathing problems. Often a dry cough that is worse in the winter.",
@@ -4611,7 +4655,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0358",
+    "id": "s2surg-0362",
     "category": "Surg Pulmonary",
     "q": "Asthma and atopy per p43?",
     "a": "Can present as part of the atopy constellation: dry cough in winter, seasonal allergies/rhinoconjunctivitis/urticaria in spring, eczema in summer.",
@@ -4622,7 +4666,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0359",
+    "id": "s2surg-0363",
     "category": "Surg Pulmonary",
     "q": "Mechanism of aspirin-induced asthma per p43?",
     "a": "Aspirin inhibits COX, shunting arachidonic acid down the lipoxygenase pathway, so leukotrienes rise and bronchoconstriction increases. Samter triad = aspirin allergy, asthma, nasal polyps.",
@@ -4633,7 +4677,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0360",
+    "id": "s2surg-0364",
     "category": "Surg Pulmonary",
     "q": "'Increased expiratory phase' per p43?",
     "a": "Buzzy phrase in asthma vignettes; not specific, it can refer to any obstructive pathology. In obstructive conditions exhalation takes much longer (FEV1 markedly decreased).",
@@ -4644,7 +4688,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0361",
+    "id": "s2surg-0365",
     "category": "Surg Pulmonary",
     "q": "Acid-base in an acute asthma attack per p43?",
     "a": "Decreased CO2, increased pH, normal bicarb = acute respiratory alkalosis. CO2 diffuses quickly while O2 diffuses slowly, so a faster respiratory rate lowers CO2; bicarb is unchanged because kidneys take about a day. In COPD, CO2 rises because of hypoxic vasoconstriction from mucus (chronic bronchitis) or lost alveolar surface area (emphysema).",
@@ -4655,7 +4699,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0362",
+    "id": "s2surg-0366",
     "category": "Surg Pulmonary",
     "q": "Best initial diagnostic step in asthma per p43?",
     "a": "Spirometry; the expiratory component of the flow-volume curve appears concave. Methacholine challenge (a muscarinic agonist) can also diagnose, but never give it during an acute episode; if forced to choose, pick spirometry.",
@@ -4666,7 +4710,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0363",
+    "id": "s2surg-0367",
     "category": "Surg Pulmonary",
     "q": "Next steps if albuterol + ICS is insufficient per p44?",
     "a": "3) Increase the dose of the ICS. 4) Add a LABA (e.g., salmeterol). 5) Try agents such as mast cell stabilizers or leukotriene blockers; leukotriene blockers can be especially effective with aspirin allergy history. 6) Last resort outpatient: oral prednisone, most effective at decreasing recurrence but avoided because of Cushing syndrome risk and decreased linear bone growth in children.",
@@ -4681,7 +4725,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0364",
+    "id": "s2surg-0368",
     "category": "Surg Pulmonary",
     "q": "Acute management of severe asthma attack per p44?",
     "a": "Nebulized albuterol, oxygen and IV methylprednisolone. Inhaled corticosteroids have no role in acute asthma management.",
@@ -4692,7 +4736,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0365",
+    "id": "s2surg-0369",
     "category": "Surg Pulmonary",
     "q": "Asthma admission discharge per p44?",
     "a": "Any asthma patient hospitalized for an acute episode must automatically be given ICS (e.g., fluticasone) at discharge if not already on one. The NBME stem does not mention albuterol; inhaled fluticasone is the answer.",
@@ -4703,7 +4747,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0366",
+    "id": "s2surg-0370",
     "category": "Surg Pulmonary",
     "q": "Asthma with 2+ episodes weekly and no medication per p44?",
     "a": "Answer: inhaled fluticasone + albuterol. Any patient with 2+ episodes per week needs ICS in addition to albuterol and can start dual therapy right away (the source notes the answer lists the ICS before albuterol).",
@@ -4714,7 +4758,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0367",
+    "id": "s2surg-0371",
     "category": "Surg Pulmonary",
     "q": "Causes of bronchiectasis per p44?",
     "a": "Most common cause worldwide is TB; most common in western countries is CF; but on USMLE it will usually be a smoker. The source says asthma does not cause bronchiectasis.",
@@ -4729,7 +4773,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0368",
+    "id": "s2surg-0372",
     "category": "Surg Pulmonary",
     "q": "Sputum in bronchiectasis per p44?",
     "a": "Almost always 'cups and cups of foul-smelling sputum'. Foul-smelling means anaerobes such as Bacteroides.",
@@ -4740,7 +4784,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0369",
+    "id": "s2surg-0373",
     "category": "Surg Pulmonary",
     "q": "Atypical bronchiectasis question per p45?",
     "a": "One 2CK form gives bronchiectasis as the answer in a child with right middle lobe syndrome, scant white sputum (not cups and cups) and a thin, linear opacity in the right middle lobe.",
@@ -4751,7 +4795,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0370",
+    "id": "s2surg-0374",
     "category": "Surg Pulmonary",
     "q": "Clubbing in bronchiectasis per p45?",
     "a": "Tends to be seen; not mandatory, but the source observes USMLE likes it for bronchiectasis.",
@@ -4762,7 +4806,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0371",
+    "id": "s2surg-0375",
     "category": "Surg Pulmonary",
     "q": "Atelectasis and postoperative fever per p45?",
     "a": "Atelectasis means lung collapse or collapse of alveoli. Highest yield: the source says it is the most common cause of fever within 24 hours after surgery. One 2CK question has a woman 2 days after C-section with atelectasis as the answer.",
@@ -4777,7 +4821,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0372",
+    "id": "s2surg-0376",
     "category": "Surg Pulmonary",
     "q": "Mechanism and presentation of postoperative atelectasis per p45?",
     "a": "Pain medication + sedation make breathing slower and shallower in a hospital bed, collapsing some alveoli; breathing exercises matter after surgery. Often bibasilar shadows/opacities: surgery yesterday, fever, mild opacity at lung bases = atelectasis.",
@@ -4792,7 +4836,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0373",
+    "id": "s2surg-0377",
     "category": "Surg Pulmonary",
     "q": "Obstructive sleep apnea: acid-base and cor pulmonale per p45?",
     "a": "Can be obstructive (usually obesity) or central (brain-related). Chronic respiratory acidosis: increased CO2 and bicarb, pH normal or low. Cor pulmonale can occur from pulmonary hypertension via hypoxic vasoconstriction: JVD or peripheral edema. RBBB, right-axis deviation on ECG and wide splitting of S2 mean RVH. With only pulmonary hypertension: loud P2 or tricuspid regurgitation (holosystolic murmur increasing with inspiration).",
@@ -4803,7 +4847,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0374",
+    "id": "s2surg-0378",
     "category": "Surg Pulmonary",
     "q": "Psychiatric consequence and diagnosis of OSA per p45?",
     "a": "Chronic fatigue and poor oxygenation can lead to dysthymia/depression; the NBME answer is 'mood disorder due to a medical condition'. Polysomnography (sleep study) is the diagnostic test.",
@@ -4814,7 +4858,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0375",
+    "id": "s2surg-0379",
     "category": "Surg Pulmonary",
     "q": "Anaphylaxis vignette per p45?",
     "a": "Acute dyspnea and bilateral wheezes in a patient gardening (bee sting), who ate a food (e.g., peanuts) or who recently started a drug (e.g., TMP/SMX). Often tachycardia and low BP.",
@@ -4825,7 +4869,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0376",
+    "id": "s2surg-0380",
     "category": "Surg Pulmonary",
     "q": "Anaphylaxis mechanism and hemodynamics per p45?",
     "a": "IgE crosslinking on mast cells and basophils leads to degranulation and histamine + prostaglandin release; eosinophils can be recruited. USMLE wants decreased vascular resistance, increased CO, decreased/normal PCWP.",
@@ -4836,7 +4880,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0377",
+    "id": "s2surg-0381",
     "category": "Surg Pulmonary",
     "q": "Anaphylaxis treatment per p45?",
     "a": "Intramuscular epinephrine: beta-2 effect opens the airways; alpha-1 effect constricts arterioles and restores BP.",
@@ -4851,7 +4895,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0378",
+    "id": "s2surg-0382",
     "category": "Surg Pulmonary",
     "q": "Atelectasis: what is it and why important per p45?",
     "a": "'Lung collapse' / collapse of alveoli. Most common cause of fever within 24 hours after surgery (pass-level on 2CK). One 2CK Q has atelectasis 2 days after a C-section.",
@@ -4866,7 +4910,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0379",
+    "id": "s2surg-0383",
     "category": "Surg Pulmonary",
     "q": "Sleep apnea diagnosis per p45?",
     "a": "USMLE wants polysomnography (sleep study) to diagnose.",
@@ -4881,7 +4925,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0380",
+    "id": "s2surg-0384",
     "category": "Surg Pulmonary",
     "q": "Shellfish allergy vs scombroid per p46?",
     "a": "Shellfish allergy occurs right after eating shellfish (clams, mussels) with an allergic-/asthma-like presentation. If USMLE gives shellfish, the answer is shellfish allergy, not scombroid, which is from meaty fish and not an allergy.",
@@ -4892,7 +4936,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0381",
+    "id": "s2surg-0385",
     "category": "Surg Pulmonary",
     "q": "Vitamin deficiency in CF per p46?",
     "a": "The source says vitamin E deficiency is the highest-yield across NBME questions, presenting as neuropathy in a child with CF.",
@@ -4907,7 +4951,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0382",
+    "id": "s2surg-0386",
     "category": "Surg Pulmonary",
     "q": "Meconium ileus and nasal polyps per p46?",
     "a": "Meconium ileus is HY: failure to pass stool in the first 24 hours after birth. CF can sometimes cause nasal polyps.",
@@ -4918,7 +4962,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0383",
+    "id": "s2surg-0387",
     "category": "Surg Pulmonary",
     "q": "Diagnosis of CF per p46?",
     "a": "Sweat glands normally reabsorb Cl-, impaired in CF, so sweat chloride is increased (>60 mEq/L). The sweat chloride test is more accurate than genotyping because of allelic heterogeneity of CFTR. A transepithelial nasal voltage test shows increased nasal potential difference.",
@@ -4933,7 +4977,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0384",
+    "id": "s2surg-0388",
     "category": "Surg Pulmonary",
     "q": "CF drugs per p46?",
     "a": "Not HY for Step, but -caftor agents (ivacaftor, lumacaftor) help proper CFTR channel localization to the cell membrane and structural folding.",
@@ -4944,7 +4988,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0385",
+    "id": "s2surg-0389",
     "category": "Surg Pulmonary",
     "q": "Sounds like CF but has situs inversus or dextrocardia per p46?",
     "a": "Primary ciliary dyskinesia (Kartagener syndrome): recurrent pneumonias with organs (or just the heart) on the opposite side.",
@@ -4955,7 +4999,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0386",
+    "id": "s2surg-0390",
     "category": "Surg Pulmonary",
     "q": "Women with Kartagener syndrome per p46?",
     "a": "Can get ectopic pregnancy due to abnormal fallopian tube cilia.",
@@ -4970,7 +5014,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0387",
+    "id": "s2surg-0391",
     "category": "Surg Pulmonary",
     "q": "How situs inversus is written in the vignette per p46?",
     "a": "Cardiac sounds loudest on the right, or a large mass palpable beneath the left costal margin (liver on the opposite side). The source notes students miss these.",
@@ -4981,7 +5025,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0388",
+    "id": "s2surg-0392",
     "category": "Surg Pulmonary",
     "q": "Primary pulmonary hypertension vignette per p46?",
     "a": "Woman in her 20s-30s, non-smoker, with increased pulmonary vascularity/markings and either a loud P2 or tricuspid regurgitation (HY findings for pulmonary hypertension).",
@@ -4992,7 +5036,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0389",
+    "id": "s2surg-0393",
     "category": "Surg Pulmonary",
     "q": "'Primary' in primary pulmonary hypertension per p46?",
     "a": "The pulmonary hypertension starts inherently in the lungs rather than from a secondary cause such as smoking, CF or systemic sclerosis. Due to mutations in the BMPR2 gene.",
@@ -5007,7 +5051,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0390",
+    "id": "s2surg-0394",
     "category": "Surg Pulmonary",
     "q": "PPH vs cor pulmonale per p47?",
     "a": "Cor pulmonale is right heart failure findings or RV structural changes due to a pulmonary cause: RVH (RBBB, right-axis deviation, boot-shaped heart on CXR) or JVD/peripheral edema. A loud P2 and tricuspid regurgitation are HY findings for pulmonary hypertension that do not necessarily mean cor pulmonale.",
@@ -5018,7 +5062,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0391",
+    "id": "s2surg-0395",
     "category": "Surg Pulmonary",
     "q": "Mediator and treatment in PPH per p47?",
     "a": "Endothelin-1 is increased (a vasoconstrictor increased in pulmonary hypertension from any cause; USMLE likes it for PPH). Bosentan blocks endothelin-1 receptors and is HY treatment.",
@@ -5033,7 +5077,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0392",
+    "id": "s2surg-0396",
     "category": "Surg Pulmonary",
     "q": "Systemic sclerosis per p47?",
     "a": "Idiopathic autoimmune disease with multi-organ fibrosis and hardening of tissues (sclerosis). Divided into limited and diffuse subtypes.",
@@ -5048,7 +5092,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0393",
+    "id": "s2surg-0397",
     "category": "Surg Pulmonary",
     "q": "Limited scleroderma per p47?",
     "a": "CREST syndrome: Calcinosis, Raynaud, Esophageal dysmotility, Sclerodactyly, Telangiectasias. Raynaud = color change of fingers in cold; sclerodactyly = tightening of finger skin; esophageal dysmotility presents as GERD; calcinosis = abnormal Ca2+ deposition (the source says NBME rarely tests it).",
@@ -5059,7 +5103,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0394",
+    "id": "s2surg-0398",
     "category": "Surg Pulmonary",
     "q": "Diffuse scleroderma per p47?",
     "a": "The source defines it as CREST + renal involvement, presenting with ultra-HY high BP (e.g., 220/120) from a RAAS surge; if no high BP, it is not diffuse type on USMLE.",
@@ -5074,7 +5118,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0395",
+    "id": "s2surg-0399",
     "category": "Surg Pulmonary",
     "q": "Lung and heart consequences of systemic sclerosis per p47?",
     "a": "Highest yield: both types cause pulmonary fibrosis, leading to pulmonary hypertension. Pericardial fibrosis can also occur.",
@@ -5085,7 +5129,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0396",
+    "id": "s2surg-0400",
     "category": "Surg Pulmonary",
     "q": "Raynaud prevention and drugs to avoid per p47?",
     "a": "Dress warmly in cold weather; dihydropyridine CCBs (e.g., nifedipine) can be used (increase arteriolar and capillary diameter). Avoid alpha-1 agonists (phenylephrine, oxymetazoline), which constrict arterioles/capillaries.",
@@ -5100,7 +5144,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0397",
+    "id": "s2surg-0401",
     "category": "Surg Pulmonary",
     "q": "Sarcoidosis histology per p47?",
     "a": "Non-caseating granulomas in lung tissue made of activated macrophages called epithelioid macrophages (histiocytes).",
@@ -5111,7 +5155,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0398",
+    "id": "s2surg-0402",
     "category": "Surg Pulmonary",
     "q": "Archetypal sarcoidosis presentation per p47?",
     "a": "African-American woman in her 20s-30s with 6+ months of dry cough and red shins (erythema nodosum); low-grade fever with flares occasionally. Bihilar lymphadenopathy on CXR or CT (may be described as 'hilar nodularity').",
@@ -5126,7 +5170,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0399",
+    "id": "s2surg-0403",
     "category": "Surg Pulmonary",
     "q": "CREST lung pathology per p47?",
     "a": "Can cause pulmonary fibrosis, then pulmonary hypertension.",
@@ -5137,7 +5181,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0400",
+    "id": "s2surg-0404",
     "category": "Surg Pulmonary",
     "q": "Sarcoidosis vs asthma with normal CXR per p48?",
     "a": "A 2CK question: early-30s African-American woman, dry cough, CXR with no abnormalities: answer is 'activation of mast cells' (asthma), not 'non-caseating granulomatous inflammation'. If it sounds like sarcoidosis but CXR is normal or shows 'mild hyperinflation', choose asthma.",
@@ -5148,7 +5192,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0401",
+    "id": "s2surg-0405",
     "category": "Surg Pulmonary",
     "q": "Lupus pernio and sarcoidosis treatment per p48?",
     "a": "Lupus pernio is an enlarged nose due to sarcoidosis (not SLE). Treatment: steroids (oral prednisone).",
@@ -5159,7 +5203,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0402",
+    "id": "s2surg-0406",
     "category": "Surg Pulmonary",
     "q": "Rheumatoid lung per p48?",
     "a": "RA can cause restrictive lung disease ('rheumatoid lung'). Methotrexate, first-line DMARD for RA, can also cause pulmonary fibrosis, so advanced RA patients can have fibrosis from both.",
@@ -5174,7 +5218,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0403",
+    "id": "s2surg-0407",
     "category": "Surg Pulmonary",
     "q": "Pulmonary embolism presentation per p48?",
     "a": "DVT embolized to the pulmonary arteries: acute shortness of breath and tachycardia with risk factors: post-surgery (including C-section), sedentation (e.g., hip trauma), OCP use, thrombotic disorders (FVL, prothrombin mutation, MTHFR).",
@@ -5185,7 +5229,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0404",
+    "id": "s2surg-0408",
     "category": "Surg Pulmonary",
     "q": "ECG in PE per p48?",
     "a": "S1Q3T3 is the most specific ECG finding but the source says it is nonexistent on USMLE; the most common ECG finding is sinus tachycardia (normal ECG with a high HR).",
@@ -5200,7 +5244,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0405",
+    "id": "s2surg-0409",
     "category": "Surg Pulmonary",
     "q": "First steps in PE management on 2CK per p48?",
     "a": "Heparin first, then spiral CT of the chest to diagnose.",
@@ -5215,7 +5259,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0406",
+    "id": "s2surg-0410",
     "category": "Surg Pulmonary",
     "q": "PE in a patient already on warfarin per p48?",
     "a": "First get CT to diagnose, then IVC filter. Do not choose IVC filter before confirming PE with CT.",
@@ -5226,7 +5270,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0407",
+    "id": "s2surg-0411",
     "category": "Surg Pulmonary",
     "q": "tPA in PE per p48?",
     "a": "One 2CK NBME question has tPA as the answer for PE with obstructive shock (low BP due to PE).",
@@ -5237,7 +5281,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0408",
+    "id": "s2surg-0412",
     "category": "Surg Pulmonary",
     "q": "V/Q scan use per p48?",
     "a": "V/Q instead of CT first-line in pregnancy. A 2CK question shows 'multiple sub-segmental perfusion defects' on V/Q: recurrent pulmonary emboli.",
@@ -5252,7 +5296,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0409",
+    "id": "s2surg-0413",
     "category": "Surg Pulmonary",
     "q": "Most common cause of death from PE per p48?",
     "a": "The source says ventricular fibrillation, from acute right heart strain by a saddle embolus precipitating Vfib.",
@@ -5267,7 +5311,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0410",
+    "id": "s2surg-0414",
     "category": "Surg Pulmonary",
     "q": "PE with low CO2 and low pH per p49?",
     "a": "One 2CK question: the patient has lactic acidosis (low bicarb) from ischemia due to poor perfusion. Any cause of shock (septic, hypovolemic, cardiogenic, obstructive from PE) can cause lactic acidosis and low bicarb.",
@@ -5278,7 +5322,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0411",
+    "id": "s2surg-0415",
     "category": "Surg Pulmonary",
     "q": "Amniotic fluid embolism vs PE per p49?",
     "a": "Shortness of breath and tachycardia 30 seconds to 2 minutes after delivery of the placenta: amniotic fluid embolism. A woman 2 days after C-section who gets up to use the bathroom with acute SoB and tachycardia: PE.",
@@ -5293,7 +5337,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0412",
+    "id": "s2surg-0416",
     "category": "Surg Pulmonary",
     "q": "Amniotic fluid embolism and DIC per p49?",
     "a": "Can cause DIC; a weird cause on USMLE. Bleeding from IV sites/catheter lines following delivery of the placenta.",
@@ -5304,7 +5348,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0413",
+    "id": "s2surg-0417",
     "category": "Surg Pulmonary",
     "q": "Fat embolism per p49?",
     "a": "Long-bone fracture (usually femur), then shortness of breath + petechiae on the shoulders/chest. Thrombocytopenia in about half of vignettes. The petechiae are not due to low platelets (ITP does not give this); literature suggests microvascular fat plugging in the dermis. A pulmonary biopsy can be stained with Oil Red O or Sudan black (fat stains).",
@@ -5319,7 +5363,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0414",
+    "id": "s2surg-0418",
     "category": "Surg Pulmonary",
     "q": "Air embolism per p49?",
     "a": "Sudden death after insertion of a central venous line: air goes to the lungs and kills the patient.",
@@ -5330,7 +5374,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0415",
+    "id": "s2surg-0419",
     "category": "Surg Pulmonary",
     "q": "Second way cholesterol embolism is tested per p49?",
     "a": "2CK NBME 10: no image; violaceous foot lesions in someone with only a history of AAA (not repair). Stem says 'Maltese crosses are seen', which the source says refers to birefringence of cholesterol esters under polarized light (obscure).",
@@ -5341,7 +5385,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0416",
+    "id": "s2surg-0420",
     "category": "Surg Pulmonary",
     "q": "Pulmonary contusion vignette per p50?",
     "a": "A difficult diagnosis of exclusion on 2CK: accident, difficulty breathing and patchy infiltrates in one or more lung areas; may mention rib fractures just above the infiltrates. The source says textbook 'white-out of the lung' is not what NBME uses.",
@@ -5352,7 +5396,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0417",
+    "id": "s2surg-0421",
     "category": "Surg Pulmonary",
     "q": "Fluid sensitivity of contused lung per p50?",
     "a": "Contused lung is fluid-sensitive: given IV saline, O2 sats worsen. Also seen in myocardial contusion questions; eliminate myocardial contusion if no severe bruising or pain over the sternum or post-MVA arrhythmia (e.g., PACs).",
@@ -5367,7 +5411,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0418",
+    "id": "s2surg-0422",
     "category": "Surg Pulmonary",
     "q": "Flail chest per p50?",
     "a": "Paradoxical breathing: the chest wall moves outward with expiration and inward with inspiration.",
@@ -5378,7 +5422,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0419",
+    "id": "s2surg-0423",
     "category": "Surg Pulmonary",
     "q": "Ruptured bronchus per p50?",
     "a": "'Persistent air leak despite placement of a chest tube' in a trauma patient.",
@@ -5393,7 +5437,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0420",
+    "id": "s2surg-0424",
     "category": "Surg Pulmonary",
     "q": "Diaphragmatic rupture per p50?",
     "a": "MVA followed by CXR with 'obscured left hemidiaphragm and the NG tube present in the lower left side of the chest'. Do not confuse with ruptured bronchus or esophageal rupture (water-soluble contrast swallow seen in the mediastinum).",
@@ -5408,7 +5452,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0421",
+    "id": "s2surg-0425",
     "category": "Surg Pulmonary",
     "q": "Tension pneumothorax per p50?",
     "a": "Pneumothorax + low BP = tension pneumothorax. Mechanism: compression of the vena cavae leads to decreased venous return, which can cause JVD.",
@@ -5419,7 +5463,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0422",
+    "id": "s2surg-0426",
     "category": "Surg Pulmonary",
     "q": "Tracheal shift in pneumothorax per p50?",
     "a": "Source: simple/spontaneous pneumothorax causes ipsilateral tracheal shift; tension pneumothorax causes contralateral shift.",
@@ -5434,7 +5478,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0423",
+    "id": "s2surg-0427",
     "category": "Surg Pulmonary",
     "q": "Exam findings in pneumothorax per p51?",
     "a": "Hyper-resonance to percussion, decreased breath sounds and decreased tactile fremitus: air in the pleural space masks sounds and vibration of underlying alveolar air flow.",
@@ -5445,7 +5489,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0424",
+    "id": "s2surg-0428",
     "category": "Surg Pulmonary",
     "q": "Treatment of pneumothorax per p51?",
     "a": "'Needle decompression followed by chest tube' is the HY phrase. One 2CK question has only 'tube thoracostomy' listed; choose it. Pleurodesis (talc into the pleural space to obliterate it for recurrent pneumothorax) has only appeared as a distractor.",
@@ -5460,7 +5504,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0425",
+    "id": "s2surg-0429",
     "category": "Surg Pulmonary",
     "q": "Observation of a pneumothorax per p51?",
     "a": "Very small pneumothoraces in stable patients with minimal symptoms can be observed. One 2CK NBME answer is 'observe'; the vignette emphasizes how unremarkable the presentation is.",
@@ -5471,7 +5515,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0426",
+    "id": "s2surg-0430",
     "category": "Surg Pulmonary",
     "q": "Barotrauma pneumothorax per p51?",
     "a": "A 2CK question: pneumothorax from ascending too quickly from underwater (alveoli expand too quickly). Different from Caisson disease ('the bends'), where nitrogen bubbles form in the blood.",
@@ -5486,7 +5530,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0427",
+    "id": "s2surg-0431",
     "category": "Surg Pulmonary",
     "q": "Causes of pleural effusion on USMLE per p51?",
     "a": "Left heart failure (pulmonary edema +/- effusion) is notable. Also pneumonias, tuberculosis and aortic dissection.",
@@ -5497,7 +5541,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0428",
+    "id": "s2surg-0432",
     "category": "Surg Pulmonary",
     "q": "Meigs syndrome per p51?",
     "a": "Triad of ovarian fibroma, ascites and right-sided pleural effusion.",
@@ -5512,7 +5556,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0429",
+    "id": "s2surg-0433",
     "category": "Surg Pulmonary",
     "q": "Light's criteria per p52?",
     "a": "Exudate if any: pleural fluid protein:serum protein >0.5; pleural fluid LDH:serum LDH >0.6; pleural fluid LDH >2/3 the upper limit of normal serum LDH. Transudates have less protein and LDH (HY for Step 1 and 2CK).",
@@ -5527,7 +5571,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0430",
+    "id": "s2surg-0434",
     "category": "Surg Pulmonary",
     "q": "Typical empyema sequence per p52?",
     "a": "4 of 5 questions: pneumonia, then parapneumonic effusion (exudative), then empyema (frank pus). Pleural fluid pH falls below about 7.1; the source has seen 7.12, 7.11 and 6.99 as empyema answers.",
@@ -5542,7 +5586,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0431",
+    "id": "s2surg-0435",
     "category": "Surg Pulmonary",
     "q": "Atypical empyema vignette per p52?",
     "a": "1 of 5: no pneumonia history; persistent fever + recurrent pleural effusions in a patient with cirrhosis (low oncotic pressure, transudative effusions). Answer is just empyema. NBME wants tube thoracostomy to drain the pus.",
@@ -5557,7 +5601,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0432",
+    "id": "s2surg-0436",
     "category": "Surg Pulmonary",
     "q": "Hemothorax on USMLE per p52?",
     "a": "Blood in the pleural space. Apart from massive trauma, it appears as malignant pleural effusion: long paragraph, history of breast or lung cancer, dullness to percussion. Can have hypotension and muffled heart sounds like tamponade, but with flattened neck veins instead of JVD.",
@@ -5572,7 +5616,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0433",
+    "id": "s2surg-0437",
     "category": "Surg Pulmonary",
     "q": "Pulmonary edema on USMLE per p53?",
     "a": "Left heart failure: transudation of fluid into the alveolar spaces from increased pulmonary capillary hydrostatic pressure from left heart pathology. Non-cardiac pulmonary edema (ARDS, TRALI) exists, but an isolated 'pulmonary edema' means cardiac. PCWP and LAP are both elevated.",
@@ -5583,7 +5627,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0434",
+    "id": "s2surg-0438",
     "category": "Surg Pulmonary",
     "q": "Mechanism of dyspnea in MI with pulmonary edema per p53?",
     "a": "'Increased alveolar-arteriolar oxygen gradient': the patient can breathe, so alveolar O2 is normal, but fluid impairs gas exchange, so arterial/arteriolar O2 is low.",
@@ -5594,7 +5638,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0435",
+    "id": "s2surg-0439",
     "category": "Surg Pulmonary",
     "q": "Cephalization per p53?",
     "a": "'Cephalization of pulmonary vessels' is buzzy and synonymous with pulmonary edema on USMLE.",
@@ -5605,7 +5649,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0436",
+    "id": "s2surg-0440",
     "category": "Surg Pulmonary",
     "q": "ARDS triggers per p53?",
     "a": "Bilateral exudative chest infiltrates and low O2 sats after: pancreatitis; aspiration of vomitus; near-drowning (fresh/sea water); NG tube inserted into the lungs with feeding started; toxic shock syndrome; trauma/sepsis. Pulmonary decompensation with pancreatitis is very buzzy.",
@@ -5616,7 +5660,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0437",
+    "id": "s2surg-0441",
     "category": "Surg Pulmonary",
     "q": "ARDS in 2CK questions per p53?",
     "a": "Toxic shock syndrome then 'most likely cause of death': ARDS. Near-drowning then 'what to monitor for': ARDS. ARDS is bilateral; it is a wrong answer for unilateral conditions.",
@@ -5627,7 +5671,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0438",
+    "id": "s2surg-0442",
     "category": "Surg Pulmonary",
     "q": "Ventilation in ARDS per p53?",
     "a": "Prone positioning + low tidal volume + permissive hypercapnia (asked once on a 2CK form, the source recalls).",
@@ -5642,7 +5686,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0439",
+    "id": "s2surg-0443",
     "category": "Surg Pulmonary",
     "q": "TRALI per p53?",
     "a": "ARDS-like presentation with bilateral crackles and low O2 sats less than 6 hours after a transfusion. Mechanism: abnormal priming of lung neutrophils that react to cytokines in transfused products. A non-cardiogenic pulmonary edema.",
@@ -5657,7 +5701,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0440",
+    "id": "s2surg-0444",
     "category": "Surg Pulmonary",
     "q": "TACO per p53?",
     "a": "Transfusion-induced hypervolemia; a cardiogenic pulmonary edema (the left heart cannot handle the extra volume, so transudation into alveoli). Presents two ways: 1) history of heart failure or MI with respiratory distress after repeated blood products; 2) no cardiovascular history and a TRALI-like vignette more than 6 hours after transfusion.",
@@ -5668,7 +5712,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0441",
+    "id": "s2surg-0445",
     "category": "Surg Pulmonary",
     "q": "TACO example question per p53?",
     "a": "A 72-year-old with MI ten years ago gets shortness of breath and bilateral crackles 30 minutes after crystalloid and 4 packs of RBCs: TACO (the stem does not give the crystalloid volume).",
@@ -5683,7 +5727,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0442",
+    "id": "s2surg-0446",
     "category": "Surg Pulmonary",
     "q": "TRALI: mechanism per p53?",
     "a": "Abnormal priming of neutrophils in the lung that react to cytokines within transfused blood products (the source says straight from a CMS form). Technically a type of non-cardiogenic pulmonary edema.",
@@ -5694,7 +5738,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0443",
+    "id": "s2surg-0447",
     "category": "Surg Pulmonary",
     "q": "TACO: what is it per p53?",
     "a": "Transfusion-associated circulatory overload, aka transfusion-induced hypervolemia. Cardiogenic pulmonary edema: the left heart can't handle the increased hydrostatic pressure from volume, so transudation into alveoli occurs. Differs from TRALI.",
@@ -5709,7 +5753,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0444",
+    "id": "s2surg-0448",
     "category": "Surg Pulmonary",
     "q": "Lobar pneumonia on USMLE per p54?",
     "a": "Strep pneumoniae (right lower lobe consolidation with dullness to percussion). In AIDS, lobar pneumonia is still Strep pneumo, not PJP.",
@@ -5720,7 +5764,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0445",
+    "id": "s2surg-0449",
     "category": "Surg Pulmonary",
     "q": "Bilateral interstitial (atypical) pneumonia per p54?",
     "a": "In immunocompetent patients: Mycoplasma. If lobar pneumonia says 'interstitial markings' and Strep pneumo is not listed: Mycoplasma ('interstitial' wins over location). In AIDS: bilateral interstitial/ground-glass = Pneumocystis jirovecii.",
@@ -5731,7 +5775,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0446",
+    "id": "s2surg-0450",
     "category": "Surg Pulmonary",
     "q": "Pneumonia + hemolysis per p54?",
     "a": "Bilateral pneumonia with low Hb or a positive Coombs test: Mycoplasma, which can cause cold agglutinins (IgM against RBCs, hemolysis).",
@@ -5746,7 +5790,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0447",
+    "id": "s2surg-0451",
     "category": "Surg Pulmonary",
     "q": "Legionella clues per p54?",
     "a": "Pneumonia + hyponatremia and/or diarrhea; pneumonia + business conference or residential home (implies air conditioners).",
@@ -5761,7 +5805,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0448",
+    "id": "s2surg-0452",
     "category": "Surg Pulmonary",
     "q": "Pneumonia exam findings per p54?",
     "a": "Abnormal (adventitious/bronchial) breath sounds + increased tactile fremitus (air vibrates through infective consolidation within alveoli).",
@@ -5772,7 +5816,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0449",
+    "id": "s2surg-0453",
     "category": "Surg Pulmonary",
     "q": "Empiric CAP therapy on 2CK per p54?",
     "a": "Azithromycin (NBME), covering atypicals (Mycoplasma, Legionella, Chlamydia) and S. pneumo. If antibiotics in the past 3 months or severe lung disease: levofloxacin (respiratory fluoroquinolone) first-line.",
@@ -5787,7 +5831,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0450",
+    "id": "s2surg-0454",
     "category": "Surg Pulmonary",
     "q": "CAP with sepsis or septic shock per p54?",
     "a": "Ceftriaxone (if listed, choose cefotaxime for pediatrics).",
@@ -5798,7 +5842,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0451",
+    "id": "s2surg-0455",
     "category": "Surg Pulmonary",
     "q": "Fungal pneumonia treatment per p54?",
     "a": "Fluconazole. With fungemia (high fever, chills): amphotericin B.",
@@ -5809,7 +5853,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0452",
+    "id": "s2surg-0456",
     "category": "Surg Pulmonary",
     "q": "Pneumocystis pneumonia diagnosis per p54?",
     "a": "Jump straight to bronchoalveolar lavage.",
@@ -5820,7 +5864,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0453",
+    "id": "s2surg-0457",
     "category": "Surg Pulmonary",
     "q": "Cavitary lesion filled with a mass per p54?",
     "a": "Likely an Aspergillus fungus ball; the source wants 'open lung biopsy' as the most confirmatory test.",
@@ -5835,7 +5879,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0454",
+    "id": "s2surg-0458",
     "category": "Surg Pulmonary",
     "q": "Normal CXR after pneumonia resolves per p55?",
     "a": "'Maintenance of integrity of basement membranes' (mentioned earlier in the source).",
@@ -5846,7 +5890,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0455",
+    "id": "s2surg-0459",
     "category": "Surg Pulmonary",
     "q": "Distal pneumonia in lung tumor per p55?",
     "a": "The reason is 'endobronchial obstruction' (same answer as for distal atelectasis).",
@@ -5857,7 +5901,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0456",
+    "id": "s2surg-0460",
     "category": "Surg Pulmonary",
     "q": "Bronchiolitis per p55?",
     "a": "A kid under 18 months with low-grade fever and bilateral wheezes; caused by RSV. Treatment is supportive care on USMLE; do not choose ribavirin or palivizumab.",
@@ -5872,7 +5916,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0457",
+    "id": "s2surg-0461",
     "category": "Surg Pulmonary",
     "q": "Croup trick answer and treatment per p55?",
     "a": "Sometimes an easy croup vignette has the answer 'larynx' (inflammation of larynx, trachea and bronchi); subglottic = below the vocal cords. Treatment is supportive; if forced, steroids if listed, followed by nebulized racemic epinephrine.",
@@ -5883,7 +5927,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0458",
+    "id": "s2surg-0462",
     "category": "Surg Pulmonary",
     "q": "Epiglottitis presentation per p56?",
     "a": "Child with fever and difficulty breathing; drooling and/or tripod positioning (facilitates use of accessory muscles).",
@@ -5894,7 +5938,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0459",
+    "id": "s2surg-0463",
     "category": "Surg Pulmonary",
     "q": "Management of epiglottitis per p56?",
     "a": "Intubation: a medical emergency with risk of sudden airway occlusion. Treatment is a 3rd-generation cephalosporin (cefotaxime in peds, or ceftriaxone); rifampin for close contacts.",
@@ -5909,7 +5953,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0460",
+    "id": "s2surg-0464",
     "category": "Surg Pulmonary",
     "q": "Bacterial tracheitis per p56?",
     "a": "Diagnosis of exclusion; classically S. aureus after a viral URTI. 2CK: recent viral URTI + stridor + no drooling (against epiglottitis) + can open the mouth fully (against peritonsillar abscess) + no improvement with racemic epinephrine (against croup).",
@@ -5924,7 +5968,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0461",
+    "id": "s2surg-0465",
     "category": "Surg Pulmonary",
     "q": "Pertussis labs per p56?",
     "a": "Very high WBC counts in the 30-50,000 range with >80% lymphocytes, resembling ALL. ALL-like findings + cough = pertussis.",
@@ -5935,7 +5979,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0462",
+    "id": "s2surg-0466",
     "category": "Surg Pulmonary",
     "q": "Pertussis treatment per p56?",
     "a": "Erythromycin for patients with active cough; close contacts should also receive erythromycin.",
@@ -5950,7 +5994,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0463",
+    "id": "s2surg-0467",
     "category": "Surg Pulmonary",
     "q": "Pleurodynia per p56?",
     "a": "Despite the name, an MSK condition that has nothing to do with the lungs (asked twice on NBME, as mentioned in the Cardio section). Viral infection (Coxsackie B) causes sharp lateral chest pain from intercostal muscle spasm.",
@@ -5965,7 +6009,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0464",
+    "id": "s2surg-0468",
     "category": "Surg Pulmonary",
     "q": "Mycobacterium tuberculosis microbiology per p56?",
     "a": "Unique cell wall of mycolic acid, hard to Gram stain: requires acid-fast stain. Produces cord factor (asked on NBME) as a virulence factor.",
@@ -5976,7 +6020,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0465",
+    "id": "s2surg-0469",
     "category": "Surg Pulmonary",
     "q": "TB clinical presentation per p56?",
     "a": "Can mimic lung cancer: B symptoms (fever, night sweats, weight loss) and hemoptysis. Homeless shelter or immigrant from an endemic area is buzzy (rural India and Albania on NBME questions).",
@@ -5987,7 +6031,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0466",
+    "id": "s2surg-0470",
     "category": "Surg Pulmonary",
     "q": "TB pathology per p56?",
     "a": "Cavitations and calcification grossly; caseating granulomatous inflammation on histology. Ghon foci/complexes are textbook descriptors but not tested by name. Can cause constrictive pericarditis (can calcify).",
@@ -5998,7 +6042,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0467",
+    "id": "s2surg-0471",
     "category": "Surg Pulmonary",
     "q": "Disseminated (miliary) TB per p56?",
     "a": "Multiple organs: psoas abscess, Pott disease (vertebral TB), adrenal insufficiency, meningitis, osteomyelitis, arthritis.",
@@ -6009,7 +6053,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0468",
+    "id": "s2surg-0472",
     "category": "Surg Pulmonary",
     "q": "Active TB regimen per p57?",
     "a": "RIPE for 2 months + RI for 4 more months (6 months total). RIPE = rifampin, isoniazid, pyrazinamide, ethambutol.",
@@ -6024,7 +6068,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0469",
+    "id": "s2surg-0473",
     "category": "Surg Pulmonary",
     "q": "BCG history and TB tests per p57?",
     "a": "BCG is live-attenuated; history of BCG does not change management based on PPD guidelines. IGRA (Quantiferon Gold) can reduce false positives after BCG, but USMLE does not assess it.",
@@ -6039,7 +6083,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0470",
+    "id": "s2surg-0474",
     "category": "Surg Pulmonary",
     "q": "PPD positive cutoffs per p57?",
     "a": ">5 mm: close contact with active TB; immunocompromised (AIDS, transplant on immunosuppressants, chronic corticosteroids); calcification on CXR. >10 mm: health care worker, prisoner/prison worker, immigrant from endemic area, TB lab personnel, children <4. >15 mm: everyone else.",
@@ -6054,7 +6098,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0471",
+    "id": "s2surg-0475",
     "category": "Surg Pulmonary",
     "q": "Repeating a PPD per p57?",
     "a": "If positive, never repeat; if negative, repeat in 1-2 weeks (sometimes false negatives).",
@@ -6065,7 +6109,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0472",
+    "id": "s2surg-0476",
     "category": "Surg Pulmonary",
     "q": "Hot tub lung per p57?",
     "a": "A man moves into a new apartment building with a hot tub and gets a bilateral chest infection: inhalation of fumes with Mycobacterium avium complex (MAC), in the source's wording.",
@@ -6080,7 +6124,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0473",
+    "id": "s2surg-0477",
     "category": "Surg Pulmonary",
     "q": "Lung abscess cause per p57?",
     "a": "Exceedingly HY: aspiration of oropharyngeal normal flora/anaerobes. Risk factors: alcoholism, dementia (loss of gag reflex), stroke (dysphagia), epilepsy, broken or missing teeth.",
@@ -6095,7 +6139,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0474",
+    "id": "s2surg-0478",
     "category": "Surg Pulmonary",
     "q": "Oropharyngeal flora in lung abscess per p58?",
     "a": "Bacteroides (strictly anaerobic gram-negative rods; the HY one), Peptostreptococcus and Mobiluncus. Sputum with 'gram-negative rods, gram-positive cocci and gram-positive rods' means mixed normal flora.",
@@ -6106,7 +6150,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0475",
+    "id": "s2surg-0479",
     "category": "Surg Pulmonary",
     "q": "Lung abscess treatment and follow-up per p58?",
     "a": "Clindamycin. If treated and a year later a lesion remains on CXR: 'failure of maintenance of basement membranes'.",
@@ -6121,7 +6165,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0476",
+    "id": "s2surg-0480",
     "category": "Surg Pulmonary",
     "q": "ABPA per p58?",
     "a": "Asthma-like presentation in a patient with increased sensitivity to Aspergillus skin antigen.",
@@ -6136,7 +6180,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0477",
+    "id": "s2surg-0481",
     "category": "Surg Pulmonary",
     "q": "Hypersensitivity pneumonitis vignette per p58?",
     "a": "Bilateral lung condition + fever in a farmer exposed to hay (new NBME); the fever self-resolves in 2 days. Byssinosis (hemp/cotton, textile workers) is wrong because it would not give fever.",
@@ -6151,7 +6195,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0478",
+    "id": "s2surg-0482",
     "category": "Surg Pulmonary",
     "q": "Cryptogenic organizing pneumonia per p58?",
     "a": "Idiopathic restrictive lung disease with a pneumonia-like presentation that fails to improve with antibiotics; not actual pneumonia. Formerly BOOP. The source says it has nonexistent yield but appears as a wrong answer on hard 2CK questions.",
@@ -6166,7 +6210,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0479",
+    "id": "s2surg-0483",
     "category": "Surg Pulmonary",
     "q": "Acute otitis media signs per p58?",
     "a": "Red, immobile tympanic membrane. Immobility is highly sensitive for OM: if the stem says mobility is normal, rule it out. Ear tugging in children can be a sign of otitis media or externa.",
@@ -6181,7 +6225,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0480",
+    "id": "s2surg-0484",
     "category": "Surg Pulmonary",
     "q": "Otitis media treatment per p58?",
     "a": "Amoxicillin or penicillin. Augmentin is classically for recurrent OM; if forced to choose between amoxicillin/penicillin alone or Augmentin, choose the former.",
@@ -6192,7 +6236,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0481",
+    "id": "s2surg-0485",
     "category": "Surg Pulmonary",
     "q": "Serous otitis media per p58?",
     "a": "Aka otitis media with effusion: fluid behind the tympanic membrane in a kid weeks after resolution of 1 or 2 OM infections. Almost always benign and self-resolves in 4-8 weeks; answer is observation.",
@@ -6207,7 +6251,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0482",
+    "id": "s2surg-0486",
     "category": "Surg Pulmonary",
     "q": "Tympanic membrane perforation per p58?",
     "a": "2CK NBME: 2-year-old with 3 days of viral infection, wakes with severe ear pain, dried blood on ear lobe and pillow, and seropurulent fluid draining from the canal so the TM cannot be seen. Can occur with OM, although this vignette does not sound like classic OM.",
@@ -6218,7 +6262,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0483",
+    "id": "s2surg-0487",
     "category": "Surg Pulmonary",
     "q": "Treatment of otitis media per p58?",
     "a": "Amoxicillin. Amoxicillin/clavulanate (Augmentin) is the wrong initial answer; use it for recurrent otitis media.",
@@ -6229,7 +6273,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0484",
+    "id": "s2surg-0488",
     "category": "Surg Pulmonary",
     "q": "When to place a tympanostomy tube per p58?",
     "a": "3+ episodes of otitis media in 6 months or 4+ in a year.",
@@ -6240,7 +6284,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0485",
+    "id": "s2surg-0489",
     "category": "Surg Pulmonary",
     "q": "Treatment of Strep pharyngitis per p58?",
     "a": "Amoxicillin or penicillin only (not Augmentin).",
@@ -6251,7 +6295,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0486",
+    "id": "s2surg-0490",
     "category": "Surg Pulmonary",
     "q": "Myringitis per p59?",
     "a": "Isolated inflammation of the tympanic membrane; can be bullous. Caused by Strep pneumo or Mycoplasma.",
@@ -6262,7 +6306,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0487",
+    "id": "s2surg-0491",
     "category": "Surg Pulmonary",
     "q": "Otitis externa per p59?",
     "a": "Infection of the ear superficial to the tympanic membrane; classically Pseudomonas; increased risk in swimmers and diabetics. NBME: 'necrotizing otitis externa' (aka malignant otitis externa) for black skin within the ear canal.",
@@ -6277,7 +6321,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0488",
+    "id": "s2surg-0492",
     "category": "Surg Pulmonary",
     "q": "Otitis externa prophylaxis and treatment per p59?",
     "a": "Prophylaxis in a college student who does crew with continuing water exposure: acetic acid-alcohol drops. Treatment: topical ciprofloxacin-hydrocortisone drops.",
@@ -6292,7 +6336,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0489",
+    "id": "s2surg-0493",
     "category": "Surg Pulmonary",
     "q": "Sinusitis clues per p59?",
     "a": "School-age kid with lingering fever after a URTI for 10-14+ days. Think sinusitis whenever a URTI lingers more than about 10 days.",
@@ -6307,7 +6351,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0490",
+    "id": "s2surg-0494",
     "category": "Surg Pulmonary",
     "q": "Odd sinusitis vignettes per p59?",
     "a": "A 2CK vignette: nocturnal cough (aspiration from the sinuses) and grey oropharyngeal membranes (usually buzzy for diphtheria, but diphtheria is not listed). IgA deficiency vignette: history of pneumonias + sore left cheek = sinusitis.",
@@ -6318,7 +6362,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0491",
+    "id": "s2surg-0495",
     "category": "Surg Pulmonary",
     "q": "Chronic sinusitis workup per p59?",
     "a": "For 2CK: CT if chronic sinusitis >12 weeks; after CT, nasal endoscopy can be performed.",
@@ -6329,7 +6373,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0492",
+    "id": "s2surg-0496",
     "category": "Surg Pulmonary",
     "q": "Sinusitis treatment per p59?",
     "a": "Amoxicillin/clavulanate (Augmentin), unlike OM and Strep pharyngitis, which are treated with amoxicillin or penicillin alone (unless recurrent).",
@@ -6344,7 +6388,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0493",
+    "id": "s2surg-0497",
     "category": "Surg Pulmonary",
     "q": "Pneumococcal vaccine in infants per p59?",
     "a": "PCV15 at 2, 4 and 6 months, then again at 12-15 months.",
@@ -6359,7 +6403,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0494",
+    "id": "s2surg-0498",
     "category": "Surg Pulmonary",
     "q": "Pneumococcal vaccine age 65 and over per p59?",
     "a": "PCV20 once; OR PCV15 then PPSV23 a year later.",
@@ -6374,7 +6418,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0495",
+    "id": "s2surg-0499",
     "category": "Surg Pulmonary",
     "q": "Pneumococcal vaccine in high-risk patients per p59?",
     "a": "For asplenia/surgical splenectomy, sickle cell, cochlear implant, CSF leak, chronic renal failure/nephrotic syndrome, HIV and immunosuppressed patients: an extra dose of PCV15, followed by PPSV23 8+ weeks later.",
@@ -6389,7 +6433,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0496",
+    "id": "s2surg-0500",
     "category": "Surg Pulmonary",
     "q": "Treatment of otitis externa per p59?",
     "a": "Topical ciprofloxacin + hydrocortisone drops.",
@@ -6400,7 +6444,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0497",
+    "id": "s2surg-0501",
     "category": "Surg Pulmonary",
     "q": "Prophylaxis for otitis externa with continued water exposure (e.g., crew) per p59?",
     "a": "Topical alcohol-acetic acid drops.",
@@ -6411,7 +6455,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0498",
+    "id": "s2surg-0502",
     "category": "Surg Pulmonary",
     "q": "Otitis externa + mastoiditis per p59?",
     "a": "Malignant otitis externa.",
@@ -6422,7 +6466,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0499",
+    "id": "s2surg-0503",
     "category": "Surg Pulmonary",
     "q": "CHARGE syndrome per p60?",
     "a": "Choanal atresia is part of CHARGE: Coloboma of the eye (hole in the eye), Heart defects, Atresia of the choanae, Renal defects, Genitourinary anomalies, Ear anomalies.",
@@ -6433,7 +6477,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0500",
+    "id": "s2surg-0504",
     "category": "Surg Pulmonary",
     "q": "Foreign body aspiration per p61?",
     "a": "2CK answer for a kid under 2 crawling on the floor with acute-onset respiratory distress, plus either unilateral hyperresonance in one lung (not pneumothorax) or unilateral atelectasis with ipsilateral tracheal shift. Answer: bronchoscopy ('fiberoptic examination of the airways').",
@@ -6448,7 +6492,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0501",
+    "id": "s2surg-0505",
     "category": "Surg Pulmonary",
     "q": "Adenoid hypertrophy per p61?",
     "a": "Enlarged tonsils (adenoids) are a known cause of stridor in pediatrics. Answer: tonsillectomy.",
@@ -6459,7 +6503,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0502",
+    "id": "s2surg-0506",
     "category": "Surg Pulmonary",
     "q": "Laryngomalacia per p62?",
     "a": "Most common cause of stridor in infants; softening of airway cartilage. Kid under 1 with noisy breathing better when prone or upright. Self-resolves almost always (do not treat).",
@@ -6474,7 +6518,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0503",
+    "id": "s2surg-0507",
     "category": "Surg Pulmonary",
     "q": "Vascular ring per p62?",
     "a": "A weird stridor cause USMLE contrasts with laryngomalacia: a vascular embryology variant compresses the airway. Mitigated when the neck is extended (vs laryngomalacia: prone/upright). Treatment is surgery.",
@@ -6489,7 +6533,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0504",
+    "id": "s2surg-0508",
     "category": "Surg Pulmonary",
     "q": "Velopharyngeal insufficiency per p62?",
     "a": "High-pitched, hypernasal or whistling speech in a patient with a history of cleft palate (shortened palate), with or without repair. The answer on a 2CK NBME to 'cleft palate, what is the kid at risk for'.",
@@ -6500,7 +6544,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0505",
+    "id": "s2surg-0509",
     "category": "Surg Pulmonary",
     "q": "Cholesteatoma per p62?",
     "a": "Idiopathic squamous proliferation in the middle ear behind the tympanic membrane, presenting as an enlarging mass. Can cause obstructive (conductive) hearing loss and grow into the inner ear. Requires surgery.",
@@ -6515,7 +6559,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0506",
+    "id": "s2surg-0510",
     "category": "Surg Pulmonary",
     "q": "Tracheomalacia per p62?",
     "a": "Not pediatric, but confused with laryngomalacia: stridor in (usually) adults developing months after surgery, due to a history of intubation softening the airway cartilage.",
@@ -6530,7 +6574,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0507",
+    "id": "s2surg-0511",
     "category": "Surg Pulmonary",
     "q": "General aims on a ventilator per p62?",
     "a": "Keep FiO2 as low as possible (high O2 causes free radical damage); tidal volume low/normal (about 400-500 mL; high volumes cause barotrauma); increase PEEP if that allows lower FiO2 and tidal volume.",
@@ -6541,7 +6585,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0508",
+    "id": "s2surg-0512",
     "category": "Surg Pulmonary",
     "q": "Ventilator caveat per p62?",
     "a": "If the patient has arterial pO2 of 40 mm Hg (normal 80-100) with FiO2 100% and tidal volume 1000 mL, the answer is still 'increase PEEP': lowering FiO2 and volume would worsen the very low pO2.",
@@ -6552,7 +6596,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0509",
+    "id": "s2surg-0513",
     "category": "Surg Pulmonary",
     "q": "CO2 and cerebral perfusion per p62-75?",
     "a": "Decreased CO2 decreases cerebral perfusion (why patients faint in panic attacks, asked on NBME). First step in managing increased intracranial pressure: 'intubation + hyperventilation'. The inverse: to increase cerebral perfusion (anesthesiologist), decrease respiratory rate, which increases CO2.",
@@ -6567,7 +6611,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0510",
+    "id": "s2surg-0514",
     "category": "Surg Pulmonary",
     "q": "VAP treatment per p62?",
     "a": "Vancomycin PLUS ceftazidime or cefepime. Vancomycin covers MRSA and some high-resistance S. pneumo; ceftazidime (3rd generation) and cefepime (4th) cover Pseudomonas, a HY nosocomial VAP organism.",
@@ -6582,7 +6626,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0511",
+    "id": "s2surg-0515",
     "category": "Surg Pulmonary",
     "q": "Treatment of ARDS per p62?",
     "a": "Low-tidal-volume mechanical ventilation (prevents barotrauma) + increase PEEP.",
@@ -6593,7 +6637,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0512",
+    "id": "s2surg-0516",
     "category": "Surg Pulmonary",
     "q": "Euthyroid sick syndrome on a ventilator per p63?",
     "a": "Cannot be weaned from the ventilator with decreased T3 and normal TSH: euthyroid sick syndrome. Arrows: decreased T3, increased rT3, normal T4, normal TSH.",
@@ -6608,7 +6652,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0513",
+    "id": "s2surg-0517",
     "category": "Surg Pulmonary",
     "q": "High CO2 per p63?",
     "a": "Answer can be 'ventilatory insufficiency' (normal CO2 33-44 mm Hg), on or off a ventilator. Do not be confused by an increased RR; a new NBME form gives RR 40 with high CO2 (shallow breathing despite fast RR).",
@@ -6619,7 +6663,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0514",
+    "id": "s2surg-0518",
     "category": "Surg Pulmonary",
     "q": "Methotrexate per p63?",
     "a": "Dihydrofolate reductase inhibitor; first-line DMARD for RA and first-line oral agent for psoriasis failing topicals. Causes pulmonary fibrosis, hepatotoxicity and neutropenia. Toxicity mitigated with leucovorin rescue (folinic acid, not folic acid).",
@@ -6634,7 +6678,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0515",
+    "id": "s2surg-0519",
     "category": "Surg Pulmonary",
     "q": "Albuterol per p63?",
     "a": "Short-acting beta-2 agonist for asthma; can cause tremor (asked on NBME).",
@@ -6645,7 +6689,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0516",
+    "id": "s2surg-0520",
     "category": "Surg Pulmonary",
     "q": "Fluticasone and beclomethasone per p63?",
     "a": "Inhaled corticosteroids for asthma and COPD, used to prevent or decrease recurrence. No role in acute exacerbations (IV methylprednisolone is used).",
@@ -6656,7 +6700,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0517",
+    "id": "s2surg-0521",
     "category": "Surg Pulmonary",
     "q": "Prednisone in asthma per p63?",
     "a": "Most effective at decreasing recurrent attacks but a last resort because oral steroids can cause Cushing syndrome and growth stunting.",
@@ -6667,7 +6711,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0518",
+    "id": "s2surg-0522",
     "category": "Surg Pulmonary",
     "q": "Zileuton per p63?",
     "a": "Lipoxygenase inhibitor that blocks leukotriene synthesis; same use-case as the -lukasts.",
@@ -6682,7 +6726,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0519",
+    "id": "s2surg-0523",
     "category": "Surg Pulmonary",
     "q": "Nedocromil and cromolyn per p63?",
     "a": "Mast cell stabilizers for asthma; prevent histamine release.",
@@ -6693,7 +6737,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0520",
+    "id": "s2surg-0524",
     "category": "Surg Pulmonary",
     "q": "Tiotropium and olodaterol per p63?",
     "a": "Tiotropium: LAMA, first-line for COPD. Olodaterol: LABA, first-line for COPD. Either a LAMA or LABA can be used first-line.",
@@ -6704,7 +6748,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0521",
+    "id": "s2surg-0525",
     "category": "Surg Pulmonary",
     "q": "Ipratropium per p63?",
     "a": "Short-acting muscarinic antagonist (SAMA) for COPD; not first-line anymore, but still on 2CK material and used by some practitioners.",
@@ -6715,7 +6759,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0522",
+    "id": "s2surg-0526",
     "category": "Surg Pulmonary",
     "q": "Epoprostenol and sildenafil per p63?",
     "a": "Epoprostenol: PGI2 prostacyclin for pulmonary hypertension. Sildenafil: PDE-5 inhibitor (Viagra) also used for pulmonary hypertension.",
@@ -6726,7 +6770,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0523",
+    "id": "s2surg-0527",
     "category": "Surg Pulmonary",
     "q": "Nifedipine per p63?",
     "a": "Dihydropyridine calcium channel blocker that can be used for pulmonary hypertension; can cause peripheral edema/fluid retention.",
@@ -6737,7 +6781,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0524",
+    "id": "s2surg-0528",
     "category": "Surg Pulmonary",
     "q": "Omalizumab per p63?",
     "a": "Monoclonal antibody against IgE; in theory for severe asthmatics with high IgE.",
@@ -6748,7 +6792,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0525",
+    "id": "s2surg-0529",
     "category": "Surg Pulmonary",
     "q": "Pirfenidone per p63?",
     "a": "Used for idiopathic pulmonary fibrosis; anti-fibrotic that inhibits TGF-beta-mediated collagen synthesis.",
@@ -6759,7 +6803,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0526",
+    "id": "s2surg-0530",
     "category": "Surg Renal",
     "q": "BUN and uremia per p64?",
     "a": "BUN should be <20 mg/dL. High urea nitrogen in the blood is azotemia. 'Uremia' technically means urea in the blood but is used for symptomatic renal failure with poor labs; it has nothing to do with hyperuricemia (gout).",
@@ -6770,7 +6814,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0527",
+    "id": "s2surg-0531",
     "category": "Surg Renal",
     "q": "Potassium in renal failure per p64?",
     "a": "Normal 3.5-5.0 mEq/L; always elevated in renal failure on USMLE. The kidney normally secretes K+ in the cortical collecting duct under aldosterone; if the kidney is damaged it cannot, so serum K+ rises.",
@@ -6785,7 +6829,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0528",
+    "id": "s2surg-0532",
     "category": "Surg Renal",
     "q": "Sodium in renal failure per p64?",
     "a": "Normal 135-145 mEq/L; can be variable on NBMEs. Aldosterone reabsorbs Na+ in the cortical collecting duct in exchange for K+, but other mechanisms (e.g., vasopressin) regulate sodium, so Na+ can be normal.",
@@ -6796,7 +6840,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0529",
+    "id": "s2surg-0533",
     "category": "Surg Renal",
     "q": "Secondary hyperparathyroidism in renal failure per p64?",
     "a": "Low serum Ca2+ means decreased negative feedback at the parathyroid Ca2+-sensing receptors, so PTH rises. 'Secondary' means PTH is high due to a cause external to the parathyroid glands; due to renal failure. The source text misspells it 'secondary hyperthyroidism' in one place.",
@@ -6807,7 +6851,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0530",
+    "id": "s2surg-0534",
     "category": "Surg Renal",
     "q": "Phosphate in renal failure per p64?",
     "a": "Always increased: 1) the kidney cannot filter it out; 2) PTH normally decreases PCT phosphate reabsorption (by downregulating phosphate pumps), but its function is impaired, so the kidney reabsorbs too much. Low Ca2+ + high phosphate in renal failure = secondary hyperparathyroidism.",
@@ -6818,7 +6862,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0531",
+    "id": "s2surg-0535",
     "category": "Surg Renal",
     "q": "Bicarbonate in renal failure per p64?",
     "a": "Always decreased: 1) less PCT bicarbonate reabsorption, so more bicarb in the urine and lower serum bicarb; 2) less H+ secretion in the cortical collecting duct, so retained H+ mops up HCO3-. Metabolic acidosis. Renal failure = uremia = the U in MUDPILES (high anion gap metabolic acidosis).",
@@ -6833,7 +6877,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0532",
+    "id": "s2surg-0536",
     "category": "Surg Renal",
     "q": "Afferent arterioles and NSAIDs per p65?",
     "a": "Afferent arterioles go to the kidney; their patency is maintained by vasodilating prostaglandins. NSAIDs inhibit prostaglandin synthesis, so there is less afferent dilation and less renal blood flow. NSAIDs do not actively constrict the afferent arterioles (incorrect wording); they merely decrease vasodilation.",
@@ -6848,7 +6892,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0533",
+    "id": "s2surg-0537",
     "category": "Surg Renal",
     "q": "Efferent arterioles and ACEi/ARBs per p65?",
     "a": "Efferent arterioles leave the kidney; angiotensin II normally constricts them. ACEi/ARBs decrease that constriction, so efferent diameter increases (they do not actively dilate). The source says AT II also acts on afferent arterioles slightly, but this is wrong on USMLE.",
@@ -6859,7 +6903,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0534",
+    "id": "s2surg-0538",
     "category": "Surg Renal",
     "q": "Summary of renal arteriole regulation per p65?",
     "a": "AT II constricts efferent; ACEi/ARBs decrease efferent constriction (increase diameter). Prostaglandins dilate afferent; NSAIDs decrease afferent dilation (decrease diameter).",
@@ -6870,7 +6914,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0535",
+    "id": "s2surg-0539",
     "category": "Surg Renal",
     "q": "BUN/Cr and FENa per p65?",
     "a": "BUN/Cr = blood urea nitrogen to creatinine ratio; FENa = fractional excretion of sodium. No 'normal' range matters; they help diagnosis. BUN/Cr >20 and FENa <1% = pre-renal azotemia. BUN/Cr <20 and FENa >1% = just 'not pre-renal'. Different intra- vs post-renal ranges are nonsense for USMLE.",
@@ -6885,7 +6929,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0536",
+    "id": "s2surg-0540",
     "category": "Surg Renal",
     "q": "BUN/Cr exceptions per p65?",
     "a": "Only about 9 of 10 times is BUN/Cr as expected. A couple of 2CK NBME questions give BUN/Cr <20 for pre-renal azotemia and >20 for ATN; the vignette then makes the diagnosis obvious anyway.",
@@ -6896,7 +6940,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0537",
+    "id": "s2surg-0541",
     "category": "Surg Renal",
     "q": "Pre-renal azotemia mechanism per p65?",
     "a": "Reduced renal blood flow over a sub-acute to chronic time frame. The kidney retains fluid by increasing reabsorption of urea and sodium (water follows): high BUN (BUN/Cr >20) and low urine sodium (FENa <1%).",
@@ -6907,7 +6951,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0538",
+    "id": "s2surg-0542",
     "category": "Surg Renal",
     "q": "Acute drop in renal perfusion per p65?",
     "a": "One of the highest-yield points: acute decreased perfusion (seconds to minutes) from blood loss, acute heart failure exacerbation or arrhythmia (e.g., VFib for 30 seconds before resuscitation) causes acute tubular necrosis, not pre-renal azotemia.",
@@ -6922,7 +6966,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0539",
+    "id": "s2surg-0543",
     "category": "Surg Renal",
     "q": "Hemorrhage with 20 units of RBCs then oliguria per p65?",
     "a": "Two days after surgery with major blood loss and 20 packs of RBCs: oliguria and worsening renal function = acute tubular necrosis, not pre-renal. The PCT is most susceptible to anoxic/hypoxic injury because of its high concentration of ATPase transporters; acute hypoxia makes the PCT shed.",
@@ -6933,7 +6977,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0540",
+    "id": "s2surg-0544",
     "category": "Surg Renal",
     "q": "HY causes of pre-renal azotemia per p66?",
     "a": "NSAID or diuretic use, chronic left heart failure, or dehydration from days of vomiting/diarrhea. Vignettes: several weeks of naproxen, or furosemide started a few days ago.",
@@ -6944,7 +6988,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0541",
+    "id": "s2surg-0545",
     "category": "Surg Renal",
     "q": "NSAID with edema per p66?",
     "a": "Patient on an NSAID with peripheral edema: reason is 'decreased renal excretion of sodium' (increased PCT sodium reabsorption in pre-renal, FENa <1%). Or the answer is 'discontinuation of ibuprofen'.",
@@ -6955,7 +6999,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0542",
+    "id": "s2surg-0546",
     "category": "Surg Renal",
     "q": "Intra-renal azotemia per p66?",
     "a": "Essentially synonymous with acute tubular necrosis on USMLE. The kidney cannot reabsorb urea and sodium as easily: lower BUN (BUN/Cr <20) and more urinary sodium (FENa >1%). Acute drop in perfusion causes ATN, not pre-renal (the source stresses this).",
@@ -6966,7 +7010,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0543",
+    "id": "s2surg-0547",
     "category": "Surg Renal",
     "q": "Post-renal azotemia per p66?",
     "a": "Almost always BPH on USMLE (or ovarian/cervical cancer impinging on the ureters). Old man + high creatinine = BPH until proven otherwise. Answer is often 'increased Bowman capsule hydrostatic pressure'.",
@@ -6981,7 +7025,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0544",
+    "id": "s2surg-0548",
     "category": "Surg Renal",
     "q": "Next step in obstructive azotemia per p66?",
     "a": "Insertion of a catheter to relieve urinary retention, even with bacteriuria (choose catheter over antibiotics). Another 2CK question: 'check post-void volume' in an elderly man with high Cr (USMLE will not force a choice between them).",
@@ -6996,7 +7040,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0545",
+    "id": "s2surg-0549",
     "category": "Surg Renal",
     "q": "Post-void volume per p66?",
     "a": "Normal is <50 mL (approximate). Overflow incontinence: about 300-400+ mL. Diabetic neurogenic bladder (hypotonic detrusor from neuropathy) can also cause overflow incontinence and post-renal azotemia; hydronephrosis (large dilated kidneys) is a rare diagnosis.",
@@ -7007,7 +7051,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0546",
+    "id": "s2surg-0550",
     "category": "Surg Renal",
     "q": "Nephritic vs nephrotic per p66?",
     "a": "Nephritic conditions have blood in the urine; nephrotic syndromes do not.",
@@ -7018,7 +7062,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0547",
+    "id": "s2surg-0551",
     "category": "Surg Renal",
     "q": "Four features of nephritic syndrome per p66?",
     "a": "1) Hematuria. 2) Oliguria (<400 mL/day; USMLE will not assess the number). 3) Azotemia (high BUN, from low urine output). 4) Hypertension (RAAS activation due to inflammation of renal microvasculature).",
@@ -7029,7 +7073,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0548",
+    "id": "s2surg-0552",
     "category": "Surg Renal",
     "q": "Proteinuria in nephritic syndromes per p67?",
     "a": "Nephritic syndromes often have proteinuria, just usually not at nephrotic levels. Do not worry about which conditions are 'both'; know which have hematuria and which do not.",
@@ -7040,7 +7084,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0549",
+    "id": "s2surg-0553",
     "category": "Surg Renal",
     "q": "Thrombosis in nephrotic syndrome per p67?",
     "a": "Increased risk of DVT, renal vein thrombosis and varicocele from loss of antithrombin III in the urine (hypercoagulable state; massive non-specific protein loss from loss of size and charge barrier). NBME: left renal vein thrombus can cause a varicocele.",
@@ -7055,7 +7099,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0550",
+    "id": "s2surg-0554",
     "category": "Surg Renal",
     "q": "PSGN names per p67?",
     "a": "Post-streptococcal glomerulonephritis, aka 'proliferative glomerulonephritis' (an NBME vignette of PSGN has this as the answer) or 'acute glomerulonephritis'.",
@@ -7066,7 +7110,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0551",
+    "id": "s2surg-0555",
     "category": "Surg Renal",
     "q": "PSGN timing per p67?",
     "a": "Red urine 1-3 weeks after a Group A Strep (S. pyogenes) sore throat; IgA nephropathy is red urine 1-3 days after a sore throat.",
@@ -7081,7 +7125,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0552",
+    "id": "s2surg-0556",
     "category": "Surg Renal",
     "q": "PSGN after skin infection per p67?",
     "a": "Can follow impetigo, cellulitis or erysipelas. Example: a 10-year-old with yellow crusts on his arm for 7 days, then red urine: 'acute glomerulonephritis'.",
@@ -7092,7 +7136,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0553",
+    "id": "s2surg-0557",
     "category": "Surg Renal",
     "q": "IgA nephropathy per p67?",
     "a": "Aka Berger disease; IgA deposition in the renal mesangium. Red urine 1-3 days after a sore throat, caused by viral infection not Group A Strep. Can follow GI infections, but USMLE usually avoids this unless within the Henoch-Schonlein purpura constellation.",
@@ -7107,7 +7151,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0554",
+    "id": "s2surg-0558",
     "category": "Surg Renal",
     "q": "Minimal change disease vignette per p68?",
     "a": "Otherwise unexplained edema (peripheral, periorbital, ascites) in a kid without blood in the urine; almost always pediatric (rarely due to Hodgkin in adults). Classically post-viral, but about 50% of vignettes do not mention it. Example: 8-year-old with sniffles for 4 days, then edema a week later.",
@@ -7122,7 +7166,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0555",
+    "id": "s2surg-0559",
     "category": "Surg Renal",
     "q": "Why it is called minimal change per p68?",
     "a": "Light microscopy shows no abnormalities; EM shows effacement of podocytes. Mechanism: 'loss of size and charge barrier'. Corticosteroids are the highly effective treatment.",
@@ -7137,7 +7181,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0556",
+    "id": "s2surg-0560",
     "category": "Surg Renal",
     "q": "Membranous nephropathy causes per p68?",
     "a": "Nephrotic syndrome in a patient with: drugs (dapsone, gold salts, sulfonamides); hepatitis B (hepatitis C rare); visceral cancers (breast, pancreatic); autoimmune primary disease: antibodies against phospholipase A2 receptor.",
@@ -7152,7 +7196,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0557",
+    "id": "s2surg-0561",
     "category": "Surg Renal",
     "q": "Renal amyloidosis per p68?",
     "a": "The answer for nephrotic syndrome in multiple myeloma.",
@@ -7167,7 +7211,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0558",
+    "id": "s2surg-0562",
     "category": "Surg Renal",
     "q": "NBME answer for myeloma kidney issue per p68?",
     "a": "'Renal parenchymal disease' for a kidney issue due to multiple myeloma.",
@@ -7178,7 +7222,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0559",
+    "id": "s2surg-0563",
     "category": "Surg Renal",
     "q": "Chronic renal failure per p68?",
     "a": "Diabetes is the most common cause. Renal failure simply means decreased glomerular filtration rate.",
@@ -7189,7 +7233,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0560",
+    "id": "s2surg-0564",
     "category": "Surg Renal",
     "q": "Hyaline arteriolosclerosis per p68?",
     "a": "Deposition of hyaline (protein) in the walls of renal vasculature. Can have many causes, but on USMLE it is caused by diabetes.",
@@ -7200,7 +7244,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0561",
+    "id": "s2surg-0565",
     "category": "Surg Renal",
     "q": "ACEi/ARBs in diabetes per p68?",
     "a": "First drugs in diabetes with HTN (>130/80 in diabetes, not 140/90), proteinuria, or increased creatinine or renin.",
@@ -7215,7 +7259,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0562",
+    "id": "s2surg-0566",
     "category": "Surg Renal",
     "q": "FSGS per p69?",
     "a": "Answer for nephrotic syndrome in sickle cell; also heroin and HIV. Not as responsive to steroids as MCD. Focal = some glomeruli; diffuse = all; segmental = part of the nephron; global = all of the nephron.",
@@ -7230,7 +7274,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0563",
+    "id": "s2surg-0567",
     "category": "Surg Renal",
     "q": "Acute tubular necrosis presentation per p69?",
     "a": "Sloughing of PCT tubular epithelial cells from chemical or ischemic insult. Only about 50% of questions mention 'muddy brown granular casts' (or dirty/brown pigmented casts); the rest just give oliguria or acutely worsening renal function with a classic ATN etiology.",
@@ -7245,7 +7289,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0564",
+    "id": "s2surg-0568",
     "category": "Surg Renal",
     "q": "Next best step for suspected ATN per p69?",
     "a": "'Measurement of urine sodium and creatinine concentrations' (2CK form); expect FENa >1% and BUN/Cr <20 almost always.",
@@ -7260,7 +7304,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0565",
+    "id": "s2surg-0569",
     "category": "Surg Renal",
     "q": "Drugs causing ATN per p69?",
     "a": "Aminoglycosides (gentamicin, tobramycin, amikacin), cisplatin, IV contrast. Any of these + new oliguria or increased creatinine = ATN even without casts. A new NBME gives many drugs and creatinine 2 (NR 0.1-1.2) and asks what was given: gentamicin.",
@@ -7275,7 +7319,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0566",
+    "id": "s2surg-0570",
     "category": "Surg Renal",
     "q": "Endocarditis treatment then oliguria per p69?",
     "a": "ATN due to gentamicin (empiric endocarditis Tx = gentamicin + vancomycin). The source adds that new literature suggests vancomycin is not reliably nephrotoxic.",
@@ -7290,7 +7334,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0567",
+    "id": "s2surg-0571",
     "category": "Surg Renal",
     "q": "Contrast nephropathy prevention per p69?",
     "a": "Exceedingly HY on 2CK: adequate hydration before IV contrast is the number-one way to prevent it. Answer: '0.9% saline' or 'IV hydration therapy'.",
@@ -7305,7 +7349,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0568",
+    "id": "s2surg-0572",
     "category": "Surg Renal",
     "q": "Urine dipstick in rhabdomyolysis per p69?",
     "a": "False-positive blood: urinalysis shows 2+ blood but only 1-2 RBCs/hpf, because the dipstick cannot differentiate free myoglobin from hemoglobin in RBCs. One Surgery question gives 3-4 RBCs/hpf as negative; true positive RBCs would be like 10-20+/hpf.",
@@ -7320,7 +7364,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0569",
+    "id": "s2surg-0573",
     "category": "Surg Renal",
     "q": "Other rhabdo vignettes per p69?",
     "a": "Half will not mention the false-positive urinalysis and will just say oliguria (ATN). NBME favorite: found at the bottom of stairs with false-positive blood on dipstick and/or oliguria: rhabdomyolysis. Also increased K+ and increased CK.",
@@ -7335,7 +7379,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0570",
+    "id": "s2surg-0574",
     "category": "Surg Renal",
     "q": "Rhabdo lab question per p69?",
     "a": "A 44-year-old man found on a park bench with increased K+, CK and oliguria: rhabdo. If only increased CK + oliguria and 'what is most likely seen': increased K+.",
@@ -7346,7 +7390,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0571",
+    "id": "s2surg-0575",
     "category": "Surg Renal",
     "q": "Cellular swelling in ischemic ATN per p70?",
     "a": "Acute ischemia decreases PCT ATPase activity, intracellular Na+ builds up, water follows, and tubular cells swell. NBME answer for why there is swelling: decreased ATPase activity (similar to swelling + hemolysis in pyruvate kinase deficiency).",
@@ -7357,7 +7401,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0572",
+    "id": "s2surg-0576",
     "category": "Surg Renal",
     "q": "Causes of acute ischemia causing ATN per p70?",
     "a": "Blood loss from trauma/surgery, acute arrhythmia (e.g., 30 seconds of VFib), MI, or acute exacerbation of heart failure (2CK Free 120). These cause ATN, not pre-renal; pre-renal is more subacute/chronic (NSAID use, recent diuretic, dehydration). There are rare exceptions.",
@@ -7372,7 +7416,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0573",
+    "id": "s2surg-0577",
     "category": "Surg Renal",
     "q": "ATN one-liners per p70?",
     "a": "Major surgical blood loss with many packs of RBCs and oliguria 2 days later: ATN. 30-second intra-operative BP of 80/40: ATN. MI (cardiogenic shock) with new oliguria: ATN. Burns over 50% of the body with oliguria: ATN (acute fluid loss, acute decreased perfusion).",
@@ -7383,7 +7427,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0574",
+    "id": "s2surg-0578",
     "category": "Surg Renal",
     "q": "Acute heart failure and ATN per p70?",
     "a": "Difficult because heart failure is classically pre-renal from chronic low flow; in acute exacerbation there is acute marked decreased flow, leading to ATN (on Free 120).",
@@ -7394,7 +7438,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0575",
+    "id": "s2surg-0579",
     "category": "Surg Renal",
     "q": "Interstitial nephritis per p70?",
     "a": "Exceedingly HY, often confused with ATN. Aka interstitial nephropathy or tubulointerstitial nephritis. 'An allergic reaction of the kidney'. 4 of 5 questions: an NSAID, beta-lactam or cephalosporin, then a maculopapular rash and WBCs (eosinophils) in the urine. Only about 50% mention the rash.",
@@ -7409,7 +7453,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0576",
+    "id": "s2surg-0580",
     "category": "Surg Renal",
     "q": "Interstitial nephritis without 'eosinophils' per p70?",
     "a": "The stem need not say eosinophils: a patient on a beta-lactam with WBCs in the urine and no rash is interstitial nephritis. 1 of 5 questions: NSAID, beta-lactam or cephalosporin with just mild proteinuria and hematuria.",
@@ -7424,7 +7468,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0577",
+    "id": "s2surg-0581",
     "category": "Surg Renal",
     "q": "NSAID and edema per p70?",
     "a": "A singular NBME question: simple peripheral edema due to an NSAID with nothing else: interstitial nephropathy. Unusual since 'NSAIDs + edema' classically = pre-renal; the NBME has not been ambiguous: they will ask one or the other.",
@@ -7435,7 +7479,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0578",
+    "id": "s2surg-0582",
     "category": "Surg Renal",
     "q": "Location of interstitial nephritis per p70?",
     "a": "'Renal tubule' if asked which part of the kidney is affected (e.g., efferent arterioles is wrong), even for an NSAID.",
@@ -7446,7 +7490,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0579",
+    "id": "s2surg-0583",
     "category": "Surg Renal",
     "q": "Interstitial nephritis examples per p70?",
     "a": "40M on nafcillin for 6 weeks for MSSA endocarditis with maculopapular rash and urine eosinophils; 60F on naproxen for 6 weeks with peripheral edema; 35F after 10 days of cephalexin with mild proteinuria and hematuria; 35F on ibuprofen with rash and urine eosinophils (asks the location: renal tubule). All: interstitial nephropathy.",
@@ -7461,7 +7505,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0580",
+    "id": "s2surg-0584",
     "category": "Surg Renal",
     "q": "Patient over 50 with cardiovascular risk factors and accelerated HTN per p71?",
     "a": "Renal artery stenosis from atherosclerosis.",
@@ -7472,7 +7516,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0581",
+    "id": "s2surg-0585",
     "category": "Surg Renal",
     "q": "MUDPILES per p71?",
     "a": "High anion-gap metabolic acidoses: Methanol, Uremia (renal failure), DKA, Phenformin (not needed), Iron/Isoniazid, Lactic acidosis, Ethylene glycol, Salicylates (aspirin).",
@@ -7483,7 +7527,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0582",
+    "id": "s2surg-0586",
     "category": "Surg Renal",
     "q": "Anion gap per p71?",
     "a": "Na+ - (Cl- + HCO3-). Normal 8-12; high = 13 or greater.",
@@ -7498,7 +7542,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0583",
+    "id": "s2surg-0587",
     "category": "Surg Renal",
     "q": "RTA types per p71?",
     "a": "Type I: decreased ability to secrete H+ in the cortical collecting duct. Type II: decreased ability to reabsorb HCO3- in the PCT. Type IV: renal resistance to aldosterone or hyporeninemic hypoaldosteronism. Type III is 'hyper-rare'.",
@@ -7513,7 +7557,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0584",
+    "id": "s2surg-0588",
     "category": "Surg Renal",
     "q": "Type IV RTA vignette per p71?",
     "a": "Hyperkalemia (the others do not). An Addisonian-like picture (decreased Na+, increased K+, decreased HCO3-) in a patient with chronic renal failure. Type II can be caused by Fanconi syndrome; type I can have renal parenchymal stones (in the tissue rather than the lumen, source wording).",
@@ -7524,7 +7568,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0585",
+    "id": "s2surg-0589",
     "category": "Surg Renal",
     "q": "Hepatorenal syndrome per p71?",
     "a": "Liver failure can sometimes cause renal failure via 'obscure mechanisms' (source wording). Renal biopsy is almost always normal.",
@@ -7539,7 +7583,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0586",
+    "id": "s2surg-0590",
     "category": "Surg Renal",
     "q": "Renal artery stenosis (RAS) per p71?",
     "a": "Narrowing of one or both renal arteries due to atherosclerosis, causing increased RAAS and BP. The patient is over 50 with cardiovascular risk factors (diabetes, HTN, smoking).",
@@ -7550,7 +7594,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0587",
+    "id": "s2surg-0591",
     "category": "Surg Renal",
     "q": "High anion gap metabolic acidosis per p71?",
     "a": "MUDPILES: methanol, uremia, DKA, phenformin, iron/INH, lactic acidosis, ethylene glycol, salicylates.",
@@ -7561,7 +7605,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0588",
+    "id": "s2surg-0592",
     "category": "Surg Renal",
     "q": "Other ways RAS is tested per p72?",
     "a": "Increased BP in a patient with significant atherosclerosis elsewhere (CABG history, intermittent claudication, carotid bruit): the most likely cause is RAS (atherosclerosis elsewhere implies renal arteries too).",
@@ -7572,7 +7616,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0589",
+    "id": "s2surg-0593",
     "category": "Surg Renal",
     "q": "ACEi/ARB in RAS per p72?",
     "a": "HY: renin and/or creatinine go up (NBME does not care if uni- or bilateral). Patients with compromised renal blood flow are more sensitive to the decreased filtration fraction from ACEi/ARBs. In unilateral RAS, renin is increased only from the affected kidney.",
@@ -7587,7 +7631,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0590",
+    "id": "s2surg-0594",
     "category": "Surg Renal",
     "q": "Diagnosis of RAS per p72?",
     "a": "After renin and aldosterone levels: MR angiography of the renal vessels (the USMLE next best step).",
@@ -7602,7 +7646,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0591",
+    "id": "s2surg-0595",
     "category": "Surg Renal",
     "q": "Fibromuscular dysplasia per p72?",
     "a": "Narrowing of renal arteries in a woman in her 20s-40s; not caused by atherosclerosis and not what 'renal artery stenosis' specifically refers to (atherosclerosis in a patient >50 with CVD). Tunica media hyperplasia (not dysplasia, despite the name) with a 'string of beads' appearance on renal angiogram.",
@@ -7617,7 +7661,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0592",
+    "id": "s2surg-0596",
     "category": "Surg Renal",
     "q": "FMD imaging and carotids per p72?",
     "a": "MR angiography is the answer on NBME for the diagnostic modality. FMD can affect the carotid vessels; a 2CK Surg question gives an FMD vignette and says there is 25% occlusion of one carotid.",
@@ -7632,7 +7676,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0593",
+    "id": "s2surg-0597",
     "category": "Surg Renal",
     "q": "RAS accelerated hypertension per p72?",
     "a": "Patients with pre-existing HTN often have 10-20 years of background HTN that becomes accelerated over a few months to 2 years: slowly developing renal artery atherosclerosis finally reaches the point where the kidney can't maintain autoregulation.",
@@ -7643,7 +7687,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0594",
+    "id": "s2surg-0598",
     "category": "Surg Renal",
     "q": "ACEi/ARB in RAS per p72?",
     "a": "A high-yield factoid asked on NBMEs: ACEi or ARBs cause renin and/or creatinine to go up. Per the source, NBME doesn't care whether it's uni- or bilateral. Kidneys with compromised blood flow are more sensitive to the subtle fall in filtration fraction from ACEi/ARBs.",
@@ -7658,7 +7702,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0595",
+    "id": "s2surg-0599",
     "category": "Surg Renal",
     "q": "Next best diagnostic step in RAS per p72?",
     "a": "After renin and aldosterone levels are obtained, MR angiography of the renal vessels.",
@@ -7669,7 +7713,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0596",
+    "id": "s2surg-0600",
     "category": "Surg Renal",
     "q": "Fibromuscular dysplasia (FMD) per p72?",
     "a": "The answer for narrowing of the renal arteries in a woman in her 20s-40s. Not the same as renal artery stenosis (which specifically means atherosclerosis in a patient >50 with CVD) and not caused by atherosclerosis.",
@@ -7684,7 +7728,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0597",
+    "id": "s2surg-0601",
     "category": "Surg Renal",
     "q": "FMD and carotids per p72?",
     "a": "Can affect the carotid vessels. A 2CK Surg question gives an FMD vignette and also says there is 25% occlusion of one of the carotids.",
@@ -7695,7 +7739,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0598",
+    "id": "s2surg-0602",
     "category": "Surg Renal",
     "q": "PAN vs FMD imaging per p72?",
     "a": "PAN is a medium-vessel vasculitis (discussed in the source's cardio PDF) causing a 'string of pearls' appearance of renal vessels. FMD shows more beading along larger/proximal arterial sections, whereas PAN shows pearls more at vascular termini, with proximal parts more likely spared.",
@@ -7710,7 +7754,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0599",
+    "id": "s2surg-0603",
     "category": "Surg Renal",
     "q": "HY PAN facts per p73?",
     "a": "Causes fibrinoid necrosis. Can be caused by hepatitis B. Spares the pulmonary vasculature. In the NBME PAN-vs-FMD question hepatitis B is not mentioned, but the answer is still PAN.",
@@ -7725,7 +7769,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0600",
+    "id": "s2surg-0604",
     "category": "Surg Renal",
     "q": "Hypertension in a neonate after umbilical artery catheterization per p73-90?",
     "a": "Renal artery thrombosis. USMLE wants 'increased renin, increased aldosterone'. A 2CK NBME question: a child born at 26 weeks, umbilical artery catheter for BP monitoring during pneumonia, 3 weeks later BP 128/86; answer is increased renin, increased aldosterone.",
@@ -7740,7 +7784,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0601",
+    "id": "s2surg-0605",
     "category": "Surg Renal",
     "q": "Uremia labs per p73?",
     "a": "'Uremia' means urea in the blood but refers to symptomatic renal failure with poor labs. USMLE uremic patient: increased K+, decreased HCO3-, decreased Ca2+, increased PO4 3-; Na+ variable.",
@@ -7751,7 +7795,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0602",
+    "id": "s2surg-0606",
     "category": "Surg Renal",
     "q": "Uremic pericarditis and encephalopathy per p73?",
     "a": "Friction rub in a patient with high BUN and Cr = uremic pericarditis; mental status change with high BUN and Cr = uremic encephalopathy. Answer for both = hemodialysis.",
@@ -7766,7 +7810,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0603",
+    "id": "s2surg-0607",
     "category": "Surg Renal",
     "q": "PAN features per p73?",
     "a": "Causes fibrinoid necrosis. Can be caused by hepatitis B. Spares the pulmonary vasculature.",
@@ -7781,7 +7825,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0604",
+    "id": "s2surg-0608",
     "category": "Surg Renal",
     "q": "Renal artery thrombosis in neonates per p73?",
     "a": "The answer for hypertension in a neonate after umbilical artery catheterization: increased renin, increased aldosterone. Umbilical artery catheterization is a major risk factor for renal artery thrombosis in neonates.",
@@ -7796,7 +7840,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0605",
+    "id": "s2surg-0609",
     "category": "Surg Renal",
     "q": "Uremic frost per p74?",
     "a": "Yellow skin in severe renal failure from decreased ability to excrete urea; excess is excreted in sweat and precipitates as white crystalline deposits (frost). Can go with itchy skin (uremic pruritus).",
@@ -7811,7 +7855,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0606",
+    "id": "s2surg-0610",
     "category": "Surg Renal",
     "q": "Urolithiasis diagnosis per p74?",
     "a": "Urolithiasis is the umbrella term for nephrolithiasis and ureterolithiasis. Diagnosed with non-contrast CT of the abdomen and pelvis; KUB is less sensitive.",
@@ -7826,7 +7870,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0607",
+    "id": "s2surg-0611",
     "category": "Surg Renal",
     "q": "Calcium stones per p74?",
     "a": "Most common type (oxalate or phosphate; the source says USMLE does not assess phosphate stones). Most young adults with idiopathic stones have normocalcemia and hypercalciuria. Healthy male in his 20s with sharp flank or groin pain plus RBCs in urine = urolithiasis.",
@@ -7837,7 +7881,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0608",
+    "id": "s2surg-0612",
     "category": "Surg Renal",
     "q": "Milk-alkali syndrome per p74?",
     "a": "Increased calcium plus increased bicarbonate plus calcium stones. Textbook: too many antacids, but the vignette usually does not mention it and it is a diagnosis of exclusion.",
@@ -7852,7 +7896,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0609",
+    "id": "s2surg-0613",
     "category": "Surg Renal",
     "q": "Stone prevention per p74?",
     "a": "First step in prevention and treatment: adequate hydration. Thiazides prevent recurrent stones by decreasing urinary calcium; the NBME 'why' answer is increased reabsorption of calcium.",
@@ -7867,7 +7911,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0610",
+    "id": "s2surg-0614",
     "category": "Surg Renal",
     "q": "Urine pH and stones per p74?",
     "a": "In theory, alkalinization of the urine can help treat oxalate stones and acidification can help treat phosphate stones.",
@@ -7882,7 +7926,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0611",
+    "id": "s2surg-0615",
     "category": "Surg Renal",
     "q": "Struvite stone composition and cause per p74?",
     "a": "Ammonium magnesium phosphate. Forms in increased urine pH in the presence of urease-positive bacteria. Klebsiella, Serratia and Proteus are HY causes.",
@@ -7897,7 +7941,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0612",
+    "id": "s2surg-0616",
     "category": "Surg Renal",
     "q": "Cystinuria per p75?",
     "a": "Hexagonal cystine stones in a young adult from inability to reabsorb the COLA (dibasic) amino acids: Cysteine, Ornithine, Lysine, Arginine. Cystine is two cysteines. Diagnosed with the cyanide-nitroprusside test. The source calls it a nonsense diagnosis that only appears as a distractor.",
@@ -7912,7 +7956,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0613",
+    "id": "s2surg-0617",
     "category": "Surg Renal",
     "q": "Uric acid stones per p75?",
     "a": "Seen in patients who have gout. Not complicated. First-line treatment for chronic gout is xanthine oxidase inhibitors (allopurinol or febuxostat), preferred over uricosurics (probenecid, sulfinpyrazone) because the latter increase the risk of uric acid stones.",
@@ -7927,7 +7971,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0614",
+    "id": "s2surg-0618",
     "category": "Surg Renal",
     "q": "Probenecid mechanism per p75?",
     "a": "Probenecid and sulfinpyrazone inhibit the organic anion transporter (OAT), which normally increases uric acid absorption. Probenecid also helps maintain serum beta-lactam levels because beta-lactams are excreted by OAT; old-school docs combine them. The patient does not have gout; it is just decreasing renal excretion of the beta-lactam.",
@@ -7942,7 +7986,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0615",
+    "id": "s2surg-0619",
     "category": "Surg Renal",
     "q": "Cystine stones per p75?",
     "a": "Cystine is two cysteines. Hexagonal stones in a young adult from inability to reabsorb the COLA (dibasic) amino acids (Cysteine, Ornithine, Lysine, Arginine). Diagnosed with the cyanide-nitroprusside test.",
@@ -7953,7 +7997,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0616",
+    "id": "s2surg-0620",
     "category": "Surg Renal",
     "q": "Drug crystal nephropathy per p75?",
     "a": "Acyclovir (HSV, shingles) and indinavir (HIV) can cause crystal nephropathy. The source says not particularly HY.",
@@ -7968,7 +8012,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0617",
+    "id": "s2surg-0621",
     "category": "Surg Renal",
     "q": "Hypertension in ADPKD per p75?",
     "a": "Increased RAAS from compression of the kidney's microvasculature by enlarging cysts.",
@@ -7979,7 +8023,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0618",
+    "id": "s2surg-0622",
     "category": "Surg Renal",
     "q": "ADPKD and the circle of Willis per p75?",
     "a": "Can cause saccular (berry) aneurysms of the circle of Willis with SAH risk. Highest-yield: serial BP checks are correct, not MR angiogram screening (a wrong answer on USMLE). MR angiogram screening is only done with a positive family history of SAH or saccular aneurysms.",
@@ -7994,7 +8038,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0619",
+    "id": "s2surg-0623",
     "category": "Surg Renal",
     "q": "ARPKD per p75?",
     "a": "Autosomal recessive polycystic kidney disease, chromosome 6. USMLE answer for cystic kidneys in pediatrics. Can be associated with hepatic fibrosis.",
@@ -8009,7 +8053,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0620",
+    "id": "s2surg-0624",
     "category": "Surg Renal",
     "q": "Other cystic conditions per p75?",
     "a": "Renal cysts can occasionally develop in other conditions such as chronic dialysis patients. Medullary sponge kidney is called a waste of time for USMLE.",
@@ -8020,7 +8064,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0621",
+    "id": "s2surg-0625",
     "category": "Surg Renal",
     "q": "Posterior urethral valves per p75?",
     "a": "Most common genitourinary abnormality in neonatal males. Abnormal valves at the posterior (prostatic) urethra block urine outflow. Severity varies: most severe is in utero oligohydramnios; a 12-hour-old neonate who has not urinated with a suprapubic mass (full bladder); or a 6-week-old boy with a full bladder (partial obstruction). Obstructed outflow raises risk for UTIs, cystitis and pyelonephritis.",
@@ -8035,7 +8079,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0622",
+    "id": "s2surg-0626",
     "category": "Surg Renal",
     "q": "Diagnosing posterior urethral valves per p75?",
     "a": "Highest-yield: ultrasound followed by voiding cystourethrogram. NBME stems may already mention a negative ultrasound or omit it, so you just select 'voiding cystourethrogram'.",
@@ -8050,7 +8094,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0623",
+    "id": "s2surg-0627",
     "category": "Surg Renal",
     "q": "ADPKD aneurysms per p75?",
     "a": "Can cause saccular (berry) aneurysms of the circle of Willis, with risk of subarachnoid hemorrhage. The highest-yield point: serial blood pressure checks are correct over circle of Willis MR angiogram screening, which is the wrong answer on USMLE. MRA screening is done only with a positive family history of SAH or saccular aneurysms.",
@@ -8065,7 +8109,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0624",
+    "id": "s2surg-0628",
     "category": "Surg Renal",
     "q": "ADPKD liver cysts per p75?",
     "a": "The most common extra-renal location for cysts is the liver (85% by age 30, per the source).",
@@ -8076,7 +8120,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0625",
+    "id": "s2surg-0629",
     "category": "Surg Renal",
     "q": "PKHD1 per p75?",
     "a": "Autosomal recessive polycystic kidney disease. The answer on USMLE for cystic kidneys in pediatrics. Can be associated with hepatic fibrosis.",
@@ -8091,7 +8135,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0626",
+    "id": "s2surg-0630",
     "category": "Surg Renal",
     "q": "Vesicoureteral reflux per p76?",
     "a": "Congenital abnormality where urine goes back up from the bladder into the ureter toward the kidney. Increases risk for recurrent acute pyelonephritis leading to chronic pyelonephritis.",
@@ -8102,7 +8146,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0627",
+    "id": "s2surg-0631",
     "category": "Surg Renal",
     "q": "Reflux in pregnancy per p76?",
     "a": "Can occur in pregnancy for 2 reasons: the larger third-trimester uterus can compress the ureters, and progesterone decreases ureteral peristalsis. This is why pregnant women get pyelonephritis, and why asymptomatic bacteriuria is always treated in pregnancy but not in a non-pregnant woman.",
@@ -8117,7 +8161,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0628",
+    "id": "s2surg-0632",
     "category": "Surg Renal",
     "q": "Acute pyelonephritis presentation per p76?",
     "a": "Infection of the kidney. 9/10 questions mention fever plus costovertebral angle (CVA) tenderness (pain with percussion of the flank). Major risk factors: vesicoureteral reflux (especially in pregnancy) and posterior urethral valves.",
@@ -8128,7 +8172,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0629",
+    "id": "s2surg-0633",
     "category": "Surg Renal",
     "q": "Organisms in pyelonephritis per p76?",
     "a": "Most common is E. coli. Klebsiella, Serratia and Proteus cause struvite stones.",
@@ -8139,7 +8183,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0630",
+    "id": "s2surg-0634",
     "category": "Surg Renal",
     "q": "Bacteria in urine in acute pyelo per p76?",
     "a": "The source's observation: bacteria can be few in the urine in acute pyelo (typical on NBME forms). If the infection is further down (e.g., urethra), bacteria are more copious.",
@@ -8150,7 +8194,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0631",
+    "id": "s2surg-0635",
     "category": "Surg Renal",
     "q": "Treatment of pyelonephritis per p76?",
     "a": "Ciprofloxacin or ceftriaxone; USMLE is known to ask these. Persistent fever despite antibiotics: CT to look for perinephric abscess.",
@@ -8165,7 +8209,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0632",
+    "id": "s2surg-0636",
     "category": "Surg Renal",
     "q": "Perinephric abscess per p76?",
     "a": "Persistent fever despite antibiotic treatment for pyelonephritis: do CT to look for perinephric abscess.",
@@ -8180,7 +8224,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0633",
+    "id": "s2surg-0637",
     "category": "Surg Renal",
     "q": "Cipro side effect scenario per p76?",
     "a": "Older man with high Cr (post-renal from BPH) treated for pyelo, then gets a sore ankle: ciprofloxacin causes tendinopathy.",
@@ -8191,7 +8235,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0634",
+    "id": "s2surg-0638",
     "category": "Surg Renal",
     "q": "Ceftriaxone on 2CK per p76?",
     "a": "A 2CK form has ceftriaxone as the answer in a pyelo question where cipro is not listed. The source's observation: ceftriaxone is a HY 2CK drug for community-acquired general sepsis or severe infections (covers a wide array of community organisms). One 2CK stem mentions amp plus gent for pyelo, but the source has only seen ciprofloxacin or ceftriaxone as actual answers.",
@@ -8202,7 +8246,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0635",
+    "id": "s2surg-0639",
     "category": "Surg Renal",
     "q": "Chronic vs acute pyelo histology per p76?",
     "a": "Chronic pyelo does not present with cellular infiltration like acute pyelo; it refers to the kidney destroyed or shrunken from repeated prior infections.",
@@ -8213,7 +8257,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0636",
+    "id": "s2surg-0640",
     "category": "Surg Renal",
     "q": "Cystitis presentation per p76?",
     "a": "Suprapubic tenderness in a female; she need not have fever. E. coli is the most common cause. Bacteriuria plus pyuria (bacteria and WBCs in urine); urinary nitrites and leukocyte esterase can be positive. These just reflect bacterial infection and organism-specific combinations are low-yield.",
@@ -8224,7 +8268,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0637",
+    "id": "s2surg-0641",
     "category": "Surg Renal",
     "q": "General UTI per p77?",
     "a": "Classically E. coli infection of the urethra; common in women due to shorter urethras. Fimbriae and pili help attachment. Most common mechanism is inoculation after sexual activity. Can be caused by catheters: dysuria plus history of catheter = UTI (also HY in general sepsis with an IV line or catheter history).",
@@ -8235,7 +8279,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0638",
+    "id": "s2surg-0642",
     "category": "Surg Renal",
     "q": "UTI treatment per p77?",
     "a": "Trimethoprim, TMP/SMX or nitrofurantoin are standard treatments for UTI.",
@@ -8250,7 +8294,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0639",
+    "id": "s2surg-0643",
     "category": "Surg Renal",
     "q": "Preventing recurrent UTI per p77?",
     "a": "Post-coital voiding lowers recurrence risk. If it fails, 'post-coital nitrofurantoin therapy' is the 2CK NBME answer. If that fails, 'daily TMP/SMX prophylaxis' (a couple of 2CK assessments, including a girl treated successfully with TMP/SMX before, jump straight to it).",
@@ -8265,7 +8309,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0640",
+    "id": "s2surg-0644",
     "category": "Surg Renal",
     "q": "Dysuria persists after UTI treatment per p77?",
     "a": "Next best step is testing for Chlamydia and Gonorrhea.",
@@ -8280,7 +8324,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0641",
+    "id": "s2surg-0645",
     "category": "Surg Renal",
     "q": "Stress incontinence per p77?",
     "a": "Loss of urine with increased intra-abdominal pressure from laughing, sneezing, coughing. Stereotypical risk factor is grand multiparity (weakened pelvic floor). Only about 50% of questions mention pregnancy; the rest are idiopathic. Buzzy descriptors: 'downward mobility of the vesicourethral junction', 'urethral hypermobility', 'urethral atrophy with loss of urethrovesical angle'.",
@@ -8291,7 +8335,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0642",
+    "id": "s2surg-0646",
     "category": "Surg Renal",
     "q": "Treatment of stress incontinence per p77?",
     "a": "Pelvic floor (Kegel) exercises, which strengthen levator ani, pubococcygeus and the external urethral sphincter.",
@@ -8306,7 +8350,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0643",
+    "id": "s2surg-0647",
     "category": "Surg Renal",
     "q": "Stress incontinence medications and surgery per p77?",
     "a": "Do not give medications for stress incontinence on USMLE. If Kegel exercises fail, a mid-urethral sling (low yield; asked once).",
@@ -8321,7 +8365,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0644",
+    "id": "s2surg-0648",
     "category": "Surg Renal",
     "q": "Many pregnancies + downward movement of the vesicourethral junction per p77?",
     "a": "Stress incontinence. Treatment: pelvic floor (Kegel) exercises; if insufficient, mid-urethral sling.",
@@ -8332,7 +8376,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0645",
+    "id": "s2surg-0649",
     "category": "Surg Renal",
     "q": "Treatment of UTI per p77?",
     "a": "TMP/SMX or nitrofurantoin.",
@@ -8343,7 +8387,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0646",
+    "id": "s2surg-0650",
     "category": "Surg Renal",
     "q": "Mechanism of urge incontinence per p78?",
     "a": "Detrusor hyperactivity (detrusor instability). A vignette may say she has the urge when stepping out of her car or sticking her key in the door.",
@@ -8354,7 +8398,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0647",
+    "id": "s2surg-0651",
     "category": "Surg Renal",
     "q": "UTI vs urge incontinence per p78?",
     "a": "UTIs can transiently cause urgency but are not a cause of urge incontinence. Example: history of urinary catheter with dysuria and urinary urgency, answer = urinary tract infection; 'detrusor hyperactivity' is wrong.",
@@ -8365,7 +8409,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0648",
+    "id": "s2surg-0652",
     "category": "Surg Renal",
     "q": "Treatment of urge incontinence per p78?",
     "a": "Oxybutynin (muscarinic receptor antagonist), which decreases detrusor activity. The source has never seen mirabegron (beta-3 agonist) assessed on NBME forms.",
@@ -8376,7 +8420,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0649",
+    "id": "s2surg-0653",
     "category": "Surg Renal",
     "q": "Old man with high creatinine and BPH per p78?",
     "a": "Post-renal azotemia. Next best step is insertion of a catheter to relieve obstruction (if not listed, measurement of post-void volume). Then treat BPH with finasteride (5-alpha-reductase inhibitor) or an alpha-1 blocker (tamsulosin, terazosin).",
@@ -8387,7 +8431,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0650",
+    "id": "s2surg-0654",
     "category": "Surg Renal",
     "q": "Normal pressure hydrocephalus per p78?",
     "a": "'Wet, wobbly, wacky': urinary incontinence, ataxia, cognitive changes, with or without Parkinsonism (short-steppage gait). Caused by failure of reabsorption of CSF by the arachnoid granulations, impinging on the zona radiata and 'failure to inhibit the voiding reflex' (NBME answer). Head CT: enlarged lateral ventricles.",
@@ -8402,7 +8446,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0651",
+    "id": "s2surg-0655",
     "category": "Surg Renal",
     "q": "AIDS dementia complex per p78?",
     "a": "Presents similarly to NPH: 'wet, wobbly, wacky' in an AIDS patient.",
@@ -8417,7 +8461,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0652",
+    "id": "s2surg-0656",
     "category": "Surg Renal",
     "q": "Bladder neck dyssynergia per p78?",
     "a": "Lack of coordination between the bladder sphincters and detrusor muscle. HY cause is spinal cord injury, which can cause inability to void or urinary incontinence. MS is another theoretical cause, but the source has only seen urge incontinence for MS on NBME exams (Qbank is not NBME).",
@@ -8428,7 +8472,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0653",
+    "id": "s2surg-0657",
     "category": "Surg Renal",
     "q": "Anuria after catheter removal per p78?",
     "a": "Acute urethral obstruction (bladder outflow obstruction) is HY on 2CK forms. Treatment on NBME is re-insertion of a urinary catheter.",
@@ -8439,7 +8483,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0654",
+    "id": "s2surg-0658",
     "category": "Surg Renal",
     "q": "AIDS and dementia per p78?",
     "a": "AIDS can cause dementia, known as AIDS complex dementia. Can present as 'wet, wobbly, wacky', similar to normal pressure hydrocephalus.",
@@ -8454,7 +8498,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0655",
+    "id": "s2surg-0659",
     "category": "Surg Renal",
     "q": "Overflow incontinence per p78?",
     "a": "Incontinence + high post-void volume (usually 300-400 mL in the question; normal is <50 mL). Seen in diabetes (neurogenic bladder), where treatment is bethanechol (muscarinic cholinergic agonist).",
@@ -8465,7 +8509,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0656",
+    "id": "s2surg-0660",
     "category": "Surg Renal",
     "q": "Urethral injury per p79?",
     "a": "Always blood at the urethral meatus. Three presentations: with a saddle injury (falls on a balance beam), with pelvic fracture/instability, or with 'prostate not palpable'. Next best step: retrograde urethrogram.",
@@ -8480,7 +8524,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0657",
+    "id": "s2surg-0661",
     "category": "Surg Renal",
     "q": "Bladder injury per p79?",
     "a": "Blunt abdominal trauma plus exquisite suprapubic tenderness; catheter insertion gives 10-30 mL of dark bloody fluid. Next best step is retrograde cystourethrogram (not voiding cystourethrogram, which is for posterior urethral valves). USMLE-favorite injury for any gynecologic-area surgery.",
@@ -8495,7 +8539,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0658",
+    "id": "s2surg-0662",
     "category": "Surg Renal",
     "q": "Ureteral injury per p79?",
     "a": "Diagnosis is by retrograde pyelogram or CT urogram, but the source has only seen 'ureter' as the answer in questions.",
@@ -8510,7 +8554,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0659",
+    "id": "s2surg-0663",
     "category": "Surg Renal",
     "q": "Renal injury per p79?",
     "a": "Exceedingly HY on 2CK. Bruising or pain over a flank after an accident. Blood in urine is highly sensitive (absent = rule out). If gross blood: CT of the abdomen with contrast (ultrasound is wrong). If no gross blood: urinalysis for microscopic blood; if present, CT abdomen with contrast; if negative, 'no further diagnostic studies indicated'.",
@@ -8525,7 +8569,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0660",
+    "id": "s2surg-0664",
     "category": "Surg Renal",
     "q": "RCC paraneoplastic effects per p79?",
     "a": "Polycythemia from increased EPO and hypercalcemia from PTHrP secretion (same as squamous cell carcinoma of the lung). Example: 55-year-old man with red urine, polycythemia and hypercalcemia plus clear cell image; source of the malignancy = kidney, not lung (lung squamous cell carcinoma does not cause hematuria or metastasize to the kidney).",
@@ -8536,7 +8580,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0661",
+    "id": "s2surg-0665",
     "category": "Surg Renal",
     "q": "Wilms tumor presentation per p79?",
     "a": "The answer for a painless flank mass in a child age 2-4 years. Not in newborns. A 12-hour-old male with a midline mass is posterior urethral valves with a full bladder, not Wilms. A 2-4-year-old with a midline mass is neuroblastoma.",
@@ -8551,7 +8595,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0662",
+    "id": "s2surg-0666",
     "category": "Surg Renal",
     "q": "Wilms tumor genetics per p80?",
     "a": "Sometimes caused by mutations on chromosome 11 (asked on 2CK). There are various Wilms tumor syndromes.",
@@ -8566,7 +8610,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0663",
+    "id": "s2surg-0667",
     "category": "Surg Renal",
     "q": "Beckwith-Wiedemann syndrome per p80?",
     "a": "Wilms tumor plus macrosomia (big baby over 4,000 g), hemihypertrophy, macroglossia, omphalocele and hypoglycemia.",
@@ -8581,7 +8625,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0664",
+    "id": "s2surg-0668",
     "category": "Surg Renal",
     "q": "Hard 2CK BWS question per p80?",
     "a": "Newborn with macrosomia, hemihypertrophy, macroglossia, omphalocele; no mention of Wilms; asked what else could be seen: hypoglycemia. Hard because Wilms plays no role in the vignette.",
@@ -8592,7 +8636,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0665",
+    "id": "s2surg-0669",
     "category": "Surg Renal",
     "q": "WAGR syndrome per p80?",
     "a": "Wilms tumor, Aniridia (iris abnormalities), Genitourinary anomalies, Retardation. Usually easy: 'aniridia' is in the vignette and the answer is Wilms tumor that the child can go on to develop.",
@@ -8607,7 +8651,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0666",
+    "id": "s2surg-0670",
     "category": "Surg Renal",
     "q": "Denys-Drash syndrome per p80?",
     "a": "Ambiguous genitalia plus Wilms tumor.",
@@ -8622,7 +8666,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0667",
+    "id": "s2surg-0671",
     "category": "Surg Renal",
     "q": "Bladder cancer risk factors per p80?",
     "a": "Smoking is the most common risk factor; aniline dyes (industrial clothing dyes) and naphthylamine are important causes.",
@@ -8637,7 +8681,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0668",
+    "id": "s2surg-0672",
     "category": "Surg Renal",
     "q": "Stage 0 bladder cancer and BCG per p80?",
     "a": "2CK Surg stage 0 vignette: endoscopic resection. The source has never seen BCG as a correct NBME answer, only as a distractor (past studies suggested intravesical instillation helps).",
@@ -8652,7 +8696,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0669",
+    "id": "s2surg-0673",
     "category": "Surg Renal",
     "q": "Squamous cell carcinoma of the bladder per p80-100?",
     "a": "Can be caused by Schistosoma haematobium (a trematode/fluke, a helminth). It lays eggs in the bladder wall and cystic veins draining the bladder. Vignette: young man with red urine months after swimming in a lake in Africa = schistosomiasis; or asked what he's at risk of = squamous cell carcinoma.",
@@ -8667,7 +8711,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0670",
+    "id": "s2surg-0674",
     "category": "Surg Renal",
     "q": "Drugs causing renal conditions per p80?",
     "a": "Acute tubular necrosis: aminoglycosides (gentamicin, tobramycin, amikacin), cisplatin. Interstitial nephritis: NSAIDs, beta-lactams, cephalosporins. Membranous glomerulonephropathy: dapsone, gold salts, sulfonamides.",
@@ -8682,7 +8726,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0671",
+    "id": "s2surg-0675",
     "category": "Surg Renal",
     "q": "Furosemide mechanism per p81?",
     "a": "Loop diuretic inhibiting the apical Na+/K+/2Cl- symporter on the thick ascending limb (source says 'ATPase symporter'). Apical = urine side; basolateral = blood side.",
@@ -8697,7 +8741,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0672",
+    "id": "s2surg-0676",
     "category": "Surg Renal",
     "q": "Furosemide efficacy and mortality per p81?",
     "a": "Most efficacious diuretic for fluid unloading in pulmonary and peripheral edema. Does not decrease mortality in cardiac patients.",
@@ -8708,7 +8752,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0673",
+    "id": "s2surg-0677",
     "category": "Surg Renal",
     "q": "Heart failure patient with low O2 sats who refuses to lie back per p81?",
     "a": "Furosemide. CXR or exam may show fluid 2/3 up the lung fields. Do not confuse with ACEi/ARB: those are first line to increase EF in heart failure even if O2 sats are low (decrease AT-II constriction, decrease afterload), but loops are first-line if the vignette emphasizes dyspnea and low O2 sats.",
@@ -8723,7 +8767,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0674",
+    "id": "s2surg-0678",
     "category": "Surg Renal",
     "q": "Second diuretic after furosemide insufficient per p81?",
     "a": "Anything potassium-sparing: ENaC inhibitor (amiloride, triamterene) or aldosterone receptor antagonist (spironolactone, eplerenone); furosemide causes hypokalemia.",
@@ -8734,7 +8778,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0675",
+    "id": "s2surg-0679",
     "category": "Surg Renal",
     "q": "Other loop diuretic effects per p81?",
     "a": "Ototoxicity (tinnitus, vertigo). Loops increase urinary calcium, in contrast with thiazides, which decrease it.",
@@ -8749,7 +8793,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0676",
+    "id": "s2surg-0680",
     "category": "Surg Renal",
     "q": "Ethacrynic acid per p81?",
     "a": "Another loop diuretic; used in patients with sulfa allergy since furosemide is a sulfa drug. Also ototoxic.",
@@ -8764,7 +8808,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0677",
+    "id": "s2surg-0681",
     "category": "Surg Renal",
     "q": "Thiazide mechanism per p81?",
     "a": "HCTZ is HY; chlorthalidone is 'thiazide-like'. Inhibit the Na+/Cl- symporter on the apical membrane of the early DCT.",
@@ -8775,7 +8819,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0678",
+    "id": "s2surg-0682",
     "category": "Surg Renal",
     "q": "First-line HTN drugs per p81?",
     "a": "Thiazides and dihydropyridine calcium channel blockers in patients without renal or cardiovascular issues. With proteinuria, raised creatinine or renin, or pre-diabetes/diabetes: ACEi or ARB first.",
@@ -8786,7 +8830,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0679",
+    "id": "s2surg-0683",
     "category": "Surg Renal",
     "q": "Thiazide in heart failure and diabetes per p81?",
     "a": "Can be used in HF with diabetic nephropathy already on ACEi and beta-blocker; a new 2CK Q has thiazide as correct over spironolactone in a diabetic (spironolactone can cause hyperkalemia with worrisome kidney function).",
@@ -8797,7 +8841,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0680",
+    "id": "s2surg-0684",
     "category": "Surg Renal",
     "q": "ENaC inhibitors per p81?",
     "a": "Amiloride and triamterene block the apical sodium channel in the cortical collecting duct: decreased Na+ and water reabsorption. Potassium-sparing: by inhibiting apical ENaC they indirectly inhibit the basolateral Na+/K+ ATPase, decreasing Na+ reabsorption and K+ secretion.",
@@ -8808,7 +8852,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0681",
+    "id": "s2surg-0685",
     "category": "Surg Renal",
     "q": "Acetazolamide per p81?",
     "a": "Carbonic anhydrase inhibitor acting in PCT tubular cells (H2CO3 to HCO3- plus H+). Classic use is altitude sickness: decreases HCO3- reabsorption in the PCT, raising urinary pH and volume and lowering serum pH and volume. Patients hyperventilate at altitude (low CO2, high pH); the kidney takes at least 12-24 hours to lower HCO3- reabsorption, so acetazolamide forces it by causing metabolic acidosis.",
@@ -8823,7 +8867,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0682",
+    "id": "s2surg-0686",
     "category": "Surg Renal",
     "q": "Furosemide per p81?",
     "a": "Classic loop diuretic that inhibits the apical Na+/K+/2Cl- symporter on the thick ascending limb. Apical = urine side; basolateral = blood side. The source calls it an 'ATPase symporter'.",
@@ -8838,7 +8882,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0683",
+    "id": "s2surg-0687",
     "category": "Surg Renal",
     "q": "Furosemide use per p81?",
     "a": "Most efficacious diuretic for fluid unloading in pulmonary and peripheral edema. Answer for a heart failure patient with low O2 sats who refuses to lie supine because of breathlessness (CXR or exam shows fluid 2/3 up the lung fields). Also the first drug to decrease peripheral edema.",
@@ -8853,7 +8897,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0684",
+    "id": "s2surg-0688",
     "category": "Surg Renal",
     "q": "Loops vs ACEi/ARB per p81?",
     "a": "ACEi/ARBs are first-line to increase EF in heart failure even with low O2 sats (less AT-II arteriolar constriction lowers afterload), but loops are first-line if the vignette emphasizes dyspnea and low O2 sats. Loops do not decrease mortality in cardiac patients; they are only for fluid unloading.",
@@ -8868,7 +8912,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0685",
+    "id": "s2surg-0689",
     "category": "Surg Renal",
     "q": "Loop diuretic adverse effects per p81?",
     "a": "Ototoxicity (tinnitus, vertigo). Hypokalemia: if furosemide is started but insufficient and a second diuretic is needed, the answer is anything potassium-sparing (amiloride, triamterene, spironolactone, eplerenone). Loops increase urinary calcium (thiazides decrease it).",
@@ -8879,7 +8923,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0686",
+    "id": "s2surg-0690",
     "category": "Surg Renal",
     "q": "Ethacrynic acid per p81?",
     "a": "Another loop diuretic, used in patients with sulfa allergies because furosemide is a sulfa drug. Also ototoxic.",
@@ -8894,7 +8938,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0687",
+    "id": "s2surg-0691",
     "category": "Surg Renal",
     "q": "Thiazides per p81?",
     "a": "HCTZ is the HY example; chlorthalidone is thiazide-like. Inhibit the Na+/Cl- symporter on the apical membrane of the early DCT. First-line HTN in patients without renal or cardiovascular issues (with dihydropyridine CCBs). If proteinuria, increased creatinine or renin, or pre-diabetes/diabetes: ACEi or ARB first.",
@@ -8909,7 +8953,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0688",
+    "id": "s2surg-0692",
     "category": "Surg Renal",
     "q": "Thiazides and calcium per p81?",
     "a": "Used to decrease recurrence of calcium stones by promoting reabsorption of urinary calcium; can sometimes cause hypercalcemia.",
@@ -8924,7 +8968,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0689",
+    "id": "s2surg-0693",
     "category": "Surg Renal",
     "q": "Thiazides in diabetic heart failure per p81?",
     "a": "A new 2CK question has a thiazide as correct over spironolactone in a diabetic with diabetic nephropathy and heart failure already on ACEi and beta-blocker. Spironolactone can cause hyperkalemia with worrisome kidney function.",
@@ -8935,7 +8979,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0690",
+    "id": "s2surg-0694",
     "category": "Surg Renal",
     "q": "ENaC inhibitors per p81?",
     "a": "Amiloride and triamterene block the apical sodium channel in the cortical collecting duct, decreasing Na+ and water reabsorption. Potassium-sparing: inhibiting apical ENaC indirectly inhibits the basolateral Na+/K+ ATPase, decreasing Na+ reabsorption and K+ secretion.",
@@ -8950,7 +8994,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0691",
+    "id": "s2surg-0695",
     "category": "Surg Renal",
     "q": "When to choose an ENaC inhibitor per p82?",
     "a": "The Q says a patient with peripheral/pulmonary edema from a cause is already on furosemide and needs more: amiloride or triamterene. Caution: in one Q the patient is on furosemide but needs HTN control, and the answer is a thiazide.",
@@ -8961,7 +9005,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0692",
+    "id": "s2surg-0696",
     "category": "Surg Renal",
     "q": "Spironolactone in heart failure and fluid unloading per p82?",
     "a": "Potassium-sparing; used for fluid unloading in patients already on furosemide in whom we worry about dropping K+ too much. In heart failure it goes up the hierarchy: ACEi/ARB first-line, then add beta-blocker, then spironolactone; but a diabetic with poor renal function gets a thiazide instead (new 2CK NBME).",
@@ -8976,7 +9020,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0693",
+    "id": "s2surg-0697",
     "category": "Surg Renal",
     "q": "Spironolactone other uses and adverse effects per p82?",
     "a": "Aldosteronoma (Conn syndrome) prior to surgery. Can cause gynecomastia (anti-androgenic effect, blocking androgen receptors). Eplerenone has decreased risk of gynecomastia.",
@@ -8991,7 +9035,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0694",
+    "id": "s2surg-0698",
     "category": "Surg Renal",
     "q": "Second diuretic with furosemide per p82?",
     "a": "Answer is an ENaC inhibitor (amiloride or triamterene) when the question says edema from X cause, already on furosemide, what now. Careful: one question had the patient on furosemide but needed HTN control, and the answer was a thiazide.",
@@ -9002,7 +9046,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0695",
+    "id": "s2surg-0699",
     "category": "Surg Renal",
     "q": "Spironolactone and eplerenone mechanism per p82?",
     "a": "Aldosterone receptor antagonists. Blocking the aldosterone receptor decreases basolateral Na+/K+ ATPase activity, indirectly decreasing apical ENaC activity, sodium and water reabsorption. Potassium-sparing; used for fluid unloading in a patient already on furosemide when K+ loss is a worry.",
@@ -9013,7 +9057,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0696",
+    "id": "s2surg-0700",
     "category": "Surg Renal",
     "q": "Spironolactone in heart failure per p82?",
     "a": "Up the hierarchy of heart failure meds: ACEi/ARB first-line, then add beta-blocker, then spironolactone (but if the patient is diabetic with poor renal function, give a thiazide instead, per the new 2CK NBME).",
@@ -9028,7 +9072,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0697",
+    "id": "s2surg-0701",
     "category": "Surg Renal",
     "q": "Spironolactone other uses per p82?",
     "a": "Can be used for aldosteronoma (Conn syndrome) prior to surgery. Can cause gynecomastia (anti-androgenic effect by blocking androgen receptors). Eplerenone has lower gynecomastia risk, but the source says USMLE does not care.",
@@ -9043,7 +9087,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0698",
+    "id": "s2surg-0702",
     "category": "Surg Renal",
     "q": "Tolvaptan and conivaptan per p82?",
     "a": "ADH receptor antagonists at the V2 receptor in the medullary collecting duct. Can be used for SIADH. Demeclocycline is also an answer on 2CK NBME for SIADH.",
@@ -9058,7 +9102,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0699",
+    "id": "s2surg-0703",
     "category": "Surg Renal",
     "q": "ADH receptor antagonists per p82?",
     "a": "Conivaptan and tolvaptan can be used for SIADH.",
@@ -9073,7 +9117,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0700",
+    "id": "s2surg-0704",
     "category": "Surg Gastro",
     "q": "Hiatal hernia diagnosis and treatment per p83?",
     "a": "Often associated with GERD. Diagnose with upper endoscopy. Operative repair is the treatment (per the source).",
@@ -9088,7 +9132,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0701",
+    "id": "s2surg-0705",
     "category": "Surg Gastro",
     "q": "GERD causes per p83?",
     "a": "Irritation of the esophageal mucosa by gastric acid, usually from decreased lower esophageal sphincter (LES) tone. Obesity is a risk factor (stretching and pressure on the LES); hiatal hernia is also a risk factor.",
@@ -9103,7 +9147,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0702",
+    "id": "s2surg-0706",
     "category": "Surg Gastro",
     "q": "GERD presentation per p83?",
     "a": "Classic: burning in the throat/chest after a meal. Can present with nocturnal cough or recurrent pneumonitis, HY in patients without classic symptoms. Can lead to Barrett esophagus, then esophageal adenocarcinoma.",
@@ -9114,7 +9158,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0703",
+    "id": "s2surg-0707",
     "category": "Surg Gastro",
     "q": "First step in diagnosing GERD per p83?",
     "a": "2-week trial of a proton pump inhibitor (such as omeprazole), which will decrease symptoms. PPIs are more efficacious than H2-blockers (cimetidine); choose the PPI if both are listed. One 2CK form has '2-week trial of H2-blocker' when PPI is not listed.",
@@ -9129,7 +9173,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0704",
+    "id": "s2surg-0708",
     "category": "Surg Gastro",
     "q": "When PPI trial fails per p83?",
     "a": "24-hour esophageal pH monitoring is the answer. Nissen fundoplication is a last resort but is asked on NBMEs.",
@@ -9144,7 +9188,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0705",
+    "id": "s2surg-0709",
     "category": "Surg Gastro",
     "q": "Pediatric GERD presentation per p84?",
     "a": "Coughing up milk 2-3x daily. Not forceful/high-energy (that is pyloric stenosis); not bilious (duodenal atresia, annular pancreas); not choking or spitting up during the first feed (tracheoesophageal fistula).",
@@ -9159,7 +9203,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0706",
+    "id": "s2surg-0710",
     "category": "Surg Gastro",
     "q": "Cause of pediatric GERD per p84?",
     "a": "Immature lower esophageal sphincter.",
@@ -9170,7 +9214,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0707",
+    "id": "s2surg-0711",
     "category": "Surg Gastro",
     "q": "Barrett esophagus on endoscopy per p85?",
     "a": "Can look grossly red on upper endoscopy. Once visualized, the next best step is biopsy to confirm Barrett metaplasia.",
@@ -9185,7 +9229,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0708",
+    "id": "s2surg-0712",
     "category": "Surg Gastro",
     "q": "Next step for dysphagia with alarm features per p85?",
     "a": "2CK wants immediate endoscopy (not barium first). If the stem says endoscopy showed a stricture, the next best step is biopsy of the stricture.",
@@ -9200,7 +9244,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0709",
+    "id": "s2surg-0713",
     "category": "Surg Gastro",
     "q": "Esophageal squamous cell carcinoma per p85?",
     "a": "Affects the upper 2/3 of the esophagus. Biggest USMLE risk factors: heavy smoking and alcohol use. The source calls other risk factors (burns, chemicals, achalasia) nonsense for the exam. Patient over 50, heavy smoker/drinker, with new-onset solid dysphagia or dysphagia progressing to liquids. Immediate endoscopy, then biopsy of a stricture or lesion.",
@@ -9215,7 +9259,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0710",
+    "id": "s2surg-0714",
     "category": "Surg Gastro",
     "q": "Esophageal findings in scleroderma per p86?",
     "a": "An offline NBME wants decreased LES tone and decreased esophageal peristalsis.",
@@ -9226,7 +9270,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0711",
+    "id": "s2surg-0715",
     "category": "Surg Gastro",
     "q": "Zenker diverticulum mechanisms per p86?",
     "a": "Mechanisms listed on USMLE: cricopharyngeal muscle spasm, uncoordinated swallowing, dysphagia, increased oropharyngeal pressure.",
@@ -9241,7 +9285,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0712",
+    "id": "s2surg-0716",
     "category": "Surg Gastro",
     "q": "Zenker diverticulum wall type and presentation per p86?",
     "a": "False diverticulum (only mucosa + submucosa; true diverticula such as Meckel include the muscular layer). Often an overweight male over 40-50 with gurgling sounds when swallowing, or regurgitation of undigested food. Halitosis is buzzy but only mentioned in maybe 1/3 of questions.",
@@ -9256,7 +9300,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0713",
+    "id": "s2surg-0717",
     "category": "Surg Gastro",
     "q": "Zenker diagnosis and 2CK/NBME treatment per p86?",
     "a": "Diagnosis: barium swallow. Treatment on 2CK/NBME: diverticulectomy.",
@@ -9271,7 +9315,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0714",
+    "id": "s2surg-0718",
     "category": "Surg Gastro",
     "q": "Achalasia pathophysiology per p86?",
     "a": "Increased LES tone from loss of NO-secreting neurons in the Auerbach (myenteric) plexus. New NBME wants 'enteric ganglia' as the site. Can be described as 'dilated esophagus with constriction of the gastroesophageal junction.'",
@@ -9286,7 +9330,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0715",
+    "id": "s2surg-0719",
     "category": "Surg Gastro",
     "q": "Achalasia vs cancer dysphagia pattern per p86?",
     "a": "Achalasia: dysphagia to both solids and liquids from the start (neurogenic causes give solids + liquids). Cancer: new-onset dysphagia to solids only, or progression from solids to solids + liquids.",
@@ -9297,7 +9341,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0716",
+    "id": "s2surg-0720",
     "category": "Surg Gastro",
     "q": "Achalasia cause per p86?",
     "a": "Almost always idiopathic; rarely Chagas disease. New 2CK NBME has 'South American trypanosomiasis' as the answer for achalasia (aka Chagas disease).",
@@ -9308,7 +9352,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0717",
+    "id": "s2surg-0721",
     "category": "Surg Gastro",
     "q": "Achalasia confirmation and treatment per p86?",
     "a": "After barium, esophageal manometry (pressure study) is confirmatory; biopsy is not traditionally performed. Treatment per source: pneumatic (balloon) dilation, followed by myotomy of LES muscle fibers.",
@@ -9323,7 +9367,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0718",
+    "id": "s2surg-0722",
     "category": "Surg Gastro",
     "q": "Systemic sclerosis esophageal involvement per p86?",
     "a": "Idiopathic autoimmune disease with multi-organ fibrosis and hardening of tissue. Can lead to GERD; NBME wants decreased LES tone and decreased esophageal peristalsis (the esophageal dysmotility of CREST: Calcinosis, Raynaud, Esophageal dysmotility, Sclerodactyly, Telangiectasias).",
@@ -9334,7 +9378,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0719",
+    "id": "s2surg-0723",
     "category": "Surg Gastro",
     "q": "Esophageal perforation causes and diagnosis per p86?",
     "a": "Iatrogenic (e.g., endoscopy) or Boerhaave syndrome (increased pressure from retching, vomiting or straining). USMLE likes a water-soluble contrast swallow showing accumulation in the mediastinum; otherwise the stem gives recent endoscopy or straining with acute low BP and high HR.",
@@ -9349,7 +9393,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0720",
+    "id": "s2surg-0724",
     "category": "Surg Gastro",
     "q": "Highest-yield Mallory-Weiss point per p87?",
     "a": "It does not cause high-volume hematemesis. High-volume blood in the vignette means ruptured varix instead (source's observation of NBME material).",
@@ -9360,7 +9404,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0721",
+    "id": "s2surg-0725",
     "category": "Surg Gastro",
     "q": "Vessel responsible for varices in cirrhosis per p87?",
     "a": "Left gastric vein: it connects the esophageal veins to the portal vein, so increased portal pressure backs up through the left gastric vein into the esophageal veins. Many USMLE questions want 'left gastric vein.'",
@@ -9371,7 +9415,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0722",
+    "id": "s2surg-0726",
     "category": "Surg Gastro",
     "q": "Variceal bleeding clinical pattern per p87?",
     "a": "Source observation: 4/5 NBME varices questions give high-volume hematemesis (versus 'just a little blood' for Mallory-Weiss). Ruptured varices are lethal about 50% of the time. 1/5 might say 'just a little blood' if the varix is friable but not overtly ruptured; the vignette will be obvious (cirrhosis) and may ask for 'left gastric vein.'",
@@ -9386,7 +9430,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0723",
+    "id": "s2surg-0727",
     "category": "Surg Gastro",
     "q": "Propranolol in varices per p87?",
     "a": "Prophylaxis, not acute treatment.",
@@ -9401,7 +9445,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0724",
+    "id": "s2surg-0728",
     "category": "Surg Gastro",
     "q": "Acute variceal bleeding treatment per p87?",
     "a": "Endoscopy + banding is the best USMLE answer when forced to choose; octreotide can also be used for acute bleeding.",
@@ -9416,7 +9460,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0725",
+    "id": "s2surg-0729",
     "category": "Surg Gastro",
     "q": "Nutcracker esophagus per p88?",
     "a": "Similar to DES: idiopathic hyperperistalsis causing pain similar to DES.",
@@ -9427,7 +9471,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0726",
+    "id": "s2surg-0730",
     "category": "Surg Gastro",
     "q": "Schatzki ring per p88?",
     "a": "Source: low-yield; never seen assessed as a correct answer on NBME material, maybe once as a distractor. It is technically a narrowing of the distal esophagus that could be in the differential alongside achalasia.",
@@ -9442,7 +9486,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0727",
+    "id": "s2surg-0731",
     "category": "Surg Gastro",
     "q": "Peptic ulcer pain pattern per p89?",
     "a": "'Peptic ulcer' covers duodenal and gastric ulcers. Gastric: pain immediately with meals (increased acid secretion); may lose weight from aversion to pain. Duodenal: pain 1-2 hours after meals (acid entering duodenum); the pylorus tightens with meals and relieves residual discomfort, so patients may gain weight since eating decreases pain.",
@@ -9453,7 +9497,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0728",
+    "id": "s2surg-0732",
     "category": "Surg Gastro",
     "q": "H. pylori share of ulcers per p89?",
     "a": "Source: responsible for almost all duodenal ulcers (>95%) and >60% of gastric ulcers. The lower gastric share is only because gastric ulcers have many other causes; no special tropism for duodenal mucosa.",
@@ -9468,7 +9512,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0729",
+    "id": "s2surg-0733",
     "category": "Surg Gastro",
     "q": "H. pylori ulcer mechanism per p89?",
     "a": "'Secretes proteinaceous substrates that damage mucosal lining' is correct over 'increased gastric acid secretion' if both are listed, even though H. pylori does raise gastrin and thus acid.",
@@ -9479,7 +9523,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0730",
+    "id": "s2surg-0734",
     "category": "Surg Gastro",
     "q": "H. pylori urease and complications per p89?",
     "a": "Urease raises ammonia around the organism so it survives the low stomach pH. Antral/pyloric ulcers can cause gastric outlet obstruction (a 'succussion splash' in a Surg question). Increased risk of MALT lymphoma, a B-cell lymphoma.",
@@ -9490,7 +9534,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0731",
+    "id": "s2surg-0735",
     "category": "Surg Gastro",
     "q": "H. pylori diagnosis and treatment per p89?",
     "a": "Diagnose with urease breath test or stool antigen. Source treatment: CAP (clarithromycin, amoxicillin, PPI); if CAP fails, metronidazole, tetracycline, bismuth and PPI.",
@@ -9505,7 +9549,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0732",
+    "id": "s2surg-0736",
     "category": "Surg Gastro",
     "q": "Perforated duodenal ulcer per p89?",
     "a": "Sudden-onset rigid abdomen (involuntary guarding); often SIRS with abnormal vitals from sympathetic activation. USMLE wants chest and abdominal X-rays to look for air under the diaphragm (ruptured viscus).",
@@ -9520,7 +9564,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0733",
+    "id": "s2surg-0737",
     "category": "Surg Gastro",
     "q": "Zollinger-Ellison syndrome per p89?",
     "a": "Gastrinoma causing recurrent duodenal ulcers and sometimes jejunal or ileal ulcers. Can be part of MEN1 or idiopathic.",
@@ -9535,7 +9579,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0734",
+    "id": "s2surg-0738",
     "category": "Surg Gastro",
     "q": "Older male with duodenal ulcer and no other info: most likely cause per p89?",
     "a": "Testing for H. pylori (NBME). Gastrinoma is wrong because H. pylori is more common (>95% of duodenal ulcers per the source).",
@@ -9546,7 +9590,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0735",
+    "id": "s2surg-0739",
     "category": "Surg Gastro",
     "q": "NSAID ulcers per p89?",
     "a": "Cause gastric ulcers (source hasn't seen duodenal ulcers from NSAIDs on USMLE). NSAIDs decrease prostaglandins, which are needed for gastric alkaline mucus and mucosal maintenance, leading to ulcers and gastritis. PPIs are first-line for ulcers in general; misoprostol (PGE1 analogue) is used in NSAID-induced ulcers to replace lost prostaglandin.",
@@ -9561,7 +9605,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0736",
+    "id": "s2surg-0740",
     "category": "Surg Gastro",
     "q": "Burn-related ulcers per p89?",
     "a": "Curling ulcers (rare): fluid loss after burns from evaporation decreases blood flow to the stomach, causing ischemic ulcers.",
@@ -9576,7 +9620,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0737",
+    "id": "s2surg-0741",
     "category": "Surg Gastro",
     "q": "Head trauma ulcers per p89-116?",
     "a": "Rare. Head trauma or brain tumor raises intracranial pressure, increasing parasympathetic outflow to the stomach, more ACh at muscarinic receptors on parietal cells, more acid. Three synergistic acid stimulators: 1) gastrin binding gastrin receptors on parietal cells; 2) gastrin stimulating ECL cells to release histamine, which binds H2 receptors; 3) direct parasympathetic ACh at muscarinic receptors.",
@@ -9587,7 +9631,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0738",
+    "id": "s2surg-0742",
     "category": "Surg Gastro",
     "q": "Smoking and alcohol in ulcers per p90?",
     "a": "Not tested as overt ulcer causes on USMLE, but believed to decrease healing of pre-existing ulcers.",
@@ -9598,7 +9642,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0739",
+    "id": "s2surg-0743",
     "category": "Surg Gastro",
     "q": "Acute vs chronic gastritis per p90?",
     "a": "Acute: irritation leading to bleeding of gastric mucosa (e.g., from NSAIDs). Chronic: atrophy or autoimmune destruction with decreased mucosal thickness, decreased HCl (achlorhydria), increased gastrin, and ECL cell hyperplasia (histamine compensating for low acid). NBME gives this constellation with 'chronic gastritis' as the answer and acute gastritis not listed.",
@@ -9613,7 +9657,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0740",
+    "id": "s2surg-0744",
     "category": "Surg Gastro",
     "q": "H. pylori gastritis per p90?",
     "a": "Causes 'type B gastritis' tending to affect the antrum. Can lead to pyloric channel ulcers and gastric outlet obstruction ('succussion splash' on 2CK).",
@@ -9624,7 +9668,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0741",
+    "id": "s2surg-0745",
     "category": "Surg Gastro",
     "q": "Pernicious anemia per p90?",
     "a": "Type A gastritis affecting the fundus/body. Autoimmune antibody-mediated destruction of parietal cells; sometimes antibodies against intrinsic factor. Ultra-HY cause of B12 deficiency (high MCV, hypersegmented neutrophils, +/- neuropathy). Associated with other autoimmune diseases (e.g., vitiligo, type I diabetes); high MCV in a type I diabetic should prompt this.",
@@ -9639,7 +9683,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0742",
+    "id": "s2surg-0746",
     "category": "Surg Gastro",
     "q": "Gastric cancer histology and gross appearance per p90?",
     "a": "Intestinal vs diffuse types don't matter for USMLE. Histology shows signet-ring cells containing mucin. Grossly can cause linitis plastica (leather bottle stomach).",
@@ -9654,7 +9698,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0743",
+    "id": "s2surg-0747",
     "category": "Surg Gastro",
     "q": "Gastric cancer metastasis to ovaries per p90?",
     "a": "Hematogenous spread to the ovaries, appearing as bilateral ovarian lesions with signet-ring cells containing mucin.",
@@ -9669,7 +9713,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0744",
+    "id": "s2surg-0748",
     "category": "Surg Gastro",
     "q": "Gastric cancer associations per p90?",
     "a": "Higher incidence in Japan due to nitrosamines/smoked foods. Acanthosis nigricans can be associated (usually just insulin resistance). Virchow node (Troisier sign): palpable supraclavicular lymph node reflecting visceral malignancy, especially gastric cancer.",
@@ -9680,7 +9724,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0745",
+    "id": "s2surg-0749",
     "category": "Surg Gastro",
     "q": "MALT lymphoma per p90?",
     "a": "B cell lymphoma that can be caused by H. pylori. No signet ring cells.",
@@ -9695,7 +9739,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0746",
+    "id": "s2surg-0750",
     "category": "Surg Gastro",
     "q": "Unconjugated (indirect) bilirubin per p91?",
     "a": "Made from heme breakdown of RBCs at the spleen; leaves bound non-covalently to albumin, not water-soluble, so it does not show up in urine. Increased with hemolysis or increased RBC turnover (sickle cell, hereditary spherocytosis, blood given during surgery).",
@@ -9710,7 +9754,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0747",
+    "id": "s2surg-0751",
     "category": "Surg Gastro",
     "q": "Conjugation of bilirubin and causes of rise in indirect per p91?",
     "a": "At the liver bilirubin is taken up and conjugated to glucuronide, making it water-soluble (direct). A problem with uptake (acute hepatitis) or deficient conjugation enzyme (Gilbert, Crigler-Najjar) also raises indirect bilirubin.",
@@ -9725,7 +9769,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0748",
+    "id": "s2surg-0752",
     "category": "Surg Gastro",
     "q": "Hemolysis raising direct bilirubin per p91?",
     "a": "Direct can rise somewhat too, but the shift is toward indirect: more indirect entering the liver means more direct leaving. 2CK NBME: 9 packs of RBCs in surgery, days later total bilirubin 5.0 and direct 2.3: answer 'overproduction of bilirubin.'",
@@ -9736,7 +9780,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0749",
+    "id": "s2surg-0753",
     "category": "Surg Gastro",
     "q": "Normal newborn hematocrit per p91?",
     "a": "Source: Hct can be in the 50s in the first month (NR 45-61; adults 40-50). 2CK often shows a newborn Hct of 56%, which is normal, not polycythemia. Neonatal unconjugated jaundice can occur from increased RBC turnover as HbF is replaced by HbA.",
@@ -9751,7 +9795,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0750",
+    "id": "s2surg-0754",
     "category": "Surg Gastro",
     "q": "Direct bilirubin and bile duct obstruction per p91?",
     "a": "Direct bilirubin is water-soluble (appears in urine) and secreted into bile. Bile duct obstruction raises direct bilirubin and ALP (secreted by bile duct epithelium), so 'high ALP + high direct bilirubin' is buzzy. If ALP is high but direct bilirubin is not, think bone fractures or Paget disease.",
@@ -9766,7 +9810,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0751",
+    "id": "s2surg-0755",
     "category": "Surg Gastro",
     "q": "GGT per p91?",
     "a": "Rises with bile duct obstruction too (secreted by bile duct epithelium), but USMLE rarely mentions that. What they want: GGT spikes with acute alcohol consumption / binge drinking.",
@@ -9781,7 +9825,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0752",
+    "id": "s2surg-0756",
     "category": "Surg Gastro",
     "q": "Other findings of bile duct obstruction per p91?",
     "a": "Urine becomes darker (direct bilirubin in urine) and stools pale ('acholic'; less direct bilirubin reaches the intestine, so less stercobilin). 'Dark urine + pale stools' is buzzy for obstruction.",
@@ -9792,7 +9836,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0753",
+    "id": "s2surg-0757",
     "category": "Surg Gastro",
     "q": "Acute hepatitis and bilirubin per p91?",
     "a": "Can raise direct bilirubin (decreased secretion into bile) in addition to indirect; makes sense as intrahepatic pathology.",
@@ -9803,7 +9847,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0754",
+    "id": "s2surg-0758",
     "category": "Surg Gastro",
     "q": "Highest-yield cause of very high direct bilirubin per p91?",
     "a": "Biliary atresia in neonates. Source calls Crigler-Najjar (very high indirect in neonates) nonexistent on USMLE.",
@@ -9814,7 +9858,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0755",
+    "id": "s2surg-0759",
     "category": "Surg Gastro",
     "q": "Dubin-Johnson and Rotor per p91?",
     "a": "Source: virtually nonexistent on USMLE; they raise direct bilirubin in adults due to decreased bile excretory pumps at the liver. Dubin-Johnson asked once on a new 2CK NBME form.",
@@ -9829,7 +9873,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0756",
+    "id": "s2surg-0760",
     "category": "Surg Gastro",
     "q": "HY causes of bile duct obstruction per p91?",
     "a": "Cholangitis, choledocholithiasis, choledochal cyst, head of pancreas cancer (impinging the common bile duct), and cholangiocarcinoma.",
@@ -9840,7 +9884,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0757",
+    "id": "s2surg-0761",
     "category": "Surg Gastro",
     "q": "Crigler-Najjar per p92?",
     "a": "Near-absence of UDP-glucuronosyltransferase causing very high indirect bilirubin in a neonate. Source: nonexistent yield.",
@@ -9855,7 +9899,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0758",
+    "id": "s2surg-0762",
     "category": "Surg Gastro",
     "q": "Dubin-Johnson per p92?",
     "a": "Decreased bilirubin excretion into bile (decreased secretory pumps), causing increased direct bilirubin in an otherwise healthy adult. Can cause a black liver in theory. Asked once on a new 2CK NBME; otherwise nonexistent on USMLE material.",
@@ -9870,7 +9914,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0759",
+    "id": "s2surg-0763",
     "category": "Surg Gastro",
     "q": "Rotor syndrome per p92?",
     "a": "Same as Dubin-Johnson but no black liver. Source: nonexistent diagnosis on USMLE.",
@@ -9885,7 +9929,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0760",
+    "id": "s2surg-0764",
     "category": "Surg Gastro",
     "q": "Biliary atresia per p92?",
     "a": "One of the highest-yield Peds diagnoses: answer for very high direct bilirubin in a kid under 6 weeks. Caused by lack of development of the intrahepatic bile ductules and biliary tree. Ultrasound first, but USMLE wants liver biopsy to confirm. Kasai procedure treats, followed by liver transplant if unsuccessful.",
@@ -9900,7 +9944,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0761",
+    "id": "s2surg-0765",
     "category": "Surg Gastro",
     "q": "Primary biliary cirrhosis diagnosis and treatment per p92?",
     "a": "First step anti-mitochondrial antibodies, then liver biopsy to confirm. Initial treatment ursodeoxycholic acid (ursodiol).",
@@ -9915,7 +9959,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0762",
+    "id": "s2surg-0766",
     "category": "Surg Gastro",
     "q": "Fat-soluble vitamins in PBC per p92?",
     "a": "New NBME asks twice about fat-soluble vitamin malabsorption in PBC (deficiency of A and D, one each, with no supporting info). Decreased bile into the small bowel means decreased fat absorption; not special to PBC.",
@@ -9926,7 +9970,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0763",
+    "id": "s2surg-0767",
     "category": "Surg Gastro",
     "q": "Autoimmune hepatitis per p92?",
     "a": "Young adult with increased LFTs and positive anti-smooth muscle antibodies.",
@@ -9941,7 +9985,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0764",
+    "id": "s2surg-0768",
     "category": "Surg Gastro",
     "q": "Cholelithiasis when the patient declines surgery or is pregnant per p92?",
     "a": "Ursodeoxycholic acid (ursodiol).",
@@ -9952,7 +9996,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0765",
+    "id": "s2surg-0769",
     "category": "Surg Gastro",
     "q": "Pancreatic head cancer per p93?",
     "a": "Impinges on the common bile duct, causing obstructive jaundice (high ALP + high direct bilirubin) in a smoker with weight loss, or in a patient whose gallbladder was removed years ago (so not a CBD stone). Afebrile; can have dull abdominal pain.",
@@ -9967,7 +10011,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0766",
+    "id": "s2surg-0770",
     "category": "Surg Gastro",
     "q": "Courvoisier sign per p93?",
     "a": "Painless palpable gallbladder in an afebrile jaundiced patient: pancreatic cancer until proven otherwise (source: pass-level).",
@@ -9982,7 +10026,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0767",
+    "id": "s2surg-0771",
     "category": "Surg Gastro",
     "q": "Pancreatic cancer workup and surgery per p93?",
     "a": "Pancreatic enzymes are normal in pancreatic cancer. USMLE wants CT of the abdomen to diagnose. Whipple procedure removes the head of the pancreas; cancer isolated to the tail gets distal pancreatectomy.",
@@ -9997,7 +10041,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0768",
+    "id": "s2surg-0772",
     "category": "Surg Gastro",
     "q": "After pancreatectomy per p93?",
     "a": "Pancreatic enzyme supplementation; the exam can write this as 'pancrelipase.'",
@@ -10008,7 +10052,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0769",
+    "id": "s2surg-0773",
     "category": "Surg Gastro",
     "q": "Cholangiocarcinoma per p93?",
     "a": "Bile duct cancer. Answer if the vignette sounds like pancreatic cancer but the last line says CT is negative. Next best step: ERCP. Smoking is a risk factor (same as pancreatic cancer). Can be caused by Clonorchis sinensis (trematode).",
@@ -10023,7 +10067,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0770",
+    "id": "s2surg-0774",
     "category": "Surg Gastro",
     "q": "Biliary colic per p93?",
     "a": "Acute-onset waxing/waning spasm-like pain in the epigastrium or RUQ from cholecystokinin causing gallbladder contraction while a stone transiently obstructs bile flow into the cystic duct. 2CK answer: 'obstruction of cystic duct opening by stone.'",
@@ -10034,7 +10078,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0771",
+    "id": "s2surg-0775",
     "category": "Surg Gastro",
     "q": "Cholesterol stone demographics and mechanism per p93?",
     "a": "4Fs: Fat, Forties, Female, Fertile. Estrogen upregulates HMG-CoA reductase, increasing cholesterol synthesis and secretion into bile. NBME answer: 'increased secretion of cholesterol into bile.' Another NBME question asks what the patient most likely has: 'lithogenic bile' (promoting stone formation).",
@@ -10045,7 +10089,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0772",
+    "id": "s2surg-0776",
     "category": "Surg Gastro",
     "q": "Gallstones in pregnancy per p93?",
     "a": "Estrogen effect plus progesterone slowing biliary peristalsis (sludging). Progesterone also slows ureteral peristalsis, raising pyelonephritis risk.",
@@ -10056,7 +10100,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0773",
+    "id": "s2surg-0777",
     "category": "Surg Gastro",
     "q": "Pigment stones per p93?",
     "a": "Cholesterol stones are most common, but pigment (calcium bilirubinate) stones are exceedingly HY in hereditary spherocytosis and sickle cell from increased RBC turnover. Infections can also cause them (LY).",
@@ -10067,7 +10111,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0774",
+    "id": "s2surg-0778",
     "category": "Surg Gastro",
     "q": "Hereditary spherocytosis and gallstones per p93?",
     "a": "Splenectomy reduces cholelithiasis incidence; sometimes the vignette wants cholecystectomy + splenectomy. Parent's history with low Hb points to hereditary spherocytosis (autosomal dominant).",
@@ -10082,7 +10126,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0775",
+    "id": "s2surg-0779",
     "category": "Surg Gastro",
     "q": "Cholelithiasis diagnosis and ursodiol per p93?",
     "a": "Diagnose with abdominal ultrasound. Ursodeoxycholic acid decreases cholesterol secretion into bile; usable in asymptomatic cholelithiasis, patients declining cholecystectomy, and pregnancy.",
@@ -10097,7 +10141,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0776",
+    "id": "s2surg-0780",
     "category": "Surg Gastro",
     "q": "Cholecystitis per p93?",
     "a": "Cholelithiasis plus fever; virtually always stone obstruction with resulting infection. Ultrasound shows the stones; if ultrasound is negative do a HIDA scan. Treatment: cholecystectomy.",
@@ -10112,7 +10156,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0777",
+    "id": "s2surg-0781",
     "category": "Surg Gastro",
     "q": "Why gallstones form in pregnancy per p93?",
     "a": "Progesterone slows biliary peristalsis (sludging). Estrogen upregulates HMG-CoA reductase, increasing hepatic cholesterol synthesis and stone risk.",
@@ -10123,7 +10167,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0778",
+    "id": "s2surg-0782",
     "category": "Surg Gastro",
     "q": "Cholelithiasis per p93?",
     "a": "Diagnose with abdominal ultrasound; fat, forties, female, fertile. With fever: cholecystitis. Treatment: cholecystectomy.",
@@ -10134,7 +10178,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0779",
+    "id": "s2surg-0783",
     "category": "Surg Gastro",
     "q": "Why cholelithiasis in pregnancy per p93?",
     "a": "Estrogen upregulates HMG-CoA reductase and progesterone slows biliary peristalsis.",
@@ -10145,7 +10189,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0780",
+    "id": "s2surg-0784",
     "category": "Surg Gastro",
     "q": "Family history of a heme condition treated with splenectomy per p93?",
     "a": "Hereditary spherocytosis (autosomal dominant).",
@@ -10156,7 +10200,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0781",
+    "id": "s2surg-0785",
     "category": "Surg Gastro",
     "q": "Emphysematous cholecystitis per p94?",
     "a": "Air in the biliary wall. USMLE wants Clostridium perfringens.",
@@ -10171,7 +10215,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0782",
+    "id": "s2surg-0786",
     "category": "Surg Gastro",
     "q": "Chronic cholecystitis per p94?",
     "a": "Calcification of the gallbladder ('porcelain gallbladder'), from repeated bouts of acute cholecystitis.",
@@ -10182,7 +10226,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0783",
+    "id": "s2surg-0787",
     "category": "Surg Gastro",
     "q": "ALP and bilirubin in cholecystitis per p94?",
     "a": "Not increased in 19/20 questions (no CBD obstruction). One odd 2CK NBME question has cholecystitis with high ALP + direct bilirubin, implying concurrent choledocholithiasis.",
@@ -10193,7 +10237,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0784",
+    "id": "s2surg-0788",
     "category": "Surg Gastro",
     "q": "Choledocholithiasis presentation per p94?",
     "a": "Stone anywhere in the biliary tree (not the same as cholelithiasis). Obstructive jaundice (high ALP + direct bilirubin) with history of cholelithiasis or cholecystectomy within the past week; the stem may say intra-operative cholangiography was not performed, though it need not.",
@@ -10204,7 +10248,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0785",
+    "id": "s2surg-0789",
     "category": "Surg Gastro",
     "q": "Choledocholithiasis workup per p94?",
     "a": "USMLE wants abdominal ultrasound followed by ERCP (a question exists asking ultrasound first). Source has never seen MRCP as a correct answer.",
@@ -10219,7 +10263,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0786",
+    "id": "s2surg-0790",
     "category": "Surg Gastro",
     "q": "Choledocholithiasis vs pancreatic cancer per p94?",
     "a": "Obstructive jaundice in a heavy smoker with weight loss, or no gallbladder for 25 years, is head of pancreas cancer. If it sounds like pancreatic cancer but CT is negative: cholangiocarcinoma, do ERCP.",
@@ -10230,7 +10274,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0787",
+    "id": "s2surg-0791",
     "category": "Surg Gastro",
     "q": "Gallstone pancreatitis per p94?",
     "a": "Stone descends in the common bile duct to obstruct the hepatopancreatic ampulla, causing backflow of pancreatic enzymes and acute pancreatitis. If asked for the obstruction location USMLE wants 'hepatopancreatic ampulla' over 'common bile duct.'",
@@ -10241,7 +10285,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0788",
+    "id": "s2surg-0792",
     "category": "Surg Gastro",
     "q": "Gallstone pancreatitis lab pattern per p94?",
     "a": "High ALP, high direct bilirubin, and high amylase/lipase. Pancreatic cancer never has elevated enzymes on USMLE (a pass-level distinguisher).",
@@ -10252,7 +10296,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0789",
+    "id": "s2surg-0793",
     "category": "Surg Gastro",
     "q": "Imaging order in gallstone pancreatitis per p94?",
     "a": "New 2CK NBME has CT of the abdomen first, before ERCP, to look for pancreatic fluid collection.",
@@ -10267,7 +10311,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0790",
+    "id": "s2surg-0794",
     "category": "Surg Gastro",
     "q": "Third cholangitis presentation and treatment per p95?",
     "a": "About 1/5: history of cholelithiasis, implying a descended stone with choledocholithiasis causing obstruction and inflammation. USMLE wants antibiotics + ERCP to diagnose and treat; biliary drainage by ERCP decreases morbidity and mortality.",
@@ -10278,7 +10322,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0791",
+    "id": "s2surg-0795",
     "category": "Surg Gastro",
     "q": "Acute pancreatitis diagnosis and causes per p95?",
     "a": "Increased amylase and/or lipase in a patient with abdominal pain (need not radiate to the back). Biggest risk factors: alcoholism and stones. Hyperlipidemia and hypercalcemia occasionally. Drugs: didanosine (HIV NRTI), exenatide (GLP-1 analogue). Scorpion sting and mumps are nonexistent on USMLE. Gallstone pancreatitis: high enzymes with high ALP and direct bilirubin. Results in enzymatic fat necrosis.",
@@ -10293,7 +10337,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0792",
+    "id": "s2surg-0796",
     "category": "Surg Gastro",
     "q": "Pancreatitis prognosis per p95?",
     "a": "Source: skip Ranson criteria. Know that low serum calcium and high glucose are bad prognostic indicators (low calcium may be the highest-yield variable). The degree of amylase/lipase elevation does not correlate with prognosis (1200 vs 10,000 is unimportant).",
@@ -10308,7 +10352,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0793",
+    "id": "s2surg-0797",
     "category": "Surg Gastro",
     "q": "Amylase vs lipase on NBME per p95?",
     "a": "NBME sometimes lists high amylase without lipase. Lipase is more specific for pancreatitis; don't be confused.",
@@ -10319,7 +10363,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0794",
+    "id": "s2surg-0798",
     "category": "Surg Gastro",
     "q": "Initial management of pancreatitis for 2CK per p95?",
     "a": "Triad: NPO (can be written 'bowel rest'), NG tube decompression, IV normal saline. Not specific to pancreatitis (also cholangitis, stones) but tested a lot there.",
@@ -10334,7 +10378,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0795",
+    "id": "s2surg-0799",
     "category": "Surg Gastro",
     "q": "Next step after initial pancreatitis triad per p95?",
     "a": "CT scan of the abdomen to look for fluid collection. If a pancreatic pseudocyst is present, NBME answer is to drain it by ERCP.",
@@ -10349,7 +10393,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0796",
+    "id": "s2surg-0800",
     "category": "Surg Gastro",
     "q": "Necrosectomy per p96?",
     "a": "Removal of pancreatic tissue when a high fraction is necrotic. Patients with pancreatectomy require enzyme replacement (pancrelipase). Acute pancreatitis is a HY cause of ARDS.",
@@ -10360,7 +10404,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0797",
+    "id": "s2surg-0801",
     "category": "Surg Gastro",
     "q": "Chronic pancreatitis steatorrhea per p96?",
     "a": "Alcoholic or recurrent acute pancreatitis leads to pancreatic burnout with decreased proteases/lipases and malabsorption. Pancreatic enzymes are normal (not elevated). Stem may say increased fat and protein in stool.",
@@ -10375,7 +10419,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0798",
+    "id": "s2surg-0802",
     "category": "Surg Gastro",
     "q": "D-xylose test per p96?",
     "a": "D-xylose is a monosaccharide readily absorbed if the small bowel lining is intact. Steatorrhea with normal D-xylose: pancreatic insufficiency or lactose intolerance. Abnormal D-xylose: intestinal lining problem such as celiac or Crohn.",
@@ -10386,7 +10430,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0799",
+    "id": "s2surg-0803",
     "category": "Surg Gastro",
     "q": "Bile duct leak per p97?",
     "a": "2CK Surg answer for a patient with cholecystectomy within the past week who now has fever, abdominal pain, and increased direct bilirubin.",
@@ -10401,7 +10445,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0800",
+    "id": "s2surg-0804",
     "category": "Surg Gastro",
     "q": "Sphincter of Oddi dysfunction per p97?",
     "a": "Answer when the vignette sounds like gallstone pancreatitis (high ALP, high direct bilirubin, high pancreatic enzymes) but the patient has had no gallbladder for many years, so a stone can't be the cause.",
@@ -10416,7 +10460,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0801",
+    "id": "s2surg-0805",
     "category": "Surg Gastro",
     "q": "Gallstone ileus per p97?",
     "a": "Gallstone enters the small bowel and causes intestinal obstruction. Answer if the stem says 'air in the biliary tree' (pneumobilia). Can come from a cholecystoduodenal fistula (conduit between gallbladder and small bowel in cholelithiasis). A rambling stem ending in 'air in the biliary tree' wants 'gallstone ileus' or 'cholecystoduodenal fistula.'",
@@ -10431,7 +10475,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0802",
+    "id": "s2surg-0806",
     "category": "Surg Gastro",
     "q": "Choledochal cyst per p97?",
     "a": "2CK Surg: nonsense paragraph with high ALP and direct bilirubin + 'CT shows a cystic structure within the biliary tree.' Answer: simple excision of the cyst.",
@@ -10446,7 +10490,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0803",
+    "id": "s2surg-0807",
     "category": "Surg Gastro",
     "q": "PBC recap per p97?",
     "a": "Woman 20s-50s with generalized pruritus, high cholesterol, high ALP, high direct bilirubin, autoimmune history in her or a relative. Anti-mitochondrial antibodies first, then liver biopsy to confirm. Initial treatment ursodiol. One of the highest-yield 2CK diagnoses.",
@@ -10461,7 +10505,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0804",
+    "id": "s2surg-0808",
     "category": "Surg Gastro",
     "q": "Spontaneous bacterial peritonitis scenarios per p97?",
     "a": "Bacterial infection of peritoneal fluid by mixed enteric flora. Answer for diffuse abdominal pain and fever with 1) cirrhosis, 2) recent peritoneal dialysis, or 3) nephrotic syndrome. Stems often omit shifting dullness/fluid wave; infer ascites from the risk factor. A 2CK question: child with minimal change disease with abdominal pain + fever: SBP.",
@@ -10476,7 +10520,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0805",
+    "id": "s2surg-0809",
     "category": "Surg Gastro",
     "q": "SBP diagnosis per p97?",
     "a": "Next best step: abdominal paracentesis (aspiration of peritoneal fluid; not pericardiocentesis). Then choose 'white cell count and differential' first if listed, then gram stain and culture. SBP is diagnosed when paracentesis shows >250 WBCs/uL.",
@@ -10491,7 +10535,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0806",
+    "id": "s2surg-0810",
     "category": "Surg Gastro",
     "q": "Focal nodular hyperplasia per p98?",
     "a": "Adult has abdominal CT for an unrelated reason showing a 1-2-cm hepatic lesion with a central scar, with no mention of trauma or infection. Hepatocellular hyperplasia that needs no treatment; NBME answer: 'no further diagnostic studies indicated.'",
@@ -10506,7 +10550,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0807",
+    "id": "s2surg-0811",
     "category": "Surg Gastro",
     "q": "Cirrhosis basics per p98?",
     "a": "Small, shrunken, burnt-out liver from chronic disease. HY causes: alcoholism, HepB/C, Wilson disease, hemochromatosis, NASH, a1-antitrypsin deficiency. LFTs normal or low (no transaminitis). USMLE likes increased PT and decreased clotting factor synthesis.",
@@ -10517,7 +10561,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0808",
+    "id": "s2surg-0812",
     "category": "Surg Gastro",
     "q": "Hyperammonemia in cirrhosis per p98?",
     "a": "Decreased urea cycle activity (normally in liver) causes hepatic encephalopathy (confusion) and asterixis. Acute exacerbations are triggered by GI bleeds (more ammonia absorption).",
@@ -10532,7 +10576,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0809",
+    "id": "s2surg-0813",
     "category": "Surg Gastro",
     "q": "Other cirrhosis points per p98?",
     "a": "SBP is very HY on 2CK. Esophageal varices from portal pressure backing up to the left gastric vein. Caput medusae are visible periumbilical veins (superior epigastric veins per the source).",
@@ -10543,7 +10587,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0810",
+    "id": "s2surg-0814",
     "category": "Surg Gastro",
     "q": "SIRS definition per p98?",
     "a": "2 or more: temperature <36C or >38C (<96.8F or >100.4F); HR >90; RR >20; WBC <4,000 or >12,000. Matters because abnormal vitals can occur without infection (stress from trauma, surgery, autoimmune flare, sympathetic activation).",
@@ -10558,7 +10602,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0811",
+    "id": "s2surg-0815",
     "category": "Surg Gastro",
     "q": "Sepsis and septic shock per p98?",
     "a": "Sepsis: SIRS + source of infection. Septic shock: sepsis + low BP.",
@@ -10573,7 +10617,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0812",
+    "id": "s2surg-0816",
     "category": "Surg Gastro",
     "q": "Ceftriaxone in septic inpatients per p98?",
     "a": "Frequently the answer for in-hospital septic patients with community-acquired conditions (pneumonia, pyelonephritis, prostatitis). Community-acquired pneumonia is empirically azithromycin (2CK NBME 8), but if septic, go straight to ceftriaxone.",
@@ -10584,7 +10628,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0813",
+    "id": "s2surg-0817",
     "category": "Surg Gastro",
     "q": "Septic hospital-acquired infection per p98?",
     "a": "NBME answer: vancomycin PLUS ceftazidime or cefepime, covering MRSA and Pseudomonas.",
@@ -10599,7 +10643,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0814",
+    "id": "s2surg-0818",
     "category": "Surg Gastro",
     "q": "Surgery history + high-pitched bowel sounds or acute abdominal symptoms per p99?",
     "a": "Small bowel obstruction (SBO).",
@@ -10610,7 +10654,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0815",
+    "id": "s2surg-0819",
     "category": "Surg Gastro",
     "q": "Referred pain: spleen and diaphragm per p100?",
     "a": "Splenic laceration: left upper quadrant pain, +/- referred to the left shoulder (Kehr sign). Diaphragmatic irritation can also cause left shoulder pain (asked on NBME; spleen is the wrong answer when the stem says 'irritation').",
@@ -10625,7 +10669,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0816",
+    "id": "s2surg-0820",
     "category": "Surg Gastro",
     "q": "Referred pain: gallbladder and appendix per p100?",
     "a": "Gallbladder: RUQ or epigastric pain +/- right shoulder. Appendix: epigastric pain first (visceral peritoneal inflammation) migrating to RLQ (parietal peritoneal inflammation).",
@@ -10636,7 +10680,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0817",
+    "id": "s2surg-0821",
     "category": "Surg Gastro",
     "q": "FAP management per p101?",
     "a": "The answer on a 2CK form is total proctocolectomy in an 18-year-old (presumably since the cancer chance is 100% and conservative screening is too difficult).",
@@ -10651,7 +10695,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0818",
+    "id": "s2surg-0822",
     "category": "Surg Gastro",
     "q": "NG tube as the answer per p102?",
     "a": "'Insertion of NG tube' is the answer for tracheoesophageal fistula and choanal atresia (per the HY Pulm PDF).",
@@ -10662,7 +10706,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0819",
+    "id": "s2surg-0823",
     "category": "Surg Gastro",
     "q": "Barium swallow uses per p102?",
     "a": "Suspected Zenker (shows outpouching); first step in achalasia before manometry (bird's beak); do not use for esophageal perforation (mediastinitis if it leaks); usable in aspiration risk since it does not cause pneumonitis.",
@@ -10673,7 +10717,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0820",
+    "id": "s2surg-0824",
     "category": "Surg Gastro",
     "q": "Gastrografin swallow per p102?",
     "a": "Water-soluble contrast swallow. Used for esophageal perforation (no mediastinitis). Do not use if the patient has aspiration risk (pneumonitis); use barium instead.",
@@ -10684,7 +10728,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0821",
+    "id": "s2surg-0825",
     "category": "Surg Gastro",
     "q": "Esophageal manometry per p102?",
     "a": "A pressure study of the esophagus; answer for achalasia after barium shows bird's beak.",
@@ -10695,7 +10739,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0822",
+    "id": "s2surg-0826",
     "category": "Surg Gastro",
     "q": "Endoscopy (EGD) uses per p102?",
     "a": "Immediate answer for new-onset dysphagia with GERD history or heavy smoking/alcohol (esophageal cancer), then biopsy any lesion/stricture. Endoscopy + banding for emergent varices management. Diagnosis of hiatal hernia (NBME). Done in patients over 50 who are H. pylori positive (newer 2CK form). Capsule endoscopy: source says always a wrong answer.",
@@ -10706,7 +10750,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0823",
+    "id": "s2surg-0827",
     "category": "Surg Gastro",
     "q": "Upper GI series per p102?",
     "a": "Contrast swallow followed by X-rays of the upper GI tract; answer for congenital midgut volvulus in pediatrics (shows a corkscrew).",
@@ -10717,7 +10761,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0824",
+    "id": "s2surg-0828",
     "category": "Surg Gastro",
     "q": "Abdominal ultrasound uses per p102?",
     "a": "Cholelithiasis; first step for cholecystitis (if negative, HIDA scan); first step for choledocholithiasis (then ERCP); intussusception (then enema, diagnostic and therapeutic); pyloric stenosis.",
@@ -10732,7 +10776,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0825",
+    "id": "s2surg-0829",
     "category": "Surg Gastro",
     "q": "HIDA scan per p103?",
     "a": "Confirmatory diagnosis of cholecystitis (not cholelithiasis alone) if ultrasound is negative. Radiocontrast is secreted into bile: gallbladder lights up = no cystic duct obstruction (negative); no uptake = stone obstruction, confirms cholecystitis.",
@@ -10743,7 +10787,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0826",
+    "id": "s2surg-0830",
     "category": "Surg Gastro",
     "q": "CT of abdomen uses per p103?",
     "a": "Source: assume contrast CT; non-contrast only for urolithiasis and intracranial bleeds. Uses: pancreatic cancer (highest-yield), liver cancer and focal nodular hyperplasia, renal injury, stable blunt abdominal trauma, diverticulitis.",
@@ -10754,7 +10798,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0827",
+    "id": "s2surg-0831",
     "category": "Surg Gastro",
     "q": "Abdominal X-ray uses per p103-126?",
     "a": "Bowel gas in suspected obstruction (sigmoid volvulus coffee bean sign), duodenal atresia (double-bubble), congenital diaphragmatic hernia (bowel gas in left hemithorax), necrotizing enterocolitis (pneumatosis intestinalis), toxic megacolon if stable. 'X-rays of chest and abdomen' for duodenal ulcer perforation (air under the diaphragm).",
@@ -10765,7 +10809,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0828",
+    "id": "s2surg-0832",
     "category": "Surg Gastro",
     "q": "ERCP per p103?",
     "a": "Type of EGD that enters the biliary tree, removes stones and injects contrast. USMLE answer for choledocholithiasis (including gallstone pancreatitis) after ultrasound, for diagnosis of cholangitis, and for drainage of pancreatic pseudocyst.",
@@ -10780,7 +10824,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0829",
+    "id": "s2surg-0833",
     "category": "Surg Gastro",
     "q": "MRCP and EUS per p103?",
     "a": "MRCP: never seen as correct on NBME; visualizes the biliary tree more safely than ERCP but is not therapeutic. Endoscopic ultrasound: never seen as correct; can diagnose pancreatic cancer if CT is negative or drain fluid collections instead of ERCP.",
@@ -10795,7 +10839,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0830",
+    "id": "s2surg-0834",
     "category": "Surg Gastro",
     "q": "Paracentesis and Meckel scan per p103?",
     "a": "Paracentesis: for SBP; choose white cell count and differential before gram stain/culture; not pericardiocentesis. Meckel scan: radiocontrast uptake scan localizing the diverticulum at the terminal ileum.",
@@ -10806,7 +10850,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0831",
+    "id": "s2surg-0835",
     "category": "Surg Gastro",
     "q": "Colonoscopy indications per p103?",
     "a": "Colorectal cancer, IBD, pseudomembranous colitis. Do not do in diverticulitis (perforation risk; CT instead). Do before excision if anal cancer, to see the extent (2CK: cancer at anal verge, excision is wrong; answer colonoscopy).",
@@ -10817,7 +10861,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0832",
+    "id": "s2surg-0836",
     "category": "Surg Gastro",
     "q": "Colonoscopy with first-degree relative with colon cancer per p103?",
     "a": "Start at age 40 or 10 years before the relative's diagnosis, whichever is earlier (never later than 40); repeat every 5 years. Dad diagnosed at 58: start at 40. Dad at 44: start at 34.",
@@ -10832,7 +10876,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0833",
+    "id": "s2surg-0837",
     "category": "Surg Gastro",
     "q": "Colonoscopy in IBD per p104?",
     "a": "Start 8 years after diagnosis, then every 2-3 years. 2CK NBME: mid-30s patient with IBD diagnosed in 20s and dad with colon cancer in 50s: 'colonoscopy now' (wrong answer: colonoscopy at 40).",
@@ -10847,7 +10891,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0834",
+    "id": "s2surg-0838",
     "category": "Surg Gastro",
     "q": "Colonoscopy after dysplastic polyps per p104?",
     "a": "Repeat every 2-5 years depending on size/morphology.",
@@ -10862,7 +10906,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0835",
+    "id": "s2surg-0839",
     "category": "Surg Gastro",
     "q": "Colonoscopy in hereditary syndromes per p104?",
     "a": "Lynch (HNPCC): start at 20-25, every 1-2 years. FAP: start at 10-12, every 1-2 years, prophylactic proctocolectomy at 18 (NBME). Peutz-Jeghers: start at age 8, every 1-2 years.",
@@ -10877,7 +10921,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0836",
+    "id": "s2surg-0840",
     "category": "Surg Gastro",
     "q": "Sigmoidoscopy per p104?",
     "a": "NBME answer: 'sigmoidoscopy-guided insertion of rectal tube' for treatment of sigmoid volvulus.",
@@ -10888,7 +10932,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0837",
+    "id": "s2surg-0841",
     "category": "Surg Gastro",
     "q": "Anoscopy per p104?",
     "a": "Newer 2CK form: answer for diagnosis of hemorrhoids before banding, to determine extent.",
@@ -10899,7 +10943,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0838",
+    "id": "s2surg-0842",
     "category": "Surg Gastro",
     "q": "Lynch syndrome per p104?",
     "a": "Hereditary non-polyposis colorectal cancer (HNPCC). Mismatch repair genes MSH2/6, MLH1, PMS2; mutations cause microsatellite instability. Colonic polyps/cancer and gynecologic cancer. Colonoscopy from 20-25, every 1-2 years.",
@@ -10914,7 +10958,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0839",
+    "id": "s2surg-0843",
     "category": "Surg Gastro",
     "q": "Familial adenomatous polyposis per p104?",
     "a": "Chromosome 5, autosomal dominant. Hundreds to thousands of polyps; 100% cancer risk. Colonoscopy from 10-12, every 1-2 years, prophylactic proctocolectomy at 18 (NBME).",
@@ -10929,7 +10973,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0840",
+    "id": "s2surg-0844",
     "category": "Surg Gastro",
     "q": "Gardner and Turcot per p104?",
     "a": "FAP + soft tissue tumors (e.g., lipoma) or bone tumors (e.g., skull) = Gardner syndrome. FAP + CNS tumors = Turcot syndrome.",
@@ -10940,7 +10984,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0841",
+    "id": "s2surg-0845",
     "category": "Surg Gastro",
     "q": "Peutz-Jeghers per p104?",
     "a": "Perioral melanosis and hamartomatous colonic polyps. Colonoscopy from age 8, every 1-2 years. On a 2CK NBME.",
@@ -10955,7 +10999,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0842",
+    "id": "s2surg-0846",
     "category": "Surg Gastro",
     "q": "Juvenile polyposis per p104?",
     "a": "Teenager with intermittent rectal bleeding, scattered polyps, biopsy 'dilated, cystic, mucus-filled glands with abundant lamina propria and inflammatory infiltrates.' Only question seen, on new 2CK NBME.",
@@ -10970,7 +11014,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0843",
+    "id": "s2surg-0847",
     "category": "Surg Gastro",
     "q": "Hyperplastic polyps per p104?",
     "a": "Not pre-cancerous; no dysplasia.",
@@ -10981,7 +11025,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0844",
+    "id": "s2surg-0848",
     "category": "Surg Gastro",
     "q": "Dysplastic polyp risk ordering per p104?",
     "a": "Precancerous polyps are tubular or villous, and pedunculated or sessile. Villous is worse than tubular; sessile (flat) is worse than pedunculated (sticks out). Pedunculated tubular is best; sessile villous is worst. Mixed = tubulovillous.",
@@ -10992,7 +11036,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0845",
+    "id": "s2surg-0849",
     "category": "Surg Gastro",
     "q": "Polyp picture in a 65-year-old per p104?",
     "a": "Answer: 'tubular polyp.' Wrong answers are hamartomatous, juvenile, hyperplastic; eliminate without needing the image. Patients with dysplastic polyps need repeat colonoscopy every 2-5 years by size/morphology.",
@@ -11007,7 +11051,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0846",
+    "id": "s2surg-0850",
     "category": "Surg Gastro",
     "q": "APC gene per p104?",
     "a": "Mutations cause familial adenomatous polyposis (FAP); chromosome 5; AD. Hundreds to thousands of polyps on colonoscopy; 100% cancer risk.",
@@ -11022,7 +11066,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0847",
+    "id": "s2surg-0851",
     "category": "Surg Gastro",
     "q": "Gardner and Turcot per p104?",
     "a": "FAP plus soft tissue tumors (e.g., lipoma) or bone tumors (e.g., of the skull) = Gardner syndrome. FAP plus CNS tumors = Turcot syndrome.",
@@ -11037,7 +11081,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0848",
+    "id": "s2surg-0852",
     "category": "Surg Gastro",
     "q": "First gene mutated in colonic polyps per p105?",
     "a": "KRAS on USMLE. Progressive mutations: KRAS, then PTEN, then DCC, then TP53.",
@@ -11052,7 +11096,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0849",
+    "id": "s2surg-0853",
     "category": "Surg Gastro",
     "q": "Colon cancer complications per p105?",
     "a": "Colovesicular fistula: passage between GI tract and bladder leading to UTIs and mixed enteric flora in urine; also assessed for diverticulosis on 2CK; could be Crohn in theory. Strep bovis endocarditis (obscure, rare USMLE point).",
@@ -11067,7 +11111,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0850",
+    "id": "s2surg-0854",
     "category": "Surg Gastro",
     "q": "Pyloric stenosis per p105?",
     "a": "Forceful/projectile non-bilious vomiting in neonate days to weeks old (obstruction above the duodenum). Source says age varies and not to fixate on it. Hypertrophic pylorus; 'olive-shaped mass' is buzzy but rarely seen. Ultrasound to diagnose; myotomy to treat.",
@@ -11082,7 +11126,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0851",
+    "id": "s2surg-0855",
     "category": "Surg Gastro",
     "q": "Pyloric stenosis vs duodenal atresia association per p105?",
     "a": "Pyloric stenosis is almost always a sporadic one-off defect without a syndrome. Duodenal atresia is usually Down syndrome.",
@@ -11093,7 +11137,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0852",
+    "id": "s2surg-0856",
     "category": "Surg Gastro",
     "q": "Annular pancreas per p105?",
     "a": "Another cause of duodenal obstruction with double-bubble sign, much rarer than duodenal atresia.",
@@ -11104,7 +11148,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0853",
+    "id": "s2surg-0857",
     "category": "Surg Gastro",
     "q": "Colon cancer mutation order per p105?",
     "a": "Progressive mutations: first KRAS, then PTEN, then DCC, then TP53 (per the source).",
@@ -11119,7 +11163,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0854",
+    "id": "s2surg-0858",
     "category": "Surg Gastro",
     "q": "Intussusception causes per p106?",
     "a": "Idiopathic, but can follow viral infection or rotavirus vaccination, where mesenteric lymphadenopathy acts as a lead point. Underlying Meckel diverticulum is also a common lead point. Ultra-rare in the elderly, due to colon cancer.",
@@ -11134,7 +11178,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0855",
+    "id": "s2surg-0859",
     "category": "Surg Gastro",
     "q": "Intussusception presentation per p106?",
     "a": "Intermittent/colicky abdominal pain with the child drawing legs to the chest or squatting, blood in stool, +/- bilious vomiting. Sausage-shaped abdominal mass is key but not in all questions.",
@@ -11145,7 +11189,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0856",
+    "id": "s2surg-0860",
     "category": "Surg Gastro",
     "q": "Intussusception diagnosis and treatment per p106?",
     "a": "Ultrasound first (sausage mass or target sign; NBME never shows the image). Then enema is both diagnostic and therapeutic; USMLE doesn't care which type (air-contrast is classic). 'Air enema with ultrasound' is the answer on one 2CK form.",
@@ -11160,7 +11204,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0857",
+    "id": "s2surg-0861",
     "category": "Surg Gastro",
     "q": "Necrotizing enterocolitis per p107-130?",
     "a": "Necrotic bowel in premature neonates born <32 weeks. Presents with pneumatosis intestinalis (air in the bowel wall, like bubbles).",
@@ -11175,7 +11219,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0858",
+    "id": "s2surg-0862",
     "category": "Surg Gastro",
     "q": "Hirschsprung presentation per p107?",
     "a": "Failure to pass stool at birth, or chronic constipation in an infant depending on severity. Do not confuse with meconium ileus (failure to pass stool at birth specifically due to cystic fibrosis).",
@@ -11190,7 +11234,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0859",
+    "id": "s2surg-0863",
     "category": "Surg Gastro",
     "q": "Hirschsprung diagnosis per p107?",
     "a": "Anal manometry showing increased anal sphincter tone, followed by biopsy. Discussed in the HY Pulm PDF.",
@@ -11205,7 +11249,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0860",
+    "id": "s2surg-0864",
     "category": "Surg Gastro",
     "q": "Cystic fibrosis reiteration per p107?",
     "a": "Meconium ileus and exocrine pancreatic insufficiency are exceedingly HY.",
@@ -11216,7 +11260,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0861",
+    "id": "s2surg-0865",
     "category": "Surg Gastro",
     "q": "D-xylose in cystic fibrosis per p108?",
     "a": "Normal, since the intestinal lining is intact; malabsorption is from lack of enzymes. Abnormal D-xylose on USMLE would be celiac or Crohn.",
@@ -11227,7 +11271,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0862",
+    "id": "s2surg-0866",
     "category": "Surg Gastro",
     "q": "Biliary atresia recap per p108?",
     "a": "Very high direct bilirubin in a child under 6 weeks; lack of development of intrahepatic bile ductules and biliary tree. Ultrasound first, USMLE wants liver biopsy to confirm. Kasai procedure, then liver transplant if unsuccessful.",
@@ -11242,7 +11286,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0863",
+    "id": "s2surg-0867",
     "category": "Surg Gastro",
     "q": "IgA deficiency and celiac per p108?",
     "a": "IgA-deficient patients have false-negative tissue transglutaminase IgA results and a 15x greater likelihood of developing celiac (source figure).",
@@ -11257,7 +11301,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0864",
+    "id": "s2surg-0868",
     "category": "Surg Gastro",
     "q": "Celiac presentation per p108?",
     "a": "Vague bloating/diarrhea in patients who can't pinpoint the trigger. One of the highest-yield points: iron deficiency anemia from impaired duodenal iron absorption. Low hemoglobin in a vague vignette with celiac vs lactase deficiency favors celiac.",
@@ -11268,7 +11312,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0865",
+    "id": "s2surg-0869",
     "category": "Surg Gastro",
     "q": "Biopsy of dermatitis herpetiformis per p108?",
     "a": "IgA deposition at the dermal papillae.",
@@ -11279,7 +11323,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0866",
+    "id": "s2surg-0870",
     "category": "Surg Gastro",
     "q": "Small bowel biopsy in Celiac per p108?",
     "a": "Flattening of intestinal villi.",
@@ -11290,7 +11334,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0867",
+    "id": "s2surg-0871",
     "category": "Surg Gastro",
     "q": "Celiac D-xylose, lymphoma and diagnosis per p109?",
     "a": "D-xylose is abnormal (flattened villi). Increased risk of enteropathy-associated T-cell lymphoma (EATL). Diagnosis: antibody screening, then duodenal biopsy to confirm. Treatment: gluten-free diet.",
@@ -11305,7 +11349,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0868",
+    "id": "s2surg-0872",
     "category": "Surg Gastro",
     "q": "Lactose intolerance mechanism per p109?",
     "a": "Deficiency of brush border disaccharidase (lactase). The brush border is at the tips of the villi; GI stem cells are at the base of the crypts (USMLE asks locations). Diarrhea/bloating with dairy; no iron deficiency anemia (versus celiac).",
@@ -11316,7 +11360,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0869",
+    "id": "s2surg-0873",
     "category": "Surg Gastro",
     "q": "Lactose intolerance epidemiology per p109?",
     "a": "Increased incidence in Asians; can develop idiopathically from the teen years onward as lactase production decreases with age. If hemoglobin is low, choose celiac instead.",
@@ -11327,7 +11371,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0870",
+    "id": "s2surg-0874",
     "category": "Surg Gastro",
     "q": "Lactose intolerance diagnosis and treatment per p109?",
     "a": "Biopsy is normal; D-xylose normal. Diagnose with hydrogen breath test or decreased stool pH. Treat with lactose avoidance or lactase pills.",
@@ -11342,7 +11386,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0871",
+    "id": "s2surg-0875",
     "category": "Surg Gastro",
     "q": "IBD basics per p109?",
     "a": "IBD means ulcerative colitis and Crohn. Both can present with bloody, mucoid stools. Both are associated with HLA-B27: PAIR (Psoriasis, Ankylosing spondylitis, IBD, Reactive arthritis).",
@@ -11353,7 +11397,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0872",
+    "id": "s2surg-0876",
     "category": "Surg Gastro",
     "q": "Colon cancer risk in IBD per p109?",
     "a": "Both raise risk if the colon is involved. If forced to choose, UC has greater risk because the colon is always involved in UC but not always in Crohn.",
@@ -11364,7 +11408,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0873",
+    "id": "s2surg-0877",
     "category": "Surg Gastro",
     "q": "IBD + eczematoid plaque on forehead + sore joints per p109?",
     "a": "Psoriatic arthritis. HLA-B27: PAIR (Psoriasis, Ankylosing spondylitis, IBD, Reactive arthritis).",
@@ -11375,7 +11419,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0874",
+    "id": "s2surg-0878",
     "category": "Surg Gastro",
     "q": "Weird Celiac factoid per p109?",
     "a": "Increased risk of T cell lymphoma.",
@@ -11386,7 +11430,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0875",
+    "id": "s2surg-0879",
     "category": "Surg Gastro",
     "q": "Diagnosis of lactose intolerance per p109?",
     "a": "Hydrogen breath test or decreased stool pH.",
@@ -11397,7 +11441,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0876",
+    "id": "s2surg-0880",
     "category": "Surg Gastro",
     "q": "Vague vignette (Celiac vs lactose intolerance) in a young adult with zero prior symptoms per p109?",
     "a": "Lactose intolerance (can be adult-onset).",
@@ -11408,7 +11452,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0877",
+    "id": "s2surg-0881",
     "category": "Surg Gastro",
     "q": "Biologics and cytokines in IBD per p110?",
     "a": "Anti-TNF-alpha agents (infliximab, adalimumab, etanercept) are used in patients failing 5-ASA and steroids. The anti-inflammatory cytokine for IBD is IL-10 (IL-10 and TGF-beta are mostly anti-inflammatory).",
@@ -11423,7 +11467,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0878",
+    "id": "s2surg-0882",
     "category": "Surg Gastro",
     "q": "Ulcerative colitis extent and depth per p110?",
     "a": "Rectum-ascending. Not transmural (mucosa and submucosa only), so no fistulae. Fistulae to the perianal skin or any organ means transmural disease (Crohn).",
@@ -11434,7 +11478,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0879",
+    "id": "s2surg-0883",
     "category": "Surg Gastro",
     "q": "Extra-intestinal UC associations per p110?",
     "a": "Primary sclerosing cholangitis (can be pANCA associated). Pyoderma gangrenosum: rare necrotic skin lesion; NBME describes it as an 'ulcer with necrotic debris.'",
@@ -11449,7 +11493,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0880",
+    "id": "s2surg-0884",
     "category": "Surg Gastro",
     "q": "Toxic megacolon in UC per p110?",
     "a": "Presents as SIRS and sometimes low BP in a UC patient; abdominal X-ray may show a 12-cm cecum (normal 3-8). If BP is normal, 2CK NBME wants steroids first; if unstable go straight to laparotomy.",
@@ -11464,7 +11508,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0881",
+    "id": "s2surg-0885",
     "category": "Surg Gastro",
     "q": "Colectomy in IBD per p110?",
     "a": "Sometimes in severe UC, very rarely in Crohn.",
@@ -11475,7 +11519,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0882",
+    "id": "s2surg-0886",
     "category": "Surg Gastro",
     "q": "Crohn disease location and depth per p110?",
     "a": "'Mouth to anus' (mouth ulcers loved by USMLE), but terminal ileum is highest yield. Transmural: can cause anal fistulae and fistulae to other organs. Colonoscopy shows skip lesions (alternating diseased and normal segments) with cobblestone ulcers.",
@@ -11490,7 +11534,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0883",
+    "id": "s2surg-0887",
     "category": "Surg Gastro",
     "q": "UC + high bilirubin + high ALP per p110?",
     "a": "Primary sclerosing cholangitis.",
@@ -11501,7 +11545,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0884",
+    "id": "s2surg-0888",
     "category": "Surg Gastro",
     "q": "Crohn biopsy per p112?",
     "a": "Non-caseating granulomas. Very HY: Crohn and sarcoidosis both have non-caseating granulomas.",
@@ -11512,7 +11556,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0885",
+    "id": "s2surg-0889",
     "category": "Surg Gastro",
     "q": "Skin associations per p112?",
     "a": "Crohn is sometimes associated with erythema nodosum (not specific, but a tendency); UC is associated with pyoderma gangrenosum.",
@@ -11523,7 +11567,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0886",
+    "id": "s2surg-0890",
     "category": "Surg Gastro",
     "q": "Serology that points to UC per p112?",
     "a": "2CK NBME: negative anti-Saccharomyces cerevisiae antibodies (ASCA) with positive pANCA: answer UC (Crohn can cause ASCA).",
@@ -11534,7 +11578,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0887",
+    "id": "s2surg-0891",
     "category": "Surg Gastro",
     "q": "IBD malabsorption per p112?",
     "a": "Terminal ileum is the classic inflammatory location, so B12 deficiency is most common. Impaired fat absorption can raise calcium oxalate urolithiasis (HY Renal PDF).",
@@ -11545,7 +11589,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0888",
+    "id": "s2surg-0892",
     "category": "Surg Gastro",
     "q": "IBS presentation per p112?",
     "a": "Not IBD; source calls it psychosomatic. Woman 20s-40s with stress and alternating diarrhea/constipation; can be bloating or cramping. Key: symptoms relieved by bowel movements.",
@@ -11560,7 +11604,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0889",
+    "id": "s2surg-0893",
     "category": "Surg Gastro",
     "q": "IBS mechanism and diarrhea treatment per p112?",
     "a": "NBME mechanism: smooth muscle hypersensitivity. Diarrhea-predominant IBS: loperamide (opioid causing constipation); answer can be 'mu-opioid receptor agonist.'",
@@ -11575,7 +11619,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0890",
+    "id": "s2surg-0894",
     "category": "Surg Gastro",
     "q": "Diabetic gastroparesis per p112?",
     "a": "Decreased peristalsis from GI neuropathy, presenting as GERD-like symptoms in someone with advanced diabetes. USMLE wants endoscopy first to rule out obstruction, then gastric-emptying scintigraphy to confirm. '2-week PPI trial' is wrong here (that is for regular GERD).",
@@ -11590,7 +11634,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0891",
+    "id": "s2surg-0895",
     "category": "Surg Gastro",
     "q": "Gastroparesis treatment per p112?",
     "a": "Metoclopramide first: prokinetic and antiemetic; D2 antagonist, also 5HT3 antagonist and 5HT4 agonist. Erythromycin can also be used (motilin receptor agonist).",
@@ -11605,7 +11649,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0892",
+    "id": "s2surg-0896",
     "category": "Surg Gastro",
     "q": "Diabetic neuropathy and bowel habits per p112?",
     "a": "Hypogastric (sympathetic, anti-peristalsis) nerve neuropathy gives severe diarrhea; pelvic splanchnic (parasympathetic, pro-peristalsis) neuropathy gives severe constipation. Diabetes + diarrhea: hypogastric nerves; diabetes + constipation: pelvic splanchnic nerves.",
@@ -11620,7 +11664,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0893",
+    "id": "s2surg-0897",
     "category": "Surg Gastro",
     "q": "Thyroid and GI per p112?",
     "a": "Hypothyroidism can cause constipation; hyperthyroidism can cause diarrhea. A thyroid vignette with GI disturbance can have 'motility disorder' as the answer (same for diabetes).",
@@ -11631,7 +11675,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0894",
+    "id": "s2surg-0898",
     "category": "Surg Gastro",
     "q": "Supplements and drugs affecting stool per p112?",
     "a": "Iron and aluminum cause constipation; magnesium causes diarrhea; verapamil causes constipation; macrolides, orlistat and alpha-glucosidase inhibitors (acarbose) cause diarrhea.",
@@ -11642,7 +11686,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0895",
+    "id": "s2surg-0899",
     "category": "Surg Gastro",
     "q": "IBS-D Tx per p112?",
     "a": "Loperamide, an opioid that causes constipation; the USMLE answer is just 'mu-opioid receptor agonist'.",
@@ -11653,7 +11697,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0896",
+    "id": "s2surg-0900",
     "category": "Surg Gastro",
     "q": "Acute vs chronic viral hepatitis per p113?",
     "a": "Hep A and E cause acute hepatitis only; Hep B, C and D can be chronic.",
@@ -11664,7 +11708,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0897",
+    "id": "s2surg-0901",
     "category": "Surg Gastro",
     "q": "Transaminase pattern in hepatitis per p113?",
     "a": "Classically ALT > AST, in the hundreds to thousands, though NBME shows variability (not a foundational point).",
@@ -11675,7 +11719,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0898",
+    "id": "s2surg-0902",
     "category": "Surg Gastro",
     "q": "Hep A per p113?",
     "a": "Most common acute hepatitis in the US (e.g., travel to Mexico). Fecal-oral; acute only. IgM HepA = acute infection; IgG = cleared infection (no chronic HepA).",
@@ -11690,7 +11734,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0899",
+    "id": "s2surg-0903",
     "category": "Surg Gastro",
     "q": "Hep A vaccination per p113?",
     "a": "Source: indicated for IV drug users and men who have sex with men; a 2CK NBME question with an otherwise healthy MSM has Hep A vaccination as the answer.",
@@ -11705,7 +11749,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0900",
+    "id": "s2surg-0904",
     "category": "Surg Gastro",
     "q": "Hep B epidemiology and transmission per p113?",
     "a": "Source: most common hepatitis infection worldwide (USMLE likes China), due to many unvaccinated; in the USA HepC is most common. Parenteral; acute or chronic. Vertical transmission, sex, IV drugs, blood exposure. Present in all body fluids including breast milk.",
@@ -11720,7 +11764,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0901",
+    "id": "s2surg-0905",
     "category": "Surg Gastro",
     "q": "Hep B serology: antigen, antibody, core per p113?",
     "a": "(+) surface antigen = currently has HepB. (+) surface antibody = immune. (+) core antibody = HepB now or in the past; core IgM = acute infection; core IgG = chronic HepB or cleared.",
@@ -11735,7 +11779,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0902",
+    "id": "s2surg-0906",
     "category": "Surg Gastro",
     "q": "Hep B vaccination schedule per p113?",
     "a": "Source: birth, 2 months and 6 months (no longer at 4 months). Titers showing susceptibility despite completed vaccination: give more vaccine (immunity wanes).",
@@ -11750,7 +11794,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0903",
+    "id": "s2surg-0907",
     "category": "Surg Gastro",
     "q": "Newborn with unknown maternal HepB status per p113?",
     "a": "2CK NBME: give HepB vaccine now, and give HBIG only if the mother is confirmed positive. Source says to give IVIG to neonate only if mom is confirmed (+).",
@@ -11765,7 +11809,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0904",
+    "id": "s2surg-0908",
     "category": "Surg Gastro",
     "q": "Hep C transmission per p113?",
     "a": "Almost exclusively IV drugs/blood exposure; not in breast milk or non-sanguineous fluids (unlike HepB). Source: not considered sexually transmitted (a large couples study found sexual transmission almost nil); if forced on NBME, still advise abstinence or barrier contraception.",
@@ -11780,7 +11824,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0905",
+    "id": "s2surg-0909",
     "category": "Surg Gastro",
     "q": "Hep C vaccine and serology per p113?",
     "a": "No vaccine because of large antigenic variation (>7 genotypes and 80 subtypes per the source). IgM = acute infection; IgG usually means chronic HepC.",
@@ -11795,7 +11839,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0906",
+    "id": "s2surg-0910",
     "category": "Surg Gastro",
     "q": "Hep C treatment per p114?",
     "a": "Source: many drugs can treat it; USMLE doesn't care; be aware of pegylated interferon-alpha.",
@@ -11810,7 +11854,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0907",
+    "id": "s2surg-0911",
     "category": "Surg Gastro",
     "q": "Hep D per p114?",
     "a": "Requires hepatitis B to infect: co-infection (same time) or superinfection (later in someone with HepB). To prevent HepD: vaccinate against hepatitis B (no HepD vaccine). HepB antigen forms the HepD envelope.",
@@ -11825,7 +11869,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0908",
+    "id": "s2surg-0912",
     "category": "Surg Gastro",
     "q": "Hep E per p114?",
     "a": "Acute only, like HepA. Seen more in Asia (e.g., Tibet). Mexico + pregnant woman + fast death from hepatitis: HepE over HepA. Causes fulminant hepatitis and higher risk of death in pregnant women.",
@@ -11840,7 +11884,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0909",
+    "id": "s2surg-0913",
     "category": "Surg Gastro",
     "q": "NASH per p114?",
     "a": "Answer for a liver condition in an overweight patient with normal labs. Metabolic syndrome with mild transaminitis (~50% of questions) or completely normal labs (~50%); e.g., 40-year-old with BMI 35 and normal labs: 'fatty liver' or NASH. Starts with normal labs, then mild transaminitis; can worsen and rarely cause cirrhosis and carcinoma. Treatment: lifestyle change.",
@@ -11855,7 +11899,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0910",
+    "id": "s2surg-0914",
     "category": "Surg Gastro",
     "q": "Alcoholic hepatitis labs per p114?",
     "a": "Classically AST > ALT, not necessarily 2:1; NBME sometimes shows both <100 with AST slightly higher; an easy vignette might say AST 400 and ALT 200 (both normally <50 U/L). Causes steatosis. Mallory hyaline is seen on biopsy.",
@@ -11866,7 +11910,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0911",
+    "id": "s2surg-0915",
     "category": "Surg Gastro",
     "q": "Acetaminophen overdose per p114?",
     "a": "Most important hepatic toxicity on USMLE; N-acetylcysteine is the antidote. The metabolite NAPQI depletes reduced glutathione (which mops up free radicals). Patient is asymptomatic for 24-28 hours (per source), then ALT/AST in the tens of thousands, needing transplant or death.",
@@ -11881,7 +11925,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0912",
+    "id": "s2surg-0916",
     "category": "Surg Gastro",
     "q": "N-acetylcysteine mechanism per p114?",
     "a": "N-acetylcysteine regenerates reduced glutathione. Oxidized glutathione has a disulfide bond (-S-S-); reduced glutathione has thiol (-SH).",
@@ -11896,7 +11940,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0913",
+    "id": "s2surg-0917",
     "category": "Surg Gastro",
     "q": "Drugs causing transaminitis per p114?",
     "a": "Statins and fibrates, methotrexate, lithium, valproic acid, propylthiouracil. Mild transaminitis is expected; do not decrease dose. For statins, myopathy is more common than toxic hepatitis (NBME).",
@@ -11907,7 +11951,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0914",
+    "id": "s2surg-0918",
     "category": "Surg Gastro",
     "q": "Hereditary hemochromatosis genetics and mechanism per p115?",
     "a": "Autosomal recessive; HFE gene; chromosome 6. Iron overload from increased intestinal iron absorption (the main iron regulation is shutting off intestinal absorption, impaired here). Body can't excrete iron except minor skin loss; women lose iron via menses, so men present earlier.",
@@ -11922,7 +11966,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0915",
+    "id": "s2surg-0919",
     "category": "Surg Gastro",
     "q": "Hemochromatosis findings per p115?",
     "a": "'Bronze diabetes': hemosiderin skin hyperpigmentation plus increased fasting glucose (iron in the pancreatic tail). Also infertility (iron in hypothalamus, pituitary or gonads), cardiomyopathy, arthritis (pseudogout).",
@@ -11933,7 +11977,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0916",
+    "id": "s2surg-0920",
     "category": "Surg Gastro",
     "q": "Pseudogout causes and cancer risk per p115?",
     "a": "Hereditary hemochromatosis, primary hyperparathyroidism and hypothyroidism are the 3 most important causes of pseudogout (new 2CK NBME mentions chondrocalcinosis in hypothyroidism). Increased risk of hepatocellular carcinoma.",
@@ -11944,7 +11988,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0917",
+    "id": "s2surg-0921",
     "category": "Surg Gastro",
     "q": "Hemochromatosis treatment per p115?",
     "a": "Serial phlebotomy, not chelators. Chelators (deferoxamine, deferasirox) are for secondary hemochromatosis from transfusional siderosis (e.g., beta-thalassemia major).",
@@ -11959,7 +12003,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0918",
+    "id": "s2surg-0922",
     "category": "Surg Gastro",
     "q": "Wilson disease mechanism per p115?",
     "a": "Autosomal recessive copper overload: inability to secrete copper into bile from the liver (normally the route of excretion). Increased urinary copper and decreased serum ceruloplasmin.",
@@ -11974,7 +12018,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0919",
+    "id": "s2surg-0923",
     "category": "Surg Gastro",
     "q": "Wilson disease findings per p115?",
     "a": "Kayser-Fleischer rings (corneal copper; the source spells it 'Keiser-Fleischer'); a Wilson-sounding vignette can have 'slit-lamp exam' as the answer. Increased LFTs with cirrhosis and parkinsonism; copper deposits in basal ganglia, especially the putamen.",
@@ -11989,7 +12033,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0920",
+    "id": "s2surg-0924",
     "category": "Surg Gastro",
     "q": "Parkinsonism by age per p115?",
     "a": "Young patient: Wilson disease until proven otherwise. Old patient: Parkinson disease, normal pressure hydrocephalus, Lewy-body dementia, or progressive supranuclear palsy. Wilson treatment: copper chelator penicillamine.",
@@ -12004,7 +12048,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0921",
+    "id": "s2surg-0925",
     "category": "Surg Gastro",
     "q": "ATP7B per p115?",
     "a": "Wilson disease; autosomal recessive; chromosome 13. Copper overload from inability to secrete copper into bile from the liver. Increased urinary copper and decreased serum ceruloplasmin (the copper-binding protein in blood).",
@@ -12019,7 +12063,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0922",
+    "id": "s2surg-0926",
     "category": "Surg Gastro",
     "q": "Wilson disease eye finding per p115?",
     "a": "Kayser-Fleischer rings (the source spells 'Keiser-Fleischer'): copper deposited in the cornea; a buzzy/pass-level detail. A vignette that sounds like Wilson disease may have 'slit-lamp exam' as the answer.",
@@ -12034,7 +12078,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0923",
+    "id": "s2surg-0927",
     "category": "Surg Gastro",
     "q": "Wilson disease organ effects per p115?",
     "a": "Increased LFTs with cirrhosis, hemolytic anemia, and parkinsonism. Copper deposits in the basal ganglia, especially the putamen.",
@@ -12045,7 +12089,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0924",
+    "id": "s2surg-0928",
     "category": "Surg Gastro",
     "q": "Parkinsonism by age per p115?",
     "a": "Parkinsonism in a young patient = Wilson until proven otherwise. In an old patient: Parkinson disease, normal pressure hydrocephalus, Lewy body dementia, or progressive supranuclear palsy. Wilson Tx: the copper chelator penicillamine.",
@@ -12056,7 +12100,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0925",
+    "id": "s2surg-0929",
     "category": "Surg Gastro",
     "q": "HFE hemochromatosis per p115?",
     "a": "Autosomal recessive; chromosome 6. Iron overload. The mechanism USMLE wants: 'increased intestinal iron absorption'. The body excretes iron poorly (menses in women, minor skin losses); main regulation is shutting off intestinal absorption, which is impaired. Usually presents in adulthood in males first.",
@@ -12071,7 +12115,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0926",
+    "id": "s2surg-0930",
     "category": "Surg Gastro",
     "q": "Hemochromatosis findings per p115?",
     "a": "'Bronze diabetes': hyperpigmentation from hemosiderin in skin plus high fasting sugars (iron in the pancreatic tail). Also infertility (iron in hypothalamus, anterior pituitary, or gonads), cardiomyopathy, arthritis (pseudogout).",
@@ -12086,7 +12130,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0927",
+    "id": "s2surg-0931",
     "category": "Surg Gastro",
     "q": "Pseudogout causes per p115?",
     "a": "Hereditary hemochromatosis, primary hyperparathyroidism, and hypothyroidism are the 3 most important causes; hypothyroidism appears on a new 2CK NBME exam mentioning chondrocalcinosis (calcium deposition in cartilage).",
@@ -12101,7 +12145,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0928",
+    "id": "s2surg-0932",
     "category": "Surg Gastro",
     "q": "Hemochromatosis cancer risk per p115?",
     "a": "Increased risk of hepatocellular carcinoma. An easy NBME question asks what the patient is at increased risk for, and the answer is simply 'hepatocellular carcinoma'.",
@@ -12112,7 +12156,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0929",
+    "id": "s2surg-0933",
     "category": "Surg Gastro",
     "q": "Hemochromatosis diagnosis per p115?",
     "a": "Ferritin >300 mg/dL (the source's unit); transferrin saturation also clearly increased. Rarely >300 in other conditions, but can occur in lymphoma and leukemia, where high ferritin is a poor prognostic marker in non-Hodgkin lymphoma. One 2CK question has ferritin 300 that is not hemochromatosis, but the source says USMLE won't play gotcha.",
@@ -12127,7 +12171,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0930",
+    "id": "s2surg-0934",
     "category": "Surg Gastro",
     "q": "Hemochromatosis Tx per p115?",
     "a": "Serial phlebotomy, not chelators. Chelators such as deferoxamine or deferasirox are for secondary hemochromatosis from transfusional siderosis (repeated transfusions, e.g., beta-thalassemia major).",
@@ -12142,7 +12186,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0931",
+    "id": "s2surg-0935",
     "category": "Surg Gastro",
     "q": "23F unilateral resting tremor + hemolytic anemia + increased LFTs: next best step per p115?",
     "a": "Slit-lamp exam; diagnosis Wilson disease (parkinsonism in a young patient is Wilson until proven otherwise): low serum ceruloplasmin + increased urinary copper.",
@@ -12153,7 +12197,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0932",
+    "id": "s2surg-0936",
     "category": "Surg Gastro",
     "q": "Ischemic colitis per p116?",
     "a": "Patient with cardiovascular disease and blood in stool, from bleeding at ischemic ulcers at colonic watershed areas (splenic flexure, rectosigmoid junction). Can be random or follow an inciting event such as recent AAA surgery. Diagnose with colonoscopy.",
@@ -12168,7 +12212,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0933",
+    "id": "s2surg-0937",
     "category": "Surg Gastro",
     "q": "Chronic mesenteric ischemia per p116?",
     "a": "CVD patient with abdominal pain 1-2 hours after meals: SMA/IMA atherosclerosis, where eating increases bowel oxygen demand ('angina of bowel'). Resembles a duodenal ulcer by timing but the patient is e.g. 69 with CABG, claudication, HTN, diabetes. Next best step: mesenteric angiography.",
@@ -12183,7 +12227,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0934",
+    "id": "s2surg-0938",
     "category": "Surg Gastro",
     "q": "Acute mesenteric ischemia presentations per p116?",
     "a": "1) Severe abdominal pain in AF (LA thrombus embolizes to SMA/IMA); 2) severe pain just after cardioversion/defibrillation (a 2CK question doesn't mention AF); 3) acute on chronic: atheroma in SMA/IMA ruptures ('MI of the bowel').",
@@ -12198,7 +12242,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0935",
+    "id": "s2surg-0939",
     "category": "Surg Gastro",
     "q": "Acute mesenteric ischemia next step per p116?",
     "a": "USMLE: mesenteric angiography; laparotomy is also an NBME answer. Source never saw medications or endarterectomy as answers.",
@@ -12213,7 +12257,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0936",
+    "id": "s2surg-0940",
     "category": "Surg Gastro",
     "q": "Mesenteric vein thrombosis per p116?",
     "a": "Splenic vein and SMV merge to form the portal vein; IMV drains to the SMV. Cirrhosis raises portal pressure and causes stasis; malignancy adds hypercoagulability. NBME: cirrhosis + lung cancer, abdominal pain, dark mottled small bowel at surgery: mesenteric venous thrombosis.",
@@ -12228,7 +12272,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0937",
+    "id": "s2surg-0941",
     "category": "Surg Gastro",
     "q": "Budd-Chiari syndrome per p117?",
     "a": "Hepatic vein thrombosis (hepatic vein drains the liver). Caused by polycythemia vera and pregnancy. Triad: abdominal pain, ascites, hepatomegaly.",
@@ -12243,7 +12287,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0938",
+    "id": "s2surg-0942",
     "category": "Surg Gastro",
     "q": "Portal vein thrombosis per p117?",
     "a": "Caused by portal venous stasis from cirrhosis (portal vein enters the liver).",
@@ -12254,7 +12298,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0939",
+    "id": "s2surg-0943",
     "category": "Surg Gastro",
     "q": "Appendicitis presentation per p117?",
     "a": "Source: triad of RLQ pain, fever and vomiting ('Murphy's triad'). Pain starts at the epigastrium (visceral) and migrates to RLQ; the reason is inflammation of the parietal peritoneum. Pain at McBurney's point (1/3 from ASIS to umbilicus). Rovsing sign: RLQ pain on palpation of LLQ.",
@@ -12269,7 +12313,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0940",
+    "id": "s2surg-0944",
     "category": "Surg Gastro",
     "q": "Appendicitis in pregnancy per p117?",
     "a": "Pain can be RUQ due to displaced bowel and a shifted appendix. Third-trimester pregnant woman with RUQ pain, fever, vomiting and a negative abdominal ultrasound (not cholecystitis): appendicitis.",
@@ -12284,7 +12328,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0941",
+    "id": "s2surg-0945",
     "category": "Surg Gastro",
     "q": "Appendix found during another operation per p118?",
     "a": "Ovarian procedure and an acutely inflamed appendix is seen: remove it as a medical emergency. If the scenario is reversed (suspicious ovarian lesion found during appendectomy): do not biopsy; consent must be obtained for all non-emergencies.",
@@ -12295,7 +12339,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0942",
+    "id": "s2surg-0946",
     "category": "Surg Gastro",
     "q": "Angiodysplasia per p118?",
     "a": "Tortuous superficial vessels in the colonic wall causing painless bleeding per rectum in the elderly. Classically associated with aortic stenosis (Heyde syndrome). NBME: older man arguing with his wife gets chest pain and bleeding per rectum; colonoscopy is negative, to say it's not cancer.",
@@ -12310,7 +12354,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0943",
+    "id": "s2surg-0947",
     "category": "Surg Gastro",
     "q": "Diverticulosis mechanism and bleeding per p119?",
     "a": "Lifelong increased straining herniates mucosa + submucosa through the muscularis propria of the colonic wall. Usually asymptomatic but can bleed. Diverticular bleed is the most common cause of painless rectal bleeding in the elderly, followed by colorectal cancer, then angiodysplasia.",
@@ -12321,7 +12365,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0944",
+    "id": "s2surg-0948",
     "category": "Surg Gastro",
     "q": "Colovesical fistula per p119?",
     "a": "Passage between colon and bladder (new 2CK NBME) causing UTI and mixed flora in the urine.",
@@ -12336,7 +12380,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0945",
+    "id": "s2surg-0949",
     "category": "Surg Gastro",
     "q": "Diverticulitis per p119?",
     "a": "Inflamed diverticulum, usually sigmoid. LLQ pain + fever in a patient over 60; one of the highest-yield USMLE diagnoses. Diagnose with contrast CT of the abdomen. Do not scope acutely (perforation); colonoscopy weeks to months after antibiotics to rule out malignancy. Perforated diverticulitis can require colectomy.",
@@ -12351,7 +12395,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0946",
+    "id": "s2surg-0950",
     "category": "Surg Gastro",
     "q": "Fecal impaction per p119?",
     "a": "Patient over 70 with chronic constipation and hard stool palpated in the rectal vault. Can cause fecal incontinence and paradoxical overflow diarrhea leading to encopresis. Idiopathic, worsened by opioids. Treatment: enema and laxatives.",
@@ -12362,7 +12406,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0947",
+    "id": "s2surg-0951",
     "category": "Surg Gastro",
     "q": "Hemorrhoid diagnosis per p119?",
     "a": "2CK NBME: rectal exam followed by anoscopy.",
@@ -12373,7 +12417,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0948",
+    "id": "s2surg-0952",
     "category": "Surg Gastro",
     "q": "Hemorrhoid management per p119?",
     "a": "Often self-resolve; conservative care with sitz bath, NSAIDs and increased dietary fiber. If forced to choose surgery for severe cases: rubber band ligation.",
@@ -12388,7 +12432,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0949",
+    "id": "s2surg-0953",
     "category": "Surg Gastro",
     "q": "Anal fissure per p119?",
     "a": "Young adult with painful bowel movements +/- blood; refuses rectal exam because of pain; sometimes a skin tag. Mechanism can be increased anal sphincter tone. 2CK Surg treatment: sitz bath; if forced to choose a medication, topical nitrates or diltiazem.",
@@ -12403,7 +12447,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0950",
+    "id": "s2surg-0954",
     "category": "Surg Gastro",
     "q": "Pilonidal cyst/abscess per p119?",
     "a": "Cystic mass at the superior gluteal cleft; contains hair; often from ingrown hairs. 2CK Surg treatment: incision and drainage.",
@@ -12418,7 +12462,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0951",
+    "id": "s2surg-0955",
     "category": "Surg Gastro",
     "q": "Perianal abscess per p119?",
     "a": "Painful, erythematous mass near the anal verge; higher risk in Crohn and diabetes. 2CK Surg treatment: incision and drainage.",
@@ -12433,7 +12477,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0952",
+    "id": "s2surg-0956",
     "category": "Surg Gastro",
     "q": "Anal malignancy next step per p119?",
     "a": "2CK Surg: cancer at the anal verge, next best step is colonoscopy; excision is wrong (presumably to assess extent first).",
@@ -12444,7 +12488,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0953",
+    "id": "s2surg-0957",
     "category": "Surg Gastro",
     "q": "ETEC per p120?",
     "a": "Enterotoxigenic E. coli causes traveler's diarrhea: brown/green diarrhea after travel, classically Mexico or Middle East.",
@@ -12459,7 +12503,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0954",
+    "id": "s2surg-0958",
     "category": "Surg Gastro",
     "q": "EHEC per p120?",
     "a": "Enterohemorrhagic E. coli: bloody diarrhea 1-3 days after eating beef. Shiga-like toxin can cause hemolytic uremic syndrome (renal dysfunction, schistocytosis, thrombocytopenia).",
@@ -12474,7 +12518,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0955",
+    "id": "s2surg-0959",
     "category": "Surg Gastro",
     "q": "Shigella per p120?",
     "a": "Bloody diarrhea; can also cause HUS via shiga toxin.",
@@ -12489,7 +12533,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0956",
+    "id": "s2surg-0960",
     "category": "Surg Gastro",
     "q": "Salmonella per p120?",
     "a": "Food poisoning from S. typhimurium and S. enteritidis. Bloody diarrhea 1-3 days after poultry, eggs or reptile exposure (new NBME: pet lizard).",
@@ -12504,7 +12548,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0957",
+    "id": "s2surg-0961",
     "category": "Surg Gastro",
     "q": "Typhoid fever per p120?",
     "a": "S. typhi: rose spots on the abdomen in a prostrated patient; diarrhea or constipation. Reservoir is humans, not chickens/reptiles.",
@@ -12515,7 +12559,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0958",
+    "id": "s2surg-0962",
     "category": "Surg Gastro",
     "q": "Cholera vs ETEC per p120?",
     "a": "V. cholerae: 'liters and liters' of rice-water stool after travel, fecal-oral from contaminated food/water. Both ETEC and cholera vignettes can give 8-12 stools daily; the difference is the emphasis on very high volume. Death is from severe dehydration and electrolyte disturbance.",
@@ -12530,7 +12574,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0959",
+    "id": "s2surg-0963",
     "category": "Surg Gastro",
     "q": "Cholera treatment per p120?",
     "a": "Oral rehydration; IV hydration if low BP or altered mental status.",
@@ -12545,7 +12589,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0960",
+    "id": "s2surg-0964",
     "category": "Surg Gastro",
     "q": "Vibrio parahaemolyticus per p120?",
     "a": "Doesn't cause cholera-like profuse watery diarrhea; asked once on NBME in a patient who ate sushi (acquired from sushi and shellfish).",
@@ -12560,7 +12604,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0961",
+    "id": "s2surg-0965",
     "category": "Surg Gastro",
     "q": "Campylobacter jejuni per p120?",
     "a": "Bloody diarrhea 1-3 days after poultry. Can cause Guillain-Barre syndrome (ascending paralysis, decreased tendon reflexes, albuminocytologic dissociation in CSF; treat with IVIG + plasmapheresis). Grows best at high temperature (42 C).",
@@ -12575,7 +12619,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0962",
+    "id": "s2surg-0966",
     "category": "Surg Gastro",
     "q": "Bacillus cereus per p120?",
     "a": "Watery diarrhea and/or vomiting after reheated or fried rice (heating germinates spores). Can also cause eye infections: after eye surgery with a gram-positive rod infection, it is the only gram-positive rod listed.",
@@ -12590,7 +12634,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0963",
+    "id": "s2surg-0967",
     "category": "Surg Gastro",
     "q": "Clostridium perfringens per p120?",
     "a": "Watery/secretory diarrhea after poultry. Causes gas gangrene (CO2 gas) via alpha-toxin/phospholipase: black skin and crepitus. Can cause emphysematous cholecystitis (air in gallbladder wall).",
@@ -12601,7 +12645,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0964",
+    "id": "s2surg-0968",
     "category": "Surg Gastro",
     "q": "C. difficile presentation per p120?",
     "a": "Diarrhea (pseudomembranous colitis) about 7-10 days after starting oral antibiotics (any antibiotic). Antibiotics kill normal flora; C. difficile is not normal flora, acquired by consuming spores. Watery or bloody diarrhea; LLQ cramping (not RLQ as with Yersinia). NBME: 28-year-old with LLQ cramping and bloody diarrhea 7 days after oral antibiotics: C. diff, not Yersinia.",
@@ -12616,7 +12660,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0965",
+    "id": "s2surg-0969",
     "category": "Surg Gastro",
     "q": "Bloody diarrhea + poultry per p120?",
     "a": "Campylobacter jejuni or Salmonella spp.",
@@ -12627,7 +12671,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0966",
+    "id": "s2surg-0970",
     "category": "Surg Gastro",
     "q": "Bloody diarrhea + reactive arthritis in an adult per p120?",
     "a": "Y. enterocolitica, Campylobacter, Shigella, Salmonella.",
@@ -12638,7 +12682,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0967",
+    "id": "s2surg-0971",
     "category": "Surg Gastro",
     "q": "Staph aureus food poisoning per p121?",
     "a": "Pre-formed heat-stable toxin from meats left under a heat lamp or out for long (buffet) or dairy products like creams, custards, potato salad. Vomiting 1-6 hours after eating (quick onset); diarrhea not mandatory.",
@@ -12653,7 +12697,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0968",
+    "id": "s2surg-0972",
     "category": "Surg Gastro",
     "q": "Whipple disease per p121?",
     "a": "Tropheryma whipplei: malabsorption plus arthritis and renal and cardiac disease. Source: 100% of questions say 'PAS-positive macrophages in the lamina propria.' NBME 10: ceftriaxone + daily TMP/SMX for one year. Flattens villi like celiac but considered bacterial.",
@@ -12668,7 +12712,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0969",
+    "id": "s2surg-0973",
     "category": "Surg Gastro",
     "q": "Tropical sprue per p121?",
     "a": "Answer for a patient living in a tropical area with unknown malabsorptive disease, by elimination. Treatment: tetracycline.",
@@ -12683,7 +12727,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0970",
+    "id": "s2surg-0974",
     "category": "Surg Gastro",
     "q": "Rotavirus per p121?",
     "a": "Most common cause of watery diarrhea in unvaccinated children under 5. Vaccine normally given orally at 2, 4 and 6 months.",
@@ -12698,7 +12742,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0971",
+    "id": "s2surg-0975",
     "category": "Surg Gastro",
     "q": "Norwalk virus per p121?",
     "a": "Most common cause of watery diarrhea in adults and rotavirus-vaccinated children. Cruise ships and conferences (crowded places), fecal-oral. If a young child and family all have watery diarrhea: Norwalk, not rota.",
@@ -12713,7 +12757,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0972",
+    "id": "s2surg-0976",
     "category": "Surg Gastro",
     "q": "HSV and CMV esophagitis per p121?",
     "a": "HSV1/2: odynophagia and punched-out esophageal ulcers. CMV: odynophagia and linear (confluent) ulcers.",
@@ -12728,7 +12772,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0973",
+    "id": "s2surg-0977",
     "category": "Surg Gastro",
     "q": "CMV syndromes per p121?",
     "a": "CMV colitis: bleeding per rectum in AIDS with CD4 <50. CMV retinitis: blurry vision in HIV or immunosuppressed patients. Most common organism transmitted by blood transfusion and organ transplant.",
@@ -12743,7 +12787,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0974",
+    "id": "s2surg-0978",
     "category": "Surg Gastro",
     "q": "Pneumonia after influenza per p121?",
     "a": "USMLE wants S. aureus.",
@@ -12754,7 +12798,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0975",
+    "id": "s2surg-0979",
     "category": "Surg Gastro",
     "q": "GI protozoa acquisition per p122?",
     "a": "Entamoeba histolytica, Cryptosporidium parvum and Giardia lamblia (ECG): cysts in water (water-borne). If 'water-borne' and 'fecal-oral' are both listed, USMLE wants water-borne. A protozoan is a unicellular eukaryote.",
@@ -12765,7 +12809,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0976",
+    "id": "s2surg-0980",
     "category": "Surg Gastro",
     "q": "Cryptosporidium treatment per p122?",
     "a": "Self-limiting in immunocompetent persons: supportive care. Chronic diarrhea in HIV: nitazoxanide.",
@@ -12780,7 +12824,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0977",
+    "id": "s2surg-0981",
     "category": "Surg Gastro",
     "q": "Giardia presentation per p122?",
     "a": "Steatorrhea in a person who went to Mexico: bloating and extremely foul-smelling stool that floats, from malabsorptive diarrhea. One NBME question says 'foul-smelling watery diarrhea with bloating' (9 of 10 times it isn't described as watery).",
@@ -12795,7 +12839,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0978",
+    "id": "s2surg-0982",
     "category": "Surg Gastro",
     "q": "Giardia acquisition per p122?",
     "a": "Fresh water lakes / scuba diving: an NBME question has a woman scuba diving in Mexico who gets foul-smelling stools with bloating (people can dive in fresh water lakes too).",
@@ -12806,7 +12850,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0979",
+    "id": "s2surg-0983",
     "category": "Surg Gastro",
     "q": "Ascaris and Enterobius per p122?",
     "a": "Ascaris lumbricoides: ingested; giant roundworm; intestinal obstruction. Enterobius vermicularis: ingested; perianal itching and positive tape test in children.",
@@ -12817,7 +12861,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0980",
+    "id": "s2surg-0984",
     "category": "Surg Gastro",
     "q": "Angiostrongylus and Trichinella per p122?",
     "a": "Angiostrongylus: ingested via raw slugs/snails; eosinophilic meningitis. Trichinella spiralis: ingested via pork or bear meat; fever, periorbital edema, myalgias (trichinosis).",
@@ -12832,7 +12876,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0981",
+    "id": "s2surg-0985",
     "category": "Surg Gastro",
     "q": "Strongyloides per p122?",
     "a": "Acquired through soil/feet. Intestinal obstruction plus pulmonary symptoms (travels to the lungs via blood, up the respiratory tree, then is swallowed).",
@@ -12847,7 +12891,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0982",
+    "id": "s2surg-0986",
     "category": "Surg Gastro",
     "q": "Hookworms per p122?",
     "a": "Ancylostoma duodenale and Necator americanus, acquired through soil/feet. Cause microcytic anemia (decreased hemoglobin) by sucking blood in the GI tract.",
@@ -12858,7 +12902,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0983",
+    "id": "s2surg-0987",
     "category": "Surg Gastro",
     "q": "Cestodes per p122?",
     "a": "Diphyllobothrium latum: fish tapeworm. Taenia solium: pork tapeworm; cysticercosis (muscle pain/cysts) and neurocysticercosis ('Swiss cheese' brain or soap bubbles in the ventricles).",
@@ -12873,7 +12917,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0984",
+    "id": "s2surg-0988",
     "category": "Surg Gastro",
     "q": "Travel + bloody diarrhea + RUQ pain per p122?",
     "a": "Liver abscess due to Entamoeba histolytica.",
@@ -12884,7 +12928,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0985",
+    "id": "s2surg-0989",
     "category": "Surg Gastro",
     "q": "Pork nematode and pork cestode per p122?",
     "a": "Nematode: Trichinella spiralis. Cestode (tapeworm): Taenia solium.",
@@ -12895,7 +12939,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0986",
+    "id": "s2surg-0990",
     "category": "Surg Gastro",
     "q": "Schistosoma per p123?",
     "a": "Penetrates skin when swimming; snail is host. S. mansoni/japonicum can cause portal hypertension (once on NBME). S. haematobium causes squamous cell carcinoma of the bladder (source spells it 'Schistoma').",
@@ -12910,7 +12954,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0987",
+    "id": "s2surg-0991",
     "category": "Surg Gastro",
     "q": "Paragonimus westermani per p123?",
     "a": "Ingested from crab meat or crayfish; lung fluke; most common cause of hemoptysis in the world (source).",
@@ -12925,7 +12969,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0988",
+    "id": "s2surg-0992",
     "category": "Surg Gastro",
     "q": "Clonorchis sinensis per p123?",
     "a": "Ingested from fish; causes cholangiocarcinoma.",
@@ -12940,7 +12984,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0989",
+    "id": "s2surg-0993",
     "category": "Surg Gastro",
     "q": "PPI mechanism and use per p123?",
     "a": "Omeprazole shuts off proton pumps on parietal cells, decreasing acid. Irreversible and non-competitive; more efficacious than H2 blockers (reversible, competitive). Choose PPIs over H2 blockers for GERD, ulcers, H. pylori. GERD diagnosis: 2-week PPI trial.",
@@ -12955,7 +12999,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0990",
+    "id": "s2surg-0994",
     "category": "Surg Gastro",
     "q": "PPI drug interactions per p123?",
     "a": "On NBME, PPIs cannot be given with sucralfate or -azole antifungals.",
@@ -12970,7 +13014,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0991",
+    "id": "s2surg-0995",
     "category": "Surg Gastro",
     "q": "H2 blockers per p123?",
     "a": "Cimetidine, ranitidine. Not used often since PPIs are more efficacious. One 2CK form has '2-week trial of H2 blocker' as the GERD diagnosis answer when no PPI is listed. Cimetidine causes gynecomastia and inhibits P-450.",
@@ -12981,7 +13025,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0992",
+    "id": "s2surg-0996",
     "category": "Surg Gastro",
     "q": "Metoclopramide per p123?",
     "a": "Antiemetic and prokinetic. D2 antagonist, also 5HT3 antagonist and 5HT4 agonist (increases gut peristalsis). HY use: diabetic gastroparesis (sounds like GERD in a severe diabetic; answer metoclopramide, not PPI).",
@@ -12992,7 +13036,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0993",
+    "id": "s2surg-0997",
     "category": "Surg Gastro",
     "q": "Ondansetron and erythromycin per p123?",
     "a": "Ondansetron: powerful antiemetic classically for chemoradiotherapy nausea/vomiting. Erythromycin: motilin receptor agonist for diabetic gastroparesis, unrelated to its antibiotic effect.",
@@ -13007,7 +13051,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0994",
+    "id": "s2surg-0998",
     "category": "Surg Gastro",
     "q": "Antacids per p123?",
     "a": "Magnesium: diarrhea. Aluminum: constipation. Calcium: milk-alkali syndrome (high Ca2+, high HCO3-, urolithiasis).",
@@ -13022,7 +13066,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0995",
+    "id": "s2surg-0999",
     "category": "Surg Gastro",
     "q": "Calcium chelation of drugs per p123?",
     "a": "Bisphosphonates (alendronate) and tetracyclines (doxycycline) can't be taken with calcium or iron (divalent cations), which chelate them and decrease absorption. A prostatitis patient on ciprofloxacin who isn't improving while taking a calcium supplement: answer calcium carbonate.",
@@ -13037,7 +13081,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0996",
+    "id": "s2surg-1000",
     "category": "Surg Gastro",
     "q": "5-ASA and TNF blockers per p124?",
     "a": "5-ASA compounds: mesalamine, sulfasalazine (NSAIDs used in IBD). TNF-alpha blockers: infliximab, adalimumab (monoclonal antibodies) and etanercept (recombinant receptor mopping up soluble TNF-alpha); used in IBD after 5-ASA and steroids.",
@@ -13052,7 +13096,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0997",
+    "id": "s2surg-1001",
     "category": "Surg Gastro",
     "q": "Octreotide and propranolol per p124?",
     "a": "Octreotide: somatostatin analogue for variceal treatment after banding; decreases portal blood flow. Propranolol: beta-blocker for variceal prophylaxis (not treatment).",
@@ -13063,7 +13107,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0998",
+    "id": "s2surg-1002",
     "category": "Surg Gastro",
     "q": "Lactulose per p124?",
     "a": "Treats hyperammonemia in cirrhosis. Carbohydrate metabolized by gut bacteria to acidic products that trap ammonia as ammonium (NH4+), which is excreted (ions are absorbed less). Answer: 'acidification, NH4+.'",
@@ -13078,7 +13122,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-0999",
+    "id": "s2surg-1003",
     "category": "Surg Gastro",
     "q": "Neomycin, loperamide, ezetimibe per p124?",
     "a": "Neomycin: kills ammonia-producing bacteria (hyperammonemia in cirrhosis). Loperamide: mu-opioid agonist for diarrhea-predominant IBS (constipation is the desired effect). Ezetimibe: blocks cholesterol absorption in the small bowel.",
@@ -13093,7 +13137,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1000",
+    "id": "s2surg-1004",
     "category": "Surg Gastro",
     "q": "Antifungals and antivirals for GI infections per p124?",
     "a": "Nystatin: mouthwash for oropharyngeal candidiasis. Fluconazole: candidal esophagitis. Acyclovir: HSV esophagitis (punched-out ulcers). Ganciclovir: CMV esophagitis and colitis (linear/confluent ulcers); same MOA as acyclovir.",
@@ -13104,7 +13148,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1001",
+    "id": "s2surg-1005",
     "category": "Surg Gastro",
     "q": "Antihelminthic agents per p124?",
     "a": "Mebendazole: most nematodes (ascariasis, enterobiasis, hookworms). Albendazole: same, preferred for neurocysticercosis (Taenia solium, a cestode). Pyrantel pamoate: nematodes (answer on an offline NBME). Praziquantel: cestodes and trematodes.",
@@ -13119,7 +13163,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1002",
+    "id": "s2surg-1006",
     "category": "Surg Heme/Onc",
     "q": "Microcytic anemia in a 32-year-old woman, next step per p125?",
     "a": "Check serum iron and ferritin. Thalassemia is often misdiagnosed as IDA; if iron and ferritin are normal, it's thalassemia and next best step is hemoglobin electrophoresis. Most IDA is in menstruating women even when menses are not heavy (2CK says so explicitly, Dx is still IDA).",
@@ -13130,7 +13174,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1003",
+    "id": "s2surg-1007",
     "category": "Surg Heme/Onc",
     "q": "Pregnant woman with microcytic anemia given iron for 3 weeks with no improvement per p125?",
     "a": "Thalassemia (microcytic anemia despite iron supplementation means iron and ferritin are normal). Next best step: hemoglobin electrophoresis.",
@@ -13141,7 +13185,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1004",
+    "id": "s2surg-1008",
     "category": "Surg Heme/Onc",
     "q": "Transfusional siderosis per p126?",
     "a": "Secondary hemochromatosis: iron overload from repeated blood transfusions (e.g., beta-thalassemia major); each RBC transfusion contains iron. Treat with chelators (deferoxamine). Thalassemia itself: transfusions if severe.",
@@ -13156,7 +13200,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1005",
+    "id": "s2surg-1009",
     "category": "Surg Heme/Onc",
     "q": "What is thalassemia, and how many alleles per p126?",
     "a": "Impaired synthesis of the alpha- or beta-globin chain. Alpha can have 1-4 alleles mutated; beta has 2. Skip obscure intermediate types. USMLE focuses on adults, who are misdiagnosed as IDA.",
@@ -13167,7 +13211,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1006",
+    "id": "s2surg-1010",
     "category": "Surg Heme/Onc",
     "q": "Adult alpha-thalassemia by number of mutations per p126?",
     "a": "1 mutation: asymptomatic, incidental microcytic anemia (e.g., on antenatal screening). 2 mutations: symptoms like IDA but no improvement with iron. 3 (HbH disease, beta4 tetramer): sick kid. 4 (Hb Barts, gamma4 tetramer): fatal in utero.",
@@ -13182,7 +13226,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1007",
+    "id": "s2surg-1011",
     "category": "Surg Heme/Onc",
     "q": "Beta-thalassemia minor vs major per p126?",
     "a": "Minor: 1 mutation, adult presenting like IDA (similar to 2 alpha mutations). Major: 2 mutations, sick child similar to 3 alpha mutations.",
@@ -13193,7 +13237,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1008",
+    "id": "s2surg-1012",
     "category": "Surg Heme/Onc",
     "q": "When is anemia of chronic disease (AoCD) the USMLE answer per p127?",
     "a": "Low Hb in a patient with renal failure, an autoimmune disease (RA, JRA, IBD, SLE), hepatitis B/C, HIV or malignancy.",
@@ -13208,7 +13252,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1009",
+    "id": "s2surg-1013",
     "category": "Surg Heme/Onc",
     "q": "Iron studies in AoCD per p127?",
     "a": "Low iron but normal (or slightly high) ferritin. Ferritin is the most sensitive marker of iron stores, so these patients are not iron deficient.",
@@ -13219,7 +13263,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1010",
+    "id": "s2surg-1014",
     "category": "Surg Heme/Onc",
     "q": "Why is iron low in AoCD per p127?",
     "a": "1) Cytokines (IL-6, TNF-alpha) block iron release from storage sites, decreasing RBC production. 2) Hepcidin from the liver decreases gut iron absorption and promotes storage in cells.",
@@ -13230,7 +13274,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1011",
+    "id": "s2surg-1015",
     "category": "Surg Heme/Onc",
     "q": "Highest-yield cause of AoCD and its treatment per p127?",
     "a": "Renal failure ('cytokine-mediated EPO deficiency'). EPO treats AoCD only if renal failure is the cause; otherwise treat the underlying condition (EPO is wrong). One NBME RA question has the answer 'no specific measures indicated'.",
@@ -13241,7 +13285,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1012",
+    "id": "s2surg-1016",
     "category": "Surg Heme/Onc",
     "q": "MCV in AoCD per p127?",
     "a": "Classically normal, but low in about 50% of NBME questions, especially 2CK (e.g., MCVs of 72 and 75 in JRA questions). Don't exclude AoCD because MCV is low.",
@@ -13252,7 +13296,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1013",
+    "id": "s2surg-1017",
     "category": "Surg Heme/Onc",
     "q": "Multiple myeloma: what is it and what presents per p127?",
     "a": "Cancer of plasma cells, which normally secrete immunoglobulins, so serum immunoglobulins are increased. Buzzy presentation: patient over 50 with mid-back pain plus hypercalcemia.",
@@ -13267,7 +13311,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1014",
+    "id": "s2surg-1018",
     "category": "Surg Heme/Onc",
     "q": "Diagnosing multiple myeloma per p128?",
     "a": "First step: serum protein electrophoresis (SPEP), showing an M-spike (monoclonal spike; not IgM) of IgG kappa or lambda light chains. Bone marrow biopsy confirms: >10% plasma cells.",
@@ -13282,7 +13326,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1015",
+    "id": "s2surg-1019",
     "category": "Surg Heme/Onc",
     "q": "Urine finding in myeloma per p128?",
     "a": "Bence Jones proteinuria: light chains in the urine.",
@@ -13293,7 +13337,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1016",
+    "id": "s2surg-1020",
     "category": "Surg Heme/Onc",
     "q": "Amyloidosis in myeloma per p128?",
     "a": "Immunoglobulins are proteins that deposit where they shouldn't. Heart: cardiac amyloidosis (S4 with diastolic dysfunction). Kidney: renal amyloidosis (nephrotic syndrome).",
@@ -13304,7 +13348,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1017",
+    "id": "s2surg-1021",
     "category": "Surg Heme/Onc",
     "q": "Initial treatment of myeloma per p128?",
     "a": "IV bisphosphonate, to decrease the risk of bone lysis.",
@@ -13319,7 +13363,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1018",
+    "id": "s2surg-1022",
     "category": "Surg Heme/Onc",
     "q": "MGUS per p128?",
     "a": "Bone marrow biopsy shows <10% plasma cells. Small annual risk of progression to myeloma. May have fatigue and/or increased MCV, but no hypercalcemia or renal dysfunction.",
@@ -13334,7 +13378,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1019",
+    "id": "s2surg-1023",
     "category": "Surg Heme/Onc",
     "q": "Diagnosis of multiple myeloma per p128?",
     "a": "Serum protein electrophoresis, then bone marrow biopsy.",
@@ -13345,7 +13389,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1020",
+    "id": "s2surg-1024",
     "category": "Surg Heme/Onc",
     "q": "Waldenstrom macroglobulinemia: cell type and spike per p129?",
     "a": "Cancer of plasmacytoid cells ('-oid' means looks like but isn't: they look like plasma cells but aren't). IgM M-protein spike on SPEP (myeloma is IgG).",
@@ -13360,7 +13404,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1021",
+    "id": "s2surg-1025",
     "category": "Surg Heme/Onc",
     "q": "Waldenstrom vs multiple myeloma per p129?",
     "a": "Waldenstrom does not cause hypercalcemia, lytic lesions, Bence-Jones proteinuria or amyloidosis.",
@@ -13371,7 +13415,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1022",
+    "id": "s2surg-1026",
     "category": "Surg Heme/Onc",
     "q": "Waldenstrom hyperviscosity per p129?",
     "a": "Headache, blurry vision, tinnitus or Raynaud phenomenon.",
@@ -13386,7 +13430,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1023",
+    "id": "s2surg-1027",
     "category": "Surg Heme/Onc",
     "q": "Polycythemia vera: mutation and lab pattern per p129?",
     "a": "JAK2 mutation, 'proliferation of hematopoietic stem cells' (NBME answer). Hb 18+ (NR 12-17.5 g/dL) plus increased WBCs and/or platelets: at least 2 of 3 cell lines increased, RBCs always. EPO is suppressed due to increased Hb.",
@@ -13401,7 +13445,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1024",
+    "id": "s2surg-1028",
     "category": "Surg Heme/Onc",
     "q": "Polycythemia vera symptoms per p129?",
     "a": "Increased Hb can cause hyperviscosity syndrome. Basophilia can cause pruritus after a shower.",
@@ -13412,7 +13456,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1025",
+    "id": "s2surg-1029",
     "category": "Surg Heme/Onc",
     "q": "Treatment of polycythemia vera per p129?",
     "a": "Phlebotomy for acute symptoms of hyperviscosity (next best step for headache/blurry vision). Serial phlebotomy and hydroxyurea can be answers for recurrent symptoms; USMLE won't give both at the same time.",
@@ -13427,7 +13471,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1026",
+    "id": "s2surg-1030",
     "category": "Surg Heme/Onc",
     "q": "Secondary polycythemia: pattern and mechanism per p129?",
     "a": "Isolated increase in RBCs due to increased EPO (WBCs and platelets normal). Lung disease with low arterial O2: kidneys sense low O2 and secrete EPO, which stimulates erythroid precursors.",
@@ -13438,7 +13482,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1027",
+    "id": "s2surg-1031",
     "category": "Surg Heme/Onc",
     "q": "Other causes of secondary polycythemia per p129?",
     "a": "Renal cell carcinoma (secretes EPO, and PTHrP causing hypercalcemia); exogenous EPO (e.g., cyclists).",
@@ -13449,7 +13493,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1028",
+    "id": "s2surg-1032",
     "category": "Surg Heme/Onc",
     "q": "High hemoglobin + lung disease / low pO2 per p129?",
     "a": "Secondary polycythemia (high EPO).",
@@ -13460,7 +13504,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1029",
+    "id": "s2surg-1033",
     "category": "Surg Heme/Onc",
     "q": "Polycythemia + hypercalcemia + smoker + red urine per p129?",
     "a": "Renal cell carcinoma (paraneoplastic EPO + PTHrP).",
@@ -13471,7 +13515,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1030",
+    "id": "s2surg-1034",
     "category": "Surg Heme/Onc",
     "q": "Blurry vision, Raynaud, finger pain, or headache per p129?",
     "a": "Hyperviscosity syndrome: Waldenstrom macroglobulinemia or polycythemia.",
@@ -13482,7 +13526,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1031",
+    "id": "s2surg-1035",
     "category": "Surg Heme/Onc",
     "q": "PT vs PTT per p130?",
     "a": "PT reflects the extrinsic pathway; PTT (aPTT) the intrinsic pathway. PT alone high: extrinsic problem. PTT alone high: intrinsic problem. Both high: common pathway.",
@@ -13493,7 +13537,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1032",
+    "id": "s2surg-1036",
     "category": "Surg Heme/Onc",
     "q": "Normal values per p130?",
     "a": "PT 10-15 seconds. PTT 25-40 seconds. Bleeding time 2-7 minutes.",
@@ -13504,7 +13548,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1033",
+    "id": "s2surg-1037",
     "category": "Surg Heme/Onc",
     "q": "What do bleeding time vs PT/PTT measure per p130?",
     "a": "Bleeding time relates to platelets, not clotting factors. PT and PTT relate to clotting factors, not platelets.",
@@ -13515,7 +13559,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1034",
+    "id": "s2surg-1038",
     "category": "Surg Heme/Onc",
     "q": "ITP: mechanism and labs per p130?",
     "a": "Antibodies against glycoprotein IIb/IIIa on platelets. Low platelets (usually <100,000/uL; normal 150-450,000), increased bleeding time, normal PT and PTT. Precipitated by viral infection (antibodies cross-react with platelets); type II hypersensitivity. Viral infection is asymptomatic in about 50% of vignettes.",
@@ -13530,7 +13574,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1035",
+    "id": "s2surg-1039",
     "category": "Surg Heme/Onc",
     "q": "ITP: two USMLE presentations per p130?",
     "a": "1) School-age child (about 12) with coryza for a few days, then petechiae and/or nosebleeds. 2) Woman in her 30s-40s with no mention of viral infection, random bruising and bleeding time 9 minutes.",
@@ -13541,7 +13585,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1036",
+    "id": "s2surg-1040",
     "category": "Surg Heme/Onc",
     "q": "Same vignette as ITP but bleeding time 6 minutes per p130?",
     "a": "Bleeding time 6 minutes is normal, so the answer is domestic abuse, not ITP.",
@@ -13552,7 +13596,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1037",
+    "id": "s2surg-1041",
     "category": "Surg Heme/Onc",
     "q": "Unusual 2CK ITP question per p130?",
     "a": "A girl with only heavy menses (classically vWD) where vWD isn't listed and the other choices are clearly wrong: answer ITP.",
@@ -13563,7 +13607,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1038",
+    "id": "s2surg-1042",
     "category": "Surg Heme/Onc",
     "q": "ITP treatment order per p130?",
     "a": "Steroids, then IVIG, then splenectomy, in that order.",
@@ -13578,7 +13622,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1039",
+    "id": "s2surg-1043",
     "category": "Surg Heme/Onc",
     "q": "Platelets normalize after splenectomy but fall again 6 months later per p130?",
     "a": "Accessory spleen (a pea-sized second spleen that can grow after the main spleen is removed).",
@@ -13589,7 +13633,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1040",
+    "id": "s2surg-1044",
     "category": "Surg Heme/Onc",
     "q": "von Willebrand disease: inheritance and function of vWF per p130?",
     "a": "Autosomal dominant. vWF bridges glycoprotein Ib on platelets to vascular endothelium/collagen (platelet adhesion).",
@@ -13604,7 +13648,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1041",
+    "id": "s2surg-1045",
     "category": "Surg Heme/Onc",
     "q": "von Willebrand disease lab pattern per p130?",
     "a": "Increased bleeding time; increased PTT (only about half the time); normal PT; normal platelet count. Decreased vWF means decreased platelet function but platelet count is unchanged.",
@@ -13615,7 +13659,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1042",
+    "id": "s2surg-1046",
     "category": "Surg Heme/Onc",
     "q": "vWD vignette per p130?",
     "a": "8/10 questions: teenager or young adult with one platelet problem (mild cutaneous findings such as petechiae, bruising, plus epistaxis) and one clotting factor problem (excessive bleeding with tooth extraction, heavy menses). Hemarthroses are hemophilia, not vWD.",
@@ -13626,7 +13670,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1043",
+    "id": "s2surg-1047",
     "category": "Surg Heme/Onc",
     "q": "vWD vignette: 17-year-old girl per p130?",
     "a": "Nosebleeds plus heavy periods, or bruising plus history of excessive bleeding with tooth extraction: one platelet problem plus one clotting factor problem. About 8/10 vWD questions.",
@@ -13637,7 +13681,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1044",
+    "id": "s2surg-1048",
     "category": "Surg Heme/Onc",
     "q": "Treatment of ITP per p130?",
     "a": "Steroids, then IVIG, then splenectomy.",
@@ -13648,7 +13692,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1045",
+    "id": "s2surg-1049",
     "category": "Surg Heme/Onc",
     "q": "vWD vignette with an isolated problem per p131?",
     "a": "About 1/10: only an isolated platelet or clotting-factor problem (e.g., bleeding with tooth extraction), but a parent has nosebleeds. vWD is autosomal dominant, linking the two.",
@@ -13659,7 +13703,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1046",
+    "id": "s2surg-1050",
     "category": "Surg Heme/Onc",
     "q": "Ristocetin cofactor assay per p131?",
     "a": "Abnormal in vWD (abnormal if platelet adhesion is impaired).",
@@ -13670,7 +13714,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1047",
+    "id": "s2surg-1051",
     "category": "Surg Heme/Onc",
     "q": "Treatment of vWD per p131?",
     "a": "Desmopressin (DDAVP), which can in theory increase functional vWF levels.",
@@ -13681,7 +13725,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1048",
+    "id": "s2surg-1052",
     "category": "Surg Heme/Onc",
     "q": "Hemophilia A and B per p131?",
     "a": "Deficiency of factors VIII and IX, respectively. Both X-linked recessive.",
@@ -13692,7 +13736,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1049",
+    "id": "s2surg-1053",
     "category": "Surg Heme/Onc",
     "q": "Hemophilia lab pattern per p131?",
     "a": "Isolated increased PTT; bleeding time and PT normal. VIII and IX are in the intrinsic pathway; extrinsic unaffected; platelets unrelated.",
@@ -13703,7 +13747,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1050",
+    "id": "s2surg-1054",
     "category": "Surg Heme/Onc",
     "q": "Hemophilia USMLE presentations per p131?",
     "a": "1) School-age boy with hemarthrosis and isolated increased PTT (maybe a maternal uncle who died from minor head trauma). 2) Neonate with excessive bleeding at circumcision.",
@@ -13714,7 +13758,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1051",
+    "id": "s2surg-1055",
     "category": "Surg Heme/Onc",
     "q": "Hemophilia treatment per p131?",
     "a": "A: DDAVP and factor VIII replacement. B: factor IX replacement (DDAVP doesn't work).",
@@ -13725,7 +13769,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1052",
+    "id": "s2surg-1056",
     "category": "Surg Heme/Onc",
     "q": "Hemophilia A with persistently increased PTT despite factor VIII per p131?",
     "a": "Check for antibodies against factor VIII (resistance to exogenous replacement).",
@@ -13740,7 +13784,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1053",
+    "id": "s2surg-1057",
     "category": "Surg Heme/Onc",
     "q": "Vitamin K deficiency labs per p131?",
     "a": "Increased PT and PTT, no change in bleeding time (platelets unaffected).",
@@ -13751,7 +13795,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1054",
+    "id": "s2surg-1058",
     "category": "Surg Heme/Onc",
     "q": "Role of vitamin K per p131?",
     "a": "Cofactor for gamma-glutamyl carboxylase, which activates clotting factors II, VII, IX, X and anti-clotting proteins C and S.",
@@ -13766,7 +13810,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1055",
+    "id": "s2surg-1059",
     "category": "Surg Heme/Onc",
     "q": "Vitamin K deficiency: neonate presentation per p131?",
     "a": "Bleeding from the umbilical stump, with or without retinal hemorrhages (can sound like shaken-baby syndrome, but umbilical stump bleeding is highly buzzy for vitamin K deficiency).",
@@ -13777,7 +13821,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1056",
+    "id": "s2surg-1060",
     "category": "Surg Heme/Onc",
     "q": "Adult on 6 weeks of broad-spectrum antibiotics now needing lower warfarin dose per p131?",
     "a": "Depletion of bowel normal flora (colonic flora synthesize vitamin K). Warfarin inhibits vitamin K function, so if vitamin K is decreased, less warfarin is needed.",
@@ -13788,7 +13832,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1057",
+    "id": "s2surg-1061",
     "category": "Surg Heme/Onc",
     "q": "DIC: what and what triggers it per p131?",
     "a": "Runaway consumption of clotting factors and platelets, precipitated by trauma, sepsis, amniotic fluid embolism, treatment of AML.",
@@ -13803,7 +13847,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1058",
+    "id": "s2surg-1062",
     "category": "Surg Heme/Onc",
     "q": "DIC lab pattern per p131?",
     "a": "Increased bleeding time, PT, PTT, D-dimer and plasmin activity; decreased fibrinogen, platelets and clotting factors.",
@@ -13814,7 +13858,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1059",
+    "id": "s2surg-1063",
     "category": "Surg Heme/Onc",
     "q": "Why those DIC labs per p131?",
     "a": "Fibrinogen is converted to fibrin (decreased). Plasmin breaks down fibrin, so more fibrin means more plasmin. D-dimer is fibrin degradation products, increased.",
@@ -13825,7 +13869,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1060",
+    "id": "s2surg-1064",
     "category": "Surg Heme/Onc",
     "q": "HUS triad per p132?",
     "a": "1) Thrombocytopenia, 2) hemolytic anemia with schistocytes, 3) renal insufficiency with or without hematuria.",
@@ -13840,7 +13884,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1061",
+    "id": "s2surg-1065",
     "category": "Surg Heme/Onc",
     "q": "Thrombocytopenia plus schistocytosis per p132?",
     "a": "Microangiopathic hemolytic anemia (MAHA).",
@@ -13851,7 +13895,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1062",
+    "id": "s2surg-1066",
     "category": "Surg Heme/Onc",
     "q": "TTP pentad per p132?",
     "a": "HUS triad (thrombocytopenia, schistocytes, renal insufficiency) plus fever and neurologic signs.",
@@ -13862,7 +13906,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1063",
+    "id": "s2surg-1067",
     "category": "Surg Heme/Onc",
     "q": "TTP mechanism per p132?",
     "a": "Antibodies against, or mutation in, ADAMTS13, a metalloproteinase that breaks down vWF multimers; platelet aggregates plug renal microvasculature and shear RBCs into schistocytes.",
@@ -13873,7 +13917,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1064",
+    "id": "s2surg-1068",
     "category": "Surg Heme/Onc",
     "q": "Stroke-like presentation in a young woman per p132?",
     "a": "TTP; they just want 'schistocytes' as the answer (Step 1 NBME).",
@@ -13884,7 +13928,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1065",
+    "id": "s2surg-1069",
     "category": "Surg Heme/Onc",
     "q": "TTP treatment per p132?",
     "a": "Plasmapheresis (2CK NBME).",
@@ -13899,7 +13943,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1066",
+    "id": "s2surg-1070",
     "category": "Surg Heme/Onc",
     "q": "Sickle cell trait vs anemia per p132?",
     "a": "Carrier status (one mutation) is sickle cell trait, less severe than sickle cell anemia (two mutations).",
@@ -13910,7 +13954,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1067",
+    "id": "s2surg-1071",
     "category": "Surg Heme/Onc",
     "q": "Why does sickle cell exist per NBME per p132?",
     "a": "Heterozygote advantage: confers resistance to malaria.",
@@ -13925,7 +13969,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1068",
+    "id": "s2surg-1072",
     "category": "Surg Heme/Onc",
     "q": "Sickle cell crisis presentations per p133?",
     "a": "Abdominal or chest pain, and dactylitis (inflammation of the fingers). Abdominal pain as the initial presentation is HY on NBME.",
@@ -13936,7 +13980,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1069",
+    "id": "s2surg-1073",
     "category": "Surg Heme/Onc",
     "q": "RLQ pain plus low Hb in a child from Libya per p133?",
     "a": "New 2CK form: 'blood smear' is the answer to confirm the diagnosis (sickle cell crisis). Tricky because it sounds like appendicitis.",
@@ -13947,7 +13991,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1070",
+    "id": "s2surg-1074",
     "category": "Surg Heme/Onc",
     "q": "Diagnosing sickle cell per p133?",
     "a": "Blood smear, followed by hemoglobin electrophoresis to detect HbS.",
@@ -13958,7 +14002,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1071",
+    "id": "s2surg-1075",
     "category": "Surg Heme/Onc",
     "q": "Molecular basis of sickling per offline NBME per p133?",
     "a": "Gain of stabilizing hydrophobic interactions in the deoxygenated form of hemoglobin S (valine is more hydrophobic than glutamic acid). Another NBME: beta chain slips into a complementary hydrophobic pocket on the alpha chain.",
@@ -13969,7 +14013,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1072",
+    "id": "s2surg-1076",
     "category": "Surg Heme/Onc",
     "q": "What triggers sickling per p133?",
     "a": "Dehydration and increased acidity (source reasoning: HbS consolidates on itself in a less lipophilic surrounding to minimize surface contact).",
@@ -13980,7 +14024,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1073",
+    "id": "s2surg-1077",
     "category": "Surg Heme/Onc",
     "q": "Hydroxyurea in sickle cell per p133?",
     "a": "Increases HbF and can decrease recurrence of sickle crises (more HbF means fractionally less HbS).",
@@ -13995,7 +14039,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1074",
+    "id": "s2surg-1078",
     "category": "Surg Heme/Onc",
     "q": "Myelofibrosis: what answers per p133?",
     "a": "Usually JAK2 mutation (same as PV). Answer if the stem says tear-drop-shaped RBCs or 'dry tap on bone marrow aspiration'.",
@@ -14010,7 +14054,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1075",
+    "id": "s2surg-1079",
     "category": "Surg Heme/Onc",
     "q": "Myelofibrosis spleen and smear per p133?",
     "a": "Massive splenomegaly in 100% of questions per the source. NBME also writes 'tear-drop shaped poikilocytes' (abnormal RBCs seen as >10% on a smear).",
@@ -14021,7 +14065,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1076",
+    "id": "s2surg-1080",
     "category": "Surg Heme/Onc",
     "q": "Myelofibrosis mechanism per p133?",
     "a": "Proliferation of abnormal marrow cells (notably megakaryocytes and granulocytes) releases growth factors and cytokines that stimulate collagen deposition, causing bone marrow fibrosis.",
@@ -14032,7 +14076,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1077",
+    "id": "s2surg-1081",
     "category": "Surg Heme/Onc",
     "q": "Essential thrombocytosis (ET): mutation per p133?",
     "a": "Aka essential thrombocythemia. Usually JAK2 (same as myelofibrosis and PV), causing overproliferation of platelets. Myeloproliferative neoplasm where platelets can be >1,000,000/uL.",
@@ -14043,7 +14087,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1078",
+    "id": "s2surg-1082",
     "category": "Surg Heme/Onc",
     "q": "ET vignette per p133?",
     "a": "Pain in fingertips, Raynaud phenomenon, or headache (hyperviscosity symptoms) plus platelet count of, e.g., 1.4 million/uL (NR 150,000-450,000/uL), no specific triggering event.",
@@ -14054,7 +14098,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1079",
+    "id": "s2surg-1083",
     "category": "Surg Heme/Onc",
     "q": "Treatment of ET per p133?",
     "a": "Aspirin plus plateletpheresis (removing platelets from blood).",
@@ -14069,7 +14113,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1080",
+    "id": "s2surg-1084",
     "category": "Surg Heme/Onc",
     "q": "Reactive thrombocytosis (RT) per p133?",
     "a": "Aka reactive thrombocythemia. A triggering event (inflammation, infection, surgery) stimulates thrombopoietin and increases platelet synthesis and release.",
@@ -14084,7 +14128,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1081",
+    "id": "s2surg-1085",
     "category": "Surg Heme/Onc",
     "q": "RT in infective endocarditis per p133?",
     "a": "USMLE loves giving a platelet count of, e.g., 900,000 with endocarditis: just RT.",
@@ -14095,7 +14139,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1082",
+    "id": "s2surg-1086",
     "category": "Surg Heme/Onc",
     "q": "ET vs RT demographics per p133?",
     "a": "ET: usually women over 50, symptomatic. RT: anyone, usually asymptomatic; a super-high platelet count noticed incidentally, and the question isn't about related symptoms.",
@@ -14106,7 +14150,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1083",
+    "id": "s2surg-1087",
     "category": "Surg Heme/Onc",
     "q": "Difficult NBME: neutrophilic shift with platelets 1.4 million per p133?",
     "a": "ET, not RT, presumably because platelets are >1 million (rare in RT) and the patient has symptoms (fingertip pain).",
@@ -14117,7 +14161,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1084",
+    "id": "s2surg-1088",
     "category": "Surg Heme/Onc",
     "q": "Treatment of RT per p133?",
     "a": "Address the underlying infection and give aspirin. The source hasn't seen RT as a correct NBME answer, only as an incidental finding.",
@@ -14128,7 +14172,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1085",
+    "id": "s2surg-1089",
     "category": "Surg Heme/Onc",
     "q": "Next best step in diagnosis of viral-induced aplastic anemia per p133?",
     "a": "Bone marrow aspiration.",
@@ -14139,7 +14183,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1086",
+    "id": "s2surg-1090",
     "category": "Surg Heme/Onc",
     "q": "Glanzmann thrombasthenia per p134?",
     "a": "Deficiency of glycoproteins IIb/IIIa on platelets: defective platelet aggregation. Seen on NBME as just 'thrombasthenia'.",
@@ -14154,7 +14198,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1087",
+    "id": "s2surg-1091",
     "category": "Surg Heme/Onc",
     "q": "Bernard-Soulier per p134?",
     "a": "Deficiency of glycoprotein Ib on platelets: defective platelet adhesion. Abnormal ristocetin cofactor assay, same as vWD.",
@@ -14165,7 +14209,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1088",
+    "id": "s2surg-1092",
     "category": "Surg Heme/Onc",
     "q": "SLE: demographics and presenting feature per p134?",
     "a": "Women in their 20s-40s. Most common presenting feature is arthritis (>90%). Malar rash is too easy; know it is type III hypersensitivity.",
@@ -14176,7 +14220,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1089",
+    "id": "s2surg-1093",
     "category": "Surg Heme/Onc",
     "q": "SLE and blood counts per p134?",
     "a": "Thrombocytopenia is mega-HY: 32-year-old woman with arthritis plus low platelets is SLE. RBCs and WBCs can also be low. If all cell lines are down, it's increased peripheral destruction (antibodies), not deficient marrow production.",
@@ -14187,7 +14231,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1090",
+    "id": "s2surg-1094",
     "category": "Surg Heme/Onc",
     "q": "Discoid lupus and mucositis per p134?",
     "a": "Discoid lupus: skin lesions. Mucositis: mouth ulcers.",
@@ -14198,7 +14242,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1091",
+    "id": "s2surg-1095",
     "category": "Surg Heme/Onc",
     "q": "SLE with seizure and ring-enhancing lesion per p134?",
     "a": "Primary CNS lymphoma (SLE increases risk of malignancy such as non-Hodgkin lymphoma); Toxo is the wrong answer.",
@@ -14209,7 +14253,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1092",
+    "id": "s2surg-1096",
     "category": "Surg Heme/Onc",
     "q": "SLE kidney and pregnancy per p134?",
     "a": "Diffuse proliferative glomerulonephritis. In pregnant women, congenital heart block in neonates.",
@@ -14220,7 +14264,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1093",
+    "id": "s2surg-1097",
     "category": "Surg Heme/Onc",
     "q": "Factor V Leiden per p134?",
     "a": "Increased clots/DVTs. Factor V resistant to cleavage by protein C ('activated protein C resistance'; protein S is the cofactor). Prothrombin mutation and MTHFR also cause clots but are lower yield.",
@@ -14235,7 +14279,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1094",
+    "id": "s2surg-1098",
     "category": "Surg Heme/Onc",
     "q": "Protein C deficiency per p134?",
     "a": "Clots/DVT like FVL, notably skin necrosis if the patient receives warfarin.",
@@ -14250,7 +14294,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1095",
+    "id": "s2surg-1099",
     "category": "Surg Heme/Onc",
     "q": "Antiphospholipid syndrome (APS): the paradox per p134?",
     "a": "Antibodies against phospholipids cause in vivo thromboses despite an in vitro increased PTT (you'd expect bleeding, not clots).",
@@ -14265,7 +14309,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1096",
+    "id": "s2surg-1100",
     "category": "Surg Heme/Onc",
     "q": "Why is PTT increased in APS per p134?",
     "a": "Phospholipids are needed for the in vitro assay to work.",
@@ -14276,7 +14320,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1097",
+    "id": "s2surg-1101",
     "category": "Surg Heme/Onc",
     "q": "Why thromboses in vivo in APS per p134?",
     "a": "1) Antibodies against platelet-membrane phospholipids activate platelets, which secrete procoagulant molecules. 2) They bind endothelial cells, causing dysfunction and a prothrombotic state. 3) They're pro-inflammatory: increased IL-6 and TNF-alpha activate tissue factor. The source says USMLE will not assess these mechanisms.",
@@ -14287,7 +14331,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1098",
+    "id": "s2surg-1102",
     "category": "Surg Heme/Onc",
     "q": "APS: causes per p134?",
     "a": "Idiopathic (the source writes antibodies against b2-microglobulin or cardiolipin) or secondary to SLE.",
@@ -14302,7 +14346,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1099",
+    "id": "s2surg-1103",
     "category": "Surg Heme/Onc",
     "q": "Lupus anticoagulant per p134?",
     "a": "If APS is due to SLE, the antibodies are called 'lupus anticoagulant' but are the same antibodies.",
@@ -14313,7 +14357,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1100",
+    "id": "s2surg-1104",
     "category": "Surg Heme/Onc",
     "q": "Malar rash + low RBCs, WBCs, platelets: mechanism per p134?",
     "a": "Increased peripheral destruction (antibodies against blood cell lines; isolated thrombocytopenia most common).",
@@ -14324,7 +14368,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1101",
+    "id": "s2surg-1105",
     "category": "Surg Heme/Onc",
     "q": "Mechanism of viral-induced aplastic anemia per p134?",
     "a": "Defective bone marrow production (contrast with SLE's peripheral destruction).",
@@ -14335,7 +14379,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1102",
+    "id": "s2surg-1106",
     "category": "Surg Heme/Onc",
     "q": "APS and syphilis tests per p135?",
     "a": "APS can cause false-positive VDRL.",
@@ -14346,7 +14390,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1103",
+    "id": "s2surg-1107",
     "category": "Surg Heme/Onc",
     "q": "How does neutropenia present per p135?",
     "a": "Mouth ulcers, fever and sore throat. Stems usually don't say 'neutropenia': e.g., a child on chemotherapy for AML with mouth ulcers and/or sore throat.",
@@ -14357,7 +14401,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1104",
+    "id": "s2surg-1108",
     "category": "Surg Heme/Onc",
     "q": "Neutropenic (febrile) fever: setting per p135?",
     "a": "Fever with low neutrophils after chemo- or radiotherapy-induced pancytopenia, or viral-induced neutropenia (e.g., parvovirus B19), with or without low RBCs and platelets. Medical emergency.",
@@ -14372,7 +14416,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1105",
+    "id": "s2surg-1109",
     "category": "Surg Heme/Onc",
     "q": "After antibiotics in neutropenic fever per p135?",
     "a": "G-CSF (filgrastim). The source has never seen granulocyte transfusion as a correct USMLE answer.",
@@ -14383,7 +14427,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1106",
+    "id": "s2surg-1110",
     "category": "Surg Heme/Onc",
     "q": "Aplastic anemia: definition per p135?",
     "a": "All cell lines (RBCs, WBCs, platelets) decreased.",
@@ -14394,7 +14438,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1107",
+    "id": "s2surg-1111",
     "category": "Surg Heme/Onc",
     "q": "Causes of aplastic anemia per p135?",
     "a": "Parvovirus B19 (infects myeloid progenitors, erythroid progenitors and megakaryocytes), other viruses such as Hepatitis A or HIV, chemo- and/or radiotherapy.",
@@ -14405,7 +14449,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1108",
+    "id": "s2surg-1112",
     "category": "Surg Heme/Onc",
     "q": "Fanconi anemia per p135?",
     "a": "Rare autosomal recessive aplastic anemia that also presents with hypo-/aplastic thumbs and radii.",
@@ -14420,7 +14464,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1109",
+    "id": "s2surg-1113",
     "category": "Surg Heme/Onc",
     "q": "Hereditary spherocytosis: inheritance and defect per p135?",
     "a": "Autosomal dominant (one of the highest-yield inheritance patterns). Heterozygous mutation in ankyrin, spectrin or band proteins: RBC membrane/cytoskeletal defect, so RBCs deform from biconcave discs into spheres.",
@@ -14435,7 +14479,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1110",
+    "id": "s2surg-1114",
     "category": "Surg Heme/Onc",
     "q": "Hereditary spherocytosis: the answer 'cell membrane' per p135?",
     "a": "USMLE may give hereditary spherocytosis and the answer is just 'cell membrane,' 'cytoskeleton' or 'cytoskeletal defect'.",
@@ -14446,7 +14490,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1111",
+    "id": "s2surg-1115",
     "category": "Surg Heme/Onc",
     "q": "Anemia type in hereditary spherocytosis per p135?",
     "a": "Normochromic, normocytic (asked on an NBME directly).",
@@ -14457,7 +14501,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1112",
+    "id": "s2surg-1116",
     "category": "Surg Heme/Onc",
     "q": "Viral infection + all three cell lines down per p135?",
     "a": "Viral-induced aplastic anemia.",
@@ -14468,7 +14512,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1113",
+    "id": "s2surg-1117",
     "category": "Surg Heme/Onc",
     "q": "Diagnosing hereditary spherocytosis per p136?",
     "a": "Osmotic fragility test and eosin-5-maleimide.",
@@ -14483,7 +14527,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1114",
+    "id": "s2surg-1118",
     "category": "Surg Heme/Onc",
     "q": "Coombs test in hereditary spherocytosis per p136?",
     "a": "Negative (no antibodies against RBCs); contrasts with spherocytosis due to hemolysis.",
@@ -14494,7 +14538,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1115",
+    "id": "s2surg-1119",
     "category": "Surg Heme/Onc",
     "q": "Treatment of hereditary spherocytosis per p136?",
     "a": "Splenectomy (decreases RBC turnover). Can appear as 'splenectomy and cholecystectomy' together.",
@@ -14505,7 +14549,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1116",
+    "id": "s2surg-1120",
     "category": "Surg Heme/Onc",
     "q": "Which heme condition is often treated with splenectomy per p136?",
     "a": "Hereditary spherocytosis, not sickle cell. Sickle cell causes autosplenectomy from repeated microinfarcts in splenic microvasculature; it isn't treated with splenectomy.",
@@ -14516,7 +14560,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1117",
+    "id": "s2surg-1121",
     "category": "Surg Heme/Onc",
     "q": "Other causes of spherocytosis per p136?",
     "a": "Not always hereditary: also seen with drug- or infection-induced hemolysis.",
@@ -14527,7 +14571,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1118",
+    "id": "s2surg-1122",
     "category": "Surg Heme/Onc",
     "q": "Spherocytosis from hemolysis: Coombs per p136?",
     "a": "Coombs (+): antibodies against RBCs. In hereditary spherocytosis the mechanism has nothing to do with antibodies, so Coombs is (-).",
@@ -14542,7 +14586,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1119",
+    "id": "s2surg-1123",
     "category": "Surg Heme/Onc",
     "q": "How antibodies cause spherocytes per p136?",
     "a": "Antibodies bound to RBCs can trigger complement-mediated damage, leading to deformation of the RBC membrane and cytoskeleton.",
@@ -14553,7 +14597,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1120",
+    "id": "s2surg-1124",
     "category": "Surg Heme/Onc",
     "q": "Child with recent viral infection, low Hb, spherocytes and positive Coombs per p136?",
     "a": "Hemolytic anemia, not hereditary spherocytosis (answer 'no specific mutation').",
@@ -14564,7 +14608,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1121",
+    "id": "s2surg-1125",
     "category": "Surg Heme/Onc",
     "q": "Leukemoid reaction per p136?",
     "a": "Exaggerated immune response to infection with markedly increased WBCs that can resemble leukemia ('-oid' means looks like but isn't).",
@@ -14575,7 +14619,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1122",
+    "id": "s2surg-1126",
     "category": "Surg Heme/Onc",
     "q": "WBC levels in infection vs leukemia per p136?",
     "a": "Normal leukocyte count 4-11,000/uL. Typical infections: teens or 20,000s. When WBCs creep into the 30s, it's increasingly rare even in sepsis, so think leukemia; if no leukemia, it's called leukemoid reaction.",
@@ -14586,7 +14630,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1123",
+    "id": "s2surg-1127",
     "category": "Surg Heme/Onc",
     "q": "USMLE leukemoid reaction answer per p136?",
     "a": "Infection plus WBCs >30,000/uL, plus a smear showing neutrophils or elevated leukocyte ALP (low in CML).",
@@ -14601,7 +14645,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1124",
+    "id": "s2surg-1128",
     "category": "Surg Heme/Onc",
     "q": "Leukemia: general facts per p137?",
     "a": "Cancer of white blood cells in the blood; almost always B-cell in origin.",
@@ -14612,7 +14656,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1125",
+    "id": "s2surg-1129",
     "category": "Surg Heme/Onc",
     "q": "T-cell lymphocytic leukemia (ALL, CLL) on USMLE per p137?",
     "a": "Apart from Sezary syndrome and mycosis fungoides, a T-cell one is signaled by an SVC-like syndrome (positive Pemberton sign, congested neck veins and/or facial erythema/swelling) from a thymic lesion.",
@@ -14627,7 +14671,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1126",
+    "id": "s2surg-1130",
     "category": "Surg Heme/Onc",
     "q": "Acute lymphoblastic leukemia (ALL): who per p137?",
     "a": "The answer for a pre-adolescent child with leukemia.",
@@ -14638,7 +14682,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1127",
+    "id": "s2surg-1131",
     "category": "Surg Heme/Onc",
     "q": "ALL vignette per p137?",
     "a": "A 6-year-old with a leukocyte count of 60,000/uL, 90% lymphocytes.",
@@ -14649,7 +14693,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1128",
+    "id": "s2surg-1132",
     "category": "Surg Heme/Onc",
     "q": "ALL vs pertussis per p137?",
     "a": "Pertussis can cause an ALL-like picture (WBCs 30-40,000+, 90% lymphocytes): reactive lymphocytosis. Distinguish by cough and/or post-tussive emesis and/or hypoglycemia.",
@@ -14664,7 +14708,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1129",
+    "id": "s2surg-1133",
     "category": "Surg Heme/Onc",
     "q": "ALL and Down syndrome per p137?",
     "a": "Increased risk. A Down syndrome stem asking what the child is at greatest risk of developing: 'excess lymphoblasts'.",
@@ -14679,7 +14723,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1130",
+    "id": "s2surg-1134",
     "category": "Surg Heme/Onc",
     "q": "Chronic lymphocytic leukemia (CLL) vignette per p137?",
     "a": "Sounds like ALL but not in a child (usually older adults).",
@@ -14694,7 +14738,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1131",
+    "id": "s2surg-1135",
     "category": "Surg Heme/Onc",
     "q": "70-year-old with WBCs 87,000/uL (90% lymphocytes): next best step per p137?",
     "a": "Quantitative immunoglobulin assay, which can sometimes show increased monoclonal immunoglobulin in CLL (an NBME answer).",
@@ -14705,7 +14749,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1132",
+    "id": "s2surg-1136",
     "category": "Surg Heme/Onc",
     "q": "CLL immunophenotype per p138?",
     "a": "CD5 and CD23 positive (asked on an NBME).",
@@ -14720,7 +14764,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1133",
+    "id": "s2surg-1137",
     "category": "Surg Heme/Onc",
     "q": "CLL associated autoimmune disease per p138?",
     "a": "Warm autoimmune hemolytic anemia (IgG against RBCs).",
@@ -14731,7 +14775,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1134",
+    "id": "s2surg-1138",
     "category": "Surg Heme/Onc",
     "q": "Auer rods composition per p138?",
     "a": "Myeloperoxidase, a blue-green heme-containing pigment. The image is exceedingly HY for Step.",
@@ -14742,7 +14786,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1135",
+    "id": "s2surg-1139",
     "category": "Surg Heme/Onc",
     "q": "AML stem without the Auer rod image per p138?",
     "a": "They'll say '30% blasts' or '50% blasts'.",
@@ -14753,7 +14797,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1136",
+    "id": "s2surg-1140",
     "category": "Surg Heme/Onc",
     "q": "Treatment of APL per p138?",
     "a": "All-trans retinoic acid (vitamin A), which causes maturation of leukemic cells into mature granulocytes.",
@@ -14768,7 +14812,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1137",
+    "id": "s2surg-1141",
     "category": "Surg Heme/Onc",
     "q": "AML treatment and DIC per p138?",
     "a": "Treatment leads to leukemic cell lysis; release of Auer rods into the circulation can precipitate DIC.",
@@ -14779,7 +14823,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1138",
+    "id": "s2surg-1142",
     "category": "Surg Heme/Onc",
     "q": "CML fusion protein per p138?",
     "a": "bcr/abl, an oncogenic tyrosine kinase ('fusion protein').",
@@ -14794,7 +14838,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1139",
+    "id": "s2surg-1143",
     "category": "Surg Heme/Onc",
     "q": "CML stem cell types per p138?",
     "a": "Myelocytes, promyelocytes, metamyelocytes: 9/10 questions mentioning these cells are CML.",
@@ -14805,7 +14849,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1140",
+    "id": "s2surg-1144",
     "category": "Surg Heme/Onc",
     "q": "Treatment of CML per p139?",
     "a": "Imatinib, which targets the bcr/abl tyrosine kinase.",
@@ -14820,7 +14864,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1141",
+    "id": "s2surg-1145",
     "category": "Surg Heme/Onc",
     "q": "Hairy cell and WBC count per p139?",
     "a": "The stem can give low WBCs, unusual for leukemia (9 of 10 leukemia questions give ultra-high WBCs). One NBME hairy cell question: image like above, WBCs 3,500, 'WBCs with cytoplasmic projections', TRAP positive.",
@@ -14831,7 +14875,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1142",
+    "id": "s2surg-1146",
     "category": "Surg Heme/Onc",
     "q": "Sezary syndrome: what is it per p139?",
     "a": "Cutaneous T-cell lymphoma that extends to the blood as a T-cell leukemia.",
@@ -14846,7 +14890,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1143",
+    "id": "s2surg-1147",
     "category": "Surg Heme/Onc",
     "q": "Sezary syndrome cause per p139?",
     "a": "Caused by human T-cell lymphotropic virus (HTLV).",
@@ -14861,7 +14905,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1144",
+    "id": "s2surg-1148",
     "category": "Surg Heme/Onc",
     "q": "Sezary cells per p139?",
     "a": "Cerebriform-shaped T cells in the bloodstream.",
@@ -14872,7 +14916,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1145",
+    "id": "s2surg-1149",
     "category": "Surg Heme/Onc",
     "q": "Lymphoma: definition per p140?",
     "a": "Cancer of the lymphatic system; usually starts in lymph nodes but can be in spleen and bone marrow. Almost always B-cell. Categorized as Hodgkin or non-Hodgkin (NHL).",
@@ -14883,7 +14927,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1146",
+    "id": "s2surg-1150",
     "category": "Surg Heme/Onc",
     "q": "Lymphoma risk factors per p140?",
     "a": "Epstein-Barr virus, HIV, general immunosuppression (chronic corticosteroids, immunosuppressants), autoimmune disease (SLE, Hashimoto).",
@@ -14894,7 +14938,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1147",
+    "id": "s2surg-1151",
     "category": "Surg Heme/Onc",
     "q": "Hodgkin lymphoma: characteristic cell per p140?",
     "a": "Reed-Sternberg cells: CD15/30 (+) B cells with a characteristic 'owl eye' appearance.",
@@ -14909,7 +14953,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1148",
+    "id": "s2surg-1152",
     "category": "Surg Heme/Onc",
     "q": "Hodgkin lymphoma presentation per p140?",
     "a": "100% of questions give a painless lateral neck mass or facial swelling (lymphadenopathy).",
@@ -14920,7 +14964,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1149",
+    "id": "s2surg-1153",
     "category": "Surg Heme/Onc",
     "q": "Additional Hodgkin findings per p140?",
     "a": "At least one of: hepatomegaly; mediastinal mass (not thymoma; mediastinal lymphadenopathy); Virchow node (Troisier sign: palpable left supraclavicular node), which isn't limited to gastric cancer (one NBME gives it for Hodgkin).",
@@ -14935,7 +14979,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1150",
+    "id": "s2surg-1154",
     "category": "Surg Heme/Onc",
     "q": "B symptoms in lymphoma per p140?",
     "a": "Fever, night sweats, weight loss: common but not mandatory in vignettes.",
@@ -14946,7 +14990,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1151",
+    "id": "s2surg-1155",
     "category": "Surg Heme/Onc",
     "q": "Leukocyte count in lymphoma per p140?",
     "a": "Can be normal. One NBME gives WBCs of 10,000/uL (NR 4-11,000) and lymphocytes 33% (NR 25-33). Lymphomas are cancers of lymphatic tissue, not leukemias.",
@@ -14957,7 +15001,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1152",
+    "id": "s2surg-1156",
     "category": "Surg Heme/Onc",
     "q": "Burkitt histology per p141?",
     "a": "'Starry sky': background of basophilic (purple) B cells with translucent macrophages.",
@@ -14968,7 +15012,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1153",
+    "id": "s2surg-1157",
     "category": "Surg Heme/Onc",
     "q": "Follicular lymphoma behavior and presentation per p141?",
     "a": "Most common indolent (less aggressive) NHL. Waxing/waning painless neck mass over 1-2 years.",
@@ -14979,7 +15023,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1154",
+    "id": "s2surg-1158",
     "category": "Surg Heme/Onc",
     "q": "Diffuse large B cell lymphoma (DLBCL) per p141?",
     "a": "Most common aggressive NHL.",
@@ -14990,7 +15034,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1155",
+    "id": "s2surg-1159",
     "category": "Surg Heme/Onc",
     "q": "Mycosis fungoides per p141?",
     "a": "Cutaneous T-cell lymphoma characterized by cerebriform-shaped cells.",
@@ -15005,7 +15049,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1156",
+    "id": "s2surg-1160",
     "category": "Surg Heme/Onc",
     "q": "Mycosis fungoides vs Sezary per p141?",
     "a": "Less aggressive than the T-cell lymphoma of Sezary syndrome; does not extend to the blood as a T-cell leukemia.",
@@ -15016,7 +15060,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1157",
+    "id": "s2surg-1161",
     "category": "Surg Heme/Onc",
     "q": "Warm AIHA per p141?",
     "a": "IgG antibodies against RBCs. 'Warm' because agglutination occurs at warmer temperatures (the stem can say agglutination happens when the nurse holds the tube by hand). Seen with SLE or RA, CLL; or drug- or infection-induced.",
@@ -15027,7 +15071,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1158",
+    "id": "s2surg-1162",
     "category": "Surg Heme/Onc",
     "q": "Rash after beta-lactam in a 16-17-year-old who has been dating per p142?",
     "a": "EBV mononucleosis; do a heterophile antibody (Monospot) test.",
@@ -15042,7 +15086,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1159",
+    "id": "s2surg-1163",
     "category": "Surg Heme/Onc",
     "q": "Cold AIHA per p142?",
     "a": "IgM antibodies against RBCs. 'Cold' because agglutination occurs at cooler temperatures (e.g., tubes transported en route to the lab). Seen with Mycoplasma pneumonia and CMV mononucleosis.",
@@ -15057,7 +15101,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1160",
+    "id": "s2surg-1164",
     "category": "Surg Heme/Onc",
     "q": "Infectious mononucleosis: cause and atypical lymphocytes per p142?",
     "a": "Usually EBV, can be CMV. The virus invades B cells, which stimulates CD8+ T cells to attack infected B cells. In mono these CD8+ T cells are 'atypical lymphocytes': reactive CD8+ T cells.",
@@ -15068,7 +15112,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1161",
+    "id": "s2surg-1165",
     "category": "Surg Heme/Onc",
     "q": "Mono presentation per p142?",
     "a": "Teenager or young adult with fever >38 C, lymphadenopathy, tonsillar exudates and no cough, so it looks bacterial and is often misdiagnosed as Strep pharyngitis.",
@@ -15079,7 +15123,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1162",
+    "id": "s2surg-1166",
     "category": "Surg Heme/Onc",
     "q": "Rash after amoxicillin or penicillin per p142?",
     "a": "Can be EBV mono, not beta-lactam allergy. Pre-adolescent with rash after a beta-lactam: likely allergy. Adolescent or older with rash: heterophile antibody (Monospot) test as next best step.",
@@ -15094,7 +15138,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1163",
+    "id": "s2surg-1167",
     "category": "Surg Heme/Onc",
     "q": "Mono later course per p142?",
     "a": "Recurrent episodes of extreme fatigue at intervals of months to years after primary infection.",
@@ -15105,7 +15149,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1164",
+    "id": "s2surg-1168",
     "category": "Surg Heme/Onc",
     "q": "Acanthocytes: liver failure vs abetalipoproteinemia per p142?",
     "a": "The source has seen about 4 NBME questions with acanthocytes: 3 liver failure, 1 abetalipoproteinemia. USMLE cares about liver failure.",
@@ -15116,7 +15160,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1165",
+    "id": "s2surg-1169",
     "category": "Surg Heme/Onc",
     "q": "Heat stroke vs heat exhaustion per p142?",
     "a": "Heat stroke: end-organ damage from hyperthermia (>104 F), shows as abnormal liver and/or renal function tests. Heat exhaustion: mere fatigue, no end-organ damage.",
@@ -15131,7 +15175,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1166",
+    "id": "s2surg-1170",
     "category": "Surg Heme/Onc",
     "q": "Elderly woman found at home in summer, 106 F, acanthocytes per p142?",
     "a": "Liver failure (due to heat stroke).",
@@ -15142,7 +15186,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1167",
+    "id": "s2surg-1171",
     "category": "Surg Heme/Onc",
     "q": "Acanthocytes in a hepatitis C patient per p142?",
     "a": "One NBME question includes them (not critical to the answer), so acanthocytes aren't only heat stroke.",
@@ -15153,7 +15197,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1168",
+    "id": "s2surg-1172",
     "category": "Surg Heme/Onc",
     "q": "Macrocytosis definition per p143?",
     "a": "MCV >100 fL (normal 80-100 fL).",
@@ -15164,7 +15208,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1169",
+    "id": "s2surg-1173",
     "category": "Surg Heme/Onc",
     "q": "B9 (folate) and B12 deficiency and RBC size per p143?",
     "a": "Impaired DNA synthesis keeps RBCs in the marrow longer, so they're larger and less mature.",
@@ -15179,7 +15223,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1170",
+    "id": "s2surg-1174",
     "category": "Surg Heme/Onc",
     "q": "Hypersegmented neutrophils per p143?",
     "a": "Impaired DNA synthesis (B9/B12 deficiency): longer time in marrow gives more nuclear lobes and segments.",
@@ -15190,7 +15234,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1171",
+    "id": "s2surg-1175",
     "category": "Surg Heme/Onc",
     "q": "High MCV with normal B9/B12 per p143?",
     "a": "Alcohol: an important cause of high MCV on USMLE with normal B9/B12.",
@@ -15205,7 +15249,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1172",
+    "id": "s2surg-1176",
     "category": "Surg Heme/Onc",
     "q": "Sideroblastic anemia causes per p143?",
     "a": "Can be X-linked recessive, but also caused by alcohol.",
@@ -15216,7 +15260,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1173",
+    "id": "s2surg-1177",
     "category": "Surg Heme/Onc",
     "q": "Prussian blue stain per p143?",
     "a": "Stains the iron-laden cells blue: a very buzzy, pass-level image for sideroblastic anemia.",
@@ -15227,7 +15271,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1174",
+    "id": "s2surg-1178",
     "category": "Surg Heme/Onc",
     "q": "Lead poisoning treatment per p144?",
     "a": "Calcium EDTA, dimercaprol, or succimer.",
@@ -15242,7 +15286,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1175",
+    "id": "s2surg-1179",
     "category": "Surg Heme/Onc",
     "q": "Red/pink/port-wine urine with abdominal pain per p144?",
     "a": "AIP, the heme synthesis disorder answer.",
@@ -15253,7 +15297,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1176",
+    "id": "s2surg-1180",
     "category": "Surg Heme/Onc",
     "q": "AIP: neurologic findings and treatment per p144?",
     "a": "Patients can sometimes have miscellaneous neurologic findings, but not mandatory. Treatment is hematin and glucose.",
@@ -15268,7 +15312,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1177",
+    "id": "s2surg-1181",
     "category": "Surg Heme/Onc",
     "q": "Heme synthesis disorder with photosensitivity / blistering per p144?",
     "a": "Porphyria cutanea tarda (PCT).",
@@ -15279,7 +15323,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1178",
+    "id": "s2surg-1182",
     "category": "Surg Heme/Onc",
     "q": "PCT urine versus AIP urine per p144?",
     "a": "PCT urine can appear tea-colored / dark. Don't confuse it with the red/pink/port-wine urine of AIP.",
@@ -15290,7 +15334,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1179",
+    "id": "s2surg-1183",
     "category": "Surg Heme/Onc",
     "q": "Intravascular hemolysis: features per p144?",
     "a": "Lysis of RBCs within the bloodstream. Releases hemoglobin directly into the blood, leading to hemoglobinuria. Serum haptoglobin is decreased.",
@@ -15305,7 +15349,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1180",
+    "id": "s2surg-1184",
     "category": "Surg Heme/Onc",
     "q": "Haptoglobin per p144?",
     "a": "A liver protein that binds and removes free hemoglobin released from damaged or lysed RBCs, preventing renal damage and helping recycle iron. Low serum haptoglobin helps differentiate intra- from extravascular hemolysis.",
@@ -15316,7 +15360,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1181",
+    "id": "s2surg-1185",
     "category": "Surg Heme/Onc",
     "q": "HY examples of intravascular hemolysis per p144?",
     "a": "G6PD deficiency (oxidative damage), PNH (complement-mediated), HUS, TTP, HELLP syndrome, DIC, and mechanical hemolysis by prosthetic valves (shearing; all schistocytes).",
@@ -15327,7 +15371,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1182",
+    "id": "s2surg-1186",
     "category": "Surg Heme/Onc",
     "q": "Extravascular hemolysis: features per p144?",
     "a": "Phagocytosis and lysis of RBCs within the spleen (and liver). Hemoglobin is broken down within macrophages to biliverdin, then bilirubin, which goes to the liver for excretion in bile. No hemoglobinuria; haptoglobin is not decreased.",
@@ -15338,7 +15382,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1183",
+    "id": "s2surg-1187",
     "category": "Surg Heme/Onc",
     "q": "HY examples of extravascular hemolysis per p145?",
     "a": "Hereditary spherocytosis, thalassemias, and warm and cold AIHA (Abs opsonize RBCs, which are removed in splenic red pulp). AIHA can also cause intravascular hemolysis if complement is recruited, but most destruction is extravascular.",
@@ -15349,7 +15393,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1184",
+    "id": "s2surg-1188",
     "category": "Surg Heme/Onc",
     "q": "FNHTR vignette and answer wordings per p145?",
     "a": "Fever and chills within 2 hours of a transfusion. Answer is written as either (1) preformed antibodies against donor leukocyte antigens, or (2) cytokine release from transfused blood.",
@@ -15360,7 +15404,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1185",
+    "id": "s2surg-1189",
     "category": "Surg Heme/Onc",
     "q": "Lab marker in hemolysis per p145?",
     "a": "LDH can be increased (RBCs are packed with LDH).",
@@ -15371,7 +15415,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1186",
+    "id": "s2surg-1190",
     "category": "Surg Heme/Onc",
     "q": "Acute hemolytic reaction vignette per p145?",
     "a": "Fever, chills, and often flank pain within minutes of a blood transfusion.",
@@ -15382,7 +15426,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1187",
+    "id": "s2surg-1191",
     "category": "Surg Heme/Onc",
     "q": "NBME: 10 minutes into a transfusion, 'impending sense of doom,' transfusion stopped; next best step per p145?",
     "a": "Antiglobulin test (another way of writing Coombs test). The source notes it sounds like MI.",
@@ -15393,7 +15437,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1188",
+    "id": "s2surg-1192",
     "category": "Surg Heme/Onc",
     "q": "Delayed transfusion reaction: cause per p145?",
     "a": "Recipient antibodies against minor antigens on donor RBCs, such as Rh, Kell, Duffy, Kidd. Coombs test is (+).",
@@ -15408,7 +15452,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1189",
+    "id": "s2surg-1193",
     "category": "Surg Heme/Onc",
     "q": "Delayed transfusion reaction vignette per p145?",
     "a": "Surgery with intraoperative RBCs, then hemoglobin gradually decreases over the following week. Answer: Coombs (+); unconjugated bilirubin.",
@@ -15419,7 +15463,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1190",
+    "id": "s2surg-1194",
     "category": "Surg Heme/Onc",
     "q": "TRALI: USMLE presentation per p145?",
     "a": "ARDS-like presentation with bilateral crackles and low O2 sats less than 6 hours after a transfusion.",
@@ -15434,7 +15478,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1191",
+    "id": "s2surg-1195",
     "category": "Surg Heme/Onc",
     "q": "Transfusion + fever + negative Coombs per p145?",
     "a": "Febrile non-hemolytic transfusion reaction; it is the most common transfusion reaction.",
@@ -15445,7 +15489,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1192",
+    "id": "s2surg-1196",
     "category": "Surg Heme/Onc",
     "q": "Decreased hemoglobin + increased bilirubin 2-4 weeks after transfusion per p145?",
     "a": "Delayed transfusion reaction, caused by recipient 'amnestic' antibodies.",
@@ -15456,7 +15500,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1193",
+    "id": "s2surg-1197",
     "category": "Surg Heme/Onc",
     "q": "Older TACO question per p146?",
     "a": "A 2CK form: an elderly man with only 3 packs of RBCs develops bilateral crackles and low O2 sats 12 hours after admission (not <6 hours); answer is 'X-ray of the chest' as next best step. The explanation says it is TACO.",
@@ -15467,7 +15511,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1194",
+    "id": "s2surg-1198",
     "category": "Surg Heme/Onc",
     "q": "TRALI vs TACO summary per p146?",
     "a": "ARDS-like picture after transfusion: <6 hours = TRALI; >6 hours = TACO; heart disease = TACO regardless of time frame.",
@@ -15482,7 +15526,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1195",
+    "id": "s2surg-1199",
     "category": "Surg Heme/Onc",
     "q": "TACO: when is it the answer per p146?",
     "a": "ARDS-like presentation more than 6 hours after a transfusion, or ARDS-like picture after transfusion in the setting of cardiovascular disease.",
@@ -15493,7 +15537,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1196",
+    "id": "s2surg-1200",
     "category": "Surg Heme/Onc",
     "q": "2CK form: elderly man received 3 packs of RBCs, bilateral crackles and low O2 sats 12 hours after admission per p146?",
     "a": "Next best step: chest X-ray. The explanation says TACO, but the question doesn't rely on telling TACO from TRALI.",
@@ -15504,7 +15548,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1197",
+    "id": "s2surg-1201",
     "category": "Surg Heme/Onc",
     "q": "72-year-old with MI 10 years ago, SOB and crackles 30 minutes after crystalloid and 4 packs of RBCs per p146?",
     "a": "TACO (heart disease history with repeated blood products).",
@@ -15515,7 +15559,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1198",
+    "id": "s2surg-1202",
     "category": "Surg Heme/Onc",
     "q": "Aspirin: mechanism per p146?",
     "a": "Irreversible COX-1 and COX-2 inhibitor (an NSAID, aka salicylic acid / salicylate). Blocks synthesis of prostaglandins and platelet thromboxane A2: less prostaglandin means less inflammation, pain and body temperature; less thromboxane A2 means less platelet clumping.",
@@ -15526,7 +15570,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1199",
+    "id": "s2surg-1203",
     "category": "Surg Heme/Onc",
     "q": "Aspirin for atrial fibrillation per p146?",
     "a": "Source: with a low CHADS2 score (CHF, HTN, Age >75, DM, Stroke/TIA/emboli worth 2), give aspirin for 0 or 1 points and warfarin for 2+. USMLE doesn't obsess over valvular vs non-valvular AF; the choices will be aspirin or warfarin, not NOACs.",
@@ -15541,7 +15585,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1200",
+    "id": "s2surg-1204",
     "category": "Surg Heme/Onc",
     "q": "PAD and carotid stenosis: USMLE triad per p146?",
     "a": "Antiplatelet therapy (aspirin alone sufficient on USMLE), statin, and ACEi or ARB.",
@@ -15552,7 +15596,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1201",
+    "id": "s2surg-1205",
     "category": "Surg Heme/Onc",
     "q": "Ischemic heart disease with angina: drugs per p146?",
     "a": "Nitrates for acute angina, plus daily aspirin.",
@@ -15563,7 +15607,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1202",
+    "id": "s2surg-1206",
     "category": "Surg Heme/Onc",
     "q": "Aspirin adverse effects per p146?",
     "a": "GI bleeds (less prostaglandin, less gastric mucous protection), nephropathy (pre-renal, interstitial, nephrogenic DI), and asthma (COX inhibition shunts arachidonic acid down the lipoxygenase pathway, raising leukotrienes and causing bronchoconstriction).",
@@ -15574,7 +15618,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1203",
+    "id": "s2surg-1207",
     "category": "Surg Heme/Onc",
     "q": "Why never give aspirin to children per p146?",
     "a": "Reye syndrome risk (defect in beta-oxidation, with cerebral edema and hepatitis).",
@@ -15589,7 +15633,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1204",
+    "id": "s2surg-1208",
     "category": "Surg Heme/Onc",
     "q": "NSAID-induced gastric ulcer: what to add after a PPI per p147?",
     "a": "Misoprostol (PGE1 analogue).",
@@ -15604,7 +15648,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1205",
+    "id": "s2surg-1209",
     "category": "Surg Heme/Onc",
     "q": "Other NSAIDs versus aspirin per p147?",
     "a": "Other NSAIDs are reversible COX inhibitors; aspirin is irreversible.",
@@ -15615,7 +15659,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1206",
+    "id": "s2surg-1210",
     "category": "Surg Heme/Onc",
     "q": "Indomethacin uses per p147?",
     "a": "Acute gout and pericarditis.",
@@ -15626,7 +15670,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1207",
+    "id": "s2surg-1211",
     "category": "Surg Heme/Onc",
     "q": "Ibuprofen uses per p147?",
     "a": "General NSAID used broadly for pain, fever, and autoimmune diseases (RA, IBD, SLE, etc.).",
@@ -15637,7 +15681,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1208",
+    "id": "s2surg-1212",
     "category": "Surg Heme/Onc",
     "q": "USMLE-favorite NSAID causing GI bleeds and nephropathy per p147?",
     "a": "Naproxen (shows up on 2CK forms a lot).",
@@ -15648,7 +15692,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1209",
+    "id": "s2surg-1213",
     "category": "Surg Heme/Onc",
     "q": "Diclofenac and ketorolac per p147?",
     "a": "Just know these names are NSAIDs.",
@@ -15659,7 +15703,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1210",
+    "id": "s2surg-1214",
     "category": "Surg Heme/Onc",
     "q": "5-ASA compounds per p147?",
     "a": "Mesalamine and sulfasalazine are used for IBD.",
@@ -15670,7 +15714,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1211",
+    "id": "s2surg-1215",
     "category": "Surg Heme/Onc",
     "q": "Acetaminophen: mechanism per p147?",
     "a": "Central-acting COX inhibitor. Not an NSAID because it doesn't act peripherally: decreases pain and fever but isn't anti-inflammatory in the periphery.",
@@ -15681,7 +15725,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1212",
+    "id": "s2surg-1216",
     "category": "Surg Heme/Onc",
     "q": "First-line medication for osteoarthritis per p147?",
     "a": "Source: acetaminophen (weight loss first). NSAIDs are not ideal first-line because they harm kidneys and OA is non-inflammatory; chronic frequent NSAID users risk nephropathy and GI bleeds.",
@@ -15696,7 +15740,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1213",
+    "id": "s2surg-1217",
     "category": "Surg Heme/Onc",
     "q": "Acetaminophen toxicity per p147?",
     "a": "The metabolite NAPQI causes massive hepatotoxicity. Activated charcoal immediately after ingestion, otherwise N-acetylcysteine, which regenerates reduced glutathione that neutralizes NAPQI.",
@@ -15711,7 +15755,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1214",
+    "id": "s2surg-1218",
     "category": "Surg Heme/Onc",
     "q": "Celecoxib per p147?",
     "a": "Selective COX-2 inhibitor that does not cause GI bleeds, but can still cause nephropathy. In theory used for pain and inflammation.",
@@ -15722,7 +15766,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1215",
+    "id": "s2surg-1219",
     "category": "Surg Heme/Onc",
     "q": "NBME: why can celecoxib increase MI risk per p147?",
     "a": "It decreases prostaglandin production without inhibiting platelets.",
@@ -15737,7 +15781,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1216",
+    "id": "s2surg-1220",
     "category": "Surg Heme/Onc",
     "q": "Clopidogrel per p147?",
     "a": "Anti-platelet agent that inhibits the ADP P2Y12 receptor on platelets. The mechanism is HY.",
@@ -15748,7 +15792,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1217",
+    "id": "s2surg-1221",
     "category": "Surg Heme/Onc",
     "q": "Prasugrel, ticlopidine, ticagrelor per p147?",
     "a": "Same MOA as clopidogrel, but not assessed.",
@@ -15759,7 +15803,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1218",
+    "id": "s2surg-1222",
     "category": "Surg Heme/Onc",
     "q": "Dipyridamole: mechanism per p147?",
     "a": "Phosphodiesterase-3 inhibitor; prevents breakdown of cAMP. Causes arteriolar dilation and is also an anti-platelet agent.",
@@ -15774,7 +15818,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1219",
+    "id": "s2surg-1223",
     "category": "Surg Heme/Onc",
     "q": "USMLE: which is both a vasodilator and anti-platelet agent per p147?",
     "a": "Dipyridamole or cilostazol, whichever is listed.",
@@ -15785,7 +15829,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1220",
+    "id": "s2surg-1224",
     "category": "Surg Heme/Onc",
     "q": "Dipyridamole/thallium per p147?",
     "a": "A combo used for pharmacologic stress testing. Arteriolar vasodilation raises HR; thallium uptake into myocardium helps visualize ischemic areas.",
@@ -15796,7 +15840,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1221",
+    "id": "s2surg-1225",
     "category": "Surg Heme/Onc",
     "q": "Cilostazol: mechanism and use per p147?",
     "a": "Phosphodiesterase-3 inhibitor, same as dipyridamole (arteriolar dilation plus anti-platelet). Used for intermittent claudication / PAD after a walking/exercise program is already prescribed.",
@@ -15811,7 +15855,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1222",
+    "id": "s2surg-1226",
     "category": "Surg Heme/Onc",
     "q": "First treatment for PAD per p147?",
     "a": "Do not choose cilostazol first. Choose a walking/exercise program first, then cilostazol if forced to choose a drug for additional management.",
@@ -15822,7 +15866,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1223",
+    "id": "s2surg-1227",
     "category": "Surg Heme/Onc",
     "q": "Abciximab: mechanism per p147?",
     "a": "GpIIb/IIIa inhibitor on platelets; prevents platelet aggregation (platelet-platelet interaction). Fibrinogen normally bridges GpIIb/IIIa on adjacent platelets, so abciximab is considered a fibrinogen analogue.",
@@ -15833,7 +15877,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1224",
+    "id": "s2surg-1228",
     "category": "Surg Heme/Onc",
     "q": "GpIIb/IIIa versus GpIb per p147?",
     "a": "Don't confuse them: GpIb is for platelet adhesion (vWF bridges GpIb to endothelium/collagen) and is unrelated to abciximab.",
@@ -15844,7 +15888,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1225",
+    "id": "s2surg-1229",
     "category": "Surg Heme/Onc",
     "q": "Tirofiban and eptifibatide per p147?",
     "a": "Same MOA as abciximab but aren't assessed.",
@@ -15855,7 +15899,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1226",
+    "id": "s2surg-1230",
     "category": "Surg Heme/Onc",
     "q": "Colchicine uses per p147?",
     "a": "Acute gout and pericarditis.",
@@ -15866,7 +15910,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1227",
+    "id": "s2surg-1231",
     "category": "Surg Heme/Onc",
     "q": "tPA (alteplase) and streptokinase: mechanism per p148?",
     "a": "tPA activates plasminogen, which breaks down fibrin clots.",
@@ -15877,7 +15921,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1228",
+    "id": "s2surg-1232",
     "category": "Surg Heme/Onc",
     "q": "Heparin: mechanism per p148?",
     "a": "Activates anti-thrombin III, inactivating thrombin (factor II) and factors IXa, Xa, XIa, and XIIa.",
@@ -15888,7 +15932,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1229",
+    "id": "s2surg-1233",
     "category": "Surg Heme/Onc",
     "q": "Heparin as bridge to warfarin per p148?",
     "a": "Needed because warfarin inhibits protein C, which temporarily makes the patient hypercoagulable.",
@@ -15903,7 +15947,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1230",
+    "id": "s2surg-1234",
     "category": "Surg Heme/Onc",
     "q": "Heparin monitoring per p148?",
     "a": "It raises both PT and aPTT, but aPTT is used because it's more sensitive. Heparin inhibits intrinsic pathway factors (IXa, XIa, XIIa) plus common pathway factors (thrombin, Xa); the source counts 5 factors in the intrinsic pathway versus 2 common ones.",
@@ -15914,7 +15958,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1231",
+    "id": "s2surg-1235",
     "category": "Surg Heme/Onc",
     "q": "Heparin first-line uses per p148?",
     "a": "Subcutaneous enoxaparin (LMWH) is first-line for DVT and superficial thrombophlebitis. Heparin is also used for acute limb ischemia and vertebral artery dissection (clot can form within the false lumen; asked on 2CK NBME).",
@@ -15925,7 +15969,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1232",
+    "id": "s2surg-1236",
     "category": "Surg Heme/Onc",
     "q": "Unfractionated heparin versus LMWH per p148?",
     "a": "USMLE won't ask, but the source says unfractionated heparin is used with severe renal impairment and when rapid reversal may be needed, since protamine sulfate reverses it faster than LMWH.",
@@ -15940,7 +15984,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1233",
+    "id": "s2surg-1237",
     "category": "Surg Heme/Onc",
     "q": "Heparin-induced thrombocytopenia (HIT): mechanism per p148?",
     "a": "Autoantibodies against the heparin-platelet factor 4 (PF4) complex, lowering platelets. Type II hypersensitivity. NBME can write the answer simply as 'anti-platelet antibodies.'",
@@ -15951,7 +15995,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1234",
+    "id": "s2surg-1238",
     "category": "Surg Heme/Onc",
     "q": "Warfarin: mechanism per p148?",
     "a": "Inhibits vitamin K epoxide reductase, so vitamin K isn't recycled to its active form. Vitamin K is a cofactor for gamma-glutamyl carboxylase, which activates factors II, VII, IX, X and the anti-clotting proteins C and S.",
@@ -15962,7 +16006,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1235",
+    "id": "s2surg-1239",
     "category": "Surg Heme/Onc",
     "q": "INR per p148?",
     "a": "Ratio of the patient's PT to a control standard's PT; usual warfarin target is 2.0-3.0.",
@@ -15973,7 +16017,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1236",
+    "id": "s2surg-1240",
     "category": "Surg Heme/Onc",
     "q": "Highest-yield warfarin uses per p148?",
     "a": "Maintenance anticoagulation in DVT, prosthetic valves, or atrial fibrillation with elevated CHADS2 score.",
@@ -15984,7 +16028,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1237",
+    "id": "s2surg-1241",
     "category": "Surg Heme/Onc",
     "q": "Warfarin and drug interactions per p148?",
     "a": "Levels are sensitive to P-450 drugs: inhibitors raise INR and cause bleeding diathesis; inducers lower INR and cause thromboses. Broad-spectrum antibiotics depleting bowel flora (vitamin K) can raise INR.",
@@ -15995,7 +16039,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1238",
+    "id": "s2surg-1242",
     "category": "Surg Heme/Onc",
     "q": "Warfarin in pregnancy per p148?",
     "a": "Teratogenic; avoid. It's a small, lipophilic molecule that crosses the placenta; heparin is a large, acidic polymer that does not. Fetal bleeding diathesis and bone abnormalities.",
@@ -16010,7 +16054,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1239",
+    "id": "s2surg-1243",
     "category": "Surg Heme/Onc",
     "q": "Warfarin skin necrosis per p149?",
     "a": "Can occur in patients with protein C deficiency.",
@@ -16021,7 +16065,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1240",
+    "id": "s2surg-1244",
     "category": "Surg Heme/Onc",
     "q": "Warfarin reversal per p149?",
     "a": "Slowly with vitamin K (liver must resynthesize clotting factors); quickly with fresh frozen plasma (supplies factors).",
@@ -16036,7 +16080,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1241",
+    "id": "s2surg-1245",
     "category": "Surg Heme/Onc",
     "q": "Dabigatran per p149?",
     "a": "Direct-thrombin inhibitor. Used for HIT, and sometimes non-valvular AF with high CHADS2.",
@@ -16047,7 +16091,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1242",
+    "id": "s2surg-1246",
     "category": "Surg Heme/Onc",
     "q": "Apixaban per p149?",
     "a": "Factor Xa inhibitor; just know MOA. Can be given for non-valvular AF with high CHADS2; USMLE doesn't assess use cases.",
@@ -16058,7 +16102,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1243",
+    "id": "s2surg-1247",
     "category": "Surg Heme/Onc",
     "q": "Fondaparinux per p149?",
     "a": "Factor Xa inhibitor; just know MOA. Can be given for DVT and PE in place of heparin in some patients.",
@@ -16069,7 +16113,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1244",
+    "id": "s2surg-1248",
     "category": "Surg Heme/Onc",
     "q": "Cisplatin per p149?",
     "a": "Cross-linking agent. Causes nephro-, oto- and neurotoxicity. Chloride diuresis (normal saline) and amifostine mitigate toxicity.",
@@ -16080,7 +16124,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1245",
+    "id": "s2surg-1249",
     "category": "Surg Heme/Onc",
     "q": "Doxorubicin (Adriamycin) per p149?",
     "a": "Intercalating agent that produces free radicals. Dilated cardiomyopathy (HY). Dexrazoxane mitigates toxicity by mopping up free radicals.",
@@ -16095,7 +16139,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1246",
+    "id": "s2surg-1250",
     "category": "Surg Heme/Onc",
     "q": "Bleomycin per p149?",
     "a": "Induces DNA breaks; causes pulmonary fibrosis.",
@@ -16106,7 +16150,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1247",
+    "id": "s2surg-1251",
     "category": "Surg Heme/Onc",
     "q": "Cyclophosphamide toxicity and mesna per p149?",
     "a": "Hemorrhagic cystitis (red urine). Mesna uses a thiol (-SH) group to mop up acrolein, the toxic metabolite that harms uroepithelium.",
@@ -16121,7 +16165,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1248",
+    "id": "s2surg-1252",
     "category": "Surg Heme/Onc",
     "q": "Azathioprine per p149?",
     "a": "Pro-drug metabolized into 6-MP.",
@@ -16132,7 +16176,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1249",
+    "id": "s2surg-1253",
     "category": "Surg Heme/Onc",
     "q": "Imatinib per p149?",
     "a": "Bcr/Abl tyrosine kinase inhibitor used for CML. Can cause fluid retention / peripheral edema.",
@@ -16143,7 +16187,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1250",
+    "id": "s2surg-1254",
     "category": "Surg Heme/Onc",
     "q": "Erlotinib per p149?",
     "a": "EGFR tyrosine kinase inhibitor used for non-small cell lung cancer.",
@@ -16154,7 +16198,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1251",
+    "id": "s2surg-1255",
     "category": "Surg Heme/Onc",
     "q": "Rituximab per p149?",
     "a": "CD20 inhibitor on B cells. Can raise bacterial pneumonia risk (asked on NBME): B cells mature into plasma cells that make immunoglobulins, crucial for humoral immunity.",
@@ -16169,7 +16213,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1252",
+    "id": "s2surg-1256",
     "category": "Surg Heme/Onc",
     "q": "Methotrexate: mechanism and uses per p149?",
     "a": "Dihydrofolate reductase inhibitor. First-line DMARD in rheumatoid arthritis; first-line oral agent for plaque psoriasis not responding to topicals, or systemic psoriasis (arthritis).",
@@ -16180,7 +16224,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1253",
+    "id": "s2surg-1257",
     "category": "Surg Heme/Onc",
     "q": "Methotrexate toxicity and rescue per p149?",
     "a": "Pulmonary fibrosis, mucositis (mouth ulcers due to neutropenia), hepatotoxicity. Mitigated with folinic acid (not folic acid), aka leucovorin rescue.",
@@ -16195,7 +16239,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1254",
+    "id": "s2surg-1258",
     "category": "Surg Heme/Onc",
     "q": "Treatment of CML per p149?",
     "a": "Imatinib (tyrosine kinase inhibitor).",
@@ -16206,7 +16250,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1255",
+    "id": "s2surg-1259",
     "category": "Surg Repro/Obgyn",
     "q": "Hypospadias versus epispadias per p150?",
     "a": "Hypospadias: urethral meatus opens on the underside (ventral) of the penis. Epispadias: opens on top (dorsal).",
@@ -16217,7 +16261,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1256",
+    "id": "s2surg-1260",
     "category": "Surg Repro/Obgyn",
     "q": "Phimosis per p150?",
     "a": "Cannot retract the prepuce (foreskin), i.e., cannot pull it back to expose the glans.",
@@ -16228,7 +16272,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1257",
+    "id": "s2surg-1261",
     "category": "Surg Repro/Obgyn",
     "q": "Paraphimosis per p150?",
     "a": "Cannot reduce the prepuce: once retracted, cannot replace it over the glans. It's the bad one / emergency.",
@@ -16239,7 +16283,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1258",
+    "id": "s2surg-1262",
     "category": "Surg Repro/Obgyn",
     "q": "Testicular torsion: what is it per p150?",
     "a": "Acutely painful testis, a medical emergency that can lead to ischemia and loss of the testis.",
@@ -16254,7 +16298,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1259",
+    "id": "s2surg-1263",
     "category": "Surg Repro/Obgyn",
     "q": "Testicular torsion: cause per p150?",
     "a": "Abnormality of the gubernaculum (ligamentous cord anchoring the testis in the scrotum) causing 'bell-clapper deformity': improper anchoring, increased rotation risk.",
@@ -16265,7 +16309,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1260",
+    "id": "s2surg-1264",
     "category": "Surg Repro/Obgyn",
     "q": "Prehn sign in torsion per p150?",
     "a": "Negative Prehn: no pain relief on lifting the scrotum. Source says unreliable in real life, but NBME vignettes can mention it. (+) Prehn (relief) suggests epididymitis.",
@@ -16276,7 +16320,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1261",
+    "id": "s2surg-1265",
     "category": "Surg Repro/Obgyn",
     "q": "Torsion: next best step per p151?",
     "a": "Doppler ultrasonography, followed by surgery.",
@@ -16287,7 +16331,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1262",
+    "id": "s2surg-1266",
     "category": "Surg Repro/Obgyn",
     "q": "Epididymitis: signs per p151?",
     "a": "Inflammation/infection of the epididymis; (+) Prehn sign and (+) cremasteric reflex.",
@@ -16302,7 +16346,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1263",
+    "id": "s2surg-1267",
     "category": "Surg Repro/Obgyn",
     "q": "Epididymitis organisms per p151?",
     "a": "Chlamydia and gonorrhea are most common in males under 35; E. coli over 35. USMLE will give a clear 25- or 45-year-old; same applies to prostatitis. An NBME Q with a 45-year-old has E. coli as the answer and chlamydia wrong.",
@@ -16313,7 +16357,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1264",
+    "id": "s2surg-1268",
     "category": "Surg Repro/Obgyn",
     "q": "Torsion of the appendix testis per p151?",
     "a": "Not the same as testicular torsion (asked on a 2CK form). Kid with painful testis, blue superior pole ('blue dot' sign), and intact cremasteric reflex (not intact in regular torsion).",
@@ -16328,7 +16372,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1265",
+    "id": "s2surg-1269",
     "category": "Surg Repro/Obgyn",
     "q": "Peyronie disease per p151?",
     "a": "Curvature deformity of the penis from a fibrous plaque within the tunica albuginea. No treatment unless causing functional impairment.",
@@ -16339,7 +16383,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1266",
+    "id": "s2surg-1270",
     "category": "Surg Repro/Obgyn",
     "q": "Orchitis per p151?",
     "a": "Inflammation/infection of the testis. Mumps is HY in unvaccinated people / immigrants. If not mumps, bacterial causes are the same as epididymitis and prostatitis (STIs when young, E. coli when older).",
@@ -16350,7 +16394,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1267",
+    "id": "s2surg-1271",
     "category": "Surg Repro/Obgyn",
     "q": "Priapism: definition and causes per p151?",
     "a": "Erection lasting longer than 4 hours. Can be caused by sickle cell or PDE-5 inhibitors (tadalafil/sildenafil).",
@@ -16361,7 +16405,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1268",
+    "id": "s2surg-1272",
     "category": "Surg Repro/Obgyn",
     "q": "Priapism: treatment per p151?",
     "a": "Injection of an alpha-1 agonist (e.g., phenylephrine) into the erectile tissue, decreasing blood flow through vasoconstriction.",
@@ -16376,7 +16420,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1269",
+    "id": "s2surg-1273",
     "category": "Surg Repro/Obgyn",
     "q": "Processus vaginalis per p151?",
     "a": "An embryonic peritoneal outpouching that descends into the scrotum. It normally obliterates shortly after birth; if it stays open it can cause hydrocele or indirect inguinal hernia.",
@@ -16391,7 +16435,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1270",
+    "id": "s2surg-1274",
     "category": "Surg Repro/Obgyn",
     "q": "Hydrocele: transillumination and treatment per p152?",
     "a": "Transilluminates. USMLE wants no treatment before age 1; most spontaneously close.",
@@ -16402,7 +16446,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1271",
+    "id": "s2surg-1275",
     "category": "Surg Repro/Obgyn",
     "q": "Spermatocele per p152?",
     "a": "Obscure serous fluid collection within the epididymis containing sperm. Usually adult men (not neonates like hydrocele). Transilluminates like hydrocele.",
@@ -16413,7 +16457,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1272",
+    "id": "s2surg-1276",
     "category": "Surg Repro/Obgyn",
     "q": "Varicocele: features per p152?",
     "a": "Dilation/congestion of the pampiniform venous plexus. Does not transilluminate. 'Bag of worms' (an NBME Q uses it literally), or heavy dragging scrotum, lower on the left.",
@@ -16424,7 +16468,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1273",
+    "id": "s2surg-1277",
     "category": "Surg Repro/Obgyn",
     "q": "Why varicocele is almost always left-sided per p152?",
     "a": "Left testicular vein drains to the left renal vein (at 90 degrees, favoring hydrostatic backup); right testicular vein drains directly to the IVC.",
@@ -16439,7 +16483,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1274",
+    "id": "s2surg-1278",
     "category": "Surg Repro/Obgyn",
     "q": "Bilateral varicocele per p152?",
     "a": "A 2CK NBME Q has bilateral varicocele as the answer. Highly obscure.",
@@ -16450,7 +16494,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1275",
+    "id": "s2surg-1279",
     "category": "Surg Repro/Obgyn",
     "q": "Urge incontinence presentation per p153?",
     "a": "An 'urge' (NBME uses the word) to void 6-12+ times daily unrelated to sneezing, coughing, laughing. Multiple sclerosis is ultra-HY: shows up as urge, never overflow in the source's experience; about 1/3 of NBME urge vignettes are MS. Others: peri-menopausal women or idiopathic in old women.",
@@ -16465,7 +16509,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1276",
+    "id": "s2surg-1280",
     "category": "Surg Repro/Obgyn",
     "q": "Overflow incontinence per p153?",
     "a": "Due to BPH or diabetes on USMLE. Increased post-void volume (normal under about 50 mL; overflow vignettes give 300-400 mL).",
@@ -16476,7 +16520,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1277",
+    "id": "s2surg-1281",
     "category": "Surg Repro/Obgyn",
     "q": "Diabetic overflow incontinence per p153?",
     "a": "Neuropathy of the bladder causing 'neurogenic bladder' (hypotonic or hypocontractile bladder/detrusor). USMLE first wants 'measure post-void volume' and 'insertion of catheter' before medications. Treat with bethanechol (muscarinic agonist), which stimulates the detrusor muscle. Do not confuse oxybutynin with bethanechol.",
@@ -16491,7 +16535,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1278",
+    "id": "s2surg-1282",
     "category": "Surg Repro/Obgyn",
     "q": "Endometrial cancer: highest-yield cause per p154?",
     "a": "Unopposed estrogen, usually due to anovulation/PCOS.",
@@ -16506,7 +16550,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1279",
+    "id": "s2surg-1283",
     "category": "Surg Repro/Obgyn",
     "q": "Why anovulation/PCOS causes unopposed estrogen per p154?",
     "a": "Estrogen stimulates endometrial growth; progesterone prevents overgrowth. Without ovulation there's no corpus luteum (the follicular remnant), so no progesterone; endometrial hyperplasia follows, raising adenocarcinoma risk.",
@@ -16517,7 +16561,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1280",
+    "id": "s2surg-1284",
     "category": "Surg Repro/Obgyn",
     "q": "Vignette: overweight perimenopausal woman with mid-cycle bleeding, or postmenopausal woman with any bleeding per p154?",
     "a": "Endometrial biopsy. High BMI hints at past anovulation/PCOS with unopposed estrogen.",
@@ -16532,7 +16576,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1281",
+    "id": "s2surg-1285",
     "category": "Surg Repro/Obgyn",
     "q": "Other causes of unopposed estrogen per p154?",
     "a": "Granulosa cell tumor of the ovary (rare); HRT in women who stop the progesterone component (one NBME Q).",
@@ -16543,7 +16587,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1282",
+    "id": "s2surg-1286",
     "category": "Surg Repro/Obgyn",
     "q": "Endometrial cancer and hereditary syndrome per p154?",
     "a": "Can be associated with HNPCC (Lynch syndrome).",
@@ -16554,7 +16598,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1283",
+    "id": "s2surg-1287",
     "category": "Surg Repro/Obgyn",
     "q": "Fibroids: what are they per p154?",
     "a": "Aka leiomyomata uteri; the most common benign tumor in women. Smooth muscle tumors of the myometrium; desmin positive; grossly white whorled tumors; often found incidentally on ultrasound or autopsy.",
@@ -16569,7 +16613,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1284",
+    "id": "s2surg-1288",
     "category": "Surg Repro/Obgyn",
     "q": "Fibroids found incidentally on ultrasound per p154?",
     "a": "Observe / follow-up. Source: almost always not managed. Negligible progression to leiomyosarcoma, so don't choose myomectomy.",
@@ -16584,7 +16628,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1285",
+    "id": "s2surg-1289",
     "category": "Surg Repro/Obgyn",
     "q": "Vulvovaginal carcinoma per p155?",
     "a": "Cancer of the vagina and/or vulva; almost always squamous cell carcinoma due to HPV 16 or 18. Rarely occurs due to lichen sclerosus.",
@@ -16595,7 +16639,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1286",
+    "id": "s2surg-1290",
     "category": "Surg Repro/Obgyn",
     "q": "Condylomata acuminata per p155?",
     "a": "Aka warts; HPV 6/11. Painless, skin-colored or slightly hyperpigmented cauliflower-like papular lesions.",
@@ -16606,7 +16650,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1287",
+    "id": "s2surg-1291",
     "category": "Surg Repro/Obgyn",
     "q": "Lichen sclerosus: presentation per p155?",
     "a": "Whitish-grey, rough, irritated or scratchy patch on the vulva or perineum.",
@@ -16617,7 +16661,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1288",
+    "id": "s2surg-1292",
     "category": "Surg Repro/Obgyn",
     "q": "Lichen sclerosus: cause and histology per p155?",
     "a": "Thought to be chronic irritation plus autoimmunity; not HPV-related. Atrophy, hyperkeratosis and a band of lymphocytes in the dermis; not neoplasia, dysplasia or metaplasia.",
@@ -16632,7 +16676,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1289",
+    "id": "s2surg-1293",
     "category": "Surg Repro/Obgyn",
     "q": "Lichen sclerosus: management per p155?",
     "a": "Biopsy as next best step to rule out SCC. If SCC is negative and diagnosis is LS, topical steroid.",
@@ -16647,7 +16691,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1290",
+    "id": "s2surg-1294",
     "category": "Surg Repro/Obgyn",
     "q": "Bartholin gland cyst: presentation per p155?",
     "a": "Tender/painful bump at the 4 or 8 o'clock position on the vulva. If infected (warm and red), called a Bartholin gland abscess.",
@@ -16658,7 +16702,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1291",
+    "id": "s2surg-1295",
     "category": "Surg Repro/Obgyn",
     "q": "Bartholin abscess: organism and treatment per p155?",
     "a": "USMLE wants 'polymicrobial.' Cysts: sitz bath and warm compresses first. Overt abscesses: drainage.",
@@ -16673,7 +16717,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1292",
+    "id": "s2surg-1296",
     "category": "Surg Repro/Obgyn",
     "q": "Cervical cancer: histology and location per p155?",
     "a": "Squamous cell carcinoma at the transitional zone between the stratified squamous ectocervix and columnar endocervix.",
@@ -16684,7 +16728,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1293",
+    "id": "s2surg-1297",
     "category": "Surg Repro/Obgyn",
     "q": "Cervical cancer: cause and complications per p155?",
     "a": "HPV 16/18. Can cause vaginal bleeding and uni- or bilateral hydroureter / hydronephrosis.",
@@ -16695,7 +16739,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1294",
+    "id": "s2surg-1298",
     "category": "Surg Repro/Obgyn",
     "q": "When to start Pap smears per p155?",
     "a": "Age 21. Sexually active teenager: test for STDs, no Pap smear.",
@@ -16706,7 +16750,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1295",
+    "id": "s2surg-1299",
     "category": "Surg Repro/Obgyn",
     "q": "Pap schedule per p155?",
     "a": "Age 21-65. From 21-30: every 3 years without HPV co-testing. From 30-65: Pap every 3 years, or Pap-HPV co-testing every 5 years. Stop at 65.",
@@ -16721,7 +16765,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1296",
+    "id": "s2surg-1300",
     "category": "Surg Repro/Obgyn",
     "q": "Pap after age 65 per p155?",
     "a": "Continue if history of HSIL or CIN.",
@@ -16736,7 +16780,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1297",
+    "id": "s2surg-1301",
     "category": "Surg Repro/Obgyn",
     "q": "Pap after hysterectomy per p155?",
     "a": "Hysterectomy due to cervical cancer: continued Pap smears of the vaginal cuff. Hysterectomy due to endometrial cancer: no.",
@@ -16747,7 +16791,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1298",
+    "id": "s2surg-1302",
     "category": "Surg Repro/Obgyn",
     "q": "LSIL and ASC-US management per p155?",
     "a": "Either repeat Pap smear or HPV co-testing; HPV (+) vs (-) determines colposcopy plus biopsy. The source says USMLE won't assess the algorithm specifics.",
@@ -16762,7 +16806,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1299",
+    "id": "s2surg-1303",
     "category": "Surg Repro/Obgyn",
     "q": "HSIL on Pap per p155?",
     "a": "Immediate colposcopy plus biopsy.",
@@ -16773,7 +16817,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1300",
+    "id": "s2surg-1304",
     "category": "Surg Repro/Obgyn",
     "q": "CIN I versus CIN II/III per p155?",
     "a": "CIN I is LSIL confirmed on colposcopy plus biopsy; CIN II/III is HSIL confirmed on colposcopy plus biopsy.",
@@ -16784,7 +16828,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1301",
+    "id": "s2surg-1305",
     "category": "Surg Repro/Obgyn",
     "q": "CIN I management per p155?",
     "a": "High rate of spontaneous regression; repeat Paps in a year.",
@@ -16795,7 +16839,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1302",
+    "id": "s2surg-1306",
     "category": "Surg Repro/Obgyn",
     "q": "CIN II/III management per p155?",
     "a": "Excisional or ablational treatment (LEEP, coning, cryotherapy, laser ablation) due to higher risk of progression to invasive cancer.",
@@ -16806,7 +16850,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1303",
+    "id": "s2surg-1307",
     "category": "Surg Repro/Obgyn",
     "q": "Serous cystadenocarcinoma per p156?",
     "a": "20-30% bilateral at diagnosis; malignant (metastatic potential).",
@@ -16817,7 +16861,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1304",
+    "id": "s2surg-1308",
     "category": "Surg Repro/Obgyn",
     "q": "HSIL on Pap, colposcopy can't see the entire squamocolumnar junction per p156?",
     "a": "Cone biopsy (colposcopy insufficient).",
@@ -16828,7 +16872,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1305",
+    "id": "s2surg-1309",
     "category": "Surg Repro/Obgyn",
     "q": "CIN III in pregnancy per p156?",
     "a": "Not excised or ablated during pregnancy. HPV lesions (including warts) temporarily worsen in pregnancy due to relative immunosuppression. Postpartum, evaluated for regression over weeks; if not regressing, excised like CIN II or III in non-pregnant women.",
@@ -16843,7 +16887,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1306",
+    "id": "s2surg-1310",
     "category": "Surg Repro/Obgyn",
     "q": "DCIS: key points per p156?",
     "a": "Most common malignant (metastatic potential) breast cancer per the source. Microcalcifications on mammography = DCIS until proven otherwise.",
@@ -16854,7 +16898,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1307",
+    "id": "s2surg-1311",
     "category": "Surg Repro/Obgyn",
     "q": "DCIS: next best step per p156?",
     "a": "2CK wants a needle-guided open biopsy; FNA is wrong.",
@@ -16869,7 +16913,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1308",
+    "id": "s2surg-1312",
     "category": "Surg Repro/Obgyn",
     "q": "Paget disease of the breast per p156?",
     "a": "Nipple eczema-like appearance in a patient over 50; often the cutaneous extension of an underlying DCIS.",
@@ -16884,7 +16928,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1309",
+    "id": "s2surg-1313",
     "category": "Surg Repro/Obgyn",
     "q": "Invasive ductal carcinoma per p156?",
     "a": "Invasive form of ductal carcinoma; biopsy cells have stellate morphology.",
@@ -16895,7 +16939,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1310",
+    "id": "s2surg-1314",
     "category": "Surg Repro/Obgyn",
     "q": "LCIS per p156?",
     "a": "Same as DCIS (malignant potential but not yet invaded) for lobular cells. Linear rows of cells ('Indian file') on histology, supposedly from decreased E-cadherin expression. The source hasn't seen USMLE test the detail.",
@@ -16910,7 +16954,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1311",
+    "id": "s2surg-1315",
     "category": "Surg Repro/Obgyn",
     "q": "Invasive lobular carcinoma per p156?",
     "a": "Invasive form of lobular carcinoma; 20-30% bilateral.",
@@ -16921,7 +16965,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1312",
+    "id": "s2surg-1316",
     "category": "Surg Repro/Obgyn",
     "q": "Intraductal papilloma per p156?",
     "a": "Unilateral bloody/rusty nipple discharge = intraductal papilloma until proven otherwise.",
@@ -16932,7 +16976,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1313",
+    "id": "s2surg-1317",
     "category": "Surg Repro/Obgyn",
     "q": "Inflammatory carcinoma per p156?",
     "a": "Red/inflamed breast as though infected: rubor, dolor, tumor, calor. Peau d'orange is orange-peel texture from Cooper ligament tethering of skin when tumor cells block lymphatic drainage.",
@@ -16943,7 +16987,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1314",
+    "id": "s2surg-1318",
     "category": "Surg Repro/Obgyn",
     "q": "Fibroadenoma per p156?",
     "a": "Most common breast tumor overall; benign. Rubbery, mobile, non-tender lump in a woman in her 20s-30s; solid mass without calcification on ultrasound.",
@@ -16954,7 +16998,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1315",
+    "id": "s2surg-1319",
     "category": "Surg Repro/Obgyn",
     "q": "Fibroadenoma: next step per p156?",
     "a": "FNA to confirm the diagnosis. If confirmed, they do not need to be excised.",
@@ -16969,7 +17013,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1316",
+    "id": "s2surg-1320",
     "category": "Surg Repro/Obgyn",
     "q": "Cystosarcoma phyllodes per p156?",
     "a": "Fast-growing breast lesion with leaf-like appearance on light microscopy; benign or malignant based on histology.",
@@ -16980,7 +17024,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1317",
+    "id": "s2surg-1321",
     "category": "Surg Repro/Obgyn",
     "q": "BRCA1/2 inheritance per p156?",
     "a": "Tumor suppressor genes inherited autosomal dominant with incomplete penetrance (can skip a generation); a pedigree asked on NBME.",
@@ -16991,7 +17035,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1318",
+    "id": "s2surg-1322",
     "category": "Surg Repro/Obgyn",
     "q": "BRCA molecular defect per p156?",
     "a": "'Recombinational double-stranded DNA repair.'",
@@ -17002,7 +17046,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1319",
+    "id": "s2surg-1323",
     "category": "Surg Repro/Obgyn",
     "q": "ER/PR positivity prognosis per p157?",
     "a": "Correlates with better prognosis, partly because SERMs and aromatase inhibitors can be used.",
@@ -17013,7 +17057,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1320",
+    "id": "s2surg-1324",
     "category": "Surg Repro/Obgyn",
     "q": "Triple-negative breast cancer per p157?",
     "a": "ER/PR/HER2 negative: bad prognosis due to aggressiveness, higher recurrence, and metastasis to lungs/brain.",
@@ -17024,7 +17068,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1321",
+    "id": "s2surg-1325",
     "category": "Surg Repro/Obgyn",
     "q": "Confirmed BRCA mutation: 2CK answer per p157?",
     "a": "Bilateral mastectomy plus oophorectomy.",
@@ -17039,7 +17083,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1322",
+    "id": "s2surg-1326",
     "category": "Surg Repro/Obgyn",
     "q": "Only approved indication of HRT per p157?",
     "a": "Source: severe vasomotor symptoms (not bone density). Because HRT raises breast cancer, thromboembolism, MI and stroke risk; estrogen upregulates fibrinogen and factors V and VIII.",
@@ -17054,7 +17098,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1323",
+    "id": "s2surg-1327",
     "category": "Surg Repro/Obgyn",
     "q": "Fibrocystic change: presentations on NBME per p157?",
     "a": "Benign cystic alteration in women 20s-50s. (1) Classic: woman 20s-30s with bilateral waxing/waning tenderness over the menstrual cycle; (2) unilateral tenderness or sharp pain in one breast; (3) painless unilateral breast cyst in a woman in her 40s that drains brown/greenish fluid.",
@@ -17069,7 +17113,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1324",
+    "id": "s2surg-1328",
     "category": "Surg Repro/Obgyn",
     "q": "Fibrocystic change: workup and treatment per p157?",
     "a": "Clinical diagnosis; no biopsy or ultrasound needed per the source. Symptomatic treatment only (warm showers, evening primrose oil).",
@@ -17084,7 +17128,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1325",
+    "id": "s2surg-1329",
     "category": "Surg Repro/Obgyn",
     "q": "Fibrocystic change histology per p157?",
     "a": "'Sclerosing adenosis,' apocrine metaplasia, and/or 'blue dome cysts.'",
@@ -17095,7 +17139,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1326",
+    "id": "s2surg-1330",
     "category": "Surg Repro/Obgyn",
     "q": "Simple versus complex breast cyst per p157?",
     "a": "Simple: hypoechoic (black) on ultrasound, a fluid-filled cyst. Complex: at least partly hyperechoic (white), meaning a solid component.",
@@ -17106,7 +17150,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1327",
+    "id": "s2surg-1331",
     "category": "Surg Repro/Obgyn",
     "q": "Simple breast cyst management per p157?",
     "a": "Observe; FNA drainage only if it causes discomfort (e.g., large). No specific size requires drainage on USMLE.",
@@ -17121,7 +17165,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1328",
+    "id": "s2surg-1332",
     "category": "Surg Repro/Obgyn",
     "q": "NBME: woman started HRT 3 months ago, now has a simple cyst per p157?",
     "a": "Biopsy of the lesion; sudden growth in size can be an indication for biopsy.",
@@ -17132,7 +17176,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1329",
+    "id": "s2surg-1333",
     "category": "Surg Repro/Obgyn",
     "q": "Complex breast cysts per p157?",
     "a": "All require FNA biopsy, similar to fibroadenoma.",
@@ -17143,7 +17187,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1330",
+    "id": "s2surg-1334",
     "category": "Surg Repro/Obgyn",
     "q": "Mastitis: classic presentation and organism per p157?",
     "a": "Red, cracked, fissured nipple in a breastfeeding woman. Usually S. aureus, but Group A Strep also possible.",
@@ -17154,7 +17198,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1331",
+    "id": "s2surg-1335",
     "category": "Surg Repro/Obgyn",
     "q": "Mastitis treatment per p157?",
     "a": "Oral dicloxacillin (not doxycycline) and continue breastfeeding through the affected breast; no risk to the neonate. Methicillin-class beta-lactams and first-generation cephalosporins (cephalexin) are equivalent on USMLE.",
@@ -17169,7 +17213,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1332",
+    "id": "s2surg-1336",
     "category": "Surg Repro/Obgyn",
     "q": "Sertoli-Leydig cell tumor per p158?",
     "a": "Produces androgens; can cause virilization in females.",
@@ -17180,7 +17224,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1333",
+    "id": "s2surg-1337",
     "category": "Surg Repro/Obgyn",
     "q": "Granulosa cell tumor per p158?",
     "a": "Produces estrogen; can cause endometrial hyperplasia and higher endometrial cancer risk via unopposed estrogen. NBME: female with ovarian neoplasm, thick endometrial stripe and vaginal bleeding.",
@@ -17195,7 +17239,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1334",
+    "id": "s2surg-1338",
     "category": "Surg Repro/Obgyn",
     "q": "Krukenberg tumor per p158?",
     "a": "Gastric metastases to the ovaries bilaterally, with mucin-containing signet-ring cells on biopsy. The source says spread from stomach is usually hematogenous.",
@@ -17210,7 +17254,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1335",
+    "id": "s2surg-1339",
     "category": "Surg Repro/Obgyn",
     "q": "Mastitis versus abscess per p158?",
     "a": "Mastitis can present as a red, warm, tender, non-fluctuant breast mass without nipple involvement. Non-fluctuant = mastitis; fluctuant = abscess (asked on a 2CK form).",
@@ -17221,7 +17265,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1336",
+    "id": "s2surg-1340",
     "category": "Surg Repro/Obgyn",
     "q": "Breast abscess per p158?",
     "a": "Warm, red, tender fluctuant mass of the breast; drain as next best step.",
@@ -17232,7 +17276,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1337",
+    "id": "s2surg-1341",
     "category": "Surg Repro/Obgyn",
     "q": "Galactocele per p158?",
     "a": "Aka milk retention cyst; usually in recently breastfeeding women. Painless or tender fluctuant peri-areolar mass, afebrile, not warm or red. Treatment: warm compresses, then drainage.",
@@ -17247,7 +17291,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1338",
+    "id": "s2surg-1342",
     "category": "Surg Repro/Obgyn",
     "q": "Ductal ectasia per p158?",
     "a": "Dilation of lactiferous ducts; a diagnosis of exclusion on USMLE. 2/3 of Qs present as an inverted nipple; 1/3 as a breast lesion whose biopsy shows dilation of ducts.",
@@ -17258,7 +17302,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1339",
+    "id": "s2surg-1343",
     "category": "Surg Repro/Obgyn",
     "q": "Virginal breast hypertrophy per p158?",
     "a": "Benign asymmetric breast growth in young women. USMLE tries to scare you with a first-degree relative with breast cancer; 16-year-old with a large lump under one nipple: observe.",
@@ -17269,7 +17313,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1340",
+    "id": "s2surg-1344",
     "category": "Surg Repro/Obgyn",
     "q": "Gynecomastia in teenage boys per p158?",
     "a": "Physiologic; increased breast tissue, tender or not, uni- or bilateral. Just observe.",
@@ -17280,7 +17324,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1341",
+    "id": "s2surg-1345",
     "category": "Surg Repro/Obgyn",
     "q": "Gynecomastia causes per p158?",
     "a": "Increased estrogen in liver failure, or drugs like cimetidine, spironolactone, ketoconazole, even marijuana. Caused by a direct estrogen effect on the breast, not prolactin.",
@@ -17295,7 +17339,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1342",
+    "id": "s2surg-1346",
     "category": "Surg Repro/Obgyn",
     "q": "NBME: gynecomastia in a male taking hCG, mechanism per p158?",
     "a": "'Testis producing estrogen' (or 'estrogen; direct effect on breast'). hCG shares the alpha subunit with LH, FSH and TSH, so it acts like LH + FSH: LH raises androgens, FSH raises aromatase, so testicular androgens convert to estrogens.",
@@ -17306,7 +17350,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1343",
+    "id": "s2surg-1347",
     "category": "Surg Repro/Obgyn",
     "q": "Breast fat necrosis per p158?",
     "a": "Non-enzymatic fat necrosis from trauma; can calcify. Not enzymatic fat necrosis (acute pancreatitis). Can follow overt trauma (softball) or sometimes tight sports bras.",
@@ -17317,7 +17361,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1344",
+    "id": "s2surg-1348",
     "category": "Surg Repro/Obgyn",
     "q": "Ruptured ovarian cyst: presentation per p159?",
     "a": "Sudden sharp adnexal pain (adnexa = Fallopian tube plus ovary). Often 10-15 mL serosanguineous fluid in the pouch of Douglas on culdocentesis; no mass mentioned.",
@@ -17332,7 +17376,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1345",
+    "id": "s2surg-1349",
     "category": "Surg Repro/Obgyn",
     "q": "Ruptured cyst vignette timing per p159?",
     "a": "3/4 of Qs: intermittent adnexal pain that becomes constant over hours to weeks. 1/4: a few-hour history of constant pain.",
@@ -17343,7 +17387,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1346",
+    "id": "s2surg-1350",
     "category": "Surg Repro/Obgyn",
     "q": "Adnexal/ovarian torsion per p159?",
     "a": "'Large' adnexal mass (e.g., 8 x 12 cm), no mention of fluid in the pouch of Douglas. Treatment: laparoscopic detorsion.",
@@ -17358,7 +17402,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1347",
+    "id": "s2surg-1351",
     "category": "Surg Repro/Obgyn",
     "q": "Biggest risk factor for ovarian torsion per p159?",
     "a": "Pre-existing anatomic abnormality (e.g., cyst). History of a cyst plus now a large adnexal mass with pain is torsion, not ruptured cyst.",
@@ -17373,7 +17417,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1348",
+    "id": "s2surg-1352",
     "category": "Surg Repro/Obgyn",
     "q": "Theca-lutein cyst per p159?",
     "a": "Arises from theca cells; usually bilateral. Frequent with very high hCG: moles, multiple gestation, fertility drugs.",
@@ -17388,7 +17432,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1349",
+    "id": "s2surg-1353",
     "category": "Surg Repro/Obgyn",
     "q": "Hemorrhagic theca-lutein cyst per p159?",
     "a": "A diagnosis of exclusion; endometrioid cyst is eliminated because the Q doesn't mention dysmenorrhea or endometriosis signs.",
@@ -17399,7 +17443,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1350",
+    "id": "s2surg-1354",
     "category": "Surg Repro/Obgyn",
     "q": "Endometrioid cyst per p159?",
     "a": "Aka endometrioma or 'chocolate cyst': a cyst filled with bleeding endometrial tissue in endometriosis (endometrial tissue outside the uterus, usually on the ovary).",
@@ -17410,7 +17454,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1351",
+    "id": "s2surg-1355",
     "category": "Surg Repro/Obgyn",
     "q": "Dermoid cyst per p159?",
     "a": "Aka mature cystic teratoma; contains tissue from multiple germ layers (hair, skin, teeth); can calcify.",
@@ -17425,7 +17469,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1352",
+    "id": "s2surg-1356",
     "category": "Surg Repro/Obgyn",
     "q": "Seminoma per p159?",
     "a": "Most common testicular cancer, teenage years and older. Large uniform cells with watery cytoplasm; chemo- and radiosensitive. Placental ALP can be a tumor marker.",
@@ -17440,7 +17484,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1353",
+    "id": "s2surg-1357",
     "category": "Surg Repro/Obgyn",
     "q": "Testicular Sertoli-Leydig cell tumor per p159?",
     "a": "Secretes androgens. Can cause gynecomastia (on NBME) because androgens are aromatized to estrogens.",
@@ -17451,7 +17495,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1354",
+    "id": "s2surg-1358",
     "category": "Surg Repro/Obgyn",
     "q": "Testicular granulosa cell tumor per p159?",
     "a": "Secretes estrogen; can also cause gynecomastia. If NBME gives Sertoli-Leydig causing gynecomastia, granulosa won't also be listed.",
@@ -17462,7 +17506,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1355",
+    "id": "s2surg-1359",
     "category": "Surg Repro/Obgyn",
     "q": "Prostate cancer: features per p160?",
     "a": "Adenocarcinoma, the most common cancer in men; stimulated by DHT. Osteoblastic metastases are the highest-yield point.",
@@ -17473,7 +17517,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1356",
+    "id": "s2surg-1360",
     "category": "Surg Repro/Obgyn",
     "q": "Prostate cancer vignette: man over 50, sudden leg neurologic symptoms, two blastic spine lesions on MRI per p160?",
     "a": "Spinal metastases. With neuro symptoms, give IV methylprednisolone; with no neuro symptoms and just vertebral blastic lesions, the answer is radiotherapy (distractors like morphine + corticosteroids are wrong).",
@@ -17488,7 +17532,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1357",
+    "id": "s2surg-1361",
     "category": "Surg Repro/Obgyn",
     "q": "Orchiectomy in prostate cancer per p160?",
     "a": "Lowers androgen production, causing atrophy and shrinkage of prostate cancer cells.",
@@ -17499,7 +17543,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1358",
+    "id": "s2surg-1362",
     "category": "Surg Repro/Obgyn",
     "q": "Flutamide and leuprolide per p160?",
     "a": "Flutamide blocks the androgen receptor and is given before leuprolide (a GnRH agonist that desensitizes the receptor when given continuously). Leuprolide can raise LH and FSH before desensitization, so flutamide goes first.",
@@ -17514,7 +17558,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1359",
+    "id": "s2surg-1363",
     "category": "Surg Repro/Obgyn",
     "q": "PSA in prostate cancer per p160?",
     "a": "PSA often elevated. Free PSA (not protein-bound) is low compared with bound PSA.",
@@ -17529,7 +17573,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1360",
+    "id": "s2surg-1364",
     "category": "Surg Repro/Obgyn",
     "q": "Prostate cancer grading and surgery per p160?",
     "a": "Gleason scoring grades prostate cancer. During radical prostatectomy, the parasympathetic nerves (for erection) are at greatest risk of injury (asked on NBMEs).",
@@ -17544,7 +17588,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1361",
+    "id": "s2surg-1365",
     "category": "Surg Repro/Obgyn",
     "q": "BPH: cause and presentation per p160?",
     "a": "Benign prostatic hyperplasia from lifetime DHT exposure. Dribbling, hesitancy, interrupted stream in a male over 60 (usually 70s+).",
@@ -17555,7 +17599,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1362",
+    "id": "s2surg-1366",
     "category": "Surg Repro/Obgyn",
     "q": "Old man with high creatinine per p160?",
     "a": "BPH until proven otherwise.",
@@ -17566,7 +17610,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1363",
+    "id": "s2surg-1367",
     "category": "Surg Repro/Obgyn",
     "q": "BPH: three drug classes to stop per p160?",
     "a": "First-gen H1 blockers (diphenhydramine, chlorpheniramine), TCAs (amitriptyline), and anti-psychotics.",
@@ -17581,7 +17625,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1364",
+    "id": "s2surg-1368",
     "category": "Surg Repro/Obgyn",
     "q": "NBME: older man with high creatinine per p160?",
     "a": "The answer can be just 'discontinue anticholinergic meds,' or 'discontinue the diphenhydramine.'",
@@ -17592,7 +17636,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1365",
+    "id": "s2surg-1369",
     "category": "Surg Repro/Obgyn",
     "q": "BPH: exam and PSA per p160?",
     "a": "Can be described as 'nodular' on palpation. PSA often elevated; free PSA is high compared with bound PSA in BPH.",
@@ -17603,7 +17647,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1366",
+    "id": "s2surg-1370",
     "category": "Surg Repro/Obgyn",
     "q": "BPH treatment per p160?",
     "a": "Alpha-1 blocker (tamsulosin/terazosin) or the 5-alpha-reductase inhibitor finasteride. TURP for refractory cases.",
@@ -17618,7 +17662,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1367",
+    "id": "s2surg-1371",
     "category": "Surg Repro/Obgyn",
     "q": "PID: cause and complication per p160?",
     "a": "Caused by Chlamydia or Gonorrhea. Ascent to the uterus and Fallopian tubes causes inflammation and scarring, raising ectopic pregnancy risk (loss of tubal cilia leads to premature implantation, usually in the ampulla).",
@@ -17629,7 +17673,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1368",
+    "id": "s2surg-1372",
     "category": "Surg Repro/Obgyn",
     "q": "PID exam finding per p160?",
     "a": "Adnexal and cervical motion tenderness are buzzy, particularly cervical motion tenderness: if you see it, they're talking about PID.",
@@ -17640,7 +17684,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1369",
+    "id": "s2surg-1373",
     "category": "Surg Repro/Obgyn",
     "q": "PID treated with antibiotics but persistent fever and adnexal pain per p161?",
     "a": "Next best step: ultrasound to look for tubo-ovarian abscess, a potential sequela of PID.",
@@ -17655,7 +17699,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1370",
+    "id": "s2surg-1374",
     "category": "Surg Repro/Obgyn",
     "q": "Fitz-Hugh-Curtis syndrome per p161?",
     "a": "Extension of PID to the liver capsule.",
@@ -17670,7 +17714,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1371",
+    "id": "s2surg-1375",
     "category": "Surg Repro/Obgyn",
     "q": "Imperforate hymen per p161?",
     "a": "The hymen normally has a small hole for menstrual blood; imperforate hymen completely covers the vaginal opening, leading to hematocolpos and hematometra.",
@@ -17685,7 +17729,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1372",
+    "id": "s2surg-1376",
     "category": "Surg Repro/Obgyn",
     "q": "Rh status prevalence and risk per p162?",
     "a": "About 85% of people are Rh(+). Rh(-) women (about 15%) are at risk of IgG antibodies against Rh if the fetus is Rh(+) and the circulations mix.",
@@ -17696,7 +17740,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1373",
+    "id": "s2surg-1377",
     "category": "Surg Repro/Obgyn",
     "q": "Rh(-) mother: when to give RhoGAM per p162?",
     "a": "Rh status is checked at the first antenatal screening at 8-10 weeks. If Rh(-), give RhoGAM at 28 weeks and at parturition, and also after interventions (e.g., amniocentesis) or complications such as spontaneous abortion or abruptio placentae.",
@@ -17711,7 +17755,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1374",
+    "id": "s2surg-1378",
     "category": "Surg Repro/Obgyn",
     "q": "Rh(-) woman in a later pregnancy already has anti-Rh titers: RhoGAM per p162?",
     "a": "Do not give RhoGAM during the pregnancy, since it's too late.",
@@ -17722,7 +17766,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1375",
+    "id": "s2surg-1379",
     "category": "Surg Repro/Obgyn",
     "q": "Kleihauer-Betke test per p162?",
     "a": "Used with hemorrhage or suspected mixing of maternal and fetal circulations in Rh(-) women. Maternal blood is drawn; HbF resists acid, so fetal RBCs are distinguished from maternal cells on a smear. The fraction of fetal RBCs determines the RhoGAM dose.",
@@ -17737,7 +17781,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1376",
+    "id": "s2surg-1380",
     "category": "Surg Repro/Obgyn",
     "q": "ABO hemolytic disease of the newborn: why mother O per p162?",
     "a": "Most anti-A and anti-B antibodies are IgM, but people with type O can have fractionally more IgG; if the O mother has a higher % of IgG anti-A/B, the fetus can be symptomatic.",
@@ -17752,7 +17796,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1377",
+    "id": "s2surg-1381",
     "category": "Surg Repro/Obgyn",
     "q": "Typical ABO HDN vignette per p162?",
     "a": "O+ mom, usually first pregnancy, with an A or B fetus. It can occur in Rh(-) women in second pregnancies, but USMLE gives O+ mom in the first pregnancy to test ABO HDN.",
@@ -17763,7 +17807,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1378",
+    "id": "s2surg-1382",
     "category": "Surg Repro/Obgyn",
     "q": "Other antigens that can cause HDN per p162?",
     "a": "Minor antigens beyond Rh, i.e., Kell, Duffy, Kidd. Isoimmunization process is the same as Rh.",
@@ -17774,7 +17818,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1379",
+    "id": "s2surg-1383",
     "category": "Surg Repro/Obgyn",
     "q": "A+/B+/AB+ mother, second pregnancy with fetal hemolysis, neither ABO nor Rh per p162?",
     "a": "Kell, Duffy or Kidd type HDN.",
@@ -17785,7 +17829,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1380",
+    "id": "s2surg-1384",
     "category": "Surg Repro/Obgyn",
     "q": "High maternal anti-Kell titer: next best step per p162?",
     "a": "Check Kell status of the father. Mother is Kell negative; if the father is Kell(+), the fetus is likely Kell(+), explaining the HDN.",
@@ -17800,7 +17844,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1381",
+    "id": "s2surg-1385",
     "category": "Surg Repro/Obgyn",
     "q": "TORCHeS infections per p163?",
     "a": "Congenital infections in the neonate due to infection in the mother during pregnancy.",
@@ -17811,7 +17855,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1382",
+    "id": "s2surg-1386",
     "category": "Surg Repro/Obgyn",
     "q": "Chorioamnionitis per p163?",
     "a": "Infection of the uterus during pregnancy. Greatest risk factor: ROM over 18 hours. Usually polymicrobial. Treatment: ampicillin plus gentamicin, with or without clindamycin.",
@@ -17826,7 +17870,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1383",
+    "id": "s2surg-1387",
     "category": "Surg Repro/Obgyn",
     "q": "Postpartum endometritis per p163?",
     "a": "Infection of the uterus after pregnancy. Fever, uterine tenderness, foul-smelling lochia within a few days of delivery. Usually polymicrobial. Treatment: ampicillin plus gentamicin, with or without clindamycin.",
@@ -17841,7 +17885,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1384",
+    "id": "s2surg-1388",
     "category": "Surg Repro/Obgyn",
     "q": "C-section 2 days ago, fever, lower abdominal pain per p163?",
     "a": "Postpartum endometritis (chorioamnionitis is wrong: she's not pregnant anymore).",
@@ -17852,7 +17896,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1385",
+    "id": "s2surg-1389",
     "category": "Surg Repro/Obgyn",
     "q": "Normal postoperative course per p163?",
     "a": "E.g., C-section 2 days ago, temp 99.3 F, mildly erythematous incision, two tender palpable inguinal nodes. Surgery is trauma; nodes can be a normal response.",
@@ -17863,7 +17907,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1386",
+    "id": "s2surg-1390",
     "category": "Surg Repro/Obgyn",
     "q": "Septic pelvic thrombophlebitis per p163?",
     "a": "Infected clots in the pelvic (uterine and ovarian) veins. Endometritis is a big risk factor. Persistent pelvic pain and fever despite antibiotics. Shows up on 2CK forms.",
@@ -17878,7 +17922,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1387",
+    "id": "s2surg-1391",
     "category": "Surg Repro/Obgyn",
     "q": "Toxic shock syndrome: cause per p163?",
     "a": "TSST superantigen of S. aureus. HY etiologies: tampon use, vulvovaginal/perineal skin infections; for non-Obgyn Qs, cotton nasal packing.",
@@ -17889,7 +17933,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1388",
+    "id": "s2surg-1392",
     "category": "Surg Repro/Obgyn",
     "q": "TSS mechanism per p163?",
     "a": "The toxin bridges MHC-II on macrophages with the T cell receptor on CD4+ T cells, causing macrophages to release cytokines leading to shock.",
@@ -17904,7 +17948,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1389",
+    "id": "s2surg-1393",
     "category": "Surg Repro/Obgyn",
     "q": "Uterine atony per p164?",
     "a": "Most common cause of postpartum bleeding (70-80%): bleeding with a large, boggy uterus. Uterine massage immediately after Stage 2 delivery lowers risk.",
@@ -17919,7 +17963,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1390",
+    "id": "s2surg-1394",
     "category": "Surg Repro/Obgyn",
     "q": "Refractory uterine atony treatment per p164?",
     "a": "Oxytocin to enhance tone and contractions; if ineffective, ergonovine/methylergonovine. Uterine artery embolization or hysterectomy are last resort.",
@@ -17930,7 +17974,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1391",
+    "id": "s2surg-1395",
     "category": "Surg Repro/Obgyn",
     "q": "Ergonovine contraindications per p164?",
     "a": "HTN, preeclampsia, migraine with aura, smokers, and cardiovascular disease.",
@@ -17941,7 +17985,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1392",
+    "id": "s2surg-1396",
     "category": "Surg Repro/Obgyn",
     "q": "Vaginal laceration per p164?",
     "a": "Usually with fetal macrosomia (e.g., maternal diabetes). Episiotomy can be performed to reduce risk.",
@@ -17952,7 +17996,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1393",
+    "id": "s2surg-1397",
     "category": "Surg Repro/Obgyn",
     "q": "Placenta previa before 36 weeks per p164?",
     "a": "The implantation site can occasionally move off the cervical os as the uterus grows.",
@@ -17963,7 +18007,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1394",
+    "id": "s2surg-1398",
     "category": "Surg Repro/Obgyn",
     "q": "Abruptio placentae per p164?",
     "a": "Placenta detaches from the uterine wall before parturition: painful 3rd trimester bleeding, can present as intense cramping. Classic causes: cocaine and deceleration injury (car accident).",
@@ -17978,7 +18022,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1395",
+    "id": "s2surg-1399",
     "category": "Surg Repro/Obgyn",
     "q": "Placenta accreta, increta, percreta per p164?",
     "a": "Accreta: attached to the myometrial surface. Increta: into the myometrium. Percreta: through the myometrium, sometimes onto adjacent structures such as the bladder (percreta = perforates). All cause postpartum bleeding.",
@@ -17989,7 +18033,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1396",
+    "id": "s2surg-1400",
     "category": "Surg Repro/Obgyn",
     "q": "Amniotic fluid embolism per p165?",
     "a": "USMLE answer for acute shortness of breath and tachycardia 30 seconds to 2 minutes after delivery of the placenta. Amniotic fluid enters maternal circulation and the pulmonary arterioles; can cause DIC with bleeding from IV lines/catheter sites. Treatment: supportive.",
@@ -18004,7 +18048,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1397",
+    "id": "s2surg-1401",
     "category": "Surg Repro/Obgyn",
     "q": "Pulmonary embolism postpartum per p165?",
     "a": "Acute shortness of breath and tachycardia two days postpartum when the mother gets up to go to the bathroom (presumed DVT from the hospital bed). Treatment: heparin first, followed by CT of the chest (CT angio).",
@@ -18015,7 +18059,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1398",
+    "id": "s2surg-1402",
     "category": "Surg Repro/Obgyn",
     "q": "PE in pregnancy: imaging per p165?",
     "a": "V/Q scan before CT, to limit fetal radiation. If V/Q shows segmental perfusion defects and they force a next best step in diagnosis, the answer is still CT chest if listed.",
@@ -18030,7 +18074,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1399",
+    "id": "s2surg-1403",
     "category": "Surg Repro/Obgyn",
     "q": "Peripartum cardiomyopathy: timing and cause per p165?",
     "a": "Dilated cardiomyopathy almost always in the 3rd trimester or first months postpartum. Multifactorial; some studies point to an autoantibody-mediated process.",
@@ -18045,7 +18089,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1400",
+    "id": "s2surg-1404",
     "category": "Surg Repro/Obgyn",
     "q": "Peripartum cardiomyopathy: presentation per p165?",
     "a": "Gradually worsening exertional dyspnea (LHF at minimum); depending on severity, JVD and significant pitting edema (RHF). Tends to worsen with each subsequent pregnancy.",
@@ -18056,7 +18100,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1401",
+    "id": "s2surg-1405",
     "category": "Surg Repro/Obgyn",
     "q": "Peripartum cardiomyopathy: diagnosis and risk per p165?",
     "a": "Transthoracic echo looking for low ejection fraction (normal 55-70%). It's also the answer for assessing risk in future pregnancies: if the EF is already low, it'll only be worse next time.",
@@ -18071,7 +18115,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1402",
+    "id": "s2surg-1406",
     "category": "Surg Repro/Obgyn",
     "q": "Normal peripheral edema in pregnancy per p165?",
     "a": "Common, from increased plasma volume plus the uterus compressing the pelvic veins and IVC, both raising venous hydrostatic pressure.",
@@ -18082,7 +18126,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1403",
+    "id": "s2surg-1407",
     "category": "Surg Repro/Obgyn",
     "q": "Why pregnancy is hypercoagulable per p166?",
     "a": "Placenta makes plasminogen-activator inhibitor (PAI-2), lowering plasmin activity and fibrinolysis; increased estrogen and progesterone raise fibrinogen, clotting factor and vWF synthesis. An evolutionary mechanism to reduce hemorrhage at parturition.",
@@ -18093,7 +18137,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1404",
+    "id": "s2surg-1408",
     "category": "Surg Repro/Obgyn",
     "q": "Hemorrhoids in pregnancy per p166?",
     "a": "Bleeding or protrusion from rectal veins; common in the 2nd and 3rd trimesters. Causes: more pelvic blood flow and uterine pressure, progesterone relaxing vein walls, and constipation-related straining.",
@@ -18108,7 +18152,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1405",
+    "id": "s2surg-1409",
     "category": "Surg Repro/Obgyn",
     "q": "Hemorrhoids in pregnancy: treatment per p166?",
     "a": "Dietary modifications to prevent constipation, cushions or pillows to relieve pressure when sitting, and avoiding prolonged standing or sitting.",
@@ -18119,7 +18163,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1406",
+    "id": "s2surg-1410",
     "category": "Surg Repro/Obgyn",
     "q": "PCOS: mechanism per p166?",
     "a": "High BMI leads to insulin resistance, abnormal GnRH pulsation, increased LH and decreased FSH (an increased LH/FSH ratio; FSH is low, not high).",
@@ -18134,7 +18178,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1407",
+    "id": "s2surg-1411",
     "category": "Surg Repro/Obgyn",
     "q": "PCOS: LH and FSH effects per p166?",
     "a": "LH acts on theca (lutein) cells to make androgens, so high LH gives hirsutism. Low FSH means poor follicular development, so the Graafian follicle fails to rupture and is retained as a follicular cyst.",
@@ -18145,7 +18189,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1408",
+    "id": "s2surg-1412",
     "category": "Surg Repro/Obgyn",
     "q": "Anovulation per p166?",
     "a": "Failure of ovulation; exceedingly HY. Irregular periods. Broader than PCOS (also hypothyroidism, Cushing syndrome), but alone usually means the PCOS mechanism: high-BMI female, irregular periods.",
@@ -18156,7 +18200,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1409",
+    "id": "s2surg-1413",
     "category": "Surg Repro/Obgyn",
     "q": "PCOS ultrasound criteria per p167?",
     "a": "In practice, 11+ cysts bilaterally (the source cites Amsterdam criteria); USMLE doesn't assess this.",
@@ -18167,7 +18211,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1410",
+    "id": "s2surg-1414",
     "category": "Surg Repro/Obgyn",
     "q": "Unopposed estrogen in anovulation per p167?",
     "a": "No corpus luteum, so low progesterone. Progesterone inhibits endometrial growth; estrogen stimulates it. Unopposed estrogen raises risk of endometrial hyperplasia and carcinoma (one of the highest-yield USMLE phrases).",
@@ -18178,7 +18222,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1411",
+    "id": "s2surg-1415",
     "category": "Surg Repro/Obgyn",
     "q": "High-BMI postmenopausal woman with vaginal bleeding per p167?",
     "a": "Endometrial biopsy. Overweight implies past anovulatory cycles and hyperplasia, raising endometrial cancer risk.",
@@ -18189,7 +18233,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1412",
+    "id": "s2surg-1416",
     "category": "Surg Repro/Obgyn",
     "q": "PCOS and diabetes per p167?",
     "a": "Insulin resistance underlies PCOS, so higher type II diabetes risk.",
@@ -18200,7 +18244,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1413",
+    "id": "s2surg-1417",
     "category": "Surg Repro/Obgyn",
     "q": "Cushing syndrome versus PCOS per p167?",
     "a": "Cushing (and hypothyroidism) are HY causes of anovulation. High glucocorticoids cause insulin resistance and anovulation, mimicking PCOS; PCOS is idiopathic with high BMI, not from a known secondary cause.",
@@ -18211,7 +18255,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1414",
+    "id": "s2surg-1418",
     "category": "Surg Repro/Obgyn",
     "q": "Progesterone withdrawal test per p167?",
     "a": "Give progesterone, then see if bleeding occurs on withdrawal; helps diagnose the cause of oligo- or amenorrhea. Menses are caused by progesterone presence followed by withdrawal.",
@@ -18226,7 +18270,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1415",
+    "id": "s2surg-1419",
     "category": "Surg Repro/Obgyn",
     "q": "Positive progesterone withdrawal test per p167?",
     "a": "Bleeding occurs: estrogen is normal, the lining builds up fine, and anovulation is the cause.",
@@ -18237,7 +18281,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1416",
+    "id": "s2surg-1420",
     "category": "Surg Repro/Obgyn",
     "q": "PCOS and progesterone withdrawal per p167?",
     "a": "No corpus luteum, so no natural progesterone presence-then-withdrawal; but estrogen is normal and the lining grows, so exogenous progesterone then withdrawal causes bleeding.",
@@ -18248,7 +18292,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1417",
+    "id": "s2surg-1421",
     "category": "Surg Repro/Obgyn",
     "q": "Negative progesterone withdrawal test per p167?",
     "a": "No bleeding when estrogen is low (e.g., Turner) or the uterus can't grow (Asherman, scarred uterus): the lining hasn't developed.",
@@ -18259,7 +18303,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1418",
+    "id": "s2surg-1422",
     "category": "Surg Repro/Obgyn",
     "q": "Primary dysmenorrhea: mechanism per p167?",
     "a": "Normal, benign period pain from PGF2a hypersecretion. Endometrial cells release prostaglandins causing contractions and pain; systemic spread can cause headache and nausea.",
@@ -18274,7 +18318,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1419",
+    "id": "s2surg-1423",
     "category": "Surg Repro/Obgyn",
     "q": "Primary dysmenorrhea: vignette per p167?",
     "a": "Period pain under age 20 with a normal physical exam (e.g., 17-year-old missing class). Answer can be 'prostaglandin secretion.'",
@@ -18285,7 +18329,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1420",
+    "id": "s2surg-1424",
     "category": "Surg Repro/Obgyn",
     "q": "Primary dysmenorrhea: treatment per p167?",
     "a": "NSAID. OCP is the wrong answer if listed alongside NSAID (on NBME).",
@@ -18296,7 +18340,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1421",
+    "id": "s2surg-1425",
     "category": "Surg Repro/Obgyn",
     "q": "Endometriosis: what and where per p168?",
     "a": "Endometrial tissue outside the uterus; most common on the ovary, also the pouch of Douglas. Thought to be retrograde menstrual flow through the Fallopian tubes seeding the ovaries or peritoneum.",
@@ -18311,7 +18355,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1422",
+    "id": "s2surg-1426",
     "category": "Surg Repro/Obgyn",
     "q": "Endometriosis vignette per p168?",
     "a": "Severe menstrual pain over age 20 with an abnormal physical exam (any finding: uterosacral ligament nodularity, fixed retroverted uterus, pelvic tenderness).",
@@ -18322,7 +18366,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1423",
+    "id": "s2surg-1427",
     "category": "Surg Repro/Obgyn",
     "q": "23F with severe period pain: normal versus abnormal exam per p168?",
     "a": "Normal exam: primary dysmenorrhea / prostaglandin secretion. Uterosacral nodularity: endometriosis.",
@@ -18333,7 +18377,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1424",
+    "id": "s2surg-1428",
     "category": "Surg Repro/Obgyn",
     "q": "Endometriosis descriptors per p168?",
     "a": "Pain with defecation (pouch of Douglas lesions) and dyspareunia are buzzy but too easy, so often omitted from NBME questions.",
@@ -18344,7 +18388,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1425",
+    "id": "s2surg-1429",
     "category": "Surg Repro/Obgyn",
     "q": "Adenomyosis per p168?",
     "a": "Endometrial tissue within the myometrium. Diffusely enlarged uterus plus vaginal bleeding in a woman 30s-50s; may or may not be painful.",
@@ -18359,7 +18403,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1426",
+    "id": "s2surg-1430",
     "category": "Surg Repro/Obgyn",
     "q": "Adenomyosis vignette per p168?",
     "a": "Tubal ligation 2 years ago, now uterus 8 weeks' gestation in size plus vaginal bleeding: adenomyosis (the gestational size is just a description of size).",
@@ -18370,7 +18414,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1427",
+    "id": "s2surg-1431",
     "category": "Surg Repro/Obgyn",
     "q": "Adenomyosis treatment per p168?",
     "a": "NSAIDs plus OCPs. Leuprolide in theory, but not seen assessed.",
@@ -18381,7 +18425,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1428",
+    "id": "s2surg-1432",
     "category": "Surg Repro/Obgyn",
     "q": "Asherman syndrome per p168?",
     "a": "Uterine synechiae (fibrous adhesions) from instrumentation such as D&C; can cause amenorrhea.",
@@ -18396,7 +18440,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1429",
+    "id": "s2surg-1433",
     "category": "Surg Repro/Obgyn",
     "q": "Cervical stenosis per p168?",
     "a": "History of LEEP for CIN2/3 six months ago, now pelvic pain with menses and a small scarred cervical os. Pain can occur in theory from reduced menstrual outflow, like imperforate hymen.",
@@ -18407,7 +18451,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1430",
+    "id": "s2surg-1434",
     "category": "Surg Repro/Obgyn",
     "q": "Chemo-/radiotherapy-induced amenorrhea per p168?",
     "a": "Can cause amenorrhea. On NBME the answer is 'primary hypogonadism' (the ovaries themselves hypo-secrete).",
@@ -18418,7 +18462,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1431",
+    "id": "s2surg-1435",
     "category": "Surg Repro/Obgyn",
     "q": "Chronic interstitial cystitis per p168?",
     "a": "Unexplained pelvic pain, bladder pain and/or dysuria for more than 6 weeks with normal labs; can include anterior vaginal wall pain. Vignette: 25F, 6 months of dysuria, pubic pressure, negative pregnancy test, normal labs.",
@@ -18433,7 +18477,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1432",
+    "id": "s2surg-1436",
     "category": "Surg Repro/Obgyn",
     "q": "Interstitial cystitis treatment per p168?",
     "a": "Lifestyle modification and dietary changes. Steroids are a wrong answer.",
@@ -18444,7 +18488,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1433",
+    "id": "s2surg-1437",
     "category": "Surg Repro/Obgyn",
     "q": "Methotrexate for ectopic pregnancy per p169?",
     "a": "Small, stable ectopic: hemodynamically stable, no evidence of tubal rupture or peritoneal fluid, ectopic under 3.5 cm, b-hCG under 5000 mIU/mL.",
@@ -18459,7 +18503,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1434",
+    "id": "s2surg-1438",
     "category": "Surg Repro/Obgyn",
     "q": "SERMs per p169?",
     "a": "Different effects by tissue. Tamoxifen and raloxifene for ER(+) breast cancer: antagonistic at breast, agonistic at bone.",
@@ -18470,7 +18514,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1435",
+    "id": "s2surg-1439",
     "category": "Surg Repro/Obgyn",
     "q": "Tamoxifen and endometrial cancer per p169?",
     "a": "Raises endometrial cancer risk through agonistic effects at the endometrium.",
@@ -18485,7 +18529,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1436",
+    "id": "s2surg-1440",
     "category": "Surg Derm",
     "q": "Erysipelas: treatment per p170?",
     "a": "Same as cellulitis (oral dicloxacillin, cephalexin, or Augmentin) because Staph can still cause it. Penicillin alone can be used for Strep pharyngitis.",
@@ -18500,7 +18544,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1437",
+    "id": "s2surg-1441",
     "category": "Surg Derm",
     "q": "Most common organism for cellulitis per p170?",
     "a": "S. aureus exceeds Group A Strep.",
@@ -18511,7 +18555,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1438",
+    "id": "s2surg-1442",
     "category": "Surg Derm",
     "q": "Meningococcal shock with low BP: what is often asked per p171?",
     "a": "Low BP can be endotoxic shock, but Waterhouse-Friderichsen syndrome is often asked: give hydrocortisone to increase BP after normal saline is administered.",
@@ -18526,7 +18570,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1439",
+    "id": "s2surg-1443",
     "category": "Surg Derm",
     "q": "Parvovirus B19: next best step per p171?",
     "a": "Check serum IgM titers; if IgM titers are not listed, choose bone marrow biopsy.",
@@ -18537,7 +18581,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1440",
+    "id": "s2surg-1444",
     "category": "Surg Derm",
     "q": "Other causes of this contact dermatitis per p173?",
     "a": "It can also occur due to adhesives (e.g., from applied bandages).",
@@ -18548,7 +18592,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1441",
+    "id": "s2surg-1445",
     "category": "Surg Derm",
     "q": "Violaceous rash around the eyelids per p173?",
     "a": "Heliotrope rash: dermatomyositis (not the malar rash of SLE).",
@@ -18559,7 +18603,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1442",
+    "id": "s2surg-1446",
     "category": "Surg Derm",
     "q": "NF1: findings per p174?",
     "a": "Cafe au lait spots, neurofibromas, axillary/groin freckling, optic glioma, pheochromocytoma.",
@@ -18574,7 +18618,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1443",
+    "id": "s2surg-1447",
     "category": "Surg Derm",
     "q": "Tuberous sclerosis: findings per p174?",
     "a": "Intracranial/periventricular nodules ('tubers', i.e., hamartomas), adenoma sebaceum (angiofibromas), cardiac rhabdomyoma, lymphangioleiomyomatosis, subungual fibromas, renal angiomyolipoma.",
@@ -18589,7 +18633,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1444",
+    "id": "s2surg-1448",
     "category": "Surg Derm",
     "q": "Skin cancer on cosmetically sensitive areas per p175?",
     "a": "Skin cancers on cosmetically sensitive areas such as the eyelid or nose can be managed with Mohs micrographic surgery (on NBME).",
@@ -18604,7 +18648,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1445",
+    "id": "s2surg-1449",
     "category": "Surg Derm",
     "q": "SCC vs BCC appearance per p175?",
     "a": "SCC will not have telangiectasias or pearlescence/translucency (as with BCC).",
@@ -18615,7 +18659,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1446",
+    "id": "s2surg-1450",
     "category": "Surg Derm",
     "q": "Melanoma on the back of the neck: biopsy and management per p176?",
     "a": "'Full-thickness biopsy' is the USMLE answer for suspected melanoma on the back of the neck (an NBME question gives a similar lesion on the neck with full-thickness biopsy as the answer). Excision is management for neck lesions if full-thickness biopsy confirms melanoma; do Mohs micrographic surgery for facial lesions.",
@@ -18630,7 +18674,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1447",
+    "id": "s2surg-1451",
     "category": "Surg Derm",
     "q": "Punch biopsy and shave biopsy for suspected melanoma per p176?",
     "a": "Punch biopsy is a type of full-thickness biopsy; if asked, choose the side of the lesion for biopsy rather than the middle. Shave biopsy: source has never seen it assessed on NBME, but says literature shows it can sometimes remove superficial non-pigmented lesions when melanoma is not suspected (shave biopsy on melanoma can create problems for assessing depth, prognosis and therapy).",
@@ -18641,7 +18685,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1448",
+    "id": "s2surg-1452",
     "category": "Surg Derm",
     "q": "Sign of Leser-Trelat per p177?",
     "a": "Sudden, eruptive seborrheic keratoses secondary to an underlying visceral malignancy (unrelated to age or sun).",
@@ -18656,7 +18700,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1449",
+    "id": "s2surg-1453",
     "category": "Surg Derm",
     "q": "Mongolian spot vs child abuse per p177?",
     "a": "Often mistaken for child abuse. Schedule routine follow-up; the wrong answer is contacting child protective services.",
@@ -18671,7 +18715,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1450",
+    "id": "s2surg-1454",
     "category": "Surg Derm",
     "q": "Cherry vs strawberry hemangioma per p178?",
     "a": "Do not confuse strawberry hemangioma with cherry hemangioma, which is due to sun exposure in the elderly and presents as a tiny cherry-colored papule.",
@@ -18682,7 +18726,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1451",
+    "id": "s2surg-1455",
     "category": "Surg Derm",
     "q": "Kasabach-Merritt: size and treatment per p178?",
     "a": "Large and deforming; do not confuse with strawberry hemangioma. Tx is surgical.",
@@ -18697,7 +18741,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1452",
+    "id": "s2surg-1456",
     "category": "Surg Derm",
     "q": "Keloid treatment per p179?",
     "a": "Tx is surgical excision, although recurrence is common.",
@@ -18712,7 +18756,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1453",
+    "id": "s2surg-1457",
     "category": "Surg Derm",
     "q": "Varicose veins: treatment per p179?",
     "a": "Tx is compression stockings. Do not choose surgical interventions for varicose veins on USMLE.",
@@ -18727,7 +18771,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1454",
+    "id": "s2surg-1458",
     "category": "Surg Derm",
     "q": "Superficial thrombophlebitis: treatment per p179?",
     "a": "Subcutaneous enoxaparin (heparin). Wrong answer is compression stockings. Very difficult question since stockings are the common answer for venous disease.",
@@ -18742,7 +18786,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1455",
+    "id": "s2surg-1459",
     "category": "Surg Derm",
     "q": "Compression stockings vs heparin per p180?",
     "a": "For simple venous disease or varicose veins, choose compression stockings. If the patient has an active clot presenting as a palpable vein with pain, give heparin instead.",
@@ -18753,7 +18797,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1456",
+    "id": "s2surg-1460",
     "category": "Surg Derm",
     "q": "Charcot joint per p180?",
     "a": "Aka neurogenic joint. Mechanism is lack of appropriate joint sensation: the patient cannot feel the foot due to neuropathy, causing damage, and cannot heal the area due to vasculopathy. The question shows a diabetic with poor HbA1c, a foot ulcer, and an x-ray with disorganization of the tarsals/metatarsals.",
@@ -18768,7 +18812,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1457",
+    "id": "s2surg-1461",
     "category": "Surg Derm",
     "q": "Cryoglobulinemia: complement per p181?",
     "a": "Associated with decreased serum complement protein C4 (in contrast, C3 is sometimes down in SLE flares and Group A Strep infections).",
@@ -18783,7 +18827,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1458",
+    "id": "s2surg-1462",
     "category": "Surg Derm",
     "q": "SVC syndrome: classic cause per p181?",
     "a": "Seen classically in Pancoast (apical) tumors of the lung.",
@@ -18798,7 +18842,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1459",
+    "id": "s2surg-1463",
     "category": "Surg Neuro",
     "q": "Two most important stroke risk factors on USMLE per p182?",
     "a": "Hypertension and atrial fibrillation.",
@@ -18813,7 +18857,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1460",
+    "id": "s2surg-1464",
     "category": "Surg Neuro",
     "q": "How does HTN cause stroke per p182?",
     "a": "A strong systolic impulse pounds the carotid arteries, leading to endothelial damage and increased development of atherosclerotic plaques (carotid stenosis), which then launch off to the brain/eye.",
@@ -18824,7 +18868,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1461",
+    "id": "s2surg-1465",
     "category": "Surg Neuro",
     "q": "How does atrial fibrillation cause stroke per p182?",
     "a": "AF results in turbulence and stasis, leading to left atrial mural thrombus, which launches off.",
@@ -18835,7 +18879,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1462",
+    "id": "s2surg-1466",
     "category": "Surg Neuro",
     "q": "HTN vs smoking cessation for stroke risk per p182?",
     "a": "Hypertension is the most common risk factor in the population for causing stroke. Blood pressure control is more important than smoking cessation for decreasing stroke risk.",
@@ -18850,7 +18894,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1463",
+    "id": "s2surg-1467",
     "category": "Surg Neuro",
     "q": "Patient has both AF and HTN: most important stroke risk factor per p182?",
     "a": "AF. Even though HTN is the most common risk factor in the population, AF is still more likely to cause stroke if the patient has both.",
@@ -18861,7 +18905,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1464",
+    "id": "s2surg-1468",
     "category": "Surg Neuro",
     "q": "How do most strokes occur per p182?",
     "a": "The patient usually has carotid stenosis from HTN, where an atheromatous plaque has launched off, or has AF where a left atrial mural thrombus has launched off. The source says carotid stenosis and AF management for stroke prevention are covered in its HY Cardio PDF.",
@@ -18872,7 +18916,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1465",
+    "id": "s2surg-1469",
     "category": "Surg Neuro",
     "q": "ACA stroke per p182?",
     "a": "Anterior cerebral artery: motor/sensory abnormalities of the contralateral leg.",
@@ -18883,7 +18927,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1466",
+    "id": "s2surg-1470",
     "category": "Surg Neuro",
     "q": "MCA stroke per p182?",
     "a": "Middle cerebral artery: motor/sensory abnormalities of the contralateral arm and face.",
@@ -18894,7 +18938,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1467",
+    "id": "s2surg-1471",
     "category": "Surg Neuro",
     "q": "Dominant vs non-dominant MCA stroke per p182?",
     "a": "Dominant MCA stroke (usually left) can lead to Wernicke or Broca aphasia. Non-dominant MCA stroke (usually right) can cause hemispatial neglect (inability to draw a clockface).",
@@ -18905,7 +18949,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1468",
+    "id": "s2surg-1472",
     "category": "Surg Neuro",
     "q": "PCA stroke per p182?",
     "a": "Posterior cerebral artery: contralateral homonymous hemianopsia with macular sparing; prosopagnosia (inability to recognize faces).",
@@ -18916,7 +18960,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1469",
+    "id": "s2surg-1473",
     "category": "Surg Neuro",
     "q": "Lateral medullary syndrome per p182?",
     "a": "Aka Wallenberg syndrome. The answer for dysphagia plus ipsilateral Horner syndrome after a stroke. Due to stroke of the posterior inferior cerebellar artery (PICA) or vertebral artery. Mnemonic: 'PICAchew' (Pikachu), PICA stroke causes dysphagia.",
@@ -18931,7 +18975,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1470",
+    "id": "s2surg-1474",
     "category": "Surg Neuro",
     "q": "Another high-yield cause of Horner syndrome per p182?",
     "a": "Students may know Horner syndrome (ipsilateral miosis, partial ptosis, anhidrosis) can be caused by a Pancoast tumor, but another high-yield cause is lateral medullary syndrome.",
@@ -18942,7 +18986,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1471",
+    "id": "s2surg-1475",
     "category": "Surg Neuro",
     "q": "Medial medullary syndrome per p182?",
     "a": "The answer for ipsilateral tongue deviation after a stroke. Due to stroke of the anterior spinal artery.",
@@ -18957,7 +19001,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1472",
+    "id": "s2surg-1476",
     "category": "Surg Neuro",
     "q": "Lateral pontine syndrome per p182?",
     "a": "The answer for ipsilateral Bell palsy after a stroke. Due to stroke of the anterior inferior cerebellar artery (AICA). Mnemonic: FACIAL contains AICA backwards.",
@@ -18968,7 +19012,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1473",
+    "id": "s2surg-1477",
     "category": "Surg Neuro",
     "q": "Weber syndrome per p182?",
     "a": "Midbrain stroke. The answer for ipsilateral CN III palsy (down and out eye) plus contralateral spastic hemiparesis.",
@@ -18983,7 +19027,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1474",
+    "id": "s2surg-1478",
     "category": "Surg Neuro",
     "q": "Locked-in syndrome per p182?",
     "a": "Basilar artery stroke. The answer for inability to move the entire body except for the eyes.",
@@ -18994,7 +19038,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1475",
+    "id": "s2surg-1479",
     "category": "Surg Neuro",
     "q": "Gerstmann syndrome per p183?",
     "a": "Stroke of the angular gyrus of the parietal lobe. Tetrad: agraphia (inability to write), acalculia (cannot do math), finger agnosia (cannot identify fingers), and left-right disassociation (cannot differentiate left from right sides of the body).",
@@ -19009,7 +19053,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1476",
+    "id": "s2surg-1480",
     "category": "Surg Neuro",
     "q": "Hemiballismus per p183?",
     "a": "Stroke of the subthalamic nucleus; causes 'ballistic' flailing of the contralateral arm and/or leg. Source says it is a weird condition but for some reason is asked. Example: random flailing of the left arm after a stroke = right subthalamic nucleus.",
@@ -19024,7 +19068,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1477",
+    "id": "s2surg-1481",
     "category": "Surg Neuro",
     "q": "Lacunar infarcts: mechanism per p183?",
     "a": "HTN can cause lipohyalinosis (microatheroma formation) of small lenticulostriate arteries deep within the brain. Ischemia in these small vessels leads to necrosis and reabsorption of tissue, leaving tiny cavities called lacunae.",
@@ -19039,7 +19083,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1478",
+    "id": "s2surg-1482",
     "category": "Surg Neuro",
     "q": "Lacunar infarcts: presentation per p183?",
     "a": "Unlike larger strokes, lacunar infarcts often do not present with cortical deficits like aphasia, neglect or visual field losses. They manifest as specific syndromes based on location, such as pure motor hemiparesis, pure sensory stroke, or ataxic hemiparesis. The source says USMLE does not care about the specific types; they want you to know they exist and that the mechanism is HTN causing lipohyalinosis of small penetrating vessels.",
@@ -19050,7 +19094,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1479",
+    "id": "s2surg-1483",
     "category": "Surg Neuro",
     "q": "Charcot-Bouchard microaneurysms per p183?",
     "a": "Tiny (<1 mm) aneurysms that can form within lenticulostriate arteries and bleed, causing hemorrhagic strokes / intraparenchymal (intracerebral) bleeds.",
@@ -19065,7 +19109,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1480",
+    "id": "s2surg-1484",
     "category": "Surg Neuro",
     "q": "Stroke workup: first imaging per p183?",
     "a": "Non-contrast CT of the head to look for ischemic vs hemorrhagic stroke. Blood appears bright (hyperdense) on CT.",
@@ -19076,7 +19120,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1481",
+    "id": "s2surg-1485",
     "category": "Surg Neuro",
     "q": "Ischemic stroke: tPA window per p183?",
     "a": "If no blood is seen on non-contrast CT, tPA is given if symptom onset was within the past 4.5 hours and there are no overt contraindications. If the 4.5-hour window has elapsed, aspirin is the answer for ischemic stroke.",
@@ -19091,7 +19135,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1482",
+    "id": "s2surg-1486",
     "category": "Surg Neuro",
     "q": "When does the 4.5-hour window start per p183?",
     "a": "When the patient was last confirmed/observed to be normal. If a patient was sleeping, the exact time he or she went to sleep and that he or she was normal beforehand must be known. A patient who woke 2 hours ago with facial droop: tPA is wrong because the stroke could have occurred any time during sleep and the last time seen normal was the night before.",
@@ -19102,7 +19146,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1483",
+    "id": "s2surg-1487",
     "category": "Surg Neuro",
     "q": "Ischemic stroke: blood pressure before tPA per p183?",
     "a": "Bring BP down rapidly until below 185/110 so tPA can be given. Below that threshold, do cautious/slower BP control, since higher BP can facilitate perfusion of penumbral areas of ischemia (areas of ischemia around the stroke).",
@@ -19117,7 +19161,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1484",
+    "id": "s2surg-1488",
     "category": "Surg Neuro",
     "q": "Hemorrhagic stroke management per p183?",
     "a": "Do not give tPA. First step is lowering BP (labetalol, nicardipine or hydralazine). Reduce BP rapidly to systolic <140 mm Hg. Reverse anticoagulation if the patient is on it (for example FFP for patients on warfarin).",
@@ -19132,7 +19176,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1485",
+    "id": "s2surg-1489",
     "category": "Surg Neuro",
     "q": "Hypercalcemic crisis per p183?",
     "a": "Cognitive dysfunction or a delirium-like state in the setting of severe hypercalcemia, often due to malignancy or primary hyperparathyroidism. USMLE wants you to know that high calcium, as well as any sodium disturbance, can cause delirium.",
@@ -19147,7 +19191,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1486",
+    "id": "s2surg-1490",
     "category": "Surg Neuro",
     "q": "Correcting hypernatremia too fast per p184?",
     "a": "Correcting hypernatremia too quickly with hypotonic saline can cause cerebral edema.",
@@ -19158,7 +19202,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1487",
+    "id": "s2surg-1491",
     "category": "Surg Neuro",
     "q": "Central pontine myelinolysis: syndrome and imaging per p184?",
     "a": "Causes locked-in syndrome. USMLE can show an MRI of the pons similar to the image.",
@@ -19169,7 +19213,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1488",
+    "id": "s2surg-1492",
     "category": "Surg Neuro",
     "q": "Hypercalcemia: step after normal saline per p184?",
     "a": "Bisphosphonate therapy. The source has seen pamidronate listed on NBME.",
@@ -19184,7 +19228,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1489",
+    "id": "s2surg-1493",
     "category": "Surg Neuro",
     "q": "Calcitonin and loop diuretics for hypercalcemia per p184?",
     "a": "The source has never seen calcitonin or loop diuretics as correct answers for hypercalcemia Tx; they are always wrong.",
@@ -19199,7 +19243,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1490",
+    "id": "s2surg-1494",
     "category": "Surg Neuro",
     "q": "Pseudotumor cerebri: definition per p184?",
     "a": "Increased intracranial pressure in the setting of no clear structural cause.",
@@ -19214,7 +19258,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1491",
+    "id": "s2surg-1495",
     "category": "Surg Neuro",
     "q": "Pseudotumor cerebri: notable causes per p184?",
     "a": "Obesity (idiopathic intracranial hypertension), OCPs, isotretinoin, and danazol.",
@@ -19229,7 +19273,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1492",
+    "id": "s2surg-1496",
     "category": "Surg Neuro",
     "q": "Reye syndrome per p184?",
     "a": "Cerebral edema and hepatotoxicity seen with administration of aspirin to children (and sometimes adolescents) during a viral infection.",
@@ -19244,7 +19288,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1493",
+    "id": "s2surg-1497",
     "category": "Surg Neuro",
     "q": "Diffuse axonal injury per p184?",
     "a": "Deceleration injury (for example a car accident) followed by severe cognitive and/or motor/sensory dysfunction (for example after an MVA the patient has to relearn tying shoes).",
@@ -19259,7 +19303,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1494",
+    "id": "s2surg-1498",
     "category": "Surg Neuro",
     "q": "Spinothalamic tract per p185?",
     "a": "Carries pain and temperature sensation from the contralateral body. Cross-over (decussation) is in the spinal cord, so a left spinothalamic tract lesion loses pain and temperature on the right side of the body below the lesion.",
@@ -19270,7 +19314,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1495",
+    "id": "s2surg-1499",
     "category": "Surg Neuro",
     "q": "Anterior white commissure lesion per p185?",
     "a": "The decussation point of the spinothalamic tract is the anterior white commissure. A lesion here is called syringomyelia, with bilateral loss of pain and temperature below the lesion.",
@@ -19285,7 +19329,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1496",
+    "id": "s2surg-1500",
     "category": "Surg Neuro",
     "q": "Corticospinal lesion effect per p185?",
     "a": "If the left-sided corticospinal tract is damaged, motor function is lost on the left side below the lesion.",
@@ -19296,7 +19340,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1497",
+    "id": "s2surg-1501",
     "category": "Surg Neuro",
     "q": "Dorsal columns per p185?",
     "a": "Carry vibration and proprioception from the ipsilateral body. Tabes dorsalis is a dorsal column lesion caused by neurosyphilis.",
@@ -19311,7 +19355,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1498",
+    "id": "s2surg-1502",
     "category": "Surg Neuro",
     "q": "UMN lesion findings per p185?",
     "a": "UMN lesion: corticospinal tract from the cerebral cortex down to the anterior horn of the spinal cord. Presents as hyperreflexia, hypertonia, clonus, Babinski sign.",
@@ -19322,7 +19366,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1499",
+    "id": "s2surg-1503",
     "category": "Surg Neuro",
     "q": "LMN lesion findings per p185?",
     "a": "LMN lesion: motor neuron from the anterior horn to the muscle itself. An anterior horn lesion is LMN, not UMN. Presents as hyporeflexia, hypotonia/flaccidity, fasciculations.",
@@ -19337,7 +19381,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1500",
+    "id": "s2surg-1504",
     "category": "Surg Neuro",
     "q": "Tabes dorsalis: ataxia and Romberg per p186?",
     "a": "Ataxia with a positive Romberg test indicates dorsal columns as the cause, since proprioception is lost. If the cause of ataxia is cerebellar, the Romberg test is negative.",
@@ -19348,7 +19392,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1501",
+    "id": "s2surg-1505",
     "category": "Surg Neuro",
     "q": "Syringomyelia: how it is asked per p186?",
     "a": "The source says 9/10 questions give bilateral loss of pain and temperature due to a lesion of the anterior white commissure (decussation point for the spinothalamic tract).",
@@ -19363,7 +19407,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1502",
+    "id": "s2surg-1506",
     "category": "Surg Neuro",
     "q": "Syringomyelia: other question patterns per p186?",
     "a": "Maybe 1/3 of questions also involve the corticospinal tract, with some impaired motor function in addition to bilateral loss of pain/temperature. About 1/10 do not mention pain/temperature loss and give just impaired motor function, where it sounds nothing like syringomyelia but you must eliminate to get there (on a 2CK Neuro CMS form).",
@@ -19378,7 +19422,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1503",
+    "id": "s2surg-1507",
     "category": "Surg Neuro",
     "q": "Brown-Sequard deficits per p186?",
     "a": "Ipsilateral loss of vibration and proprioception (dorsal columns); ipsilateral loss of motor function (corticospinal tract); contralateral loss of pain and temperature (spinothalamic).",
@@ -19389,7 +19433,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1504",
+    "id": "s2surg-1508",
     "category": "Surg Neuro",
     "q": "Brown-Sequard cause on NBME per p186?",
     "a": "Not typically a stab wound with perfect half-transection of the cord. In the source's observation on NBME forms (especially 2CK Neuro CMS) they like viral infection or SLE causing transverse myelitis.",
@@ -19404,7 +19448,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1505",
+    "id": "s2surg-1509",
     "category": "Surg Neuro",
     "q": "Transverse myelitis per p186?",
     "a": "Inflammation of the spinal cord with variable deficits. USMLE likes viral infection and SLE (autoimmune). Brown-Sequard syndrome is one way transverse myelitis presents.",
@@ -19419,7 +19463,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1506",
+    "id": "s2surg-1510",
     "category": "Surg Neuro",
     "q": "Central cord syndrome per p186?",
     "a": "The answer when weakness in the upper limbs is greater than weakness in the lower limbs.",
@@ -19434,7 +19478,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1507",
+    "id": "s2surg-1511",
     "category": "Surg Neuro",
     "q": "Central cord syndrome: cause per p186?",
     "a": "Typically follows a hyperextension injury of the neck during whiplash in a rear-end MVA.",
@@ -19445,7 +19489,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1508",
+    "id": "s2surg-1512",
     "category": "Surg Neuro",
     "q": "Anterior cord syndrome per p186?",
     "a": "The answer when vibration/proprioception is preserved but motor and pain/temperature are lost, classically in a patient with arterial disease.",
@@ -19460,7 +19504,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1509",
+    "id": "s2surg-1513",
     "category": "Surg Neuro",
     "q": "Anterior cord syndrome vs tabes dorsalis per p186?",
     "a": "Everything but the dorsal columns is damaged; essentially the opposite of tabes dorsalis.",
@@ -19471,7 +19515,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1510",
+    "id": "s2surg-1514",
     "category": "Surg Neuro",
     "q": "Neurogenic joint per p187?",
     "a": "Aka Charcot joint: the patient injures the joint due to lack of joint sensation from peripheral neuropathy. Usually seen in diabetes; can also be seen in neurosyphilis. The USMLE answer when a diabetic has 'disorganization of the tarsometatarsal joints' on foot x-ray.",
@@ -19482,7 +19526,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1511",
+    "id": "s2surg-1515",
     "category": "Surg Neuro",
     "q": "Communicating hydrocephalus per p187?",
     "a": "CSF can flow freely between the ventricles and the subarachnoid space. The answer for meningitis causing hydrocephalus, where the mechanism is 'failure of CSF reabsorption by the arachnoid granulations'.",
@@ -19497,7 +19541,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1512",
+    "id": "s2surg-1516",
     "category": "Surg Neuro",
     "q": "Non-communicating hydrocephalus per p187?",
     "a": "Aka obstructive hydrocephalus: a blockage prevents CSF flow between the ventricles or subarachnoid space. An NBME question gives a spinal cord tumor with hydrocephalus and the answer is obstructive hydrocephalus.",
@@ -19512,7 +19556,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1513",
+    "id": "s2surg-1517",
     "category": "Surg Neuro",
     "q": "Causes of non-communicating hydrocephalus per p187?",
     "a": "Aqueductal stenosis (narrowing of the cerebral aqueduct of Sylvius between the 3rd and 4th ventricles), the most common cause of congenital hydrocephalus. Colloid cyst: a benign fluid-filled growth at the anterior roof of the third ventricle, just posterior to the foramen of Monro.",
@@ -19527,7 +19571,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1514",
+    "id": "s2surg-1518",
     "category": "Surg Neuro",
     "q": "Normal pressure hydrocephalus per p187?",
     "a": "'Wet, wobbly, wacky' with or without Parkinsonism: urinary incontinence, ataxia, and cognitive dysfunction.",
@@ -19538,7 +19582,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1515",
+    "id": "s2surg-1519",
     "category": "Surg Neuro",
     "q": "Congenital hydrocephalus causes per p187?",
     "a": "Aqueductal stenosis is the most common cause. The source thinks the most important cause on NBME is congenital toxoplasmosis: triad of hydrocephalus, chorioretinitis, and intracranial calcifications.",
@@ -19553,7 +19597,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1516",
+    "id": "s2surg-1520",
     "category": "Surg Neuro",
     "q": "Ex-vacuo ventriculomegaly per p187?",
     "a": "Appearance of enlarged lateral ventricles on imaging without true hydrocephalus, from loss of surrounding brain matter. Alzheimer and schizophrenia are important causes on USMLE, where lateral ventricle enlargement can show up in question stems.",
@@ -19568,7 +19612,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1517",
+    "id": "s2surg-1521",
     "category": "Surg Neuro",
     "q": "Multiple sclerosis: pathogenesis per p187?",
     "a": "T-cell-mediated attack against oligodendrocytes and myelin basic protein.",
@@ -19579,7 +19623,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1518",
+    "id": "s2surg-1522",
     "category": "Surg Neuro",
     "q": "Multiple sclerosis: who gets it per p187?",
     "a": "Idiopathic autoimmune disorder classically in white women in their 20s-30s who live far from the equator.",
@@ -19594,7 +19638,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1519",
+    "id": "s2surg-1523",
     "category": "Surg Neuro",
     "q": "Multiple sclerosis: course per p187?",
     "a": "Relapsing-remitting is most common: repeated episodes of neurologic disturbance over many years at varying intervals.",
@@ -19605,7 +19649,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1520",
+    "id": "s2surg-1524",
     "category": "Surg Neuro",
     "q": "Multiple sclerosis: highest-yield findings per p187?",
     "a": "Optic neuritis and INO. Clonus and positive Babinski sign (UMN findings) are also high yield.",
@@ -19616,7 +19660,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1521",
+    "id": "s2surg-1525",
     "category": "Surg Neuro",
     "q": "Multiple sclerosis: bladder per p187?",
     "a": "Urge incontinence is exceedingly high yield. The source has never seen overflow incontinence due to MS on NBME; urge incontinence shows up all over the NBME forms for MS.",
@@ -19627,7 +19671,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1522",
+    "id": "s2surg-1526",
     "category": "Surg Neuro",
     "q": "Multiple sclerosis: MRI per p187?",
     "a": "MRI is the gold standard for diagnosis, showing scattered white matter lesions within the CNS (both brain and spinal cord).",
@@ -19642,7 +19686,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1523",
+    "id": "s2surg-1527",
     "category": "Surg Neuro",
     "q": "Multiple sclerosis: CSF per p187?",
     "a": "CSF analysis shows IgG oligoclonal bands.",
@@ -19657,7 +19701,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1524",
+    "id": "s2surg-1528",
     "category": "Surg Neuro",
     "q": "Neurogenic joint per p187?",
     "a": "Aka Charcot joint: the patient injures the joint due to lack of sensation from peripheral neuropathy. Usually seen in diabetes; can also be seen in neurosyphilis. The answer when a diabetic patient has 'disorganization of the tarsometatarsal joints' on foot x-ray.",
@@ -19672,7 +19716,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1525",
+    "id": "s2surg-1529",
     "category": "Surg Neuro",
     "q": "Multiple sclerosis: acute flare Tx per p188?",
     "a": "Steroids for acute flares (IV methylprednisolone).",
@@ -19687,7 +19731,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1526",
+    "id": "s2surg-1530",
     "category": "Surg Neuro",
     "q": "Multiple sclerosis: between flares per p188?",
     "a": "Beta-interferon is what USMLE wants between flares to decrease recurrences.",
@@ -19698,7 +19742,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1527",
+    "id": "s2surg-1531",
     "category": "Surg Neuro",
     "q": "Multiple sclerosis: spasticity per p188?",
     "a": "Baclofen (GABA-B receptor agonist) is used for spasticity.",
@@ -19709,7 +19753,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1528",
+    "id": "s2surg-1532",
     "category": "Surg Neuro",
     "q": "Neuromyelitis optica per p188?",
     "a": "Aka Devic disease. Sounds exactly like MS, but CSF oligoclonal bands are negative, and the answer is 'antibodies against aquaporin-4'. The source says it is asked on a 2CK form.",
@@ -19724,7 +19768,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1529",
+    "id": "s2surg-1533",
     "category": "Surg Neuro",
     "q": "ALS: what degenerates per p188?",
     "a": "Amyotrophic lateral sclerosis: the lateral corticospinal tracts (UMN) and anterior horns (LMN) degenerate.",
@@ -19739,7 +19783,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1530",
+    "id": "s2surg-1534",
     "category": "Surg Neuro",
     "q": "ALS: UMN plus LMN findings per p188?",
     "a": "Every ALS vignette has a combination of UMN and LMN findings. LMN: fasciculations, decreased reflexes, decreased tone, muscle atrophy. UMN: Babinski reflex, clonus, brisk reflexes, increased tone. Serum CK can be elevated due to increased tone.",
@@ -19750,7 +19794,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1531",
+    "id": "s2surg-1535",
     "category": "Surg Neuro",
     "q": "ALS: no sensory findings per p188?",
     "a": "Must have no sensory findings. If any sensory abnormality (paresthesias, numbness) is in the vignette, ALS is wrong. USMLE will often give an ALS vignette and the answer is simply 'motor neurons'.",
@@ -19761,7 +19805,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1532",
+    "id": "s2surg-1536",
     "category": "Surg Neuro",
     "q": "ALS: next best step in diagnosis per p188?",
     "a": "For 2CK: electromyography and nerve conduction studies.",
@@ -19776,7 +19820,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1533",
+    "id": "s2surg-1537",
     "category": "Surg Neuro",
     "q": "Guillain-Barre syndrome: pathology per p188?",
     "a": "Aka acute inflammatory demyelinating polyneuropathy. T-cell- and antibody-mediated destruction of Schwann cells and myelin of peripheral nerves; can be described as 'segmental and inflammatory demyelination'. In other words, MS = CNS/oligodendrocytes; GBS = PNS/Schwann cells.",
@@ -19787,7 +19831,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1534",
+    "id": "s2surg-1538",
     "category": "Surg Neuro",
     "q": "Guillain-Barre syndrome: presentation per p188?",
     "a": "Ascending paralysis and loss of deep tendon reflexes. Can affect both upper and lower limbs. Symptoms can start as tingling in the hands and/or feet.",
@@ -19798,7 +19842,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1535",
+    "id": "s2surg-1539",
     "category": "Surg Neuro",
     "q": "GBS: 'proximal and distal weakness' vignette per p188?",
     "a": "USMLE can say 'weakness of proximal and distal muscles in lower limbs and weakness of distal muscles in upper limbs', implying the weakness has ascended in the legs but not yet in the arms.",
@@ -19809,7 +19853,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1536",
+    "id": "s2surg-1540",
     "category": "Surg Neuro",
     "q": "GBS: Campylobacter per p188?",
     "a": "Textbook cause is Campylobacter jejuni, but in almost all questions you will not get bloody diarrhea after a BBQ. They give only the symptoms and you must know it is GBS.",
@@ -19824,7 +19868,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1537",
+    "id": "s2surg-1541",
     "category": "Surg Neuro",
     "q": "Charcot-Marie-Tooth disease per p188?",
     "a": "Obscure peripheral nerve disease (the source calls it autoimmune) that is the answer on USMLE if the vignette gives high-arched feet (pes cavus), hammer toes, and foot drop.",
@@ -19839,7 +19883,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1538",
+    "id": "s2surg-1542",
     "category": "Surg Neuro",
     "q": "Bell palsy: what is it per p188?",
     "a": "LMN lesion of CN VII (facial nerve) causing paralysis of ipsilateral facial muscles. Usually idiopathic/autoimmune, following viral infection, shingles (Ramsay-Hunt syndrome II), or Lyme disease.",
@@ -19854,7 +19898,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1539",
+    "id": "s2surg-1543",
     "category": "Surg Neuro",
     "q": "Bell palsy: next best step per p188?",
     "a": "Serology for Lyme disease. If not listed (or the patient does not live in an endemic area), choose 'no further diagnostic studies indicated'. Nerve conduction studies are wrong (on NBME). Bell palsy is a clinical diagnosis.",
@@ -19869,7 +19913,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1540",
+    "id": "s2surg-1544",
     "category": "Surg Neuro",
     "q": "Bell palsy: treatment per p189?",
     "a": "IV steroids followed by a 10-21 day taper of oral steroids, to minimize the immune response.",
@@ -19884,7 +19928,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1541",
+    "id": "s2surg-1545",
     "category": "Surg Neuro",
     "q": "Bell palsy: hyperacusis and taste per p189?",
     "a": "Ipsilateral hyperacusis (paralysis of the stapedius) and/or loss of taste on the anterior 2/3 of the tongue are basically nonexistent in questions.",
@@ -19895,7 +19939,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1542",
+    "id": "s2surg-1546",
     "category": "Surg Neuro",
     "q": "Loss of taste after trauma per p189?",
     "a": "An NBME question says the patient has loss of taste after trauma with a normal neurologic exam: answer = olfactory nerve (CN I) palsy, not CN VII, due to cribriform plate fracture (loss of smell means loss of most taste). If CN VII were wanted, a concurrent Bell palsy would presumably be given.",
@@ -19906,7 +19950,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1543",
+    "id": "s2surg-1547",
     "category": "Surg Neuro",
     "q": "UMN facial lesion vs Bell palsy per p189?",
     "a": "CN VII lesions are 19 of 20 times LMN (Bell palsy). 1/20 are UMN, causing loss of motor function of the contralateral middle and lower face, with the forehead spared.",
@@ -19917,7 +19961,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1544",
+    "id": "s2surg-1548",
     "category": "Surg Neuro",
     "q": "PANDAS per p189?",
     "a": "Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococci. In rare cases, Group A Strep pharyngitis can cause a tic disorder, OCD, or ADHD in the weeks following infection.",
@@ -19932,7 +19976,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1545",
+    "id": "s2surg-1549",
     "category": "Surg Neuro",
     "q": "PANDAS vignette per p189?",
     "a": "A kid with a sore throat two weeks ago who now has a new-onset tic, ADHD, or OCD; asked what will most likely diagnose the etiology: 'anti-streptolysin O titers'.",
@@ -19947,7 +19991,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1546",
+    "id": "s2surg-1550",
     "category": "Surg Neuro",
     "q": "Sydenham chorea per p189?",
     "a": "Autoimmune movement disorder seen as part of rheumatic fever. Chorea = fast, purposeless, jerky movements. A child with rheumatic fever, asked about the cause of the movement disorder: 'autoimmune'. The source covers rheumatic heart disease in its HY Cardio PDF.",
@@ -19962,7 +20006,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1547",
+    "id": "s2surg-1551",
     "category": "Surg Neuro",
     "q": "Myasthenia gravis: mechanism and vignette per p189?",
     "a": "Autoantibodies against post-synaptic nicotinic acetylcholine receptors. Classic vignette: female office worker in her 40s with the triad of diplopia, dysphagia, and ptosis that worsens through the day.",
@@ -19977,7 +20021,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1548",
+    "id": "s2surg-1552",
     "category": "Surg Neuro",
     "q": "Myasthenia gravis: fatigability per p189?",
     "a": "Gets worse with recurrent muscle stimulation (the vignette might say the patient cannot perform upward gaze for 60 seconds).",
@@ -19988,7 +20032,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1549",
+    "id": "s2surg-1553",
     "category": "Surg Neuro",
     "q": "Tensilon test per p189?",
     "a": "Administration of edrophonium (short-acting acetylcholinesterase inhibitor); the MG patient experiences significant improvement in symptoms.",
@@ -20003,7 +20047,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1550",
+    "id": "s2surg-1554",
     "category": "Surg Neuro",
     "q": "Myasthenia gravis: treatment per p189?",
     "a": "Pyridostigmine (longer-acting acetylcholinesterase inhibitor).",
@@ -20014,7 +20058,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1551",
+    "id": "s2surg-1555",
     "category": "Surg Neuro",
     "q": "MG and thymoma per p189?",
     "a": "MG can be a paraneoplastic syndrome of thymoma; 10-15% of MG patients have thymoma. If MG is diagnosed, do a chest x-ray to look for thymoma; if abnormal, order a CT. Removing the thymoma can significantly improve or cure the MG.",
@@ -20029,7 +20073,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1552",
+    "id": "s2surg-1556",
     "category": "Surg Neuro",
     "q": "Lambert-Eaton: mechanism per p189?",
     "a": "Autoantibodies against pre-synaptic voltage-gated calcium channels.",
@@ -20044,7 +20088,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1553",
+    "id": "s2surg-1557",
     "category": "Surg Neuro",
     "q": "Lambert-Eaton: presentation per p189?",
     "a": "Proximal muscle weakness that improves with activity (the vignette might say the patient tries to get up from a chair a few times before succeeding). Tensilon test does not significantly improve symptoms compared with MG.",
@@ -20055,7 +20099,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1554",
+    "id": "s2surg-1558",
     "category": "Surg Neuro",
     "q": "Lambert-Eaton: highest-yield point per p189?",
     "a": "It is a paraneoplastic syndrome of small cell lung cancer.",
@@ -20070,7 +20114,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1555",
+    "id": "s2surg-1559",
     "category": "Surg Neuro",
     "q": "BPPV: presentation and cause per p189?",
     "a": "Benign paroxysmal positional vertigo. Vertigo is the feeling of the room spinning. Brief episodes of dizziness, usually 30-60 seconds, sometimes with vomiting. Caused by a semicircular canal otolith (ear stone, aka otoconia).",
@@ -20085,7 +20129,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1556",
+    "id": "s2surg-1560",
     "category": "Surg Neuro",
     "q": "BPPV: otoconia per p189?",
     "a": "Otoconia made of calcium carbonate are normally in the utricle and saccule and help detect acceleration and motion. If one becomes dislodged and enters the semicircular canals, BPPV results.",
@@ -20096,7 +20140,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1557",
+    "id": "s2surg-1561",
     "category": "Surg Neuro",
     "q": "BPPV: diagnosis per p189?",
     "a": "Dix-Hallpike maneuver: nystagmus is induced when the patient is rapidly moved from seated to lying with the head tilted backward and turned to one side. If nystagmus occurs, Dx = BPPV.",
@@ -20107,7 +20151,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1558",
+    "id": "s2surg-1562",
     "category": "Surg Neuro",
     "q": "PANDAS per p189?",
     "a": "Pediatric Autoimmune Neuropsychiatric disorder Associated with Streptococci: Group A Strep pharyngitis can cause a tic disorder, OCD, or ADHD in the weeks following infection. A kid with a sore throat two weeks ago and a new tic, ADHD or OCD: 'anti-streptolysin O titers'.",
@@ -20118,7 +20162,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1559",
+    "id": "s2surg-1563",
     "category": "Surg Neuro",
     "q": "PANDAS per p189?",
     "a": "Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococci: group A strep pharyngitis can cause a tic disorder, OCD, or ADHD in the weeks after infection. Vignette: a child with a sore throat 2 weeks ago and a new tic, ADHD or OCD; the test that best identifies etiology is anti-streptolysin O titers.",
@@ -20133,7 +20177,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1560",
+    "id": "s2surg-1564",
     "category": "Surg Neuro",
     "q": "BPPV: treatment per p190?",
     "a": "Epley maneuver, a series of head movements to move the semicircular canal otolith back to the utricle, curing the BPPV.",
@@ -20144,7 +20188,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1561",
+    "id": "s2surg-1565",
     "category": "Surg Neuro",
     "q": "Vestibular neuritis per p190?",
     "a": "Viral infection plus vertigo. Inflammation of the vestibular nerve (branch of CN VIII).",
@@ -20159,7 +20203,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1562",
+    "id": "s2surg-1566",
     "category": "Surg Neuro",
     "q": "Labyrinthitis per p190?",
     "a": "Viral infection plus vertigo with or without tinnitus. Inflammation of both the vestibular and cochlear nerves.",
@@ -20174,7 +20218,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1563",
+    "id": "s2surg-1567",
     "category": "Surg Neuro",
     "q": "Labyrinthitis: abnormal light reflex per p190?",
     "a": "The tympanic light reflex can be abnormal, reflecting increased middle ear pressure (sometimes seen with viral infection). The NBME stem says 'abnormal light reflex', which could be misread as the eyes. The same question has MS as a wrong answer with a sibling with MS. The key sentence is nausea and reduced ability to eat for a few days, implying recent viral infection.",
@@ -20185,7 +20229,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1564",
+    "id": "s2surg-1568",
     "category": "Surg Neuro",
     "q": "Meniere disease: presentation per p190?",
     "a": "Waxing and waning, asymmetric tinnitus and vertigo with a slowly progressive course over many years. Has a familial component but no strict inheritance.",
@@ -20200,7 +20244,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1565",
+    "id": "s2surg-1569",
     "category": "Surg Neuro",
     "q": "Meniere disease: mechanism and hearing loss per p190?",
     "a": "Due to defective endolymphatic drainage. Can cause low-frequency hearing loss (for example difficulty hearing conversations at a crowded dinner table), in contrast to presbycusis, which is high-frequency hearing loss in the elderly.",
@@ -20215,7 +20259,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1566",
+    "id": "s2surg-1570",
     "category": "Surg Neuro",
     "q": "Drug-induced ototoxicity per p190?",
     "a": "Aminoglycosides (gentamicin, amikacin), chemo agents like cisplatin, and loop diuretics (furosemide, ethacrynic acid) are known for ototoxicity. It need not be hearing loss and can be vertigo, for example a patient on IV antibiotics for endocarditis who feels the room spinning (gentamicin).",
@@ -20230,7 +20274,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1567",
+    "id": "s2surg-1571",
     "category": "Surg Neuro",
     "q": "Trigeminal neuralgia per p190?",
     "a": "'11/10' lancinating, knife-like pain in episodes usually lasting under 1 minute. Classically brought on by minor stimuli such as brushing hair or teeth, or a gust of wind. Thought to be caused by trigeminal nerve irritation or impingement (for example at the exit points from the skull).",
@@ -20245,7 +20289,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1568",
+    "id": "s2surg-1572",
     "category": "Surg Neuro",
     "q": "Trigeminal neuralgia: treatment per p190?",
     "a": "Carbamazepine (the source calls it prophylaxis). No Tx for acute episodes since the pain lasts such a short duration.",
@@ -20260,7 +20304,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1569",
+    "id": "s2surg-1573",
     "category": "Surg Neuro",
     "q": "Trigeminal neuralgia vs cluster headache per p190?",
     "a": "Often confused with cluster headache if occurring in the V1 (ophthalmic branch) distribution.",
@@ -20271,7 +20315,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1570",
+    "id": "s2surg-1574",
     "category": "Surg Neuro",
     "q": "Cluster headache: presentation per p190?",
     "a": "Male in his 20s-40s who wakes from sleep with 11/10 lancinating, knife-like headache; often ipsilateral lacrimation, rhinorrhea, and sometimes pupillary changes (the source has seen NBME say ipsilateral miotic pupil).",
@@ -20286,7 +20330,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1571",
+    "id": "s2surg-1575",
     "category": "Surg Neuro",
     "q": "Cluster headache: duration per p190?",
     "a": "Episodes last minutes to half an hour (longer than trigeminal neuralgia); the man wakes from sleep and paces his room until the pain goes away.",
@@ -20297,7 +20341,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1572",
+    "id": "s2surg-1576",
     "category": "Surg Neuro",
     "q": "Cluster headache: treatment per p190?",
     "a": "Prophylaxis is verapamil. Tx for acute episodes is oxygen.",
@@ -20312,7 +20356,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1573",
+    "id": "s2surg-1577",
     "category": "Surg Neuro",
     "q": "Viral infection + tinnitus + vertigo +/- neurosensory hearing loss per p190?",
     "a": "Labyrinthitis. Viral infection + vertigo alone: vestibular neuritis.",
@@ -20323,7 +20367,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1574",
+    "id": "s2surg-1578",
     "category": "Surg Neuro",
     "q": "Easy temporal arteritis vignette asking next best step in diagnosis per p191?",
     "a": "Biopsy (steroids are not part of the answer, since it asks for a diagnostic step).",
@@ -20334,7 +20378,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1575",
+    "id": "s2surg-1579",
     "category": "Surg Neuro",
     "q": "Migraine: treatment per p191?",
     "a": "Prophylaxis is propranolol. Tx is NSAIDs first, followed by triptans (for example sumatriptan).",
@@ -20349,7 +20393,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1576",
+    "id": "s2surg-1580",
     "category": "Surg Neuro",
     "q": "Triptans per p191?",
     "a": "Triptans are serotonin (5-HT) receptor agonists. They are not prophylactic; they are only abortive therapy.",
@@ -20360,7 +20404,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1577",
+    "id": "s2surg-1581",
     "category": "Surg Neuro",
     "q": "Migraine history plus hypertension per p191?",
     "a": "USMLE gives a woman in her 30s with hypertension and migraine history, and the treatment is 'beta blockade' for her HTN management.",
@@ -20371,7 +20415,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1578",
+    "id": "s2surg-1582",
     "category": "Surg Neuro",
     "q": "Migraine with aura and contraceptives per p191?",
     "a": "Estrogen-containing contraceptives are contraindicated in patients with migraine with aura.",
@@ -20386,7 +20430,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1579",
+    "id": "s2surg-1583",
     "category": "Surg Neuro",
     "q": "Tension headache per p191?",
     "a": "Bilateral, dull, band-like headache. Treated with sleep and acetaminophen.",
@@ -20401,7 +20445,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1580",
+    "id": "s2surg-1584",
     "category": "Surg Neuro",
     "q": "Temporal arteritis: presentation per p191?",
     "a": "Aka giant cell arteritis. In 9/10 questions it is a painful unilateral headache in a patient over 50 (the source has seen one NBME question where it is bilateral). Flares can come with low-grade fever and high ESR.",
@@ -20416,7 +20460,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1581",
+    "id": "s2surg-1585",
     "category": "Surg Neuro",
     "q": "Temporal arteritis: next best step in diagnosis per p191?",
     "a": "A 2CK Neuro CMS question gives an easy vignette and asks for the next best step in diagnosis: biopsy. Steroids are not part of the answer, since a diagnostic step is asked.",
@@ -20427,7 +20471,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1582",
+    "id": "s2surg-1586",
     "category": "Surg Neuro",
     "q": "Ataxia definition per p191?",
     "a": "A neurological disorder characterized by a lack of coordination of voluntary muscle movements, leading to unsteady gait and difficulty with balance.",
@@ -20438,7 +20482,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1583",
+    "id": "s2surg-1587",
     "category": "Surg Neuro",
     "q": "Wernicke-Korsakoff syndrome: lesion per p191?",
     "a": "Damage primarily to the mamillary bodies due to thiamine (B1) deficiency.",
@@ -20453,7 +20497,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1584",
+    "id": "s2surg-1588",
     "category": "Surg Neuro",
     "q": "Wernicke encephalopathy per p191?",
     "a": "A COW: Ataxia, Confusion, Ophthalmoplegia, Wernicke.",
@@ -20464,7 +20508,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1585",
+    "id": "s2surg-1589",
     "category": "Surg Neuro",
     "q": "Korsakoff psychosis per p191?",
     "a": "Retrograde amnesia; causes confabulations (making up stories about the past because of loss of memory of prior events). WKS = A COW plus confabulations.",
@@ -20479,7 +20523,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1586",
+    "id": "s2surg-1590",
     "category": "Surg Neuro",
     "q": "WKS: application per p191?",
     "a": "Alcoholics presenting with confusion, ataxia, or eye findings require thiamine.",
@@ -20490,7 +20534,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1587",
+    "id": "s2surg-1591",
     "category": "Surg Neuro",
     "q": "Thiamine in an alcoholic: NBME per p191?",
     "a": "One NBME question asks what giving thiamine will reduce the risk of in an alcoholic: anterograde amnesia (apparently by reducing risk of confusion due to Wernicke), where retrograde amnesia is not listed.",
@@ -20501,7 +20545,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1588",
+    "id": "s2surg-1592",
     "category": "Surg Neuro",
     "q": "Cerebellar vs dorsal column ataxia per p191?",
     "a": "USMLE wants you to differentiate ataxia from cerebellar vs dorsal column lesions. Dorsal column lesions cause a positive Romberg test (the patient falls over standing with eyes closed due to loss of proprioception). Cerebellar lesions almost always give a negative Romberg because proprioception is preserved (the source's printed wording says 'won't cause a (-) Romberg', which looks like a typo).",
@@ -20516,7 +20560,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1589",
+    "id": "s2surg-1593",
     "category": "Surg Neuro",
     "q": "Asterixis per p192 (listed under cerebellar signs)?",
     "a": "Aka 'hepatic flap'. Motor disturbance of brief, sudden lapses of muscle tone, seen as a 'flapping' motion of the hands when the patient extends the arms and hands forward.",
@@ -20531,7 +20575,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1590",
+    "id": "s2surg-1594",
     "category": "Surg Neuro",
     "q": "Dysdiadochokinesia per p192?",
     "a": "Impaired ability to perform rapid alternating movements; difficulty rapidly tapping a finger or quickly pronating and supinating the hand.",
@@ -20546,7 +20590,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1591",
+    "id": "s2surg-1595",
     "category": "Surg Neuro",
     "q": "Intention tremor per p192?",
     "a": "Kinetic tremor that worsens as the hand approaches a target.",
@@ -20557,7 +20601,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1592",
+    "id": "s2surg-1596",
     "category": "Surg Neuro",
     "q": "Truncal ataxia per p192?",
     "a": "Tends to occur with more midline cerebellar lesions (the vermis). Can be seen, for example, in pediatrics with medulloblastoma: a kid with morning vomiting (often indicates brain tumor) and truncal ataxia.",
@@ -20572,7 +20616,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1593",
+    "id": "s2surg-1597",
     "category": "Surg Neuro",
     "q": "Limb ataxia and laterality per p192?",
     "a": "Tends to occur with more lateral cerebellar lesions. Cerebellar lesions cause ipsilateral deficits, unlike many brain lesions that cause contralateral limb findings.",
@@ -20583,7 +20627,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1594",
+    "id": "s2surg-1598",
     "category": "Surg Neuro",
     "q": "Vitamin B12 deficiency: neuro and risk per p192?",
     "a": "Causes subacute combined degeneration with reversible dementia and/or systemic neurologic findings. History of gastrectomy, pernicious anemia, veganism, or strict vegetarianism is buzzy.",
@@ -20598,7 +20642,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1595",
+    "id": "s2surg-1599",
     "category": "Surg Neuro",
     "q": "B12 deficiency plus another autoimmune disorder per p192?",
     "a": "If a patient has B12 deficiency and an unrelated autoimmune disorder (vitiligo, Hashimoto), the cause is probably pernicious anemia, since autoimmune diseases go together.",
@@ -20609,7 +20653,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1596",
+    "id": "s2surg-1600",
     "category": "Surg Neuro",
     "q": "B12 deficiency: neurologic dysfunction not required per p192?",
     "a": "Patients need not have neurologic dysfunction in B12 deficiency; thinking they do is a common misconception.",
@@ -20624,7 +20668,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1597",
+    "id": "s2surg-1601",
     "category": "Surg Neuro",
     "q": "B12 deficiency: blood findings per p192?",
     "a": "Increased MCV (megaloblastic anemia) and hypersegmented neutrophils.",
@@ -20635,7 +20679,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1598",
+    "id": "s2surg-1602",
     "category": "Surg Neuro",
     "q": "Tea-and-toast diet with high MCV per p192?",
     "a": "An older patient on a tea-and-toast diet with high MCV and no other information: folate (B9) deficiency is more common than B12 deficiency (on NBME).",
@@ -20650,7 +20694,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1599",
+    "id": "s2surg-1603",
     "category": "Surg Neuro",
     "q": "Vitamin B1 deficiency: conditions per p192?",
     "a": "Can cause WKS, dry beriberi (neuropathy), and wet beriberi (dilated cardiomyopathy).",
@@ -20661,7 +20705,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1600",
+    "id": "s2surg-1604",
     "category": "Surg Neuro",
     "q": "B1 deficiency after gastrectomy per p192?",
     "a": "Two new 2CK NBME questions assess thiamine deficiency causing neuropathy (dry beriberi) after gastrectomy, even though we classically think of B12 deficiency there. A helpful detail is confusion, which is characteristic of Wernicke encephalopathy, not subacute combined degeneration.",
@@ -20676,7 +20720,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1601",
+    "id": "s2surg-1605",
     "category": "Surg Neuro",
     "q": "B1 deficiency after gastrectomy: exam trap per p192?",
     "a": "One of the questions also mentions a positive Romberg test for B1 deficiency. The source says everyone gets these wrong because B1 deficiency as correct post-gastrectomy (not B12) is obscure. B1 deficiency can cause peripheral neuropathy.",
@@ -20691,7 +20735,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1602",
+    "id": "s2surg-1606",
     "category": "Surg Neuro",
     "q": "Vitamin E deficiency per p192?",
     "a": "An extremely high-yield vitamin deficiency on USMLE despite not seeming common; shows up in cystic fibrosis questions. CF patients have exocrine pancreatic insufficiency causing fat-soluble vitamin malabsorption, so CF plus neuropathy = vitamin E deficiency.",
@@ -20706,7 +20750,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1603",
+    "id": "s2surg-1607",
     "category": "Surg Neuro",
     "q": "Vitamin E deficiency: other causes and vitamin D per p192?",
     "a": "In theory seen with any cause of exocrine pancreatic insufficiency (chronic pancreatitis from alcoholism, pancreatectomy, severe diabetes), but high yield for CF questions. Bowing of the tibias or low calcium in CF patients would be vitamin D deficiency.",
@@ -20717,7 +20761,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1604",
+    "id": "s2surg-1608",
     "category": "Surg Neuro",
     "q": "Vitamin B6 deficiency per p192?",
     "a": "Neuropathy and/or seizures in patients taking isoniazid for tuberculosis.",
@@ -20732,7 +20776,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1605",
+    "id": "s2surg-1609",
     "category": "Surg Neuro",
     "q": "Essential tremor per p193?",
     "a": "Autosomal dominant intention tremor. Can occur at any age but usually middle age and older. Patients self-medicate with alcohol, which decreases the tremor. Propranolol (beta-blockade) is the treatment.",
@@ -20747,7 +20791,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1606",
+    "id": "s2surg-1610",
     "category": "Surg Neuro",
     "q": "Resting tremor per p193?",
     "a": "Parkinson disease (or a Parkinson-plus disorder) in older patients. Wilson disease until proven otherwise in younger patients.",
@@ -20758,7 +20802,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1607",
+    "id": "s2surg-1611",
     "category": "Surg Neuro",
     "q": "Intention tremor causes per p193?",
     "a": "Cerebellar lesions or essential tremor.",
@@ -20769,7 +20813,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1608",
+    "id": "s2surg-1612",
     "category": "Surg Neuro",
     "q": "Drug-induced tremor: lithium vs valproic acid per p193?",
     "a": "Lithium and valproic acid can both cause tremor. Lithium is classic, but an NBME question gives valproic acid as correct (lithium wrong) for a patient with tremor and abnormal liver function tests, since valproic acid is known for hepatotoxicity.",
@@ -20784,7 +20828,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1609",
+    "id": "s2surg-1613",
     "category": "Surg Neuro",
     "q": "Other tremor causes per p193?",
     "a": "Albuterol (beta-2 agonist for asthma) shows up in an NBME question as causing tremor. Alcohol withdrawal (delirium tremens): treat with a benzodiazepine.",
@@ -20795,7 +20839,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1610",
+    "id": "s2surg-1614",
     "category": "Surg Neuro",
     "q": "Meningitis presentation per p193?",
     "a": "High fever plus stiff neck and photophobia.",
@@ -20806,7 +20850,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1611",
+    "id": "s2surg-1615",
     "category": "Surg Neuro",
     "q": "Bacterial meningitis: organisms per p193?",
     "a": "Usually Group B Strep in neonates (gram-positive cocci). S. pneumoniae and N. meningitidis most common otherwise.",
@@ -20821,7 +20865,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1612",
+    "id": "s2surg-1616",
     "category": "Surg Neuro",
     "q": "Fungal meningitis per p193?",
     "a": "Cryptococcus neoformans in immunocompromised patients (for example HIV). CSF shows increased protein, decreased glucose, increased lymphocytes.",
@@ -20836,7 +20880,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1613",
+    "id": "s2surg-1617",
     "category": "Surg Neuro",
     "q": "Viral meningitis per p193?",
     "a": "Aka aseptic meningitis. Commonly echovirus (if vaccinated); can also be mumps (if unvaccinated). CSF shows normal (or slightly elevated) protein, normal glucose, increased lymphocytes.",
@@ -20851,7 +20895,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1614",
+    "id": "s2surg-1618",
     "category": "Surg Neuro",
     "q": "Encephalitis presentation per p193?",
     "a": "High fever plus confusion.",
@@ -20862,7 +20906,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1615",
+    "id": "s2surg-1619",
     "category": "Surg Neuro",
     "q": "HSV encephalitis per p193?",
     "a": "Herpes encephalitis can occur following vertical transmission. RBCs in the CSF due to temporal lobe hemorrhage. Non-contrast head CT is often negative, but they can say EEG shows abnormal spikes over the temporal region. Other CSF findings are the same as viral meningitis.",
@@ -20877,7 +20921,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1616",
+    "id": "s2surg-1620",
     "category": "Surg Neuro",
     "q": "HSV encephalitis without RBCs per p193?",
     "a": "The source has seen only one 2CK Neuro CMS question where RBCs were absent in CSF in herpes encephalitis; you could still get the answer because other CSF findings were viral and no other virus was listed.",
@@ -20888,7 +20932,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1617",
+    "id": "s2surg-1621",
     "category": "Surg Neuro",
     "q": "LP before antibiotics per p193?",
     "a": "Do the lumbar puncture before antibiotics, as antibiotics first can interfere with culture results.",
@@ -20903,7 +20947,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1618",
+    "id": "s2surg-1622",
     "category": "Surg Neuro",
     "q": "CT before LP: indications per p193-259?",
     "a": "Four indications for CT before LP in suspected meningitis/encephalitis: 1) focal neurologic signs; 2) seizure; 3) papilledema, or optic fundi cannot be visualized; 4) confusion that interferes with the neurologic exam / reduced Glasgow score.",
@@ -20918,7 +20962,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1619",
+    "id": "s2surg-1623",
     "category": "Surg Neuro",
     "q": "Why CT before LP per p193?",
     "a": "Risk of an intracranial mass lesion: if LP is performed, which acutely decreases intracranial pressure, herniation and death might occur. A 2CK NBME question gives point 3 (papilledema) where the answer is CT, not LP, and many students get it wrong.",
@@ -20929,7 +20973,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1620",
+    "id": "s2surg-1624",
     "category": "Surg Neuro",
     "q": "Empiric meningitis treatment per p193?",
     "a": "Ceftriaxone plus vancomycin. Steroids can be added if confirmed S. pneumoniae.",
@@ -20944,7 +20988,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1621",
+    "id": "s2surg-1625",
     "category": "Surg Neuro",
     "q": "Group B Strep meningitis treatment per p193?",
     "a": "For Group B Strep only, choose ampicillin plus gentamicin, or ampicillin plus cefotaxime; vancomycin plus ceftriaxone is wrong on the NBME for GBS. A 2CK NBME question has amp plus gent as correct over vanc plus ceftriaxone.",
@@ -20959,7 +21003,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1622",
+    "id": "s2surg-1626",
     "category": "Surg Neuro",
     "q": "Ceftriaxone vs cefotaxime in neonates per p193?",
     "a": "Ceftriaxone is normally avoided in the first month of life and cefotaxime is preferred as the 3rd-gen cephalosporin. The exact age of transition is not important; if a peds question lists both, cefotaxime is generally preferred.",
@@ -20974,7 +21018,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1623",
+    "id": "s2surg-1627",
     "category": "Surg Neuro",
     "q": "Why avoid ceftriaxone in neonates per p193?",
     "a": "Compared with cefotaxime, ceftriaxone displaces bilirubin from albumin, increasing risk of neonatal hyperbilirubinemia. It can also cause calcium deposits in the lungs and kidney.",
@@ -20985,7 +21029,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1624",
+    "id": "s2surg-1628",
     "category": "Surg Neuro",
     "q": "Meningitis and hearing loss per p193?",
     "a": "Meningitis can cause sensorineural hearing loss. A 6-year-old boy not paying attention in class, doing poorly in school, with a history of meningitis: next best step = air-conduction audiometry. Do not confuse with tympanometry, which evaluates mobility of the tympanic membrane.",
@@ -21000,7 +21044,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1625",
+    "id": "s2surg-1629",
     "category": "Surg Neuro",
     "q": "42M two days after surgery: restlessness, tremulousness, tachycardia, diaphoresis per p193?",
     "a": "Delirium tremens (alcohol withdrawal).",
@@ -21011,7 +21055,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1626",
+    "id": "s2surg-1630",
     "category": "Surg Neuro",
     "q": "Ring-enhancing lesion in HIV on TMP-SMX per p194?",
     "a": "Because PJP and toxo prophylaxis are the same, a ring-enhancing lesion on CT in an HIV patient with CD4 <100 who is on TMP-SMX is not toxo; the diagnosis is primary CNS lymphoma.",
@@ -21026,7 +21070,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1627",
+    "id": "s2surg-1631",
     "category": "Surg Neuro",
     "q": "Mastoiditis per p194?",
     "a": "Complication of untreated or severe otitis media. A child has tenderness behind the ear and the pinna is displaced upward and outward.",
@@ -21041,7 +21085,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1628",
+    "id": "s2surg-1632",
     "category": "Surg Neuro",
     "q": "Mastoiditis: next best step per p194?",
     "a": "CT or MRI of the temporal bone to visualize a potential fluid collection, since if not drained it can lead to brain abscess. A 2CK form has CT of temporal bone as the answer for a kid. X-ray is wrong, as it does not adequately visualize a fluid collection.",
@@ -21056,7 +21100,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1629",
+    "id": "s2surg-1633",
     "category": "Surg Neuro",
     "q": "Brain abscess per p194?",
     "a": "Abscess in the brain. Can be caused by septic embolus due to endocarditis: murmur plus fever plus neurologic findings means a vegetation from a heart valve has launched to the brain, causing a stroke-like presentation. Tx = drainage of abscess plus IV antibiotics.",
@@ -21071,7 +21115,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1630",
+    "id": "s2surg-1634",
     "category": "Surg Neuro",
     "q": "Point tenderness over a vertebra per p194?",
     "a": "Usually means epidural abscess, compression fracture (osteoporosis), or metastases on USMLE. Epidural abscess: the patient may or may not have neurologic findings; fever is not mandatory.",
@@ -21086,7 +21130,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1631",
+    "id": "s2surg-1635",
     "category": "Surg Neuro",
     "q": "Epidural abscess: three NBME demographics per p194?",
     "a": "1) IV drug user with point tenderness over a vertebra; 2) a patient with cellulitis of the legs/lower body that spread to the spine, where you eliminate other answers; 3) a patient with active endocarditis (murmur plus fever) with neurologic findings in the legs (septic embolus is possible but tends to give stroke-like findings rather than spinal pain plus lower leg findings).",
@@ -21101,7 +21145,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1632",
+    "id": "s2surg-1636",
     "category": "Surg Neuro",
     "q": "Epidural abscess: treatment per p194?",
     "a": "Drainage of abscess plus IV antibiotics.",
@@ -21116,7 +21160,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1633",
+    "id": "s2surg-1637",
     "category": "Surg Neuro",
     "q": "Pott disease per p194?",
     "a": "Infection/granulomatous destruction of the vertebral column by tuberculosis. Just know it is possible, in the same way psoas abscess is possible.",
@@ -21131,7 +21175,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1634",
+    "id": "s2surg-1638",
     "category": "Surg Neuro",
     "q": "Cavernous sinus thrombosis: presentation per p194?",
     "a": "Severe headache, diplopia, proptosis, and/or ophthalmoplegia in a patient with a recent sinus infection.",
@@ -21142,7 +21186,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1635",
+    "id": "s2surg-1639",
     "category": "Surg Neuro",
     "q": "Cavernous sinus thrombosis: mechanism and organism per p194?",
     "a": "Bacterial infection can ascend the valveless facial veins to the cavernous sinus, leading to clotting of blood. Usually S. aureus. CN VI palsy can occur with cavernous sinus pathology.",
@@ -21153,7 +21197,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1636",
+    "id": "s2surg-1640",
     "category": "Surg Neuro",
     "q": "Primary CNS lymphoma per p194?",
     "a": "High yield and underrated. Causes a ring-enhancing lesion on head CT that can be mistaken for Toxo. If an AIDS patient has CD4 <100 and is already on TMP-SMX, the diagnosis is primary CNS lymphoma, not Toxo.",
@@ -21168,7 +21212,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1637",
+    "id": "s2surg-1641",
     "category": "Surg Neuro",
     "q": "Primary CNS lymphoma: other settings per p194?",
     "a": "Can be seen in non-AIDS patients with immunosuppression from other causes (organ transplant recipients on immunosuppressants; patients undergoing radio- and/or chemotherapy). Can be caused by autoimmune disease: a 44-year-old woman with SLE and a ring-enhancing lesion on CT = CNS lymphoma, not Toxo. Many autoimmune diseases (SLE, dermatomyositis, Hashimoto) increase the risk of non-Hodgkin lymphoma.",
@@ -21183,7 +21227,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1638",
+    "id": "s2surg-1642",
     "category": "Surg Neuro",
     "q": "Encephalopathy definition per p195?",
     "a": "A general term for altered brain function (usually confusion) due to various causes.",
@@ -21194,7 +21238,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1639",
+    "id": "s2surg-1643",
     "category": "Surg Neuro",
     "q": "Hepatic encephalopathy per p195?",
     "a": "Seen in alcoholism due to hyperammonemia. Classically occurs on USMLE when there is an increase in blood in the GI tract, such as after an acute variceal bleed: blood is broken down into proteins that liberate amino acids, which gut bacteria convert to absorbed ammonia.",
@@ -21209,7 +21253,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1640",
+    "id": "s2surg-1644",
     "category": "Surg Neuro",
     "q": "Lactulose in hepatic encephalopathy per p195?",
     "a": "A sugar broken down by gut bacteria into acidic products, converting ammonia into ammonium, which is ionic and not readily absorbed. USMLE wants 'acidification; ammonium' as the answer for what happens with lactulose.",
@@ -21224,7 +21268,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1641",
+    "id": "s2surg-1645",
     "category": "Surg Neuro",
     "q": "Neomycin in hepatic encephalopathy per p195?",
     "a": "An aminoglycoside antibiotic that kills ammonia-producing gut bacteria.",
@@ -21239,7 +21283,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1642",
+    "id": "s2surg-1646",
     "category": "Surg Neuro",
     "q": "Uremic encephalopathy per p195?",
     "a": "Confusion in the setting of renal failure due to elevated blood urea nitrogen.",
@@ -21254,7 +21298,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1643",
+    "id": "s2surg-1647",
     "category": "Surg Neuro",
     "q": "Metabolic and toxic encephalopathy per p195?",
     "a": "Metabolic: confusion due to electrolyte imbalances, hypoglycemia, and thyroid storm. Toxic: mental status changes due to toxins; Reye syndrome and lead poisoning are high yield.",
@@ -21265,7 +21309,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1644",
+    "id": "s2surg-1648",
     "category": "Surg Neuro",
     "q": "Inflammatory encephalopathy per p195?",
     "a": "Herpes encephalitis (infectious) and lupus cerebritis (autoimmune). Encephalitis is infection of the substance of the brain, causing confusion (encephalopathy). Infection plus confusion = encephalitis; infection plus stiff neck and/or photophobia = meningitis.",
@@ -21276,7 +21320,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1645",
+    "id": "s2surg-1649",
     "category": "Surg Neuro",
     "q": "Anoxic encephalopathy per p195?",
     "a": "Confusion caused by diminished oxygen delivery to the brain.",
@@ -21287,7 +21331,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1646",
+    "id": "s2surg-1650",
     "category": "Surg Neuro",
     "q": "Diabetic neuropathy per p195?",
     "a": "Pain, paresthesia, and/or numbness in a diabetic. USMLE likes TCAs (for example amitriptyline) or gabapentin as first-line Tx. Use nortriptyline in the elderly if a TCA is given (fewer side effects).",
@@ -21302,7 +21346,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1647",
+    "id": "s2surg-1651",
     "category": "Surg Neuro",
     "q": "Herpetic neuralgia per p195?",
     "a": "Pain, burning, tingling before, during, or after a herpes or varicella (shingles) episode. Acyclovir treats the virus; gabapentin is used classically for the pain.",
@@ -21317,7 +21361,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1648",
+    "id": "s2surg-1652",
     "category": "Surg Neuro",
     "q": "Post-trauma neuropathic pain per p195?",
     "a": "Patients with nerve trauma can have chronic neuropathic pain; treat with gabapentin or TCAs. Trauma can cause complex regional pain syndrome: neuropathic pain after injury that is disproportionate to the injury itself.",
@@ -21332,7 +21376,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1649",
+    "id": "s2surg-1653",
     "category": "Surg Neuro",
     "q": "Thalamic pain syndrome per p195?",
     "a": "Damage to the thalamus from a stroke causes body pain, usually contralateral to the infarct, occurring many months after the stroke. The USMLE answer for severe limb pain many months after a stroke.",
@@ -21347,7 +21391,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1650",
+    "id": "s2surg-1654",
     "category": "Surg Neuro",
     "q": "Epidural hematoma: cause per p195?",
     "a": "Rupture of the middle meningeal artery (branch of the external carotid), classically after head trauma to the temple.",
@@ -21362,7 +21406,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1651",
+    "id": "s2surg-1655",
     "category": "Surg Neuro",
     "q": "Epidural hematoma: lucid interval per p195?",
     "a": "The patient briefly loses consciousness, then arouses and returns to normal (a lucid interval), goes home thinking he or she is okay, goes to sleep, and dies.",
@@ -21373,7 +21417,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1652",
+    "id": "s2surg-1656",
     "category": "Surg Neuro",
     "q": "Epidural hematoma: imaging and management per p195?",
     "a": "Bleed appears lens-shaped (biconvex) and accumulates fast. If low GCS: 'intubation plus hyperventilation', then craniotomy. If normal GCS: just craniotomy.",
@@ -21388,7 +21432,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1653",
+    "id": "s2surg-1657",
     "category": "Surg Neuro",
     "q": "Hyperventilation mechanism per p195?",
     "a": "Decreased CO2 leads to decreased cerebral perfusion, which reduces intracranial pressure.",
@@ -21399,7 +21443,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1654",
+    "id": "s2surg-1658",
     "category": "Surg Neuro",
     "q": "Subdural hematoma: cause per p196?",
     "a": "Rupture of bridging (superior cerebral) veins.",
@@ -21410,7 +21454,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1655",
+    "id": "s2surg-1659",
     "category": "Surg Neuro",
     "q": "Subdural hematoma: consciousness per p196?",
     "a": "No lucid interval (the patient did not lose consciousness).",
@@ -21421,7 +21465,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1656",
+    "id": "s2surg-1660",
     "category": "Surg Neuro",
     "q": "Subdural hematoma: who gets it per p196?",
     "a": "Increased risk in elderly/dementia and alcoholics; the answer in acceleration-deceleration injuries (shaken baby syndrome; motor vehicle accidents).",
@@ -21432,7 +21476,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1657",
+    "id": "s2surg-1661",
     "category": "Surg Neuro",
     "q": "Subdural hematoma: treatment per p196?",
     "a": "The NBME wants craniotomy as the answer. The source found no evidence for mere observation as the answer in any USMLE material.",
@@ -21443,7 +21487,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1658",
+    "id": "s2surg-1662",
     "category": "Surg Neuro",
     "q": "Subdural hematoma with low Glasgow score per p196?",
     "a": "Do 'intubation plus hyperventilation' as the answer before craniotomy.",
@@ -21454,7 +21498,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1659",
+    "id": "s2surg-1663",
     "category": "Surg Neuro",
     "q": "Subarachnoid hemorrhage: cause per p196?",
     "a": "Rupture of an anterior communicating artery (AcoM) or posterior communicating artery (PcoM) saccular/berry aneurysm. AcoM is more common than PcoM.",
@@ -21469,7 +21513,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1660",
+    "id": "s2surg-1664",
     "category": "Surg Neuro",
     "q": "Subarachnoid hemorrhage: symptom per p196?",
     "a": "Patients often report 'worst headache of his/her life'.",
@@ -21480,7 +21524,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1661",
+    "id": "s2surg-1665",
     "category": "Surg Neuro",
     "q": "Subarachnoid hemorrhage: stiff neck per p196?",
     "a": "Can present with stiff neck (meningism) like meningitis, due to irritation of the meninges by the hemorrhage. This often confuses students and is a very high-yield detail.",
@@ -21491,7 +21535,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1662",
+    "id": "s2surg-1666",
     "category": "Surg Neuro",
     "q": "PcoM aneurysm sign per p196?",
     "a": "Classically associated with an ipsilateral blown pupil (mydriasis) due to CN III impingement.",
@@ -21502,7 +21546,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1663",
+    "id": "s2surg-1667",
     "category": "Surg Neuro",
     "q": "Subarachnoid hemorrhage: risk factors per p196?",
     "a": "HTN is the most common risk factor in the population and accounts for most cases.",
@@ -21513,7 +21557,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1664",
+    "id": "s2surg-1668",
     "category": "Surg Neuro",
     "q": "Non-HTN causes of saccular aneurysm per p196?",
     "a": "Ehlers-Danlos and autosomal dominant polycystic kidney disease (ADPKD) are high-yield non-HTN causes.",
@@ -21528,7 +21572,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1665",
+    "id": "s2surg-1669",
     "category": "Surg Neuro",
     "q": "HTN and berry aneurysm per p196?",
     "a": "A patient with HTN is still more likely to die from myocardial infarction than from a berry aneurysm (asked on NBME). But if a patient has a berry aneurysm, it is most likely from HTN.",
@@ -21539,7 +21583,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1666",
+    "id": "s2surg-1670",
     "category": "Surg Neuro",
     "q": "Subarachnoid hemorrhage: treatment per p197?",
     "a": "Usually supportive. HTN must be controlled. Anticoagulants must be reversed (for example FFP for patients on warfarin). Nimodipine can prevent vasospasm and neurologic sequelae during convalescence.",
@@ -21554,7 +21598,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1667",
+    "id": "s2surg-1671",
     "category": "Surg Neuro",
     "q": "Intracerebral hemorrhage: short vignette per p197?",
     "a": "Can appear as a 1-2 line stem with no image or patient info, such as 'X person has a bleed and decorticate posturing; what is the diagnosis?' Answer: intracerebral hemorrhage.",
@@ -21565,7 +21609,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1668",
+    "id": "s2surg-1672",
     "category": "Surg Neuro",
     "q": "Intracerebral hemorrhage: brainstem compression per p197?",
     "a": "USMLE wants you to know intracerebral hemorrhage has a high likelihood of causing brainstem compression.",
@@ -21576,7 +21620,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1669",
+    "id": "s2surg-1673",
     "category": "Surg Neuro",
     "q": "Intracerebral hemorrhage and Alzheimer per p197?",
     "a": "Associated with Alzheimer disease: amyloid angiopathy, which presents in Alzheimer as recurrent hemorrhagic stroke.",
@@ -21591,7 +21635,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1670",
+    "id": "s2surg-1674",
     "category": "Surg Neuro",
     "q": "Intracerebral hemorrhage and brain cancer per p197?",
     "a": "Can also be associated with brain cancer (for example glioblastoma multiforme).",
@@ -21602,7 +21646,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1671",
+    "id": "s2surg-1675",
     "category": "Surg Neuro",
     "q": "Pituitary apoplexy per p197?",
     "a": "Bleeding into the pituitary gland; can cause bitemporal hemianopsia. USMLE wants you to know this can occur in the puerperium and also due to pituitary tumors.",
@@ -21617,7 +21661,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1672",
+    "id": "s2surg-1676",
     "category": "Surg Neuro",
     "q": "Pituitary apoplexy: 2CK vignette per p197?",
     "a": "A 2CK form gives bitemporal hemianopsia in a woman who just gave birth, where pituitary apoplexy is the only listed answer that could cause this visual pattern.",
@@ -21632,7 +21676,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1673",
+    "id": "s2surg-1677",
     "category": "Surg Neuro",
     "q": "Cushing reflex: mechanism per p198?",
     "a": "Increased ICP compresses intracerebral vessels; chemoreceptors sense decreased oxygen delivery and increased CO2; sympathetic activation and peripheral arteriolar vasoconstriction raise BP; increased carotid sinus stretch raises CN IX afferent firing to the solitary nucleus; increased CN X efferent firing to nodal tissue decreases HR.",
@@ -21647,7 +21691,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1674",
+    "id": "s2surg-1678",
     "category": "Surg Neuro",
     "q": "Cushing reflex: NBME vignette per p198?",
     "a": "A 15-line paragraph about a patient in an accident, asking the reason for his or her HTN: 'increased intracranial pressure'.",
@@ -21658,7 +21702,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1675",
+    "id": "s2surg-1679",
     "category": "Surg Neuro",
     "q": "Cushing reflex vs Cushing ulcer per p198?",
     "a": "Completely unrelated. Cushing ulcer: head trauma causing vagal outflow, increased acid production and peptic ulcers.",
@@ -21673,7 +21717,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1676",
+    "id": "s2surg-1680",
     "category": "Surg Neuro",
     "q": "GCS: decorticate and decerebrate per p198?",
     "a": "'Decorticate' or 'decerebrate' posturing occasionally surfaces on NBME; it means GCS is low and the patient has compromised brain function, possibly herniation / increased ICP.",
@@ -21688,7 +21732,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1677",
+    "id": "s2surg-1681",
     "category": "Surg Neuro",
     "q": "GCS and CT before LP per p198?",
     "a": "If GCS is not 15, head CT should be done before LP (in suspected meningitis workup).",
@@ -21699,7 +21743,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1678",
+    "id": "s2surg-1682",
     "category": "Surg Neuro",
     "q": "Concussion per p198?",
     "a": "A type of traumatic brain injury caused by a blow to the head or a sudden movement that makes the brain move rapidly inside the skull. The rapid movement can stretch and damage brain cells.",
@@ -21710,7 +21754,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1679",
+    "id": "s2surg-1683",
     "category": "Surg Neuro",
     "q": "Post-concussion syndrome per p198?",
     "a": "Aka post-concussive disorder: a range of symptoms that can persist for weeks, months or years after a concussion, such as cognitive disturbance, memory loss, headache, and sensitivity to light or sound. USMLE asks for the diagnosis straight up on 2CK forms.",
@@ -21725,7 +21769,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1680",
+    "id": "s2surg-1684",
     "category": "Surg Neuro",
     "q": "Base of skull fracture: classic tetrad per p199?",
     "a": "1) Battle sign (bruising over the mastoid process behind the ear); 2) raccoon eyes (bilateral periorbital ecchymoses); 3) otorrhea (CSF leaking from the ear); 4) rhinorrhea (CSF leaking from the nose). Hemotympanum (blood behind the tympanic membrane) can also be seen.",
@@ -21740,7 +21784,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1681",
+    "id": "s2surg-1685",
     "category": "Surg Neuro",
     "q": "CNS malignancy: presentation per p199?",
     "a": "Can present with seizure and/or morning vomiting (a sign of increased ICP). Ring-enhancing lesions are not limited to Toxo; they can also be tumors/metastases and abscesses.",
@@ -21751,7 +21795,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1682",
+    "id": "s2surg-1686",
     "category": "Surg Neuro",
     "q": "Pilocytic astrocytoma per p199?",
     "a": "Most common brain tumor in kids. Solid (white) and cystic (black) components on imaging. Not aggressive.",
@@ -21766,7 +21810,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1683",
+    "id": "s2surg-1687",
     "category": "Surg Neuro",
     "q": "Medulloblastoma per p199?",
     "a": "Aggressive brain tumor of the cerebellum. Can cause truncal ataxia if at the vermis, and ipsilateral limb ataxia if lateral.",
@@ -21777,7 +21821,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1684",
+    "id": "s2surg-1688",
     "category": "Surg Neuro",
     "q": "Craniopharyngioma per p199?",
     "a": "The source calls it the most common pituitary tumor in children and teenagers. Bitemporal hemianopsia (can occur with any pituitary lesion). Can calcify and contain cholesterol crystals; high recurrence rate.",
@@ -21792,7 +21836,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1685",
+    "id": "s2surg-1689",
     "category": "Surg Neuro",
     "q": "Craniopharyngioma embryology per p199?",
     "a": "Originates from the 'roof of the primitive oropharynx' or 'roof of the primitive oral cavity'. Do not confuse with 'endoderm of foramen cecum', which refers to thyroglossal duct cyst.",
@@ -21803,7 +21847,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1686",
+    "id": "s2surg-1690",
     "category": "Surg Neuro",
     "q": "Pinealoma per p199?",
     "a": "Can cause vertical gaze palsy in kids (Parinaud syndrome).",
@@ -21818,7 +21862,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1687",
+    "id": "s2surg-1691",
     "category": "Surg Neuro",
     "q": "Hamartomas per p199?",
     "a": "The 'tubers' in tuberous sclerosis are hamartomas, described as periventricular or cortical nodules on imaging.",
@@ -21829,7 +21873,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1688",
+    "id": "s2surg-1692",
     "category": "Surg Neuro",
     "q": "Glioblastoma multiforme per p199?",
     "a": "Most common adult brain tumor; aggressive. Aka 'butterfly glioma' since it can cross the corpus callosum. Heterogeneous in appearance due to necrosis and hemorrhage. USMLE wants you to know it is a grade IV fibrillary astrocytoma.",
@@ -21844,7 +21888,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1689",
+    "id": "s2surg-1693",
     "category": "Surg Neuro",
     "q": "Meningioma per p199?",
     "a": "Benign tumor that grows from the meninges and appears to sit on top of the brain. An NBME question describes one adjacent to the falx cerebri. Can also occur within the spinal canal, overlying the spinal cord (on NBME).",
@@ -21859,7 +21903,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1690",
+    "id": "s2surg-1694",
     "category": "Surg Neuro",
     "q": "Schwannoma per p199?",
     "a": "Arises from Schwann cells, which myelinate peripheral nerves. Vestibular schwannoma arises from CN VIII, often at the cerebellopontine junction, and can cause tinnitus and/or vertigo. Can be idiopathic or part of neurofibromatosis type II (NF2).",
@@ -21874,7 +21918,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1691",
+    "id": "s2surg-1695",
     "category": "Surg Neuro",
     "q": "Schwannoma: hearing loss per p199?",
     "a": "USMLE wants you to identify its growth as causing sensorineural hearing loss (Rinne: AC > BC; Weber: lateralizes contralaterally, that is, to the unaffected ear).",
@@ -21885,7 +21929,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1692",
+    "id": "s2surg-1696",
     "category": "Surg Neuro",
     "q": "Prolactinoma: epidemiology per p199?",
     "a": "Most common pituitary tumor in adults.",
@@ -21896,7 +21940,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1693",
+    "id": "s2surg-1697",
     "category": "Surg Neuro",
     "q": "Prolactinoma: symptoms per p199?",
     "a": "Can cause amenorrhea in women and impotence in men. Galactorrhea can occur in everyone. The source covers other pituitary tumors and hormones in its HY Endocrine PDF.",
@@ -21907,7 +21951,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1694",
+    "id": "s2surg-1698",
     "category": "Surg Neuro",
     "q": "Optic glioma per p199?",
     "a": "Seen in neurofibromatosis type I (NF1).",
@@ -21922,7 +21966,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1695",
+    "id": "s2surg-1699",
     "category": "Surg Neuro",
     "q": "Oligodendroglioma per p199?",
     "a": "Tumor of oligodendrocytes (the cells that normally myelinate CNS neurons). Histology has a fried-egg appearance and chicken-wire capillary pattern.",
@@ -21937,7 +21981,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1696",
+    "id": "s2surg-1700",
     "category": "Surg Neuro",
     "q": "Ependymoma per p199?",
     "a": "Tumor of ependymal cells, which normally produce CSF. The source lists Rosenthal fibers (eosinophilic corkscrew filaments) on histology.",
@@ -21952,7 +21996,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1697",
+    "id": "s2surg-1701",
     "category": "Surg Neuro",
     "q": "Tumor of the foramen magnum per p199?",
     "a": "Can cause hypoglossal nerve (CN XII) palsy, leading to ipsilateral tongue deviation. Shows up on a 2CK form. CN XII lesions occur from medial medullary syndrome as well as tumors of the foramen magnum.",
@@ -21967,7 +22011,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1698",
+    "id": "s2surg-1702",
     "category": "Surg Neuro",
     "q": "Brain metastases per p200?",
     "a": "Can be described as lesions at the grey-white junction. Choriocarcinoma and lung cancer love to metastasize to the brain.",
@@ -21982,7 +22026,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1699",
+    "id": "s2surg-1703",
     "category": "Surg Neuro",
     "q": "Neurofibromatosis type 1 per p200?",
     "a": "AD; chromosome 17. Neurofibromas, cafe au lait spots (hyperpigmented macules), axillary/groin freckling, Lisch nodules (iris hamartomas), pheochromocytoma, optic nerve glioma, oligodendroglioma, ependymoma.",
@@ -21997,7 +22041,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1700",
+    "id": "s2surg-1704",
     "category": "Surg Neuro",
     "q": "Neurofibromatosis type 2 per p200?",
     "a": "AD; chromosome 22. In kids, sometimes bilateral cataracts. Bilateral acoustic schwannomas plus meningioma in adults.",
@@ -22012,7 +22056,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1701",
+    "id": "s2surg-1705",
     "category": "Surg Neuro",
     "q": "Tuberous sclerosis per p200?",
     "a": "TSC1/2 genes; AD. Periventricular nodules (tubers) on head MRI, seizures, adenoma sebaceum (angiofibromas), subungual fibromas, renal angiomyolipoma, cardiac rhabdomyoma, hypopigmented macules ('ashleaf spots'), hyperpigmented velvety lesions ('shagreen patches').",
@@ -22027,7 +22071,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1702",
+    "id": "s2surg-1706",
     "category": "Surg Neuro",
     "q": "Von Hippel-Lindau per p200?",
     "a": "VHL; AD; chromosome 3. Cerebellar/retinal hemangioblastomas, bilateral renal cell carcinoma, pancreatic cysts. The mutation causes constitutive activation of hypoxia-inducible factor.",
@@ -22042,7 +22086,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1703",
+    "id": "s2surg-1707",
     "category": "Surg Neuro",
     "q": "Sturge-Weber per p200?",
     "a": "Not inherited; somatic mosaicism of the GNAQ gene. Port wine stain birthmark (nevus flammeus; may also present as violaceous papules in a temporal distribution), leptomeningeal angioma (presenting as seizure); glaucoma.",
@@ -22057,7 +22101,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1704",
+    "id": "s2surg-1708",
     "category": "Surg Neuro",
     "q": "Rinne test per p201?",
     "a": "A vibrating tuning fork is placed on the mastoid bone (bone conduction, BC); once the patient can no longer hear it, it is moved in front of the ear canal (air conduction, AC). Normal hearing and sensorineural hearing loss: AC > BC. Conductive hearing loss: BC > AC.",
@@ -22072,7 +22116,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1705",
+    "id": "s2surg-1709",
     "category": "Surg Neuro",
     "q": "Weber test per p201?",
     "a": "A vibrating tuning fork is placed on the center of the forehead or top of the head, and the patient says whether the sound is equal in both ears or louder in one. Louder in one ear is called 'lateralization' to that ear.",
@@ -22087,7 +22131,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1706",
+    "id": "s2surg-1710",
     "category": "Surg Neuro",
     "q": "Rinne and Weber: normal hearing per p201?",
     "a": "Rinne shows air > bone conduction; Weber does not lateralize.",
@@ -22098,7 +22142,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1707",
+    "id": "s2surg-1711",
     "category": "Surg Neuro",
     "q": "Rinne and Weber: conductive loss per p201?",
     "a": "Conductive on left: Rinne bone > air; Weber lateralizes (louder) to the left. Conductive on right: Rinne bone > air; Weber lateralizes to the right.",
@@ -22109,7 +22153,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1708",
+    "id": "s2surg-1712",
     "category": "Surg Neuro",
     "q": "Rinne and Weber: sensorineural loss per p201?",
     "a": "Sensorineural on left: Rinne air > bone; Weber lateralizes to the right. Sensorineural on right: Rinne air > bone; Weber lateralizes to the left.",
@@ -22120,7 +22164,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1709",
+    "id": "s2surg-1713",
     "category": "Surg Neuro",
     "q": "Bethanechol per p202?",
     "a": "Muscarinic agonist that stimulates the detrusor muscle. Used for overflow incontinence in diabetic patients with a neurogenic (hypocontractile) bladder.",
@@ -22135,7 +22179,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1710",
+    "id": "s2surg-1714",
     "category": "Surg Neuro",
     "q": "Carbachol per p202?",
     "a": "Muscarinic agonist that constricts the pupil and lowers intraocular pressure. Used for glaucoma. The source covers more in its HY Ophthalmology PDF.",
@@ -22150,7 +22194,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1711",
+    "id": "s2surg-1715",
     "category": "Surg Neuro",
     "q": "Pilocarpine per p202?",
     "a": "Muscarinic agonist that constricts the pupil and lowers intraocular pressure. A powerful agent used for closed-angle glaucoma.",
@@ -22165,7 +22209,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1712",
+    "id": "s2surg-1716",
     "category": "Surg Neuro",
     "q": "Methacholine per p202?",
     "a": "Causes bronchoconstriction. Used to help diagnose asthma: given to a patient (not during acute attacks), spirometry will worsen and asthma symptoms may be replicated.",
@@ -22180,7 +22224,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1713",
+    "id": "s2surg-1717",
     "category": "Surg Neuro",
     "q": "Donepezil per p202?",
     "a": "Acetylcholinesterase inhibitor that increases acetylcholine in the synaptic cleft (pro-cholinergic). Used first-line for Alzheimer disease. Galantamine and rivastigmine have the same mechanism and use.",
@@ -22195,7 +22239,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1714",
+    "id": "s2surg-1718",
     "category": "Surg Neuro",
     "q": "Edrophonium per p202?",
     "a": "Aka Tensilon (brand name). Short-acting acetylcholinesterase inhibitor. In myasthenia gravis it causes marked improvement in symptoms and muscle function; in Lambert-Eaton it does not result in as marked improvement.",
@@ -22206,7 +22250,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1715",
+    "id": "s2surg-1719",
     "category": "Surg Neuro",
     "q": "Pyridostigmine per p202?",
     "a": "Treatment for myasthenia gravis.",
@@ -22217,7 +22261,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1716",
+    "id": "s2surg-1720",
     "category": "Surg Neuro",
     "q": "Physostigmine per p202?",
     "a": "Antidote for Jimson weed poisoning (asked on NBME). Jimson weed contains atropine-like anticholinergic compounds.",
@@ -22232,7 +22276,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1717",
+    "id": "s2surg-1721",
     "category": "Surg Neuro",
     "q": "Neostigmine per p202?",
     "a": "Used post-surgically to reverse neuromuscular blockade. Toward the end of surgery it increases ACh availability so ACh can bind its receptors and displace the nicotinic antagonists used for paralysis.",
@@ -22247,7 +22291,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1718",
+    "id": "s2surg-1722",
     "category": "Surg Neuro",
     "q": "Organophosphates: presentation per p202?",
     "a": "The vignette is a backpacker in his or her 20s picking fruit on a farm, or someone who drank fluid in a suicide attempt. The phosphate group binds to acetylcholinesterase, inhibiting it.",
@@ -22262,7 +22306,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1719",
+    "id": "s2surg-1723",
     "category": "Surg Neuro",
     "q": "Organophosphates: prevention and Tx per p202?",
     "a": "An NBME question asks how toxicity could best be prevented: 'wearing gloves' (wearing a mask is wrong), so acquisition occurs mostly through skin. USMLE wants atropine first, followed by pralidoxime as Tx.",
@@ -22277,7 +22321,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1720",
+    "id": "s2surg-1724",
     "category": "Surg Neuro",
     "q": "Atropine per p202?",
     "a": "Classic drug that blocks muscarinic receptors. Can be used to increase heart rate during surgery. First-line Tx for organophosphate poisoning before pralidoxime.",
@@ -22288,7 +22332,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1721",
+    "id": "s2surg-1725",
     "category": "Surg Neuro",
     "q": "Benztropine per p202?",
     "a": "Used for acute dystonia due to antipsychotics. If a patient starts an antipsychotic and within hours to days gets torticollis, muscle rigidity without fever, and/or abnormal eye movements (oculogyric crisis), this is first-line Tx. Muscle rigidity with fever suggests neuroleptic malignant syndrome.",
@@ -22303,7 +22347,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1722",
+    "id": "s2surg-1726",
     "category": "Surg Neuro",
     "q": "Diphenhydramine per p203?",
     "a": "First-generation H1 blocker with strong anticholinergic side effects, often characterized as a primary anticholinergic med. Can be used like benztropine for acute dystonia (USMLE will not list both).",
@@ -22314,7 +22358,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1723",
+    "id": "s2surg-1727",
     "category": "Surg Neuro",
     "q": "Diphenhydramine for motion sickness per p203?",
     "a": "If used for motion sickness and asked which receptor antagonism enables the effect, the answer is M3. H2 is wrong since it refers to stomach acid secretion; diphenhydramine is an H1 blocker.",
@@ -22329,7 +22373,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1724",
+    "id": "s2surg-1728",
     "category": "Surg Neuro",
     "q": "Diphenhydramine: what USMLE asks per p203?",
     "a": "Most questions revolve around knowing it should be discontinued from a patient's regimen, not added.",
@@ -22340,7 +22384,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1725",
+    "id": "s2surg-1729",
     "category": "Surg Neuro",
     "q": "Prochlorperazine per p203?",
     "a": "Antipsychotic used as an anti-nausea med. Even though it is a D2 antagonist, antipsychotics have anticholinergic effects; here the antimuscarinic effects are 'good' since they treat nausea and motion sickness.",
@@ -22355,7 +22399,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1726",
+    "id": "s2surg-1730",
     "category": "Surg Neuro",
     "q": "Ipratropium vs tiotropium per p203?",
     "a": "New literature is pedantic about duration (long- versus short-acting antimuscarinics and beta-2 agonists), but USMLE is not. Some sources say tiotropium is now recommended over ipratropium first-line, but the source's students report ipratropium showed up and did not matter since it was the only listed drug that worked.",
@@ -22370,7 +22414,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1727",
+    "id": "s2surg-1731",
     "category": "Surg Neuro",
     "q": "Oxybutynin per p203?",
     "a": "Used for urge incontinence.",
@@ -22385,7 +22429,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1728",
+    "id": "s2surg-1732",
     "category": "Surg Neuro",
     "q": "Scopolamine per p203?",
     "a": "Anticholinergic patch used for motion sickness (for example placed on the arm before a boat or plane). Oral diphenhydramine can also be used, but scopolamine is the classic treatment.",
@@ -22400,7 +22444,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1729",
+    "id": "s2surg-1733",
     "category": "Surg Neuro",
     "q": "Hyoscyamine per p203?",
     "a": "Used sometimes for irritable bowel syndrome.",
@@ -22411,7 +22455,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1730",
+    "id": "s2surg-1734",
     "category": "Surg Neuro",
     "q": "Non-depolarizing blockers per p203?",
     "a": "'Non-depolarizing' means the agent does not cause any action potentials. An NBME question mentions a non-depolarizing agent for neuromuscular blockade during surgery and the answer is 'tubocurarine'. Vecuronium is used for paralysis during surgery; cisatracurium and rocuronium are other important agents.",
@@ -22426,7 +22470,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1731",
+    "id": "s2surg-1735",
     "category": "Surg Neuro",
     "q": "Succinylcholine: mechanism per p203?",
     "a": "Depolarizing nicotinic receptor agonist that acts as an antagonist due to desensitization. It binds and agonizes nicotinic receptors, causing initial action potentials and muscle twitching (fasciculations), before desensitization and paralysis. Akin to leuprolide desensitizing GnRH receptors.",
@@ -22437,7 +22481,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1732",
+    "id": "s2surg-1736",
     "category": "Surg Neuro",
     "q": "Succinylcholine: malignant hyperthermia per p203?",
     "a": "Can cause malignant hyperthermia (high fever plus muscular rigidity); treat with dantrolene, which inhibits the ryanodine Ca2+ channel.",
@@ -22452,7 +22496,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1733",
+    "id": "s2surg-1737",
     "category": "Surg Neuro",
     "q": "Bupropion per p203?",
     "a": "Dopamine plus norepinephrine reuptake inhibitor with antidepressant effects; also antagonizes nicotinic receptors, which removes the reward from smoking. Used for smoking cessation. Doesn't cause sexual side effects, unlike SSRIs.",
@@ -22467,7 +22511,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1734",
+    "id": "s2surg-1738",
     "category": "Surg Neuro",
     "q": "Bupropion: seizure risk per p203?",
     "a": "Lowers seizure threshold. Do not give to patients with eating disorders (electrolyte abnormalities increase seizure risk).",
@@ -22482,7 +22526,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1735",
+    "id": "s2surg-1739",
     "category": "Surg Neuro",
     "q": "Varenicline per p203?",
     "a": "Used for smoking cessation. Partial agonist at nicotinic receptors, but since the effect is less than endogenous ACh, it functions like an antagonist.",
@@ -22497,7 +22541,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1736",
+    "id": "s2surg-1740",
     "category": "Surg Neuro",
     "q": "Bupropion per p203?",
     "a": "Dopamine plus norepinephrine reuptake inhibitor with antidepressant effects. Also antagonizes nicotinic receptors, removing the reward from smoking. Lowers seizure threshold; don't give to patients with eating disorders (electrolyte abnormalities increase seizure risk). No sexual side effects, unlike SSRIs.",
@@ -22508,7 +22552,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1737",
+    "id": "s2surg-1741",
     "category": "Surg Neuro",
     "q": "TCAs per p204?",
     "a": "Prevent reuptake of both serotonin and norepinephrine (amitriptyline, nortriptyline, imipramine). Neuro use-case is neuropathic pain, e.g., diabetic peripheral neuropathy.",
@@ -22523,7 +22567,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1738",
+    "id": "s2surg-1742",
     "category": "Surg Neuro",
     "q": "TCA toxicity per p204?",
     "a": "Causes CCC: Coma, Convulsions, Cardiotoxicity (QT prolongation on ECG). Nasty anti-cholinergic side effects (cognitive dysfunction, urinary retention, especially in the elderly).",
@@ -22538,7 +22582,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1739",
+    "id": "s2surg-1743",
     "category": "Surg Neuro",
     "q": "Gabapentin per p204?",
     "a": "Blocks calcium channels, leading to neuroinhibition. Used for neuropathic pain, e.g., diabetic peripheral neuropathy.",
@@ -22553,7 +22597,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1740",
+    "id": "s2surg-1744",
     "category": "Surg Neuro",
     "q": "Migraine drugs per p204?",
     "a": "Abortive therapy: NSAIDs first, then sumatriptan (serotonin receptor agonist). Prevention: propranolol (beta-blockade).",
@@ -22568,7 +22612,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1741",
+    "id": "s2surg-1745",
     "category": "Surg Neuro",
     "q": "Cluster headache drugs per p204?",
     "a": "Abortive therapy: oxygen. Prevention: verapamil (non-dihydropyridine calcium channel blocker).",
@@ -22583,7 +22627,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1742",
+    "id": "s2surg-1746",
     "category": "Surg Neuro",
     "q": "Trigeminal neuralgia drugs per p204?",
     "a": "Abortive: goes away on its own because episodes last a maximum of 30-60 seconds. Prevention: carbamazepine (sodium channel blocker).",
@@ -22598,7 +22642,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1743",
+    "id": "s2surg-1747",
     "category": "Surg Neuro",
     "q": "Vincristine per p205?",
     "a": "Prevents microtubule assembly; used as general chemotherapy. USMLE can ask what it inhibits and the answer is just 'tubulin'. Causes peripheral/autonomic neuropathy (answer shows up as 'toxic neuropathy' on a 2CK Neuro CMS form).",
@@ -22613,7 +22657,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1744",
+    "id": "s2surg-1748",
     "category": "Surg Neuro",
     "q": "Cisplatin per p205?",
     "a": "Crosslinking agent used as general chemotherapy. Causes neurotoxicity and ototoxicity.",
@@ -22628,7 +22672,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1745",
+    "id": "s2surg-1749",
     "category": "Surg Neuro",
     "q": "Aminoglycosides per p205?",
     "a": "30S ribosomal subunit inhibitors used for gram-negative rods. Highest-yield use is in combination with vancomycin as empiric Tx for endocarditis. Gentamicin, tobramycin, amikacin. Cause ototoxicity (sensorineural hearing loss and/or vertigo) and nephrotoxicity.",
@@ -22643,7 +22687,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1746",
+    "id": "s2surg-1750",
     "category": "Surg Neuro",
     "q": "Loop diuretics per p205?",
     "a": "Block the 1Na+/1K+/2Cl- symporter on the apical membrane of the thick ascending limb. Furosemide, ethacrynic acid, etc., can cause sensorineural hearing loss and/or vertigo.",
@@ -22654,7 +22698,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1747",
+    "id": "s2surg-1751",
     "category": "Surg Psych",
     "q": "MDD criteria per p206?",
     "a": "At least 5 out of 9 SIGECAPS symptoms must be present for at least a 2-week period: Sleep disturbance (insomnia or hypersomnia), Interest loss, Guilt/worthlessness, Energy loss, Concentration problems, Appetite changes (usually weight loss, sometimes gain), Psychomotor agitation or slowing, Suicidal ideation. Symptoms must cause socio-occupational impairment and not be attributed to a substance or another medical condition.",
@@ -22669,7 +22713,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1748",
+    "id": "s2surg-1752",
     "category": "Surg Psych",
     "q": "MDD on USMLE per p206?",
     "a": "The source says USMLE does not actually care about counting 5/9: an elderly male who is quiet, teary-eyed and has weight loss is just depression. Weight loss is one of the most buzzy indicators in a psych vignette that MDD is likely the answer.",
@@ -22680,7 +22724,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1749",
+    "id": "s2surg-1753",
     "category": "Surg Psych",
     "q": "MDD features and Tx per p206?",
     "a": "Terminal insomnia (waking too early) can be seen. Can cause decreased libido, but the patient still has nocturnal erections (asked on NBME). Can be caused by beta-blockers (propranolol; asked on NBME). Tx is SSRIs, CBT, and occasionally ECT.",
@@ -22695,7 +22739,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1750",
+    "id": "s2surg-1754",
     "category": "Surg Psych",
     "q": "Depression due to a medical condition per p206?",
     "a": "Hypothyroidism is an important cause of low mood and apathy. USMLE likes post-MI and cancer diagnoses as causes of depression. A teary-eyed post-MI patient with weight loss: the NBME answer is just sertraline (an SSRI).",
@@ -22706,7 +22750,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1751",
+    "id": "s2surg-1755",
     "category": "Surg Psych",
     "q": "Anorexia nervosa definition per p206?",
     "a": "Intense preoccupation with maintaining low body weight and intense fear of gaining weight. BMI must be low (under 18.5) for diagnosis. Purging can be seen (not limited to bulimia). Vignette: a girl who runs 12 miles per day and barely eats.",
@@ -22721,7 +22765,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1752",
+    "id": "s2surg-1756",
     "category": "Surg Psych",
     "q": "Anorexia complications per p206?",
     "a": "USMLE likes metatarsal stress fractures from decreased bone density. Asked what she is at risk for later: osteoporosis (reduced adipose leads to reduced estrogen). Most common cause of death is ventricular fibrillation due to hypokalemia.",
@@ -22736,7 +22780,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1753",
+    "id": "s2surg-1757",
     "category": "Surg Psych",
     "q": "Anorexia amenorrhea per p206?",
     "a": "Amenorrhea can be seen but is no longer mandatory for diagnosis. USMLE wants 'abnormal GnRH pulsation' as the mechanism, with LH and FSH both decreased: hypogonadotropic (central) amenorrhea.",
@@ -22747,7 +22791,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1754",
+    "id": "s2surg-1758",
     "category": "Surg Psych",
     "q": "Anorexia admission and Tx per p206?",
     "a": "BMI under 15 or overt malnutrition is an indication for hospital admission. Tx is CBT and/or SSRI. Mirtazapine (an a2-antagonist that stimulates appetite) is used in depression plus anorexia. Avoid bupropion (lowers seizure threshold). Olanzapine can be used in theory (antipsychotic that increases appetite).",
@@ -22762,7 +22806,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1755",
+    "id": "s2surg-1759",
     "category": "Surg Psych",
     "q": "Bulimia per p206?",
     "a": "Binge eating followed by compensatory behaviors (vomiting, excessive exercise, laxatives). BMI is normal or increased, unlike anorexia. Tx is CBT and/or SSRI.",
@@ -22777,7 +22821,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1756",
+    "id": "s2surg-1760",
     "category": "Surg Psych",
     "q": "Mirtazapine per p206?",
     "a": "A2-antagonist; stimulates appetite; used in patients with depression and anorexia.",
@@ -22792,7 +22836,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1757",
+    "id": "s2surg-1761",
     "category": "Surg Psych",
     "q": "Factitious thyrotoxicosis per p207?",
     "a": "Injection of thyroid hormone (surreptitious thyrotoxicosis). Usually an endocrine-type Q. It need not be tied to seeking medical care (the patient may just be trying to lose weight), though some inject for attention. The Q need not say the patient is a pharmacist.",
@@ -22807,7 +22851,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1758",
+    "id": "s2surg-1762",
     "category": "Surg Psych",
     "q": "Factitious glycemic med use per p207?",
     "a": "Use of insulin or hypoglycemic meds (e.g., sulfonylureas) to cause hypoglycemia or weight loss; some patients do it for attention. Asked with C-peptide: low C-peptide indicates exogenous insulin; high C-peptide means secretagogue abuse (sulfonylureas) or insulinoma.",
@@ -22822,7 +22866,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1759",
+    "id": "s2surg-1763",
     "category": "Surg Psych",
     "q": "Restless legs syndrome: definition and cause per p208?",
     "a": "Idiopathic, irresistible urge to move the legs while in bed/sleeping. Most common cause is iron deficiency anemia; the first step is checking serum iron and ferritin.",
@@ -22837,7 +22881,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1760",
+    "id": "s2surg-1764",
     "category": "Surg Psych",
     "q": "Restless legs syndrome: treatment per p208?",
     "a": "If iron studies are normal, gabapentin and D2 agonists (ropinirole, pramipexole) can be used.",
@@ -22852,7 +22896,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1761",
+    "id": "s2surg-1765",
     "category": "Surg Psych",
     "q": "RLS and Parkinson disease per p208?",
     "a": "Patients with RLS have increased risk of developing Parkinson disease. The source reasons that D2 agonists help, suggesting a possible problem with dopamine signaling or production in some patients.",
@@ -22867,7 +22911,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1762",
+    "id": "s2surg-1766",
     "category": "Surg Psych",
     "q": "Obesity hypoventilation per p208?",
     "a": "When OSA progresses to a chronic CO2 retainer with pulmonary hypertension and/or cor pulmonale, it is called obesity hypoventilation syndrome (Pickwickian syndrome).",
@@ -22882,7 +22926,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1763",
+    "id": "s2surg-1767",
     "category": "Surg Psych",
     "q": "Restless leg syndrome per p208?",
     "a": "Idiopathic, irresistible urge to move the legs in bed. Most common cause is iron deficiency anemia; first step is serum iron and ferritin. If iron studies are normal, gabapentin and D2 agonists (ropinirole, pramipexole) can be used. USMLE wants you to know RLS patients have increased risk of developing Parkinson disease.",
@@ -22897,7 +22941,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1764",
+    "id": "s2surg-1768",
     "category": "Surg Psych",
     "q": "Child abuse findings per p208?",
     "a": "Spiral fractures (twisting force), posterior rib fractures (squeezing), circular burns (cigarettes), burns sparing the flexor regions (dipped in hot water; child flexes limbs), retinal detachment/hemorrhages, subdural hematoma (shaken baby syndrome).",
@@ -22912,7 +22956,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1765",
+    "id": "s2surg-1769",
     "category": "Surg Psych",
     "q": "Enuresis per p208?",
     "a": "Nocturnal enuresis is normal on occasion up through age 5. First step to decrease recurrence is behavioral-science answers (decrease stressors, increase time with the child), e.g., bedwetting after a sibling is diagnosed with ALL.",
@@ -22923,7 +22967,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1766",
+    "id": "s2surg-1770",
     "category": "Surg Psych",
     "q": "Enuresis next steps per p208?",
     "a": "After behavioral answers, a star chart (positive reinforcement). If not listed, an enuresis alarm (moisture sensor that wakes the child). Imipramine, desmopressin and water deprivation are wrong answers on USMLE.",
@@ -22938,7 +22982,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1767",
+    "id": "s2surg-1771",
     "category": "Surg Psych",
     "q": "Chronic interstitial cystitis per p209?",
     "a": "Not an infection. More than 6 weeks of unexplained suprapubic tenderness plus dysuria with negative laboratory and urinary findings. They can mention anterior vaginal wall pain (the bladder is anterior to the vagina). USMLE answer: you do not treat; steroids are wrong. 'Treatment' is education, self-care and physiotherapy.",
@@ -22953,7 +22997,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1768",
+    "id": "s2surg-1772",
     "category": "Surg Psych",
     "q": "IBS per p209?",
     "a": "Classic vignette: a woman in her 20s-40s with stress factors and alternating diarrhea/constipation (can also be bloating or cramping). Key detail: symptoms relieved with bowel movements. NBME assesses 'smooth muscle hypersensitivity' as the mechanism. Not an infection; do not confuse with IBD.",
@@ -22968,7 +23012,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1769",
+    "id": "s2surg-1773",
     "category": "Surg Psych",
     "q": "Chronic interstitial cystitis per p209?",
     "a": "Over 6 weeks of unexplained suprapubic tenderness plus dysuria with negative lab and urinary findings; can mention anterior vaginal wall pain. The source says USMLE wants no treatment (steroids wrong), with 'education', 'self-care' and 'physiotherapy' as answers.",
@@ -22983,7 +23027,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1770",
+    "id": "s2surg-1774",
     "category": "Surg Psych",
     "q": "Fibromyalgia per p209?",
     "a": "Labs normal, ESR not elevated, no fever. A woman in her 20s-50s with multiple, often symmetric, muscle tender points. Often confused with polymyositis and polymyalgia rheumatica.",
@@ -22994,7 +23038,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1771",
+    "id": "s2surg-1775",
     "category": "Surg Psych",
     "q": "Delirium per p209?",
     "a": "Acute disturbance in attention and cognition over hours to days. Most commonly hyperactive (confused, restless, agitated, combative); hypoactive is mute, lethargic or slow to respond.",
@@ -23009,7 +23053,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1772",
+    "id": "s2surg-1776",
     "category": "Surg Psych",
     "q": "Delirium causes per p209?",
     "a": "Infection, electrolyte disturbance (e.g., hypercalcemic crisis), medications (especially first-generation H1 blockers like diphenhydramine), and metabolic causes (e.g., hypercarbia in COPD exacerbation).",
@@ -23024,7 +23068,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1773",
+    "id": "s2surg-1777",
     "category": "Surg Psych",
     "q": "Hypercalcemic crisis per p209?",
     "a": "Cognitive dysfunction or a delirium-like state in severe hypercalcemia, often from malignancy or primary hyperparathyroidism (the source saw it once with a thiazide). USMLE wants you to know high calcium, as well as any sodium disturbance, can cause delirium.",
@@ -23039,7 +23083,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1774",
+    "id": "s2surg-1778",
     "category": "Surg Psych",
     "q": "Hypercalcemia Tx per p209?",
     "a": "First step is normal saline. After saline, bisphosphonate therapy (pamidronate was listed on an NBME). The source says it has never seen calcitonin or loop diuretics as correct answers.",
@@ -23054,7 +23098,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1775",
+    "id": "s2surg-1779",
     "category": "Surg Psych",
     "q": "Reye syndrome per p209?",
     "a": "Acute encephalopathy and hepatic dysfunction from giving aspirin during a viral illness and/or fever. Avoid aspirin under age 12; some sources say avoid it in teens too. The mechanism is obscure and thought related to impaired beta-oxidation.",
@@ -23069,7 +23113,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1776",
+    "id": "s2surg-1780",
     "category": "Surg Psych",
     "q": "Fibromyalgia Tx per p209?",
     "a": "SSRIs. USMLE can write this as 'anti-depressant therapy', which confuses students ('she doesn't have depression'); SSRIs are still antidepressant medication.",
@@ -23084,7 +23128,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1777",
+    "id": "s2surg-1781",
     "category": "Surg Psych",
     "q": "Dextromethorphan per p210?",
     "a": "Can cause delirium and psychosis in children when taken in excessive amounts. The source describes it as an opioid antitussive (cough suppressant).",
@@ -23099,7 +23143,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1778",
+    "id": "s2surg-1782",
     "category": "Surg Psych",
     "q": "Alcoholic hallucinosis per p210?",
     "a": "Presents 12-48 hours after the last drink. Hallucinations, usually tactile (bugs crawling on skin) or visual (bugs crawling up the wall). Treat with a benzo plus thiamine.",
@@ -23114,7 +23158,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1779",
+    "id": "s2surg-1783",
     "category": "Surg Psych",
     "q": "Delirium tremens per p210?",
     "a": "Presents 2-4 days after the last drink: tremulousness, tachycardia, diaphoresis and restlessness; seizures can occur. USMLE favorite: a man in his 40s with tremulousness and tachycardia in hospital about 2 days after surgery; answer is just a benzo. Can also be a man who goes from 12 beers a day to 2. Treat with a benzo plus thiamine.",
@@ -23129,7 +23173,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1780",
+    "id": "s2surg-1784",
     "category": "Surg Psych",
     "q": "TCA overdose per p210?",
     "a": "E.g., amitriptyline. CCCs (coma, convulsions, cardiotoxicity). ECG changes (prolonged QT in the last line of a vague overdose vignette) point to the TCA. Anticholinergic effects (delirium; hot, red, dry patient).",
@@ -23140,7 +23184,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1781",
+    "id": "s2surg-1785",
     "category": "Surg Psych",
     "q": "SSRIs per p210?",
     "a": "Selective serotonin reuptake inhibitors: fluoxetine, escitalopram, sertraline. Cause sexual dysfunction (anorgasmia) and sleep disturbance; anorgasmia makes them the Tx for premature ejaculation. Do not combine with MAOIs or St John's wort (serotonin syndrome).",
@@ -23155,7 +23199,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1782",
+    "id": "s2surg-1786",
     "category": "Surg Psych",
     "q": "SSRI differences per p210?",
     "a": "Sertraline is more likely to cause diarrhea; fluoxetine is stimulating and more likely to cause insomnia; citalopram can prolong the QT interval at higher doses. The source says USMLE doesn't test these. SSRIs are also used for OCD and other conditions beyond depression.",
@@ -23166,7 +23210,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1783",
+    "id": "s2surg-1787",
     "category": "Surg Psych",
     "q": "SSRI failure per p210?",
     "a": "It can take 4-6 weeks to work. If not working after that, the first step is increasing the dose; then switch to a different SSRI; then switch to a different class.",
@@ -23181,7 +23225,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1784",
+    "id": "s2surg-1788",
     "category": "Surg Psych",
     "q": "TCAs per p210?",
     "a": "Block reuptake of serotonin and norepinephrine (amitriptyline, nortriptyline, clomipramine, doxepin). High-yield as first-line for diabetic neuropathic pain, and neuropathic pain in general; gabapentin is otherwise frequently used. Nasty anticholinergic side effects.",
@@ -23192,7 +23236,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1785",
+    "id": "s2surg-1789",
     "category": "Surg Psych",
     "q": "TCA anticholinergic vignettes per p210?",
     "a": "Three high-yield vignettes: (1) palpable suprapubic mass in an older male (full bladder from an anticholinergic plus BPH); (2) hot, red, dry patient (anhidrosis); (3) confusion plus dilated pupils (anticholinergic delirium and mydriasis).",
@@ -23203,7 +23247,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1786",
+    "id": "s2surg-1790",
     "category": "Surg Psych",
     "q": "TCA cardiotoxicity and elderly per p210?",
     "a": "Coma, convulsions, cardiotoxicity. A Q that just mentions prolonged QT in a patient on an antidepressant: the answer is the TCA. If elderly, use nortriptyline (less BBB penetration and fewer anticholinergic effects).",
@@ -23218,7 +23262,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1787",
+    "id": "s2surg-1791",
     "category": "Surg Psych",
     "q": "Imipramine and doxepin per p210?",
     "a": "TCAs such as imipramine for nocturnal enuresis are wrong on USMLE. Doxepin was asked on a 2CK Psych form: the Q rides on knowing it is a TCA (the only listed drug that causes anticholinergic effects).",
@@ -23233,7 +23277,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1788",
+    "id": "s2surg-1792",
     "category": "Surg Psych",
     "q": "Benzodiazepines per p211?",
     "a": "Diazepam, lorazepam, midazolam, chlordiazepoxide, etc.",
@@ -23244,7 +23288,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1789",
+    "id": "s2surg-1793",
     "category": "Surg Psych",
     "q": "Benzodiazepine mechanism per p211?",
     "a": "Bind GABA-A receptor, which increases the frequency of Cl- channel opening, letting Cl- flow into the neuron, hyperpolarizing it and inhibiting firing. Effects: hypnotic (induces sleep), anxiolytic, anti-convulsant.",
@@ -23259,7 +23303,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1790",
+    "id": "s2surg-1794",
     "category": "Surg Psych",
     "q": "Benzodiazepine overdose per p211?",
     "a": "Can cause respiratory depression. Treat overdose with flumazenil, an antagonist of the benzo receptor.",
@@ -23270,7 +23314,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1791",
+    "id": "s2surg-1795",
     "category": "Surg Psych",
     "q": "MAOIs per p211?",
     "a": "Phenelzine, tranylcypromine. Avoided first-line the overwhelming majority of the time because of increased serotonin syndrome risk, in isolation or when started too soon after discontinuing an SSRI.",
@@ -23285,7 +23329,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1792",
+    "id": "s2surg-1796",
     "category": "Surg Psych",
     "q": "Selegiline and serotonin syndrome per p211?",
     "a": "Selegiline is an MAO-B inhibitor used for Parkinson disease; it is the NBME answer when asked which Parkinson med caused serotonin syndrome.",
@@ -23296,7 +23340,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1793",
+    "id": "s2surg-1797",
     "category": "Surg Psych",
     "q": "Serotonin syndrome per p211?",
     "a": "Flushing, tachycardia, diarrhea after drug interactions (MAOI plus SSRI; SSRI plus St John's wort) or high-risk drugs alone (MAOI, trazodone, lithium; lithium is on a new 2CK NBME). Can cause high fever (105F+). Treated with cyproheptadine (blocks serotonin receptors).",
@@ -23311,7 +23355,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1794",
+    "id": "s2surg-1798",
     "category": "Surg Psych",
     "q": "Serotonin syndrome diagnosis per p211?",
     "a": "The source says to diagnose with urinary 5-hydroxyindole acetic acid (5-HIAA).",
@@ -23326,7 +23370,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1795",
+    "id": "s2surg-1799",
     "category": "Surg Psych",
     "q": "Serotonin syndrome vs carcinoid per p211?",
     "a": "Carcinoid syndrome is due to serotonin-secreting carcinoid tumors (lung, small bowel, appendix), not drugs. It can cause tricuspid vegetations, whereas serotonin syndrome does not. The source says it is still diagnosed with urinary 5-HIAA.",
@@ -23341,7 +23385,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1796",
+    "id": "s2surg-1800",
     "category": "Surg Psych",
     "q": "NMS mechanism per p211?",
     "a": "Per the source: the ryanodine channel gets stuck open, so calcium moves from the sarcoplasmic reticulum into the cytosol; the cell uses a lot of ATP to pump it back, generating heat. The source says this is the same as malignant hyperthermia from succinylcholine.",
@@ -23356,7 +23400,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1797",
+    "id": "s2surg-1801",
     "category": "Surg Psych",
     "q": "NMS Tx per p211?",
     "a": "Dantrolene, which closes the ryanodine channel. The NBME may phrase the answer as 'decreases sarcoplasmic calcium release'. In theory bromocriptine (D2 agonist) can be an alternative to dantrolene, but the source has not seen NBME assess it.",
@@ -23371,7 +23415,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1798",
+    "id": "s2surg-1802",
     "category": "Surg Psych",
     "q": "Dantrolene NBME wording per p211?",
     "a": "NBME sometimes gives an NMS or MH vignette, and the answer for Tx is 'decreases sarcoplasmic calcium release'.",
@@ -23382,7 +23426,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1799",
+    "id": "s2surg-1803",
     "category": "Surg Psych",
     "q": "Barbiturates per p212?",
     "a": "Phenobarbital, thiopental, etc. Bind GABA-A receptor and increase the duration of chloride channel opening, making them more efficacious (and dangerous) than benzos. Used for general anesthesia, and for unremitting status epilepticus if benzos and phenytoin fail.",
@@ -23397,7 +23441,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1800",
+    "id": "s2surg-1804",
     "category": "Surg Psych",
     "q": "Opioid receptors per p212?",
     "a": "Mu and kappa are most studied (delta and NOP also exist). Mu agonism causes analgesia, euphoria, respiratory depression and dependence, inhibiting neuronal firing and neurotransmitter release by opening K+ channels and closing Ca2+ channels. Kappa has analgesic effects but can cause dysphoria.",
@@ -23412,7 +23456,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1801",
+    "id": "s2surg-1805",
     "category": "Surg Psych",
     "q": "Opioid effects and withdrawal per p212?",
     "a": "Effects: respiratory depression, miosis, constipation. Withdrawal: flu-like symptoms, irritability, piloerection, yawning.",
@@ -23427,7 +23471,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1802",
+    "id": "s2surg-1806",
     "category": "Surg Psych",
     "q": "Morphine per p212?",
     "a": "Gold standard opioid for moderate to severe pain. USMLE: 'metabolized into active metabolites that accumulate' is the NBME answer for how overdose occurs with self-controlled pumps (it takes time to work, so the patient uses too much).",
@@ -23442,7 +23486,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1803",
+    "id": "s2surg-1807",
     "category": "Surg Psych",
     "q": "Morphine uses and pain per p212?",
     "a": "Severe pain can cause hypertension; a Surgery Q has morphine as the answer for controlling BP post-op. If a patient has a history of opioid abuse but severe pain (e.g., trauma), do not withhold opioids; always treat pain fully.",
@@ -23453,7 +23497,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1804",
+    "id": "s2surg-1808",
     "category": "Surg Psych",
     "q": "Codeine and oxycodone per p212?",
     "a": "Codeine is less potent than morphine, used for mild to moderate pain and in many antitussives. Oxycodone is a potent opioid often combined with acetaminophen; the oxycodone/acetaminophen combo is preferred initially post-op, rather than jumping to morphine.",
@@ -23468,7 +23512,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1805",
+    "id": "s2surg-1809",
     "category": "Surg Psych",
     "q": "Fentanyl and meperidine per p212?",
     "a": "Fentanyl: potent synthetic opioid with high abuse potential. Meperidine: potent opioid with high abuse potential; NBME likes it for malingering Qs (e.g., a 47-year-old man in the ER in severe pain requesting meperidine).",
@@ -23483,7 +23527,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1806",
+    "id": "s2surg-1810",
     "category": "Surg Psych",
     "q": "Dextromethorphan per p212?",
     "a": "Opioid used in antitussives (as the source states). Common cause of delirium from over-the-counter cold meds.",
@@ -23494,7 +23538,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1807",
+    "id": "s2surg-1811",
     "category": "Surg Psych",
     "q": "Loperamide and eluxadoline per p212?",
     "a": "Opioids used for diarrhea-predominant IBS. Low addictive potential. Constipation as an adverse effect is a good thing when limiting diarrhea.",
@@ -23509,7 +23553,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1808",
+    "id": "s2surg-1812",
     "category": "Surg Psych",
     "q": "Buprenorphine per p212?",
     "a": "Mu partial agonist and kappa antagonist; kappa antagonism can cause less dysphoria. An NBME Q floating around wants you to know about the kappa effects.",
@@ -23524,7 +23568,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1809",
+    "id": "s2surg-1813",
     "category": "Surg Psych",
     "q": "Tramadol per p212?",
     "a": "Unique MOA: weak mu opioid agonist plus an SNRI.",
@@ -23539,7 +23583,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1810",
+    "id": "s2surg-1814",
     "category": "Surg Psych",
     "q": "Methadone per p212?",
     "a": "Long-acting full mu opioid agonist used for opioid/heroin withdrawal; reduces opioid cravings.",
@@ -23554,7 +23598,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1811",
+    "id": "s2surg-1815",
     "category": "Surg Psych",
     "q": "Naloxone per p212?",
     "a": "Opioid receptor antagonist used for acute overdoses.",
@@ -23565,7 +23609,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1812",
+    "id": "s2surg-1816",
     "category": "Surg Psych",
     "q": "Naltrexone per p212?",
     "a": "Opioid receptor antagonist used for alcohol dependence (decreases cravings). Also for opioid dependence in already-detoxified patients to prevent relapse: if they take opioids they won't feel euphoria.",
@@ -23580,7 +23624,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1813",
+    "id": "s2surg-1817",
     "category": "Surg Ophthal",
     "q": "Open-angle glaucoma per p213?",
     "a": "Chronic increased intraocular pressure from impaired aqueous humor drainage; unlike acute angle-closure, the drainage angle (canal of Schlemm) between cornea and iris stays open. Progresses slowly and is usually painless. As it advances: peripheral vision loss (tunnel vision) and optic nerve damage with cupping of the optic disc (increased cup-to-disc ratio).",
@@ -23591,7 +23635,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1814",
+    "id": "s2surg-1818",
     "category": "Surg Ophthal",
     "q": "Open-angle glaucoma first step per p213?",
     "a": "USMLE wants tonometry (measures intraocular pressure) as the first step.",
@@ -23606,7 +23650,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1815",
+    "id": "s2surg-1819",
     "category": "Surg Ophthal",
     "q": "Open-angle glaucoma Tx per p213?",
     "a": "Not a 'which drug first' game. Topical prostaglandins (latanoprost) increase aqueous outflow, lowering IOP. Topical beta-blockers (timolol) and carbonic anhydrase inhibitors (dorzolamide) decrease aqueous production. Pilocarpine, a muscarinic agonist, constricts the pupil and increases outflow.",
@@ -23617,7 +23661,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1816",
+    "id": "s2surg-1820",
     "category": "Surg Ophthal",
     "q": "Closed-angle glaucoma presentation per p213?",
     "a": "Very buzzy red, teary, fixed mid-dilated pupil. Due to closure of the drainage angle between cornea and iris, with rapid IOP rise. Can compress the optic nerve and vessels: intense eye pain, headache, nausea, vomiting, blurred vision, colored rings or halos.",
@@ -23632,7 +23676,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1817",
+    "id": "s2surg-1821",
     "category": "Surg Ophthal",
     "q": "Closed-angle glaucoma first step and Tx per p213?",
     "a": "As with open-angle, USMLE wants tonometry first to confirm increased IOP. Treatment is IV mannitol (draws excess aqueous humor out), timolol, pilocarpine, or alpha-2 agonists such as brimonidine.",
@@ -23647,7 +23691,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1818",
+    "id": "s2surg-1822",
     "category": "Surg Ophthal",
     "q": "Corneal abrasion presentation per p216?",
     "a": "Scratchy or tearing sensation of the eye. Can be caused by contact lens use or irritants like sand (e.g., playing in a sandbox with a child).",
@@ -23662,7 +23706,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1819",
+    "id": "s2surg-1823",
     "category": "Surg Ophthal",
     "q": "Anterior uveitis per p218?",
     "a": "WBCs in the anterior chamber, sometimes seen in flares of autoimmune diseases, especially sarcoidosis and ankylosing spondylitis. USMLE might give a sarcoidosis patient and ask about follow-up: 'slit-lamp examination' to check for anterior uveitis.",
@@ -23677,7 +23721,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1820",
+    "id": "s2surg-1824",
     "category": "Surg MSK",
     "q": "Supraspinatus per p219?",
     "a": "Abducts the arm (first 15 degrees). Answer if the patient has difficulty abducting the arm first 15 degrees.",
@@ -23692,7 +23736,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1821",
+    "id": "s2surg-1825",
     "category": "Surg MSK",
     "q": "Supraspinatus tests per p219?",
     "a": "Empty-can (thumb-down) / full-can (thumb-up): patient abducts arm to 90 degrees with thumb up or down, downward pressure applied; if it elicits pain, answer = supraspinatus injury.",
@@ -23707,7 +23751,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1822",
+    "id": "s2surg-1826",
     "category": "Surg MSK",
     "q": "Pitcher injury per p219?",
     "a": "The notion of 'pitcher injury' = infraspinatus does more harm than good for USMLE; a vignette can give a pitcher with a positive full-can test and the answer is supraspinatus, not infraspinatus.",
@@ -23722,7 +23766,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1823",
+    "id": "s2surg-1827",
     "category": "Surg MSK",
     "q": "Infraspinatus per p219?",
     "a": "Lateral (external) rotation. If the question says the patient simply cannot externally rotate the arm and teres minor isn't listed, infraspinatus is the only one that could be right.",
@@ -23733,7 +23777,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1824",
+    "id": "s2surg-1828",
     "category": "Surg MSK",
     "q": "Teres minor per p219?",
     "a": "Adduction and lateral rotation. If the patient has issues with both lateral rotation and adduction, the answer is teres minor over infraspinatus. The source has never seen NBME material assess the diagnostic tests for infraspinatus or teres minor.",
@@ -23744,7 +23788,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1825",
+    "id": "s2surg-1829",
     "category": "Surg MSK",
     "q": "Gerber lift-off test per p219?",
     "a": "Asked on both Steps; answer = subscapularis. Patient places the dorsal hand on the lower back, palm facing posteriorly; examiner presses into the palm; patient is asked to move the hand away against pressure; if painful or difficult, subscapularis injury.",
@@ -23759,7 +23803,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1826",
+    "id": "s2surg-1830",
     "category": "Surg MSK",
     "q": "Axillary nerve per p219?",
     "a": "Main innervation of the deltoid, allowing abduction of the arm 15-90 degrees. USMLE wants you to know the deltoid originates on the lateral clavicle and the axillary nerve is C5/C6.",
@@ -23774,7 +23818,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1827",
+    "id": "s2surg-1831",
     "category": "Surg MSK",
     "q": "Axillary nerve palsy per p219?",
     "a": "Caused by surgical neck of humerus fracture. The vignette often says 'flattened deltoid' or 'loss of sensation over the lateral upper arm / deltoid'.",
@@ -23789,7 +23833,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1828",
+    "id": "s2surg-1832",
     "category": "Surg MSK",
     "q": "Median nerve innervation per p219?",
     "a": "Main innervation is the lateral 3.5 fingers / thenar pad, and the lateral forearm. Does thumb abduction (ulnar nerve does thumb adduction). NBME wants 'palmar cutaneous branch of median nerve' as the answer for sensation over the thenar region.",
@@ -23800,7 +23844,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1829",
+    "id": "s2surg-1833",
     "category": "Surg MSK",
     "q": "Supracondylar humerus fracture per p219?",
     "a": "Median nerve injury.",
@@ -23811,7 +23855,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1830",
+    "id": "s2surg-1834",
     "category": "Surg MSK",
     "q": "Surgical neck of humerus fracture per p219?",
     "a": "Axillary nerve injury.",
@@ -23822,7 +23866,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1831",
+    "id": "s2surg-1835",
     "category": "Surg MSK",
     "q": "Carpal tunnel diagnosis per p220?",
     "a": "2CK wants 'electrophysiological testing' and 'electromyography and nerve conduction studies' as the next best step in diagnosis.",
@@ -23833,7 +23877,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1832",
+    "id": "s2surg-1836",
     "category": "Surg MSK",
     "q": "Ulnar nerve innervation per p220?",
     "a": "Main innervation of the medial 1.5 fingers and the medial forearm. Also does finger abduction and adduction (interosseous muscles).",
@@ -23844,7 +23888,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1833",
+    "id": "s2surg-1837",
     "category": "Surg MSK",
     "q": "Froment sign per p220?",
     "a": "USMLE loves it for ulnar nerve injury: inability to pinch a piece of paper between the thumb and index finger (ulnar nerve is needed for thumb adduction against the index finger, despite the thumb being the most lateral digit).",
@@ -23859,7 +23903,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1834",
+    "id": "s2surg-1838",
     "category": "Surg MSK",
     "q": "Guyon canal syndrome per p220?",
     "a": "Distal ulnar compression (wrist and hand only, not forearm), caused by hook of hamate fracture; sometimes seen in cyclists from handlebar compression. Presents as paresthesias/numbness of the 4th and 5th fingers plus the hypothenar eminence.",
@@ -23874,7 +23918,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1835",
+    "id": "s2surg-1839",
     "category": "Surg MSK",
     "q": "Cubital tunnel syndrome per p220?",
     "a": "Proximal ulnar compression (medial forearm plus wrist/hand). The source calls it one of the most underrated USMLE diagnoses, with yield on 2CK comparable to carpal tunnel. Paresthesias of the medial forearm and hand that 'sound like carpal tunnel but on the ulnar side' = cubital tunnel syndrome.",
@@ -23885,7 +23929,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1836",
+    "id": "s2surg-1840",
     "category": "Surg MSK",
     "q": "Cubital tunnel Tx per p220?",
     "a": "Overnight elbow splint. Surgery is the wrong answer on USMLE per the source.",
@@ -23900,7 +23944,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1837",
+    "id": "s2surg-1841",
     "category": "Surg MSK",
     "q": "Radial nerve per p220?",
     "a": "Main innervation for finger, wrist, and elbow extension. Innervates BEST: Brachioradialis, Extensors, Supinator, Triceps.",
@@ -23911,7 +23955,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1838",
+    "id": "s2surg-1842",
     "category": "Surg MSK",
     "q": "Radial nerve palsy cause per p220?",
     "a": "Occurs from a midshaft fracture of the humerus, or fracture at the radial groove (the latter is obvious). A retired NBME question: a construction worker with a comminuted spiral fracture of the humerus (unusual, since spiral fracture classically suggests child abuse); the resulting defect is 'loss of radial nerve function'.",
@@ -23926,7 +23970,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1839",
+    "id": "s2surg-1843",
     "category": "Surg MSK",
     "q": "Radial nerve injury highest-yield point per p220?",
     "a": "Injury results in a pronated forearm plus wrist drop.",
@@ -23937,7 +23981,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1840",
+    "id": "s2surg-1844",
     "category": "Surg MSK",
     "q": "Musculocutaneous nerve per p220?",
     "a": "Main innervation of the biceps. Just know that injury gives loss of sensation over the lateral forearm and decreased biceps function. The source says USMLE does not care what kind of injury causes the palsy.",
@@ -23948,7 +23992,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1841",
+    "id": "s2surg-1845",
     "category": "Surg MSK",
     "q": "Subacromial bursitis vs rotator cuff tendonitis per p220?",
     "a": "NBME vignettes can give both a history of frequent overhead movement (like painting a fence), pain with palpation, and pain worse when lying on the shoulder at night. Subacromial bursitis presents only with these findings (collectively impingement syndrome). Rotator cuff tendonitis presents with weakness on the exam maneuvers from the prior table.",
@@ -23963,7 +24007,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1842",
+    "id": "s2surg-1846",
     "category": "Surg MSK",
     "q": "Biceps tendonitis per p220?",
     "a": "Anterior shoulder pain with focal tenderness over the biceps tendon (i.e., when pressing on the anterior shoulder).",
@@ -23974,7 +24018,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1843",
+    "id": "s2surg-1847",
     "category": "Surg MSK",
     "q": "Adhesive capsulitis per p220?",
     "a": "Aka 'frozen shoulder' or arthrofibrosis. Decreased passive and active motion of the shoulder in all directions. Idiopathic, but increased risk in diabetes. Tx = range of motion exercises / physiotherapy.",
@@ -23989,7 +24033,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1844",
+    "id": "s2surg-1848",
     "category": "Surg MSK",
     "q": "Pronated arm + wrist-drop, or midshaft humerus fracture per p220?",
     "a": "Radial nerve injury.",
@@ -24000,7 +24044,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1845",
+    "id": "s2surg-1849",
     "category": "Surg MSK",
     "q": "Medial epicondylar injury per p220?",
     "a": "Ulnar nerve injury.",
@@ -24011,7 +24055,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1846",
+    "id": "s2surg-1850",
     "category": "Surg MSK",
     "q": "Weakened biceps + loss of sensation of the lateral forearm per p220?",
     "a": "Musculocutaneous nerve injury.",
@@ -24022,7 +24066,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1847",
+    "id": "s2surg-1851",
     "category": "Surg MSK",
     "q": "Brachial plexus injury causes per p221?",
     "a": "Both Klumpke and Erb-Duchenne can be caused in neonates by breech/traumatic labor, and by injuries such as grabbing a tree branch while falling.",
@@ -24037,7 +24081,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1848",
+    "id": "s2surg-1852",
     "category": "Surg MSK",
     "q": "Brachial plexus injuries causes per p221?",
     "a": "Both upper and lower injuries can be caused in neonates by breech / traumatic labor, or by injuries such as grabbing a tree branch while falling.",
@@ -24052,7 +24096,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1849",
+    "id": "s2surg-1853",
     "category": "Surg MSK",
     "q": "Waiter tip position in a child per p221?",
     "a": "Upper brachial plexus injury (C5/6): Erb-Duchenne palsy.",
@@ -24063,7 +24107,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1850",
+    "id": "s2surg-1854",
     "category": "Surg MSK",
     "q": "Claw hand per p221?",
     "a": "Lower brachial plexus (C8/T1): Klumpke palsy.",
@@ -24074,7 +24118,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1851",
+    "id": "s2surg-1855",
     "category": "Surg MSK",
     "q": "Tenosynovitis per p222?",
     "a": "Inflammation of tendon sheaths.",
@@ -24085,7 +24129,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1852",
+    "id": "s2surg-1856",
     "category": "Surg MSK",
     "q": "deQuervain Tx per p222?",
     "a": "Patient should avoid the offending activity, but since this is often breastfeeding, steroid injection can provide immediate relief.",
@@ -24100,7 +24144,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1853",
+    "id": "s2surg-1857",
     "category": "Surg MSK",
     "q": "Ganglion cyst Tx per p222?",
     "a": "Needle drainage if disturbing to the patient; recurrence is common because the root opening to the tendon sheath is not removed.",
@@ -24115,7 +24159,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1854",
+    "id": "s2surg-1858",
     "category": "Surg MSK",
     "q": "Lateral epicondylitis per p222?",
     "a": "Tennis elbow. Lateral elbow pain worsened when the patient extends the wrist against resistance. NBME asks 'extensor carpi radialis brevis' as the site of inflammation. Tx = 'forearm strap' on 2CK forms.",
@@ -24130,7 +24174,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1855",
+    "id": "s2surg-1859",
     "category": "Surg MSK",
     "q": "Medial epicondylitis per p222?",
     "a": "Golfer elbow. Medial elbow pain worsened when the patient flexes the wrist against resistance. Inflammation at flexor carpi radialis and pronator teres. Tx = forearm strap.",
@@ -24145,7 +24189,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1856",
+    "id": "s2surg-1860",
     "category": "Surg MSK",
     "q": "Radial head subluxation per p222?",
     "a": "Aka 'nursemaid elbow'. Child stops using the arm; arm pronated and partially flexed. History of the child's arm being pulled/yanked, or holding hands and running with an older sibling and falling, causing an elbow pull.",
@@ -24160,7 +24204,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1857",
+    "id": "s2surg-1861",
     "category": "Surg MSK",
     "q": "Radial head subluxation Tx per p222?",
     "a": "Hyper-pronation, OR supination when the arm is partially flexed. Either is correct; both will not be listed as answers at the same time.",
@@ -24175,7 +24219,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1858",
+    "id": "s2surg-1862",
     "category": "Surg MSK",
     "q": "Olecranon bursitis per p222?",
     "a": "Elbow pain, usually following a contact injury. Tx = compression bandage + NSAIDs. Steroid injection is the wrong answer on USMLE per the source.",
@@ -24190,7 +24234,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1859",
+    "id": "s2surg-1863",
     "category": "Surg MSK",
     "q": "Cervical spondylosis per p223?",
     "a": "The answer if a patient over 50 has neck pain and MRI shows degenerative changes of the cervical spine. Can occur in the lumbar spine, but USMLE likes the cervical spine.",
@@ -24205,7 +24249,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1860",
+    "id": "s2surg-1864",
     "category": "Surg MSK",
     "q": "Atlantoaxial subluxation per p223?",
     "a": "Increased mobility between the first (atlas) and second (axis) vertebrae. Really high-yield on 2CK forms with rheumatoid arthritis patients.",
@@ -24220,7 +24264,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1861",
+    "id": "s2surg-1865",
     "category": "Surg MSK",
     "q": "Atlantoaxial subluxation before intubation per p223?",
     "a": "Must do CT or flexion/extension x-rays of the cervical spine before surgery when a patient will be intubated; the source has seen both as answers for different Surg questions.",
@@ -24235,7 +24279,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1862",
+    "id": "s2surg-1866",
     "category": "Surg MSK",
     "q": "RA with upper limb paresthesias per p223?",
     "a": "A question on a Neuro CMS form gives an RA patient not undergoing surgery with paresthesias of the upper limbs; the answer is just MRI of the cervical spine (implying atlantoaxial subluxation has already occurred).",
@@ -24246,7 +24290,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1863",
+    "id": "s2surg-1867",
     "category": "Surg MSK",
     "q": "Neurogenic claudication per p223?",
     "a": "The vignette sounds like intermittent claudication, but it makes clear the peripheral pulses are normal and the patient has no cardiovascular disease; shows up particularly on 2CK Neuro CMS forms.",
@@ -24257,7 +24301,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1864",
+    "id": "s2surg-1868",
     "category": "Surg MSK",
     "q": "Lumbar stenosis risk per p223?",
     "a": "Technically an osteoarthritic change of the spine, so increased risk in obesity (not mandatory for questions).",
@@ -24268,7 +24312,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1865",
+    "id": "s2surg-1869",
     "category": "Surg MSK",
     "q": "Cervical foraminal stenosis per p223?",
     "a": "The answer if an old woman has difficulty fastening buttons, weakness of hand muscles, and loss of sensation of the little finger: 'C7-T1 foraminal stenosis' (offline NBME 20). Not stenosis of the cervical spinal canal, but of the foramen where the nerve exits.",
@@ -24283,7 +24327,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1866",
+    "id": "s2surg-1870",
     "category": "Surg MSK",
     "q": "Back pain worse standing or walking for long periods per p223?",
     "a": "Lumbar spinal stenosis.",
@@ -24294,7 +24338,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1867",
+    "id": "s2surg-1871",
     "category": "Surg MSK",
     "q": "Disc herniation vignette per p224?",
     "a": "The answer if they mention radiculopathy (shooting pain down a leg) after lifting a heavy weight or bending over (e.g., gardening). The answer may be written 'herniated nucleus pulposus'. Be aware of the L4, L5, and S1 differences.",
@@ -24305,7 +24349,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1868",
+    "id": "s2surg-1872",
     "category": "Surg MSK",
     "q": "Cervical disc herniation per p224?",
     "a": "Possible and assessed on USMLE. 2CK forms ask it a couple of times: shooting pain down an arm, answer 'C8 disc herniation'.",
@@ -24316,7 +24360,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1869",
+    "id": "s2surg-1873",
     "category": "Surg MSK",
     "q": "Straight-leg raise per p225?",
     "a": "The source says it is not reliable. Mere pain alone is a negative test; it is positive only when it reproduces radiculopathy/radiating pain. A 2CK question has the test causing pain (negative) and the answer is 'no further management indicated' (the diagnosis is only lumbosacral strain).",
@@ -24331,7 +24375,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1870",
+    "id": "s2surg-1874",
     "category": "Surg MSK",
     "q": "Disc herniation Tx per p225?",
     "a": "NSAIDs + light exercise as tolerated. Bed rest is the wrong answer on USMLE.",
@@ -24346,7 +24390,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1871",
+    "id": "s2surg-1875",
     "category": "Surg MSK",
     "q": "Lumbosacral strain per p225?",
     "a": "The answer if the patient has paraspinal muscle spasm after lifting a heavy box without radiculopathy. With radiculopathy, the answer is disc herniation instead. The straight-leg test can cause pain (negative); it is positive only if it reproduces radiating pain.",
@@ -24357,7 +24401,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1872",
+    "id": "s2surg-1876",
     "category": "Surg MSK",
     "q": "Meralgia paresthetica per p225?",
     "a": "The answer if the patient has pain or paresthesias running down the lateral thigh. Due to entrapment of the lateral femoral cutaneous nerve. Often seen as an incorrect answer choice on Step, so at least be aware of it.",
@@ -24372,7 +24416,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1873",
+    "id": "s2surg-1877",
     "category": "Surg MSK",
     "q": "Heavy box lift + severe low back pain + muscle spasm, no radiculopathy per p225?",
     "a": "Lumbosacral strain only. Do not x-ray. Treatment: NSAIDs + exercise as tolerated; bedrest is the wrong answer.",
@@ -24383,7 +24427,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1874",
+    "id": "s2surg-1878",
     "category": "Surg MSK",
     "q": "Scoliosis associations per p226?",
     "a": "Can be associated with Marfan syndrome, Friedreich ataxia, NF1.",
@@ -24398,7 +24442,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1875",
+    "id": "s2surg-1879",
     "category": "Surg MSK",
     "q": "Scoliosis diagnosis per p226?",
     "a": "Adams forward bend test.",
@@ -24409,7 +24453,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1876",
+    "id": "s2surg-1880",
     "category": "Surg MSK",
     "q": "Scoliosis management per p226?",
     "a": "USMLE wants you to know most children do not need treatment, but curvatures will remain throughout life. Answer = bracing if curvature is >25 degrees and the child is still growing. The source has never seen surgery as an answer on NBME; literature says it is recommended only when curvature is >40 degrees.",
@@ -24424,7 +24468,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1877",
+    "id": "s2surg-1881",
     "category": "Surg MSK",
     "q": "Kyphosis per p226?",
     "a": "Abnormal convex curvature of the thoracic spine. Usually idiopathic due to old age; can be due to degenerative disc disease and compression fractures (osteoporosis).",
@@ -24439,7 +24483,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1878",
+    "id": "s2surg-1882",
     "category": "Surg MSK",
     "q": "Severe kyphosis per p226?",
     "a": "If severe, can in theory cause restrictive lung disease due to impaired chest wall expansion.",
@@ -24454,7 +24498,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1879",
+    "id": "s2surg-1883",
     "category": "Surg MSK",
     "q": "Common peroneal (fibular) nerve per p227?",
     "a": "The answer if the patient loses both eversion and dorsiflexion of the foot. Sensation to the upper third of the lateral leg (around and below the lateral knee). Splits into the superficial and deep peroneal (fibular) nerves.",
@@ -24469,7 +24513,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1880",
+    "id": "s2surg-1884",
     "category": "Surg MSK",
     "q": "Superficial peroneal nerve per p227?",
     "a": "The answer if the patient loses only eversion of the foot while dorsiflexion stays intact. Sensation to the lower lateral leg and dorsum of the foot.",
@@ -24484,7 +24528,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1881",
+    "id": "s2surg-1885",
     "category": "Surg MSK",
     "q": "Deep peroneal nerve per p227?",
     "a": "The answer if the patient loses only dorsiflexion while eversion stays intact. Deep = dorsiflexion, so superficial does eversion. Loss of dorsiflexion causes a high-steppage gait (lifting the foot high with each step).",
@@ -24499,7 +24543,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1882",
+    "id": "s2surg-1886",
     "category": "Surg MSK",
     "q": "Deep peroneal sensation per p227?",
     "a": "Also supplies sensation to the webbing between the 1st and 2nd toes. The source says it has never seen NBME questions that care about this detail, though students treat it as high-yield.",
@@ -24510,7 +24554,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1883",
+    "id": "s2surg-1887",
     "category": "Surg MSK",
     "q": "Tibial nerve per p227?",
     "a": "The answer if the patient loses plantarflexion of the foot (can't stand on tiptoes). Sensation to the bottom of the foot / heel.",
@@ -24525,7 +24569,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1884",
+    "id": "s2surg-1888",
     "category": "Surg MSK",
     "q": "Sciatic nerve per p227?",
     "a": "The answer if the patient has motor dysfunction of the tibial and common peroneal nerves at the same time, or sciatica (shooting pain down the leg). Splits into the common peroneal and tibial nerves.",
@@ -24536,7 +24580,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1885",
+    "id": "s2surg-1889",
     "category": "Surg MSK",
     "q": "Sciatic nerve sensation per p227?",
     "a": "Does not supply sensation to the thigh; its sensation equals that supplied by the common peroneal and tibial nerves combined. It supplies some thigh motor function but USMLE doesn't care.",
@@ -24547,7 +24591,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1886",
+    "id": "s2surg-1890",
     "category": "Surg MSK",
     "q": "Sciatica per p227?",
     "a": "Shooting pain from the lower back down the leg, usually from disc herniation; 2CK forms simply want NSAIDs. The straight-leg test is classically used in part to diagnose, but the source has seen it on NBME material for simple lumbosacral strain (i.e., non-specific and not reliable).",
@@ -24562,7 +24606,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1887",
+    "id": "s2surg-1891",
     "category": "Surg MSK",
     "q": "Obturator nerve per p227?",
     "a": "The answer if the patient has inability to adduct the hip with loss of sensation to the medial thigh.",
@@ -24577,7 +24621,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1888",
+    "id": "s2surg-1892",
     "category": "Surg MSK",
     "q": "Femoral nerve per p227?",
     "a": "The answer if the patient cannot extend the knee and/or has buckling at the knee.",
@@ -24592,7 +24636,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1889",
+    "id": "s2surg-1893",
     "category": "Surg MSK",
     "q": "Saphenous nerve per p228?",
     "a": "The answer if the patient loses sensation to the medial leg. A pure sensory branch of the femoral nerve.",
@@ -24607,7 +24651,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1890",
+    "id": "s2surg-1894",
     "category": "Surg MSK",
     "q": "Sural nerve per p228?",
     "a": "The answer if the patient loses sensation to the lower lateral leg. If the loss is the upper lateral leg, that's common peroneal instead.",
@@ -24622,7 +24666,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1891",
+    "id": "s2surg-1895",
     "category": "Surg MSK",
     "q": "Sural vs saphenous memory aid per p228?",
     "a": "Often confused. suraL is Lateral, therefore saphenous must be the medial one.",
@@ -24633,7 +24677,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1892",
+    "id": "s2surg-1896",
     "category": "Surg MSK",
     "q": "Superior gluteal nerve per p228?",
     "a": "The answer if the patient has Trendelenburg gait: the opposite side of the pelvis falls while walking, so the patient tilts the trunk toward the side of the lesion to keep the pelvis level. Innervates gluteus medius and minimus.",
@@ -24648,7 +24692,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1893",
+    "id": "s2surg-1897",
     "category": "Surg MSK",
     "q": "Inferior gluteal nerve per p228?",
     "a": "The answer if the patient cannot squat, stand up from a chair, or go up/down stairs. Innervates gluteus maximus.",
@@ -24663,7 +24707,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1894",
+    "id": "s2surg-1898",
     "category": "Surg MSK",
     "q": "L4 radiculopathy per p229?",
     "a": "The answer if the patient loses the knee (patellar) reflex and has weakened knee extension. Pain/paresthesias/numbness in the L4 distribution (anterior thigh + medial leg). Disc herniation of L3-4. Memory aid: L4 is the one where the knee reflex is lost.",
@@ -24678,7 +24722,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1895",
+    "id": "s2surg-1899",
     "category": "Surg MSK",
     "q": "L5 radiculopathy per p229?",
     "a": "The answer if the patient loses dorsiflexion. Pain/paresthesias/numbness in the L5 distribution (lateral + anterior leg). Disc herniation of L4-L5.",
@@ -24693,7 +24737,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1896",
+    "id": "s2surg-1900",
     "category": "Surg MSK",
     "q": "S1 radiculopathy per p229?",
     "a": "The answer if the patient loses the ankle (Achilles) reflex and has weakened plantar flexion. Pain/paresthesias/numbness in the S1 distribution (sole of foot + lower leg). Disc herniation of L5-S1. Memory aid: S1 is the one where the ankle reflex is lost.",
@@ -24708,7 +24752,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1897",
+    "id": "s2surg-1901",
     "category": "Surg MSK",
     "q": "SALT mnemonic per p229?",
     "a": "S1, Achilles, Lateral leg dermatome, Tibial motor issue (plantar flexion).",
@@ -24719,7 +24763,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1898",
+    "id": "s2surg-1902",
     "category": "Surg MSK",
     "q": "Trochanteric bursitis per p229?",
     "a": "Lateral hip pain worsened with palpation and lying on one's side in bed. Tx = NSAIDs.",
@@ -24734,7 +24778,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1899",
+    "id": "s2surg-1903",
     "category": "Surg MSK",
     "q": "Septic bursitis per p229?",
     "a": "USMLE gives knee inflammation that sounds like septic arthritis but says there is no joint effusion. Presents this way in a 2CK NBME vignette where students ask 'why not septic arthritis?'. Tx = antibiotics.",
@@ -24749,7 +24793,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1900",
+    "id": "s2surg-1904",
     "category": "Surg MSK",
     "q": "Prepatellar bursitis per p229?",
     "a": "Aka housemaid's knee; anterior knee pain in people frequently on their knees (painters, plumbers, etc.). Tx = NSAIDs.",
@@ -24760,7 +24804,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1901",
+    "id": "s2surg-1905",
     "category": "Surg MSK",
     "q": "Patellar tendonitis per p229?",
     "a": "Inflammation of the patellar tendon ('jumper's knee'). The answer if anterior knee pain first occurs only after finishing sports (e.g., a basketball game), then progresses to chronic pain. Tx on NBME = 'quadricep strengthening exercises'.",
@@ -24775,7 +24819,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1902",
+    "id": "s2surg-1906",
     "category": "Surg MSK",
     "q": "Patellofemoral instability per p229?",
     "a": "Presentation is annoyingly similar to patellar tendonitis, but do not confuse. Misalignment of the patella at the trochlear groove of the femur. A question can mention crepitus. On a 2CK form: teenage girl with knee pain worse after jumping or running plus crepitus = 'patellofemoral instability' (jumper's knee not listed).",
@@ -24786,7 +24830,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1903",
+    "id": "s2surg-1907",
     "category": "Surg MSK",
     "q": "Patellofemoral pain syndrome per p229?",
     "a": "Aka chondromalacia patellae (softening of cartilage in the knee). The answer on NBME if pain worsens when sitting for long periods or going up or down stairs. Classic in obesity or those who squat heavy weight. Tx = quadriceps strengthening exercises.",
@@ -24801,7 +24845,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1904",
+    "id": "s2surg-1908",
     "category": "Surg MSK",
     "q": "ACL injury per p229?",
     "a": "The answer if the anterior drawer or Lachman test is positive: excessive anterior displacement of the tibia relative to the femur. Classically injured when the knee is hyper-extended, or with a rotational force on a fixed, planted knee.",
@@ -24816,7 +24860,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1905",
+    "id": "s2surg-1909",
     "category": "Surg MSK",
     "q": "PCL injury per p229?",
     "a": "The answer if the posterior drawer test is positive: excessive posterior displacement of the tibia relative to the femur. Classically injured when the knee hits the dashboard in a car accident.",
@@ -24831,7 +24875,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1906",
+    "id": "s2surg-1910",
     "category": "Surg MSK",
     "q": "MCL injury per p230?",
     "a": "The answer if the valgus test induces excessive medial motion of the knee compared to the unaffected side. Valgus test = one hand on the lateral knee pushing inward + other hand on the medial ankle pulling outward.",
@@ -24846,7 +24890,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1907",
+    "id": "s2surg-1911",
     "category": "Surg MSK",
     "q": "Medial meniscal tear per p230?",
     "a": "Medial knee pain with 'locking' or 'catching' in partial flexion. McMurray test: external rotation of the leg with concurrent knee extension causes medial knee pain / 'catching'.",
@@ -24861,7 +24905,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1908",
+    "id": "s2surg-1912",
     "category": "Surg MSK",
     "q": "Unhappy triad per p230?",
     "a": "A trio injury of the ACL, the medial collateral ligament, and either the medial or lateral meniscus. The source says students are sometimes fanatical about it, but it cannot recall an NBME question assessing it; it mostly lives in Qbanks.",
@@ -24876,7 +24920,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1909",
+    "id": "s2surg-1913",
     "category": "Surg MSK",
     "q": "Pes anserine bursitis per p230?",
     "a": "The answer if the patient has inferomedial knee pain.",
@@ -24891,7 +24935,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1910",
+    "id": "s2surg-1914",
     "category": "Surg MSK",
     "q": "Iliotibial band syndrome per p230?",
     "a": "The answer if they say lateral knee pain, usually in a runner. The IT band runs from the hip to the knee; pain may occur anywhere along the hip, lateral thigh, and lateral knee, but is worst at the knee. Tx = conservative with physiotherapy; NSAIDs for pain.",
@@ -24906,7 +24950,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1911",
+    "id": "s2surg-1915",
     "category": "Surg MSK",
     "q": "Osgood-Schlatter disease per p230?",
     "a": "Buzzy vignette: knee pain in a fast-growing teenage male who plays soccer (not to be pigeon-holed). Inflammation of the patellar ligament at the tibial tuberosity; mechanism is repeated stress on the growth plate of the superior tibia.",
@@ -24921,7 +24965,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1912",
+    "id": "s2surg-1916",
     "category": "Surg MSK",
     "q": "Plantar fasciitis per p230?",
     "a": "The answer if there is severe heel pain that is worst when first getting out of bed in the morning.",
@@ -24936,7 +24980,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1913",
+    "id": "s2surg-1917",
     "category": "Surg MSK",
     "q": "Morton neuroma per p230?",
     "a": "The answer if the patient has pain plus abnormal growth between the 2nd and 3rd metatarsals, usually worsened with high-heel shoes. Benign growth of the intertarsal nerve; cause idiopathic.",
@@ -24951,7 +24995,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1914",
+    "id": "s2surg-1918",
     "category": "Surg MSK",
     "q": "Morton neuroma workup and Tx per p230?",
     "a": "First step in diagnosis is x-ray to rule out arthritis and fractures. Ultrasound then confirms, showing thickening of the interdigital/intertarsal nerve. Tx = orthotics (comfortable shoes) + steroid injection.",
@@ -24966,7 +25010,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1915",
+    "id": "s2surg-1919",
     "category": "Surg MSK",
     "q": "Spiral fracture per p230?",
     "a": "Caused by a rotational/twisting force applied to a limb. The source says it is pathognomonic for child abuse; USMLE doesn't expect you to diagnose from imaging.",
@@ -24981,7 +25025,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1916",
+    "id": "s2surg-1920",
     "category": "Surg MSK",
     "q": "Simple fracture per p230?",
     "a": "Aka closed fracture: the skin is not broken and the underlying bone does not pierce the skin.",
@@ -24992,7 +25036,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1917",
+    "id": "s2surg-1921",
     "category": "Surg MSK",
     "q": "Compound fracture per p230?",
     "a": "Aka open fracture: the skin is broken and the underlying bone pierces the skin.",
@@ -25003,7 +25047,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1918",
+    "id": "s2surg-1922",
     "category": "Surg MSK",
     "q": "Comminuted fracture per p230?",
     "a": "Fracture where the bone is broken in at least two pieces.",
@@ -25014,7 +25058,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1919",
+    "id": "s2surg-1923",
     "category": "Surg MSK",
     "q": "Linear skull fracture per p231?",
     "a": "Most common type of skull fracture: a break in the skull but the bone has not moved. USMLE wants you to know it is classically associated with epidural hematoma (asked on a 2CK CMS form).",
@@ -25025,7 +25069,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1920",
+    "id": "s2surg-1924",
     "category": "Surg MSK",
     "q": "Base of skull fracture per p231?",
     "a": "Presents with a tetrad of Battle sign (bruising over the mastoid process), raccoon eyes (bruising around the eyes), rhinorrhea, and otorrhea.",
@@ -25040,7 +25084,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1921",
+    "id": "s2surg-1925",
     "category": "Surg MSK",
     "q": "Metatarsal stress fracture per p231?",
     "a": "The answer for pain in the metatarsal area of the foot in long-distance runners with low BMI.",
@@ -25051,7 +25095,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1922",
+    "id": "s2surg-1926",
     "category": "Surg MSK",
     "q": "Metatarsal stress fracture risk per p231?",
     "a": "USMLE often gives a female long-distance runner with low BMI who already has a metatarsal stress fracture and asks what she is at greatest risk of developing: osteoporosis.",
@@ -25066,7 +25110,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1923",
+    "id": "s2surg-1927",
     "category": "Surg MSK",
     "q": "Clavicular fracture per p231?",
     "a": "Occurs with a fall on an outstretched hand (FOOSH), or occasionally from a handlebar injury / impaction, with force transferred up to the clavicle. Most common site of break is the middle third. Tx = figure-of-8 sling.",
@@ -25081,7 +25125,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1924",
+    "id": "s2surg-1928",
     "category": "Surg MSK",
     "q": "Scaphoid fracture per p231?",
     "a": "Presents as pain over the anatomic snuffbox in a patient with FOOSH. X-ray will usually be negative acutely. Must do a thumb-spica cast to prevent avascular necrosis of the scaphoid, followed by repeat x-ray in 2-3 weeks.",
@@ -25096,7 +25140,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1925",
+    "id": "s2surg-1929",
     "category": "Surg MSK",
     "q": "Lunate fracture per p231?",
     "a": "The answer if FOOSH with pain in the central palm and no pain over the anatomic snuffbox.",
@@ -25111,7 +25155,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1926",
+    "id": "s2surg-1930",
     "category": "Surg MSK",
     "q": "Hook of hamate fracture per p231?",
     "a": "Cause of distal ulnar nerve injury / Guyon canal syndrome. Often from a handlebar injury / impaction.",
@@ -25122,7 +25166,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1927",
+    "id": "s2surg-1931",
     "category": "Surg MSK",
     "q": "Surgical neck of humerus fracture per p231?",
     "a": "Causes axillary nerve injury: loss of deltoid function and sensation over the deltoid.",
@@ -25133,7 +25177,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1928",
+    "id": "s2surg-1932",
     "category": "Surg MSK",
     "q": "Midshaft humerus fracture per p231?",
     "a": "Causes radial nerve injury: wrist drop + pronated arm.",
@@ -25148,7 +25192,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1929",
+    "id": "s2surg-1933",
     "category": "Surg MSK",
     "q": "Supracondylar fracture of humerus per p231?",
     "a": "Aka 'distal shaft fracture' in the source's wording. Causes median nerve injury: motor/sensory dysfunction of forearm muscles, first three fingers and thenar region.",
@@ -25163,7 +25207,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1930",
+    "id": "s2surg-1934",
     "category": "Surg MSK",
     "q": "Vertebral compression fracture per p231?",
     "a": "Synonymous with osteoporosis on USMLE (post-menopausal, corticosteroid use, Cushing syndrome). Will often give point tenderness over a vertebra.",
@@ -25178,7 +25222,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1931",
+    "id": "s2surg-1935",
     "category": "Surg MSK",
     "q": "Pseudofracture per p231?",
     "a": "A band of low-density bone that looks like a fracture on x-ray but isn't. Synonymous with vitamin D deficiency (osteomalacia/rickets) on USMLE.",
@@ -25193,7 +25237,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1932",
+    "id": "s2surg-1936",
     "category": "Surg MSK",
     "q": "Pseudofracture in renal failure per p231?",
     "a": "Can be seen in renal failure, since 1,25-D3 is low. Osteomalacia due to renal failure is called renal osteodystrophy.",
@@ -25208,7 +25252,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1933",
+    "id": "s2surg-1937",
     "category": "Surg MSK",
     "q": "Orbital floor fracture per p231?",
     "a": "Can cause entrapment of the inferior rectus and inferior oblique muscles. Vignette: a man hit in the eye by a baseball with impaired upward gaze. The source notes extraocular muscles are covered in its neuroanatomy document.",
@@ -25223,7 +25267,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1934",
+    "id": "s2surg-1938",
     "category": "Surg MSK",
     "q": "Snuffbox pain after a fall + negative x-ray per p231?",
     "a": "Thumb-spica cast: x-ray is often negative in scaphoid fracture; cast to prevent scaphoid avascular necrosis; re-x-ray in 2-3 weeks.",
@@ -25234,7 +25278,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1935",
+    "id": "s2surg-1939",
     "category": "Surg MSK",
     "q": "Ottawa ankle criteria purpose per p232?",
     "a": "Used to assess the probability of ankle fracture and decide between an x-ray and supportive care such as RICE (rest, ice, compression, elevation). Before the criteria, ankle x-rays were ordered frivolously, mostly showing no fracture.",
@@ -25249,7 +25293,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1936",
+    "id": "s2surg-1940",
     "category": "Surg MSK",
     "q": "Ottawa ankle criteria rule per p232?",
     "a": "Only order an ankle x-ray if there is pain in the malleolar zone AND any of: tenderness posterior to the lateral or medial malleolus; tenderness on the tip of the lateral or medial malleolus; or the patient cannot bear weight for four steps.",
@@ -25264,7 +25308,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1937",
+    "id": "s2surg-1941",
     "category": "Surg MSK",
     "q": "Ottawa example 1 per p232?",
     "a": "25M twisted his ankle yesterday, with moderate lateral edema and ecchymoses, tenderness lateral and anterior to the lateral malleolus, and can bear weight. After 2 days of ice, next best step? Source shelf answer: a soft protective brace and early range of motion exercises. Wrong: ankle x-ray.",
@@ -25275,7 +25319,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1938",
+    "id": "s2surg-1942",
     "category": "Surg MSK",
     "q": "Ottawa example 2 per p232?",
     "a": "40M rolls his ankle playing basketball: pain anterior to the lateral malleolus, swelling, no pain posterior to the lateral malleolus, can bear weight. Answer = RICE; x-ray is wrong because he has malleolar zone pain but no posterior or tip tenderness and can bear weight.",
@@ -25286,7 +25330,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1939",
+    "id": "s2surg-1943",
     "category": "Surg MSK",
     "q": "Ottawa example 3 per p232?",
     "a": "26F rolled her ankle running: lateral ankle pain, tenderness posterior to the malleolus, can bear weight. Answer = x-ray of the ankle; malleolar zone pain plus posterior malleolar tenderness meets the criteria even though she can bear weight.",
@@ -25297,7 +25341,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1940",
+    "id": "s2surg-1944",
     "category": "Surg MSK",
     "q": "Primary hip dysplasia per p232?",
     "a": "Aka developmental dysplasia of the hip. Mechanism is a 'poorly developed acetabulum'. Initial diagnosis is with the Ortolani and Barlow maneuvers, which elicit a 'clicking and clunking' on exam.",
@@ -25312,7 +25356,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1941",
+    "id": "s2surg-1945",
     "category": "Surg MSK",
     "q": "Hip dysplasia next step per p232?",
     "a": "After the Ortolani and Barlow maneuvers, the next best step is ortho referral. It sounds wrong, but if listed it is the answer before imaging. Definitive diagnosis: hip ultrasound if under 6 months of age; hip x-ray if over 6 months.",
@@ -25327,7 +25371,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1942",
+    "id": "s2surg-1946",
     "category": "Surg MSK",
     "q": "Hip dysplasia Tx per p232?",
     "a": "'Abduction harness', aka Pavlik harness, which positions the child's legs in a frog-leg appearance.",
@@ -25342,7 +25386,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1943",
+    "id": "s2surg-1947",
     "category": "Surg MSK",
     "q": "Legg-Calve-Perthes per p232?",
     "a": "Aka idiopathic avascular necrosis of the femoral head. If the cause of the avascular necrosis is known (e.g., Gaucher, sickle cell, corticosteroids), the diagnosis is just 'avascular necrosis', not LCP. Vignette: child 5-8 years old with hip pain.",
@@ -25357,7 +25401,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1944",
+    "id": "s2surg-1948",
     "category": "Surg MSK",
     "q": "LCP workup per p232?",
     "a": "First step is a hip x-ray showing a 'contracted' or flattened femoral head; the word 'contracted' is high-yield and synonymous with avascular necrosis. If the x-ray is negative, diagnose with bone scan or MRI (on a 2CK form).",
@@ -25372,7 +25416,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1945",
+    "id": "s2surg-1949",
     "category": "Surg MSK",
     "q": "SCFE vignette per p233?",
     "a": "Classic vignette is a 10-13-year-old (pre-adolescent) overweight boy with a painful limp.",
@@ -25387,7 +25431,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1946",
+    "id": "s2surg-1950",
     "category": "Surg MSK",
     "q": "SCFE mechanism per p233?",
     "a": "NBME writes the answer/mechanism as 'displacement of the epiphysis of the femoral head'.",
@@ -25398,7 +25442,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1947",
+    "id": "s2surg-1951",
     "category": "Surg MSK",
     "q": "SCFE and weight per p233?",
     "a": "Resources emphasize obesity as the main risk factor, but the source says only about half of NBME SCFE questions describe the child as overweight, which trips students who rely on a high BMI.",
@@ -25409,7 +25453,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1948",
+    "id": "s2surg-1952",
     "category": "Surg MSK",
     "q": "SCFE age per p233?",
     "a": "The source concludes age matters most, since they always give a kid around 10-13. If the kid is younger, think LCP instead.",
@@ -25420,7 +25464,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1949",
+    "id": "s2surg-1953",
     "category": "Surg MSK",
     "q": "SCFE 2CK examples per p233?",
     "a": "A 2CK NBME question gives a 13M with painful gait and no mention of weight: SCFE. Another says BMI 20 in a 13-year-old who is 6 feet tall: SCFE.",
@@ -25431,7 +25475,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1950",
+    "id": "s2surg-1954",
     "category": "Surg MSK",
     "q": "SCFE x-ray per p233?",
     "a": "Shows 'ice cream falling off the cone'.",
@@ -25442,7 +25486,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1951",
+    "id": "s2surg-1955",
     "category": "Surg MSK",
     "q": "SCFE vs LCP per p234?",
     "a": "An offline 2CK question: x-ray in a 5-year-old shows 'contracted capital femoral epiphysis'; the answer is LCP, not SCFE. The younger age plus the word 'contracted' beat the words 'femoral capital epiphysis'.",
@@ -25453,7 +25497,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1952",
+    "id": "s2surg-1956",
     "category": "Surg MSK",
     "q": "Rickets vs osteomalacia per p234?",
     "a": "Rickets = vitamin D deficiency in children. Osteomalacia = vitamin D deficiency in adults.",
@@ -25468,7 +25512,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1953",
+    "id": "s2surg-1957",
     "category": "Surg MSK",
     "q": "Active vitamin D in bone per p234?",
     "a": "Activated vitamin D (1,25) is necessary to convert unmineralized osteoid into mineralized hydroxyapatite, hardening bones.",
@@ -25479,7 +25523,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1954",
+    "id": "s2surg-1958",
     "category": "Surg MSK",
     "q": "Histology in rickets and osteomalacia per p234?",
     "a": "Both show 'increased unmineralized osteoid', or 'deficient mineralization of osteoid'.",
@@ -25494,7 +25538,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1955",
+    "id": "s2surg-1959",
     "category": "Surg MSK",
     "q": "Vitamin D deficiency cause per p234?",
     "a": "An important USMLE cause is impaired intestinal absorption (e.g., CF, Crohn). For CF, the answer can be written 'exocrine pancreas insufficiency'.",
@@ -25509,7 +25553,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1956",
+    "id": "s2surg-1960",
     "category": "Surg MSK",
     "q": "Pseudofracture per p234?",
     "a": "A buzzy x-ray finding in osteomalacia/rickets.",
@@ -25520,7 +25564,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1957",
+    "id": "s2surg-1961",
     "category": "Surg MSK",
     "q": "Rickets vs osteomalacia per p234?",
     "a": "Rickets = vitamin D deficiency in children. Osteomalacia = vitamin D deficiency in adults.",
@@ -25535,7 +25579,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1958",
+    "id": "s2surg-1962",
     "category": "Surg MSK",
     "q": "Osteopetrosis mechanism per p235?",
     "a": "Osteoclast dysfunction due to carbonic anhydrase II deficiency; this enzyme inside osteoclasts normally lets them form H+ to resorb bone. The source says this is the straight answer on a 2CK NBME form.",
@@ -25550,7 +25594,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1959",
+    "id": "s2surg-1963",
     "category": "Surg MSK",
     "q": "Growing pains per p235?",
     "a": "A healthy child age 3-12 awakens from sleep with throbbing pain in the legs. No treatment necessary; just know the diagnosis exists.",
@@ -25565,7 +25609,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1960",
+    "id": "s2surg-1964",
     "category": "Surg MSK",
     "q": "Rocker-bottom foot per p235?",
     "a": "Not the same as clubfoot. Rocker-bottom foot (aka congenital vertical talus) is seen in Edward syndrome.",
@@ -25580,7 +25624,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1961",
+    "id": "s2surg-1965",
     "category": "Surg MSK",
     "q": "Arthrogryposis per p235?",
     "a": "A fancy name for a child born with multiple joint contractures. If a child has not just a clubbed foot but also knee and/or elbow contractures, the answer is arthrogryposis.",
@@ -25595,7 +25639,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1962",
+    "id": "s2surg-1966",
     "category": "Surg MSK",
     "q": "Paget disease per p236?",
     "a": "Idiopathic disorder of increased bone turnover. Bone has mixed osteoblastic and osteoclastic phases, so it looks heterogeneous on x-ray. Buzzy vignette: a male over 50 whose hat doesn't fit anymore and who has tinnitus (narrowing of the acoustic foramina).",
@@ -25610,7 +25654,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1963",
+    "id": "s2surg-1967",
     "category": "Surg MSK",
     "q": "Paget disease labs per p236?",
     "a": "19 of 20 questions give an isolated rise in serum ALP; Ca2+, PO4 3-, and PTH are all normal. One 2CK CMS question gives a non-elevated ALP, but that is a rare one-off.",
@@ -25625,7 +25669,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1964",
+    "id": "s2surg-1968",
     "category": "Surg MSK",
     "q": "Paget disease complication per p236?",
     "a": "High-output cardiac failure from intraosseous AV fistulae: an S3 heart sound with a high, rather than low, ejection fraction.",
@@ -25636,7 +25680,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1965",
+    "id": "s2surg-1969",
     "category": "Surg MSK",
     "q": "Osteoporosis definition per p236?",
     "a": "Bone density more than 2.5 SD below the mean for a young adult woman. Osteopenia is 1.5-2.5 SD below the mean.",
@@ -25651,7 +25695,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1966",
+    "id": "s2surg-1970",
     "category": "Surg MSK",
     "q": "Osteoporosis screening age per p236?",
     "a": "Bone densitometry done at age 65.",
@@ -25666,7 +25710,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1967",
+    "id": "s2surg-1971",
     "category": "Surg MSK",
     "q": "Osteoporosis risk factors, sex and age per p236?",
     "a": "If forced to choose between female gender and age as the most important risk factor, choose gender. If given a female and forced to choose between family history and age, choose family history. Males are unlikely to develop osteoporosis, even with a family history in females.",
@@ -25681,7 +25725,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1968",
+    "id": "s2surg-1972",
     "category": "Surg MSK",
     "q": "Osteoporosis protective factor per p236?",
     "a": "If given two women without family history and asked what is most protective, the answer is ethnicity: Black race is protective against osteoporosis.",
@@ -25692,7 +25736,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1969",
+    "id": "s2surg-1973",
     "category": "Surg MSK",
     "q": "Femoral fracture rehabilitation per p236?",
     "a": "An old woman with a femoral fracture and no mention of osteoporosis: the most important predictor of rehabilitation success is 'activity level before fracture'. Weight-bearing exercise during life is protective against later osteoporosis.",
@@ -25703,7 +25747,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1970",
+    "id": "s2surg-1974",
     "category": "Surg MSK",
     "q": "Osteoporosis causes per p236?",
     "a": "USMLE loves corticosteroids and Cushing syndrome as causes. Compression fractures = osteoporosis on USMLE (e.g., RA patient on steroids with a compression fracture).",
@@ -25718,7 +25762,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1971",
+    "id": "s2surg-1975",
     "category": "Surg MSK",
     "q": "Vitamin D and osteoporosis per p236?",
     "a": "USMLE also assesses low vitamin D in intestinal malabsorption (CF, Crohn) as a cause of osteoporosis, even though the source says that makes no sense, since low vitamin D causes osteomalacia.",
@@ -25729,7 +25773,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1972",
+    "id": "s2surg-1976",
     "category": "Surg MSK",
     "q": "Osteoporosis labs per p236?",
     "a": "Serum calcium, phosphate, PTH, and ALP are all normal.",
@@ -25740,7 +25784,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1973",
+    "id": "s2surg-1977",
     "category": "Surg MSK",
     "q": "Osteoporosis Tx first step per p236?",
     "a": "Weight-bearing exercise first. NBME has 'go for a long walk outside daily' as correct; the wrong answer was 'increase participation in swimming pool-based exercise classes to at least three times weekly'.",
@@ -25755,7 +25799,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1974",
+    "id": "s2surg-1978",
     "category": "Surg MSK",
     "q": "Osteoporosis drug order per p236?",
     "a": "Calcium and vitamin D are the first medical/pharmacologic treatment. Bisphosphonates can be used after Ca2+/vitamin D.",
@@ -25770,7 +25814,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1975",
+    "id": "s2surg-1979",
     "category": "Surg MSK",
     "q": "Teriparatide and denosumab per p236?",
     "a": "Teriparatide is an N-terminus PTH analogue that stimulates bone development. Denosumab is a RANK-L monoclonal antibody.",
@@ -25785,7 +25829,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1976",
+    "id": "s2surg-1980",
     "category": "Surg MSK",
     "q": "Osteosarcoma per p236?",
     "a": "Most common primary bone cancer; usually in patients age 10-30. Rb mutations (congenital retinoblastoma) are associated with it: a 1-year-old boy who had an eye enucleated for retinoblastoma is at risk of osteosarcoma later in life. The source says it can also occur in Paget disease of bone patients (older age).",
@@ -25800,7 +25844,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1977",
+    "id": "s2surg-1981",
     "category": "Surg MSK",
     "q": "Osteosarcoma NBME histology per p237?",
     "a": "NBME writes the correct answer as 'pleomorphic neoplastic cells producing new woven bone'. The source calls it an underrated diagnosis, asked on the 2CK exam.",
@@ -25811,7 +25855,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1978",
+    "id": "s2surg-1982",
     "category": "Surg MSK",
     "q": "Spinal metastases per p237?",
     "a": "USMLE loves metastases to the vertebrae, particularly from breast, prostate, and lung. The exam will not show spinal mets images, but gives either lytic vertebral lesions in a patient with a background of cancer, or a neurologic syndrome (e.g., cauda equina).",
@@ -25826,7 +25870,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1979",
+    "id": "s2surg-1983",
     "category": "Surg MSK",
     "q": "Bone metastases presentation per p237?",
     "a": "Diffuse bone pain in a patient with a background of cancer = mets.",
@@ -25837,7 +25881,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1980",
+    "id": "s2surg-1984",
     "category": "Surg MSK",
     "q": "Pseudohypertrophy per p238?",
     "a": "Muscles appear large but are replaced with fibroadipose tissue (connective tissue stromal cells).",
@@ -25848,7 +25892,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1981",
+    "id": "s2surg-1985",
     "category": "Surg MSK",
     "q": "Duchenne presentation per p238?",
     "a": "A young boy who uses the Gower maneuver to stand up (uses his arms to push up off the floor because leg muscles are weak).",
@@ -25859,7 +25903,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1982",
+    "id": "s2surg-1986",
     "category": "Surg MSK",
     "q": "Becker vs Duchenne per p238?",
     "a": "Becker presents in adolescence or young adulthood (a less severe form). Duchenne is classically a frameshift mutation; Becker is classically not.",
@@ -25874,7 +25918,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1983",
+    "id": "s2surg-1987",
     "category": "Surg MSK",
     "q": "Polymyalgia rheumatica per p238?",
     "a": "Usually a patient over 50 with proximal muscle pain and stiffness. No weakness on physical exam and normal creatine kinase (CK). If weakness or raised CK is present, the answer is polymyositis, not PMR.",
@@ -25889,7 +25933,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1984",
+    "id": "s2surg-1988",
     "category": "Surg MSK",
     "q": "PMR other findings per p238?",
     "a": "Can present with high ESR and low-grade fever (any autoimmune flare can present with low-grade fever).",
@@ -25900,7 +25944,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1985",
+    "id": "s2surg-1989",
     "category": "Surg MSK",
     "q": "PMR and temporal arteritis per p238?",
     "a": "PMR can present with or without temporal (giant cell) arteritis. Temporal arteritis can present bilaterally on NBME exams; do steroids first to prevent blindness, biopsy second.",
@@ -25915,7 +25959,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1986",
+    "id": "s2surg-1990",
     "category": "Surg MSK",
     "q": "Jaw claudication per p238?",
     "a": "Temporal arteritis can cause jaw claudication (jaw pain during episodes). Unlike temporomandibular joint dysfunction, a separate diagnosis, jaw claudication is not precipitated by eating.",
@@ -25926,7 +25970,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1987",
+    "id": "s2surg-1991",
     "category": "Surg MSK",
     "q": "PMR diagnosis and Tx per p238?",
     "a": "No specific diagnostic test; diagnosed clinically. Tx = steroids. NSAIDs are the wrong answer and not proven effective.",
@@ -25941,7 +25985,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1988",
+    "id": "s2surg-1992",
     "category": "Surg MSK",
     "q": "Polymyositis first step per p239?",
     "a": "USMLE wants 'electromyography and nerve conduction studies' as the first step in management (as asked on 2CK NBME forms). The source has not seen anti-Jo1 vs EMG+NCS as two answer choices; anti-Jo1 is usually mentioned in the vignette.",
@@ -25956,7 +26000,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1989",
+    "id": "s2surg-1993",
     "category": "Surg MSK",
     "q": "Polymyositis biopsy per p239?",
     "a": "Muscle biopsy is confirmatory, showing CD8+ T cell infiltration; histology can be described as 'CD8+ T cells and macrophages surrounding muscle fibers'.",
@@ -25971,7 +26015,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1990",
+    "id": "s2surg-1994",
     "category": "Surg MSK",
     "q": "Dermatomyositis and cancer per p239?",
     "a": "The source says dermatomyositis can be a paraneoplastic syndrome of ovarian cancer (shows up on NBME). Tx = steroids.",
@@ -25986,7 +26030,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1991",
+    "id": "s2surg-1995",
     "category": "Surg MSK",
     "q": "Fibromyalgia per p239?",
     "a": "The source calls it a psych condition, not an actual muscle disorder, often confused with polymyositis and PMR. Labs normal; ESR not elevated; no fever. A woman in her 20s-50s with multiple (often symmetric) muscle tender points.",
@@ -25997,7 +26041,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1992",
+    "id": "s2surg-1996",
     "category": "Surg MSK",
     "q": "Temporomandibular joint dysfunction per p239?",
     "a": "The answer if the jaw pain is precipitated by eating. Often confused with jaw claudication in temporal arteritis, where pain is not precipitated by eating.",
@@ -26012,7 +26056,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1993",
+    "id": "s2surg-1997",
     "category": "Surg MSK",
     "q": "Myotonic dystrophy per p239?",
     "a": "Autosomal dominant, CTG trinucleotide repeat expansion disease. Myotonia is inability to relax muscles. The answer if the patient cannot relax grip on a doorknob/handshake or let go of a golf club. Sometimes associated with early/frontal balding.",
@@ -26027,7 +26071,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1994",
+    "id": "s2surg-1998",
     "category": "Surg MSK",
     "q": "Hypothyroid myopathy per p239?",
     "a": "Myopathy can occur in both hypo- and hyperthyroidism, but is especially high-yield for hypothyroidism. Often hidden as proximal muscle weakness or increased CK in a patient with ongoing fatigue, dysthymia, menstrual irregularities, etc.",
@@ -26042,7 +26086,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1995",
+    "id": "s2surg-1999",
     "category": "Surg MSK",
     "q": "Drug-induced myopathy per p239?",
     "a": "Classically seen when statins and fibrates are combined, but both drugs can cause myopathy independently. Mild CK elevations are normal and expected when starting these agents; the dose does not need to be decreased for mild CK elevations.",
@@ -26057,7 +26101,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1996",
+    "id": "s2surg-2000",
     "category": "Surg MSK",
     "q": "Statin plus fibrate mechanism per p239?",
     "a": "USMLE wants 'P450-mediated interaction' as the cause of the myopathy when statins and fibrates are combined.",
@@ -26072,7 +26116,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1997",
+    "id": "s2surg-2001",
     "category": "Surg MSK",
     "q": "Mitochondrial myopathy per p240?",
     "a": "A broad term that can refer to numerous mitochondrial diseases. USMLE wants you to recognize a mitochondrial disorder from hypotonia, ear/eye problems, and lactic acidosis (the source calls this a tetrad but lists three findings).",
@@ -26087,7 +26131,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1998",
+    "id": "s2surg-2002",
     "category": "Surg MSK",
     "q": "Mitochondrial myopathy buzzwords per p240?",
     "a": "'Ragged red fibers' can be a buzzy descriptor. Mitochondrial disorders are maternally inherited only. Heteroplasmy refers to offspring having varying disease severity based on variation in how diseased mitochondrial genes are allocated.",
@@ -26102,7 +26146,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-1999",
+    "id": "s2surg-2003",
     "category": "Surg MSK",
     "q": "Inclusion body myositis per p240?",
     "a": "The answer if a patient 50 or older has months to years of progressive muscle weakness and a muscle biopsy shows basophilic rimmed vacuoles. Shows up on a new 2CK form.",
@@ -26117,7 +26161,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2000",
+    "id": "s2surg-2004",
     "category": "Surg MSK",
     "q": "Marfan genetics per p240?",
     "a": "Autosomal dominant; chromosome 15, FBN1/2. Codes for fibrillin, a glycoprotein that forms a sheath around elastin.",
@@ -26132,7 +26176,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2001",
+    "id": "s2surg-2005",
     "category": "Surg MSK",
     "q": "Marfan and aneurysms per p240?",
     "a": "Not associated with berry/saccular aneurysms (unlike Ehlers-Danlos and ADPKD), per the source.",
@@ -26143,7 +26187,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2002",
+    "id": "s2surg-2006",
     "category": "Surg MSK",
     "q": "Ehlers-Danlos defect per p240?",
     "a": "Defect in collagen III synthesis; can be written 'defect in synthesis of fibrillar collagen'. The source warns this is confusing because fibrillin (Marfan) is unrelated; 'fibrillar collagen' just coincidentally means type III collagen. Wrong answer = 'abnormal synthesis of extracellular glycoprotein' (fibrillin, Marfan).",
@@ -26158,7 +26202,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2003",
+    "id": "s2surg-2007",
     "category": "Surg MSK",
     "q": "Ehlers-Danlos presentation per p240?",
     "a": "Easy bruising plus hyperextensible skin.",
@@ -26169,7 +26213,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2004",
+    "id": "s2surg-2008",
     "category": "Surg MSK",
     "q": "Osteogenesis imperfecta per p240?",
     "a": "Collagen I defect causing recurrent fractures in a child; important differentials are child abuse and osteopetrosis. Blue sclerae are buzzy but often not mentioned. Conductive hearing loss from defective ossicles.",
@@ -26184,7 +26228,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2005",
+    "id": "s2surg-2009",
     "category": "Surg MSK",
     "q": "OI harder vignette per p240?",
     "a": "Many types of OI exist, some resulting in miscarriage. A harder vignette can mention a child with multiple fractures whose mother has a history of recurrent miscarriage.",
@@ -26195,7 +26239,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2006",
+    "id": "s2surg-2010",
     "category": "Surg MSK",
     "q": "Mixed connective tissue disease per p240?",
     "a": "The answer if the patient has anti-U1-ribonucleoprotein (U1-RNP) antibodies. Combined features of three disorders: LPS = Lupus, Polymyositis, Scleroderma.",
@@ -26210,7 +26254,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2007",
+    "id": "s2surg-2011",
     "category": "Surg MSK",
     "q": "FBN1/2 per p240?",
     "a": "Marfan syndrome; AD; chromosome 15. Fibrillin forms a sheath around elastin. Tall, lanky habitus, pectus excavatum or carinatum, pes planus, scoliosis, mitral valve prolapse (mid-systolic click), aortic dissection risk (retrograde to the root, causing root dilatation and aortic regurgitation with a decrescendo diastolic murmur). Not associated with berry aneurysms, per the source.",
@@ -26225,7 +26269,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2008",
+    "id": "s2surg-2012",
     "category": "Surg MSK",
     "q": "Thyroglossal duct cyst per p241?",
     "a": "The answer for a painless, midline neck lump in a child that moves upward with swallowing or tongue protrusion (buzzy, but seen in maybe only half of questions). Can also be a painless mass inferior to the hyoid bone with uptake on a Technetium-99 scan.",
@@ -26240,7 +26284,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2009",
+    "id": "s2surg-2013",
     "category": "Surg MSK",
     "q": "Thyroglossal duct cyst embryology per p241?",
     "a": "USMLE wants 'endoderm of foramen cecum'.",
@@ -26251,7 +26295,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2010",
+    "id": "s2surg-2014",
     "category": "Surg MSK",
     "q": "Sternocleidomastoid injury per p241?",
     "a": "The answer for a nodular mass in the lateral neck of an infant born via forceps delivery (a risk factor for muscle damage).",
@@ -26266,7 +26310,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2011",
+    "id": "s2surg-2015",
     "category": "Surg MSK",
     "q": "Branchial cleft cyst per p241?",
     "a": "The answer for an idiopathic lateral neck mass in an infant that may or may not have an opening to the skin. Neonates or infants.",
@@ -26281,7 +26325,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2012",
+    "id": "s2surg-2016",
     "category": "Surg MSK",
     "q": "Alendronate mechanism per p245?",
     "a": "Bisphosphonate; inhibits osteoclasts (high-yield MOA). Used for osteoporosis after Ca2+/vitamin D.",
@@ -26296,7 +26340,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2013",
+    "id": "s2surg-2017",
     "category": "Surg MSK",
     "q": "Pamidronate per p245?",
     "a": "The source has seen pamidronate (not alendronate) on 2CK forms for treating hypercalcemia, after normal saline.",
@@ -26311,7 +26355,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2014",
+    "id": "s2surg-2018",
     "category": "Surg MSK",
     "q": "Bisphosphonate adverse effects per p245?",
     "a": "Students get fanatical about osteonecrosis of the jaw, but the source says its yield on NBME exams is basically nonexistent. USMLE wants you to know bisphosphonates cause pill-induced esophagitis (very high-yield for 2CK; K+ supplements also cause esophagitis).",
@@ -26326,7 +26370,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2015",
+    "id": "s2surg-2019",
     "category": "Surg MSK",
     "q": "Teriparatide per p245?",
     "a": "N-terminus PTH analogue that can induce bone formation. Even though PTH causes bone resorption, this agent stimulates osteoblast-mediated bone formation more than RANK-L-mediated osteoclast activation. Can be used for severe/advanced osteoporosis.",
@@ -26341,7 +26385,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2016",
+    "id": "s2surg-2020",
     "category": "Surg MSK",
     "q": "Denosumab per p245?",
     "a": "Monoclonal antibody against RANK-L. Can be used for severe/advanced osteoporosis.",
@@ -26352,7 +26396,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2017",
+    "id": "s2surg-2021",
     "category": "Surg MSK",
     "q": "Cyclobenzaprine per p245?",
     "a": "Muscle relaxant used for spasms. Structurally similar to TCAs; helps modulate pain sensation at the brain stem.",
@@ -26367,7 +26411,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2018",
+    "id": "s2surg-2022",
     "category": "Surg MSK",
     "q": "Benztropine per p246?",
     "a": "Muscarinic (cholinergic) receptor antagonist used to treat acute dystonia from antipsychotics. If a patient starts an antipsychotic and then gets a stiff neck, oculogyric crisis, or muscle rigidity without fever, the answer = benztropine.",
@@ -26382,7 +26426,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2019",
+    "id": "s2surg-2023",
     "category": "Surg MSK",
     "q": "Diphenhydramine / chlorpheniramine per p246?",
     "a": "First-generation H1 antagonists. The source says diphenhydramine is quite possibly the highest-yield drug on USMLE. Used for acute dystonia, similar to benztropine, and motion sickness.",
@@ -26397,7 +26441,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2020",
+    "id": "s2surg-2024",
     "category": "Surg MSK",
     "q": "Dantrolene mechanism per p246?",
     "a": "Blocks the ryanodine Ca2+ channel. Treatment for neuroleptic malignant syndrome (NMS) and malignant hyperthermia (MH).",
@@ -26412,7 +26456,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2021",
+    "id": "s2surg-2025",
     "category": "Surg Endocrine",
     "q": "Where is ADH made and what does it do per p247?",
     "a": "ADH (vasopressin) is produced by the supraoptic and paraventricular nuclei of the hypothalamus and stored in the posterior pituitary. It increases free water reabsorption at the medullary collecting duct (MCD) by causing aquaporin insertion.",
@@ -26423,7 +26467,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2022",
+    "id": "s2surg-2026",
     "category": "Surg Endocrine",
     "q": "Causes of SIADH per p247?",
     "a": "SIADH means too much ADH. Central: head trauma, meningitis, brain cancer, pain (the latter on 2CK Surg). Ectopic: small cell lung cancer secreting ADH. Drug-induced is ultra-rare on USMLE, but carbamazepine can do it.",
@@ -26438,7 +26482,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2023",
+    "id": "s2surg-2027",
     "category": "Surg Endocrine",
     "q": "SIADH lab pattern per p247?",
     "a": "Dilute serum and concentrated urine: serum sodium down (normal 135-145 mEq/L, so <135), serum osmolality down, serum specific gravity down; urinary osmolality and specific gravity up. Exact osmolalities don't need memorizing (e.g., serum 250 vs urine 750 means serum dilute vs urine).",
@@ -26449,7 +26493,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2024",
+    "id": "s2surg-2028",
     "category": "Surg Endocrine",
     "q": "First diagnostic step for SIADH on 2CK per p247?",
     "a": "Fluid restriction, to see how serum/urinary values change.",
@@ -26460,7 +26504,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2025",
+    "id": "s2surg-2029",
     "category": "Surg Endocrine",
     "q": "Treatment of SIADH with demeclocycline per p247?",
     "a": "Demeclocycline is the answer on 2CK offline NBME 8. It is a tetracycline antibiotic but causes insensitivity to ADH at the kidney (nephrogenic DI), so it cancels out the first problem with a second.",
@@ -26475,7 +26519,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2026",
+    "id": "s2surg-2030",
     "category": "Surg Endocrine",
     "q": "Central vs nephrogenic DI per p247?",
     "a": "Central DI: not enough ADH secretion by the hypothalamus, or the posterior pituitary can't release it. Nephrogenic DI: insensitivity to ADH at the kidney (serum ADH is high).",
@@ -26490,7 +26534,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2027",
+    "id": "s2surg-2031",
     "category": "Surg Endocrine",
     "q": "Acromegaly per p247?",
     "a": "Excess growth hormone secretion (usually by a tumor) after closure of the growth plates; before closure it causes gigantism.",
@@ -26501,7 +26545,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2028",
+    "id": "s2surg-2032",
     "category": "Surg Endocrine",
     "q": "What to check for acromegaly per p247?",
     "a": "GH goes to the liver, which secretes IGF-1; IGF-1 induces the growth effects. An NBME question gives an easy acromegaly vignette: serum GH is wrong; the answer is serum IGF-1.",
@@ -26516,7 +26560,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2029",
+    "id": "s2surg-2033",
     "category": "Surg Endocrine",
     "q": "Acromegaly treatment per p247?",
     "a": "Somatostatin analogue (octreotide). Somatostatin is aka growth hormone-inhibiting hormone (GHIH); it shuts off GH secretion from the anterior pituitary and also decreases insulin and glucagon secretion from the pancreas.",
@@ -26531,7 +26575,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2030",
+    "id": "s2surg-2034",
     "category": "Surg Endocrine",
     "q": "Hashimoto antibodies per p248?",
     "a": "Anti-thyroperoxidase (anti-microsomal); anti-thyroglobulin.",
@@ -26546,7 +26590,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2031",
+    "id": "s2surg-2035",
     "category": "Surg Endocrine",
     "q": "Causes of nephrogenic DI per p248?",
     "a": "Lithium, demeclocycline, hypercalcemia, and NSAIDs.",
@@ -26561,7 +26605,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2032",
+    "id": "s2surg-2036",
     "category": "Surg Endocrine",
     "q": "Hypercalcemia and DI per p248?",
     "a": "A 2CK question gives primary hyperparathyroidism with very high serum calcium and nephrogenic DI; the cause of the DI is hypercalcemia (high calcium causes renal insensitivity to vasopressin).",
@@ -26572,7 +26616,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2033",
+    "id": "s2surg-2037",
     "category": "Surg Endocrine",
     "q": "DI lab pattern per p248?",
     "a": "Opposite of SIADH: serum sodium up (>145 mEq/L), serum osmolality and specific gravity up; urinary osmolality and specific gravity down.",
@@ -26583,7 +26627,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2034",
+    "id": "s2surg-2038",
     "category": "Surg Endocrine",
     "q": "Diagnosing DI per p248?",
     "a": "First step is fluid restriction (same as SIADH). If urine stays dilute and serum stays concentrated, next best step is desmopressin. If urine concentrates, central DI (deficient in ADH); if not, nephrogenic DI.",
@@ -26598,7 +26642,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2035",
+    "id": "s2surg-2039",
     "category": "Surg Endocrine",
     "q": "Desmopressin response caveat per p248?",
     "a": "Even in nephrogenic DI desmopressin may work a little, but in central DI it raises urinary osmolality robustly. It will be obvious on USMLE; don't rule out nephrogenic DI because it worked 'like 5%'.",
@@ -26609,7 +26653,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2036",
+    "id": "s2surg-2040",
     "category": "Surg Endocrine",
     "q": "Treatment of nephrogenic DI per p248?",
     "a": "NSAID plus a thiazide, per the source. Thiazides reduce Na+ reabsorption in the early DCT, causing compensatory increase in the PCT where water follows Na+, so net fluid loss is less (in healthy people they lose more). The NSAID presumably lowers renal blood flow, GFR and net fluid loss.",
@@ -26624,7 +26668,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2037",
+    "id": "s2surg-2041",
     "category": "Surg Endocrine",
     "q": "Lithium + polyuria 2CK question per p248?",
     "a": "A difficult 2CK NBME question: patient on lithium with increased urinary output; fluid restriction is wrong (normally right 9/10 times); the answer is NSAID + thiazide diuretic. If nephrogenic DI is already obvious, going straight to treatment is acceptable.",
@@ -26635,7 +26679,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2038",
+    "id": "s2surg-2042",
     "category": "Surg Endocrine",
     "q": "Psychogenic polydipsia per p248?",
     "a": "The patient simply drinks too much. Both urine and serum are dilute: serum sodium <135, serum osmolality and specific gravity down, urinary osmolality and specific gravity down.",
@@ -26650,7 +26694,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2039",
+    "id": "s2surg-2043",
     "category": "Surg Endocrine",
     "q": "Recognizing psychogenic polydipsia per p248?",
     "a": "About 3/4 of questions are obvious psych vignettes (e.g., drinking to 'clear himself from evil spirits'); about 1/4 only show labs where both urine and serum are dilute. First diagnostic step is fluid restriction.",
@@ -26661,7 +26705,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2040",
+    "id": "s2surg-2044",
     "category": "Surg Endocrine",
     "q": "Hashimoto thyroiditis basics per p248?",
     "a": "Autoimmune destruction of the thyroid. Lymphocytic infiltrate on biopsy (asked on NBME). Anti-microsomal (aka anti-thyroperoxidase) + anti-thyroglobulin antibodies. Low T3, low T4, high TSH. 131I uptake scan is decreased or patchy.",
@@ -26676,7 +26720,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2041",
+    "id": "s2surg-2045",
     "category": "Surg Endocrine",
     "q": "Hashimoto clinical findings per p248?",
     "a": "Buzzy: weight gain, brittle hair, dry/doughy skin, cold intolerance (USMLE often omits these as too easy). Additional NBME findings: bradycardia (55-60), menstrual irregularity, dysthymia/depression/apathy, carpal tunnel syndrome (GAG deposition), high cholesterol, proximal muscle weakness with high CK (hypothyroid myopathy), and transaminitis (LFTs can be high).",
@@ -26691,7 +26735,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2042",
+    "id": "s2surg-2046",
     "category": "Surg Endocrine",
     "q": "Autoimmune associations per p249?",
     "a": "Hashimoto is associated with other autoimmune diseases (type I diabetes, pernicious anemia, vitiligo) and immunodeficiencies (e.g., IgA deficiency). Big-picture concept: autoimmune diseases go together, and autoimmune diseases and immunodeficiencies go together. Strict HLA associations aren't important outside HLA-B27.",
@@ -26702,7 +26746,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2043",
+    "id": "s2surg-2047",
     "category": "Surg Endocrine",
     "q": "Hashimoto lymphoma risk and treatment per p249?",
     "a": "Increased risk of non-Hodgkin lymphoma (e.g., primary CNS lymphoma, per the source). Treatment: levothyroxine or triiodothyronine.",
@@ -26717,7 +26761,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2044",
+    "id": "s2surg-2048",
     "category": "Surg Endocrine",
     "q": "Graves disease basics per p249?",
     "a": "Activating autoantibody against the TSH receptor, called thyroid-stimulating immunoglobulin (TSI). High T3, high T4, low TSH. Lymphocytic infiltrate + hyperplastic follicles on biopsy. 131I uptake is diffusely increased.",
@@ -26732,7 +26776,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2045",
+    "id": "s2surg-2049",
     "category": "Surg Endocrine",
     "q": "Graves specific findings per p249?",
     "a": "Exophthalmos (proptosis) and pretibial myxedema (non-pitting shin edema from GAG deposition). The vignette needn't mention them, but if it says 'no exophthalmos' it's saying not Graves. Buzzy: tachycardia, heat intolerance, sweating, palpitations.",
@@ -26743,7 +26787,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2046",
+    "id": "s2surg-2050",
     "category": "Surg Endocrine",
     "q": "Other Graves points per p249?",
     "a": "Myopathy with high CK can occur, but USMLE tends to give it in hypothyroidism. Can cause atrial fibrillation in younger patients (AF is normally elderly).",
@@ -26754,7 +26798,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2047",
+    "id": "s2surg-2051",
     "category": "Surg Endocrine",
     "q": "Thyroid storm per p249?",
     "a": "Acute exacerbation of Graves, often precipitated by stress (surgery, trauma, infection); thyroid hormone production surges, causing hyperthermia, tachycardia, and altered mental status. It can also cause adrenal crisis (acute fall in BP from rapid cortisol consumption), especially in patients with adrenal insufficiency on exogenous steroids; treat the low BP with IV glucocorticoid (hydrocortisone or methylprednisolone).",
@@ -26769,7 +26813,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2048",
+    "id": "s2surg-2052",
     "category": "Surg Endocrine",
     "q": "deQuervain thyroiditis per p249?",
     "a": "Aka subacute granulomatous (or subacute) thyroiditis. A viral infection followed by a painful/tender thyroid. Inflammation lets pre-formed thyroid hormone leak out: low TSH, high T3, high T4, low 131I uptake.",
@@ -26784,7 +26828,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2049",
+    "id": "s2surg-2053",
     "category": "Surg Endocrine",
     "q": "Uptake in thyroiditis per p249?",
     "a": "The gland is not over-producing hormone, so uptake is not increased. deQuervain can be hypo- or hyperthyroid, but uptake is always decreased, even if hyperthyroid. Vignettes are almost always hyperthyroid to test this. Decreased uptake applies to all thyroiditis (deQuervain, drug-induced, postpartum).",
@@ -26795,7 +26839,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2050",
+    "id": "s2surg-2054",
     "category": "Surg Endocrine",
     "q": "Viral trigger in deQuervain vignettes per p250?",
     "a": "Viral infections are often asymptomatic, so most deQuervain vignettes won't mention the viral infection.",
@@ -26806,7 +26850,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2051",
+    "id": "s2surg-2055",
     "category": "Surg Endocrine",
     "q": "Drug-induced thyroiditis per p250?",
     "a": "Caused by lithium or amiodarone on USMLE. In theory hypo-, eu-, or hyperthyroid. Usually presents as painless hypothyroidism in a patient treated for bipolar disorder (lithium) or started on a new anti-arrhythmic (amiodarone). Low 131I uptake; leakage of hormone from inflammation can occur but the gland is not overproducing.",
@@ -26821,7 +26865,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2052",
+    "id": "s2surg-2056",
     "category": "Surg Endocrine",
     "q": "Euthyroid sick mechanism per p250?",
     "a": "One proposed mechanism: in acute stress, cortisol and inflammatory mediators inhibit peripheral conversion of T4 to T3, so T3 falls. T4 is converted to inactive reverse T3 instead, so rT3 is high. T4 and TSH stay in the normal range.",
@@ -26832,7 +26876,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2053",
+    "id": "s2surg-2057",
     "category": "Surg Endocrine",
     "q": "Toxic adenoma per p250?",
     "a": "Autonomously secreting thyroid nodule (aka hot nodule). 131I scan shows uptake in the area of a single nodule. High T3, high T4, low TSH. Not malignant (no metastatic potential).",
@@ -26847,7 +26891,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2054",
+    "id": "s2surg-2058",
     "category": "Surg Endocrine",
     "q": "Toxic multinodular goiter per p250?",
     "a": "Autonomously secreting thyroid nodules (many hot nodules). 131I scan shows multinodular uptake. High T3, high T4, low TSH. Not malignant.",
@@ -26862,7 +26906,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2055",
+    "id": "s2surg-2059",
     "category": "Surg Endocrine",
     "q": "Toxic multinodular goiter as a distractor per p250?",
     "a": "The source has never seen it as a correct answer on USMLE, but it shows up as a distractor (e.g., for deQuervain). It occurs in the elderly: in a young hyperthyroid patient you can eliminate it because the patient is young and deQuervain is painful/tender while TMG is not.",
@@ -26873,7 +26917,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2056",
+    "id": "s2surg-2060",
     "category": "Surg Endocrine",
     "q": "Factitious thyrotoxicosis per p250?",
     "a": "Aka surreptitious thyrotoxicosis. The vignette need not mention the patient is a pharmacist. Hyperthyroid patient with a small, non-palpable thyroid gland (atrophic due to suppressed TSH).",
@@ -26888,7 +26932,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2057",
+    "id": "s2surg-2061",
     "category": "Surg Endocrine",
     "q": "Factitious thyrotoxicosis labs per p250?",
     "a": "T4 is converted to T3, but T3 isn't converted to T4. If thyroxine is taken: high T3, high T4, low TSH. If triiodothyronine is taken: high T3, low T4, low TSH.",
@@ -26899,7 +26943,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2058",
+    "id": "s2surg-2062",
     "category": "Surg Endocrine",
     "q": "First step in thyroid nodule evaluation per p251?",
     "a": "Palpation of the thyroid gland comes before checking serum TSH (a 2CK NBME question lists both and palpation is correct: history and exam before tests). Once a nodule is palpated, serum TSH is next.",
@@ -26910,7 +26954,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2059",
+    "id": "s2surg-2063",
     "category": "Surg Endocrine",
     "q": "Nodule with low TSH per p251?",
     "a": "Do a 131I uptake scan, not ultrasound. Carcinomas don't secrete thyroid hormone, so a hyperthyroid patient isn't a carcinoma concern; uptake separates Graves (diffuse), toxic adenoma (single nodular uptake) and toxic multinodular goiter (multifocal).",
@@ -26921,7 +26965,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2060",
+    "id": "s2surg-2064",
     "category": "Surg Endocrine",
     "q": "Low TSH but no nodule per p251?",
     "a": "Choose ultrasound over uptake scan, per a new NBME question (low TSH in a young patient with no mention of a nodule). With low TSH and a nodule, uptake scan comes first.",
@@ -26932,7 +26976,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2061",
+    "id": "s2surg-2065",
     "category": "Surg Endocrine",
     "q": "Primary hyperparathyroidism labs per p251?",
     "a": "High Ca2+, low PO4, high PTH. Usually a PTH-secreting adenoma, but can be diffuse four-gland hyperplasia. Can be part of MEN-1 or MEN-2A.",
@@ -26943,7 +26987,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2062",
+    "id": "s2surg-2066",
     "category": "Surg Endocrine",
     "q": "Rickets labs per p252?",
     "a": "Low Ca2+, low PO4 3-, high PTH (due to less negative feedback at the parathyroid glands).",
@@ -26954,7 +26998,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2063",
+    "id": "s2surg-2067",
     "category": "Surg Endocrine",
     "q": "Why PTH is high in secondary hyperparathyroidism per p252?",
     "a": "Low serum calcium reduces negative feedback at the calcium-sensing receptors on the parathyroid glands. Because the cause isn't the glands themselves, it is secondary; adenoma or diffuse hyperplasia would be primary. Calcium and phosphate arrows are the opposite of primary.",
@@ -26965,7 +27009,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2064",
+    "id": "s2surg-2068",
     "category": "Surg Endocrine",
     "q": "Phosphate in renal failure per p252?",
     "a": "High despite high PTH, because the kidney can't downregulate PCT phosphate transporters, so too much phosphate is reabsorbed.",
@@ -26976,7 +27020,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2065",
+    "id": "s2surg-2069",
     "category": "Surg Endocrine",
     "q": "Tertiary hyperparathyroidism per p252?",
     "a": "Hyperplasia of the parathyroid glands after long-standing secondary hyperparathyroidism: even if renal failure is controlled and calcium normalizes, PTH keeps being secreted autonomously at higher basal levels (resetting the calcium setpoint). Labs: high Ca2+, high PO4, high PTH.",
@@ -26991,7 +27035,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2066",
+    "id": "s2surg-2070",
     "category": "Surg Endocrine",
     "q": "Red flag for tertiary hyperparathyroidism per p252?",
     "a": "A rise in serum calcium in a patient with renal failure (they almost always have low calcium). It is not primary hyperparathyroidism because the etiology of high PTH was not an adenoma or hyperplasia. Phosphate stays high because of renal failure.",
@@ -27002,7 +27046,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2067",
+    "id": "s2surg-2071",
     "category": "Surg Endocrine",
     "q": "DiGeorge heart and immune features per p252?",
     "a": "Tetralogy of Fallot and truncus arteriosus are common heart defects. Parathyroid agenesis causes primary hypoparathyroidism (low calcium + high phosphate). T cell deficiency: recurrent viral, fungal, and protozoal infections.",
@@ -27013,7 +27057,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2068",
+    "id": "s2surg-2072",
     "category": "Surg Endocrine",
     "q": "Thymic shadow and lymphoid tissue clues per p252?",
     "a": "Absent thymic shadow = T cell deficiency = DiGeorge. Scanty lymph nodes/tonsils = B cell deficiency = Bruton agammaglobulinemia. Both absent thymic shadow and scanty nodes/tonsils = SCID.",
@@ -27028,7 +27072,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2069",
+    "id": "s2surg-2073",
     "category": "Surg Endocrine",
     "q": "Chvostek and Trousseau signs of hypocalcemia per p253?",
     "a": "Chvostek: twitching of the masseter with stimulation. Trousseau: carpopedal spasm with blood pressure cuff inflation. USMLE can give either when Ca2+ is low.",
@@ -27043,7 +27087,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2070",
+    "id": "s2surg-2074",
     "category": "Surg Endocrine",
     "q": "Hypocalcemia vs hypercalcemia findings per p253?",
     "a": "Hypocalcemia causes 'up' findings: tetany and hyperreflexia. Hypercalcemia causes 'down' findings: muscle flaccidity and hyporeflexia.",
@@ -27054,7 +27098,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2071",
+    "id": "s2surg-2075",
     "category": "Surg Endocrine",
     "q": "Trousseau and Troisier signs of malignancy per p253?",
     "a": "Don't confuse them with Trousseau sign of hypocalcemia. Troisier: palpable left supraclavicular lymph node in visceral malignancy (aka Virchow node). Trousseau of malignancy: migratory thrombophlebitis, classically head of pancreas adenocarcinoma (can be other adenocarcinomas, e.g., bronchogenic).",
@@ -27065,7 +27109,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2072",
+    "id": "s2surg-2076",
     "category": "Surg Endocrine",
     "q": "Why alcoholics get hypomagnesemia per p253?",
     "a": "Dietary deficiency: EtOH is 7 kcal/g, so they fill up on alcohol.",
@@ -27076,7 +27120,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2073",
+    "id": "s2surg-2077",
     "category": "Surg Endocrine",
     "q": "Effects of low magnesium per p253?",
     "a": "Hypocalcemia and hypokalemia that don't respond to supplementation. Basal magnesium is required for proper parathyroid function, so low magnesium can cause low PTH secretion.",
@@ -27091,7 +27135,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2074",
+    "id": "s2surg-2078",
     "category": "Surg Endocrine",
     "q": "Step 2 hypomagnesemia question per p253?",
     "a": "An alcoholic with low calcium or potassium nonresponsive to supplementation: next best step is check serum magnesium.",
@@ -27102,7 +27146,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2075",
+    "id": "s2surg-2079",
     "category": "Surg Endocrine",
     "q": "Paraneoplastic PTHrP per p253?",
     "a": "Squamous cell carcinoma of the lung and renal cell carcinoma secrete parathyroid hormone-related peptide (PTHrP), not the same as PTH. Labs: high serum Ca2+, low PO4, low PTH. PTHrP has similar effects as PTH; PTH from the glands is suppressed by high calcium.",
@@ -27117,7 +27161,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2076",
+    "id": "s2surg-2080",
     "category": "Surg Endocrine",
     "q": "Lung cancer + high calcium + low PTH per p253?",
     "a": "Answer: squamous cell carcinoma of the lung (NBME). The low PTH isn't weird: PTH is not PTHrP, which is up.",
@@ -27128,7 +27172,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2077",
+    "id": "s2surg-2081",
     "category": "Surg Endocrine",
     "q": "Hypercalcemia from metastases per p253?",
     "a": "High serum Ca2+, low PTH. Once metastases seed bone, cytokine activity causes bone lysis and calcium release; hypercalcemia is common in metastatic malignancy. PTH is suppressed by the high calcium.",
@@ -27143,7 +27187,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2078",
+    "id": "s2surg-2082",
     "category": "Surg Endocrine",
     "q": "Milk-alkali syndrome per p254?",
     "a": "A diagnosis of exclusion on USMLE. Textbook: hypercalcemia and metabolic alkalosis (high bicarb) in someone taking too many calcium carbonate antacid tablets for GERD or dyspepsia; can lead to urolithiasis.",
@@ -27158,7 +27202,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2079",
+    "id": "s2surg-2083",
     "category": "Surg Endocrine",
     "q": "Where is cortisol made per p254?",
     "a": "Zona fasciculata of the adrenal cortex.",
@@ -27169,7 +27213,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2080",
+    "id": "s2surg-2084",
     "category": "Surg Endocrine",
     "q": "Conn syndrome treatment per p254?",
     "a": "Spironolactone (aldosterone receptor antagonist) prior to surgery.",
@@ -27180,7 +27224,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2081",
+    "id": "s2surg-2085",
     "category": "Surg Endocrine",
     "q": "Addison disease per p254?",
     "a": "Autoimmune destruction of the adrenal cortex leading to decreased aldosterone and cortisol. The source hasn't seen USMLE care about decreased androgens. Called primary adrenal insufficiency because the adrenal gland itself is underproducing hormones.",
@@ -27195,7 +27239,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2082",
+    "id": "s2surg-2086",
     "category": "Surg Endocrine",
     "q": "Addison labs and BP per p254?",
     "a": "Low Na+, high K+, low pH, low bicarb. BP is low-normal or low due to both decreased aldosterone and decreased cortisol; the cortisol effect is high-yield, not just aldosterone.",
@@ -27206,7 +27250,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2083",
+    "id": "s2surg-2087",
     "category": "Surg Endocrine",
     "q": "Addison hyperpigmentation per p254?",
     "a": "ACTH and alpha-MSH are both increased due to low cortisol, causing hyperpigmentation; the source says only about 50% of vignettes mention it.",
@@ -27217,7 +27261,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2084",
+    "id": "s2surg-2088",
     "category": "Surg Endocrine",
     "q": "Addison eosinophilia per p254?",
     "a": "Patients can present with eosinophilia: cortisol normally helps sequester eosinophils in the spleen and facilitates their apoptosis, so low cortisol means more eosinophils. Questions can give eosinophils of 15-25% (normally <5%); don't chase stool ova and parasites.",
@@ -27232,7 +27276,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2085",
+    "id": "s2surg-2089",
     "category": "Surg Endocrine",
     "q": "Classic Addison vignette answer per p255?",
     "a": "Ongoing fatigue + hyperpigmentation (young or old): the answer is ACTH stimulation test.",
@@ -27247,7 +27291,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2086",
+    "id": "s2surg-2090",
     "category": "Surg Endocrine",
     "q": "ACTH stimulation in primary adrenal insufficiency per p255?",
     "a": "Exogenous ACTH should normally cause a robust rise in cortisol from the adrenal fasciculata. In primary adrenal insufficiency the gland is damaged, so exogenous ACTH produces no response.",
@@ -27258,7 +27302,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2087",
+    "id": "s2surg-2091",
     "category": "Surg Endocrine",
     "q": "Low cortisol and chronic fatigue per p255?",
     "a": "The source says low cortisol causes chronic fatigue and that this is one of the most overlooked details in NBME questions and real life: check cortisol in unexplained chronic fatigue; if low, hydrocortisone will boost the patient.",
@@ -27269,7 +27313,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2088",
+    "id": "s2surg-2092",
     "category": "Surg Endocrine",
     "q": "Addison treatment per p255?",
     "a": "Fludrocortisone +/- hydrocortisone. Fludrocortisone is a mineralocorticoid similar to aldosterone; hydrocortisone is a glucocorticoid similar to cortisol.",
@@ -27284,7 +27328,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2089",
+    "id": "s2surg-2093",
     "category": "Surg Endocrine",
     "q": "Waterhouse-Friderichsen syndrome per p255?",
     "a": "Meningococcal septicemia causing bilateral hemorrhagic necrosis of the adrenal glands, with low aldosterone and low cortisol. Vignette: low BP + low Na+ + high K+ + low bicarb with meningococcal infection (recent meningitis + non-blanching rash); answer: ACTH stimulation test.",
@@ -27299,7 +27343,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2090",
+    "id": "s2surg-2094",
     "category": "Surg Endocrine",
     "q": "Cushing syndrome vs Cushing disease per p255?",
     "a": "Cushing syndrome = how the patient looks; any cause (exogenous glucocorticoids, ACTH-secreting pituitary tumor, cortisol-secreting adrenal tumor, small cell lung carcinoma secreting ACTH). Cushing disease = only an ACTH-secreting tumor of the anterior pituitary.",
@@ -27314,7 +27358,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2091",
+    "id": "s2surg-2095",
     "category": "Surg Endocrine",
     "q": "Highest-yield Cushingoid findings per p255?",
     "a": "Purple abdominal striae, osteoporosis (vertebral compression fractures), and avascular necrosis of the femoral head (hip pain). Buffalo hump, moon facies, central obesity, peripheral muscle wasting, hypertension, and type II diabetes are pass-level.",
@@ -27325,7 +27369,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2092",
+    "id": "s2surg-2096",
     "category": "Surg Endocrine",
     "q": "Hypokalemia in Cushing per p255?",
     "a": "Chronically elevated cortisol can cause hypokalemia similar to high aldosterone (e.g., K+ 3.0 mEq/L, normal 3.5-5.0): glucocorticoids have some mineralocorticoid effect at the kidney. Important for 2CK vignettes.",
@@ -27340,7 +27384,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2093",
+    "id": "s2surg-2097",
     "category": "Surg Endocrine",
     "q": "Dexamethasone suppression test purpose per p256?",
     "a": "Dexamethasone is a cortisol analogue that gives negative feedback at the hypothalamus and anterior pituitary, suppressing ACTH and cortisol in healthy people. It determines the cause of endogenous Cushing syndrome (not for a patient taking steroids).",
@@ -27355,7 +27399,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2094",
+    "id": "s2surg-2098",
     "category": "Surg Endocrine",
     "q": "Low-dose dex per p256?",
     "a": "A yes/no test for Cushing syndrome: if cortisol suppresses, no Cushing; if it doesn't, Cushing syndrome is present but the cause is unknown.",
@@ -27366,7 +27410,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2095",
+    "id": "s2surg-2099",
     "category": "Surg Endocrine",
     "q": "High-dose dex per p256?",
     "a": "Differentiates Cushing disease from other causes: only Cushing disease will have suppressed cortisol. If cortisol falls with high-dose dex, it is Cushing disease.",
@@ -27377,7 +27421,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2096",
+    "id": "s2surg-2100",
     "category": "Surg Endocrine",
     "q": "No suppression with high-dose dex per p256?",
     "a": "Look at ACTH. Low ACTH with high cortisol: adrenal cortical adenoma of the zona fasciculata secreting cortisol. High ACTH: ectopic ACTH from small cell bronchogenic carcinoma (not pituitary, since cortisol wasn't suppressed).",
@@ -27388,7 +27432,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2097",
+    "id": "s2surg-2101",
     "category": "Surg Endocrine",
     "q": "Neuroblastoma paraneoplastic per p257?",
     "a": "Opsoclonus-myoclonus syndrome (dancing eyes).",
@@ -27403,7 +27447,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2098",
+    "id": "s2surg-2102",
     "category": "Surg Endocrine",
     "q": "Adrenal adenoma ACTH per p257?",
     "a": "Low ACTH + high cortisol; does not suppress with high-dose dex. After high-dose dex: no change in ACTH, no change in cortisol (same as small cell lung cancer).",
@@ -27414,7 +27458,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2099",
+    "id": "s2surg-2103",
     "category": "Surg Endocrine",
     "q": "Exogenous steroids per p257?",
     "a": "Low ACTH + low cortisol. Exogenous steroids (prednisone, hydrocortisone) are not the same as cortisol; the result is suppression of endogenous cortisol. Students get this wrong all the time.",
@@ -27425,7 +27469,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2100",
+    "id": "s2surg-2104",
     "category": "Surg Endocrine",
     "q": "Glucocorticoid psychosis per p257?",
     "a": "Glucocorticoids can cause psychosis, a delirium-like presentation, or general mood disturbance such as depression. The vignette can give Cushing syndrome + depression, or recent IV methylprednisolone + delirium-like presentation 24-48 hours later.",
@@ -27440,7 +27484,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2101",
+    "id": "s2surg-2105",
     "category": "Surg Endocrine",
     "q": "Licorice per p257?",
     "a": "Contains glycyrrhizic acid, which increases mineralocorticoid effect at the kidney (similar to aldosterone). Can cause hypokalemia with excessive licorice tea.",
@@ -27455,7 +27499,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2102",
+    "id": "s2surg-2106",
     "category": "Surg Endocrine",
     "q": "Pheochromocytoma presentation per p257?",
     "a": "Paroxysmal high BP: periodic palpitations and pounding headaches. Office BP can be 120/80, so don't exclude it. Stressors (e.g., sitting up on the exam table) trigger NE + E release and BP can exceed 180/100, unlike white coat hypertension (young patient 140/90 when nervous).",
@@ -27466,7 +27510,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2103",
+    "id": "s2surg-2107",
     "category": "Surg Endocrine",
     "q": "Pheochromocytoma diagnosis per p257?",
     "a": "Urinary/serum metanephrines; if positive, then CT abdomen.",
@@ -27477,7 +27521,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2104",
+    "id": "s2surg-2108",
     "category": "Surg Endocrine",
     "q": "Propranolol after phenoxybenzamine per p257?",
     "a": "In theory it can be given, but USMLE doesn't assess this; it wants straight alpha-blockade.",
@@ -27488,7 +27532,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2105",
+    "id": "s2surg-2109",
     "category": "Surg Endocrine",
     "q": "Pheochromocytoma associations per p257?",
     "a": "Can be idiopathic or part of MEN 2A/B or NF1. In medullary thyroid cancer, check for pheochromocytoma before thyroidectomy: in MEN 2, surgery without checking can cause a large BP rise from catecholamine release and kill the patient.",
@@ -27503,7 +27547,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2106",
+    "id": "s2surg-2110",
     "category": "Surg Endocrine",
     "q": "Neuroblastoma per p257?",
     "a": "Essentially the pediatric pheochromocytoma; N-myc gene. Secretes catecholamines; can calcify (same as pheo in adults).",
@@ -27518,7 +27562,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2107",
+    "id": "s2surg-2111",
     "category": "Surg Endocrine",
     "q": "Neuroblastoma findings per p257?",
     "a": "High BP and opsoclonus-myoclonus syndrome (dancing eyes), and violaceous eyelids (sounds like the heliotrope rash of dermatomyositis but unrelated).",
@@ -27529,7 +27573,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2108",
+    "id": "s2surg-2112",
     "category": "Surg Endocrine",
     "q": "Neuroblastoma diagnosis per p258?",
     "a": "Urinary homovanillic acid (HVA) and vanillylmandelic acid (VMA), metabolites of catecholamines. A metaiodobenzylguanidine scan can be done after HVA and VMA are detected.",
@@ -27540,7 +27584,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2109",
+    "id": "s2surg-2113",
     "category": "Surg Endocrine",
     "q": "Carcinoid tumor per p258?",
     "a": "Neuroendocrine tumor of small bowel, appendix, or lung; S-100 (+), small blue cells. Secretes serotonin. Flushing, tachycardia, diaphoresis, diarrhea.",
@@ -27555,7 +27599,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2110",
+    "id": "s2surg-2114",
     "category": "Surg Endocrine",
     "q": "Carcinoid heart and diagnosis per p258?",
     "a": "Tricuspid regurgitation is common (holosystolic murmur that increases with inspiration) due to tricuspid lesions. Diagnose with urinary 5-hydroxyindole acetic acid (5-HIAA).",
@@ -27566,7 +27610,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2111",
+    "id": "s2surg-2115",
     "category": "Surg Endocrine",
     "q": "Carcinoid vs serotonin syndrome per p258?",
     "a": "Serotonin syndrome is a drug interaction (e.g., starting an MAOI too soon after stopping an SSRI, or St John's wort with an SSRI).",
@@ -27581,7 +27625,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2112",
+    "id": "s2surg-2116",
     "category": "Surg Endocrine",
     "q": "MEN inheritance per p258?",
     "a": "All MEN syndromes and Carney complex are autosomal dominant.",
@@ -27592,7 +27636,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2113",
+    "id": "s2surg-2117",
     "category": "Surg Endocrine",
     "q": "MEN 1 per p258?",
     "a": "MEN1 gene mutation. Parathyroid adenoma (or hyperplasia), pituitary adenoma, pancreatic adenoma.",
@@ -27607,7 +27651,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2114",
+    "id": "s2surg-2118",
     "category": "Surg Endocrine",
     "q": "MEN 1 high-yield tumors per p258?",
     "a": "Zollinger-Ellison syndrome (gastrinoma) is the highest-yield pancreatic tumor (recurrent peptic ulcers). Prolactinoma is the highest-yield pituitary tumor. Parathyroid adenoma often presents with calcium urolithiasis (flank or groin pain in a patient with a history of ulcers).",
@@ -27618,7 +27662,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2115",
+    "id": "s2surg-2119",
     "category": "Surg Endocrine",
     "q": "MEN 2A per p258?",
     "a": "RET proto-oncogene mutation. Parathyroid adenoma (or hyperplasia), pheochromocytoma, medullary thyroid carcinoma. NBME questions can give isolated medullary thyroid carcinoma in a family: answer RET. In theory isolated parathyroid adenoma could be RET, but in the NBME example MEN1 was listed without RET.",
@@ -27633,7 +27677,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2116",
+    "id": "s2surg-2120",
     "category": "Surg Endocrine",
     "q": "MEN 2B per p258?",
     "a": "RET proto-oncogene mutation. Marfanoid body habitus, mucosal neuromas, pheochromocytoma, medullary thyroid carcinoma. '-oid' means looks like but isn't: the patient looks Marfan-like (tall, lanky) but it is not an FBN1/2 mutation.",
@@ -27644,7 +27688,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2117",
+    "id": "s2surg-2121",
     "category": "Surg Endocrine",
     "q": "MEN 2B thyroidectomy precaution per p258?",
     "a": "Before thyroidectomy for medullary thyroid carcinoma, check for pheochromocytoma first with urinary metanephrines (surgery stress can cause a catecholamine surge from the tumor and kill the patient); if positive, CT abdomen.",
@@ -27655,7 +27699,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2118",
+    "id": "s2surg-2122",
     "category": "Surg Endocrine",
     "q": "Carney complex per p258?",
     "a": "Hyperpigmentation, atrial myxoma, endocrine hypersecretion. Hyperpigmentation can present as perioral melanosis, similar to Peutz-Jeghers, but the question mentions a cardiac tumor and another endocrine organ hypersecreting instead of hamartomatous colonic polyps.",
@@ -27670,7 +27714,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2119",
+    "id": "s2surg-2123",
     "category": "Surg Endocrine",
     "q": "MEN2A per p258?",
     "a": "Parathyroid, medullary thyroid carcinoma, pheochromocytoma.",
@@ -27681,7 +27725,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2120",
+    "id": "s2surg-2124",
     "category": "Surg Endocrine",
     "q": "MEN2B per p258?",
     "a": "Medullary thyroid carcinoma, pheochromocytoma, mucosal neuromas, Marfanoid body habitus ('oid' means looks like but is not).",
@@ -27692,7 +27736,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2121",
+    "id": "s2surg-2125",
     "category": "Surg Endocrine",
     "q": "Carney atrial myxoma per p259?",
     "a": "Atrial myxoma normally shows up in adults (cardiac rhabdomyoma in children with tuberous sclerosis). In Carney the question can say atrial myxoma in a child: the only USMLE example that breaks the rule.",
@@ -27703,7 +27747,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2122",
+    "id": "s2surg-2126",
     "category": "Surg Endocrine",
     "q": "Carney endocrine hypersecretion per p259?",
     "a": "Classically Cushing syndrome (the source says granular hyperpigmentation of the zona fasciculata) or hyperthyroidism. The source notes students often don't realize this is what they saw on the exam.",
@@ -27714,7 +27758,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2123",
+    "id": "s2surg-2127",
     "category": "Surg Endocrine",
     "q": "Diabetes mellitus vs insipidus per p259?",
     "a": "'Diabetes' means polydipsia + polyuria. Students confuse DM with DI since both give increased thirst and urination. Acute DM vignettes can mention weight loss from increased catabolism (also in acute type II, though the patient is usually overweight); vomiting is another HY finding. Thirst + urination + weight loss +/- vomiting = DM, not DI.",
@@ -27725,7 +27769,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2124",
+    "id": "s2surg-2128",
     "category": "Surg Endocrine",
     "q": "Diagnosis of DM per p259?",
     "a": "Per the source: two fasting glucoses >126 mg/dL, any one random glucose >200 mg/dL, or HbA1c >6.5%.",
@@ -27740,7 +27784,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2125",
+    "id": "s2surg-2129",
     "category": "Surg Endocrine",
     "q": "Type I DM basics per p259?",
     "a": "Absence of insulin; autoimmune; no single gene, though HLA-DR3/4 are associated. Often 'genetic susceptibility with environmental trigger' (viral infection, usually Coxsackie B). Almost always in children or teenagers of normal BMI.",
@@ -27755,7 +27799,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2126",
+    "id": "s2surg-2130",
     "category": "Surg Endocrine",
     "q": "Type I DM pathogenesis per p259?",
     "a": "Usually antibody- (anti-GAD65 or anti-ZnT8) plus T-cell-mediated destruction of beta-islet cells (the source says in the tail of the pancreas), decreasing insulin; GLUT4 can't be recruited to the surface of skeletal muscle and adipose tissue, so cells are starved of energy, increasing gluconeogenesis + ketogenesis.",
@@ -27766,7 +27810,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2127",
+    "id": "s2surg-2131",
     "category": "Surg Endocrine",
     "q": "Why hyperglycemia occurs in type I per p259?",
     "a": "Continued glucose production by the liver (gluconeogenesis) plus decreased uptake by skeletal muscle and adipose tissue.",
@@ -27777,7 +27821,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2128",
+    "id": "s2surg-2132",
     "category": "Surg Endocrine",
     "q": "Type I pancreas biopsy per p259?",
     "a": "Acute: inflammatory infiltrate. Late (years later): atrophy and fibrosis.",
@@ -27788,7 +27832,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2129",
+    "id": "s2surg-2133",
     "category": "Surg Endocrine",
     "q": "Ketogenesis in type I vs type II per p259?",
     "a": "The absence of insulin in type I enables ketogenesis. In type II, ketones are low because insulin is present.",
@@ -27799,7 +27843,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2130",
+    "id": "s2surg-2134",
     "category": "Surg Endocrine",
     "q": "DKA presentation per p259?",
     "a": "Ketone bodies (USMLE likes beta-hydroxybutyrate) are highly acidic, dropping pH (high anion-gap metabolic acidosis). Child or teenager with polyuria, polydipsia, sometimes vomiting, severe metabolic acidosis; fruity breath (ketones).",
@@ -27814,7 +27858,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2131",
+    "id": "s2surg-2135",
     "category": "Surg Endocrine",
     "q": "DKA acid-base per p259?",
     "a": "Low pH, low HCO3-, low CO2. Ketones cause metabolic acidosis; we blow off CO2 to compensate; Kussmaul breathing is deep, labored breathing.",
@@ -27825,7 +27869,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2132",
+    "id": "s2surg-2136",
     "category": "Surg Endocrine",
     "q": "DKA ketones, osmolality, gap per p259?",
     "a": "Increased beta-hydroxybutyrate, increased serum osmolality, increased anion gap. Osmolality is high because glucose is markedly increased, even though serum sodium is low. DKA is the D in MUDPILES.",
@@ -27836,7 +27880,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2133",
+    "id": "s2surg-2137",
     "category": "Surg Endocrine",
     "q": "DKA sodium, potassium, GFR per p259?",
     "a": "Low serum Na+, high serum K+, low total body K+, increased GFR.",
@@ -27847,7 +27891,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2134",
+    "id": "s2surg-2138",
     "category": "Surg Endocrine",
     "q": "Are lymphomas/leukemias normally B or T cell per p259?",
     "a": "Almost always B cell.",
@@ -27858,7 +27902,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2135",
+    "id": "s2surg-2139",
     "category": "Surg Endocrine",
     "q": "Why serum sodium is low in DKA per p260?",
     "a": "Mostly dilutional: high osmolality holds fluid intravascularly. Also low insulin means less glucose entry, less ATP, less Na+/K+-ATPase activity, so sodium isn't pumped out of cells.",
@@ -27869,7 +27913,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2136",
+    "id": "s2surg-2140",
     "category": "Surg Endocrine",
     "q": "Why total body potassium is low in DKA per p260?",
     "a": "Increased renal losses: high serum potassium means more is filtered and excreted, and the processes causing hyperkalemia continue, depleting body K+.",
@@ -27880,7 +27924,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2137",
+    "id": "s2surg-2141",
     "category": "Surg Endocrine",
     "q": "Why GFR is increased in DKA per p260?",
     "a": "Hyperfiltration from hyperglycemia: more glucose is filtered, pulling water with it.",
@@ -27891,7 +27935,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2138",
+    "id": "s2surg-2142",
     "category": "Surg Endocrine",
     "q": "DKA treatment order per p260?",
     "a": "Normal saline (0.9% NaCl) first, prior to insulin.",
@@ -27906,7 +27950,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2139",
+    "id": "s2surg-2143",
     "category": "Surg Endocrine",
     "q": "Potassium after insulin in DKA per p260?",
     "a": "Serum potassium drops as insulin is given. DKA with a normal potassium, insulin given, and now an arrhythmia: the answer is potassium (it was driven into cells, causing hypokalemia).",
@@ -27917,7 +27961,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2140",
+    "id": "s2surg-2144",
     "category": "Surg Endocrine",
     "q": "Bicarbonate in DKA per p260?",
     "a": "Per the source, bicarb is always a wrong answer for low pH in DKA.",
@@ -27928,7 +27972,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2141",
+    "id": "s2surg-2145",
     "category": "Surg Endocrine",
     "q": "Hypoglycemia in type I DM per p260?",
     "a": "Don't confuse DKA with hypoglycemia: e.g., a type I diabetic who exercised or cleaned the roof and is found unconscious (insulin dose not decreased before exercise). Treatment is intramuscular glucagon (2CK likes this) or dextrose in water.",
@@ -27943,7 +27987,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2142",
+    "id": "s2surg-2146",
     "category": "Surg Endocrine",
     "q": "Prolonged hypoglycemia after insulin per p260?",
     "a": "Answer: 'deficiency of counter-regulatory glucagon.' In advanced diabetes the glucagon-producing alpha-islet cells can also fail; also asked for chronic alcoholism and pancreatectomy.",
@@ -27954,7 +27998,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2143",
+    "id": "s2surg-2147",
     "category": "Surg Endocrine",
     "q": "Type II DM basics per p260?",
     "a": "Insulin resistance, usually in high-BMI adults but can rarely occur in peds (a 2CK form gives type II in a 17-year-old). High BMI causes insulin resistance because adipose tissue secretes adipokines that impair insulin signaling.",
@@ -27969,7 +28013,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2144",
+    "id": "s2surg-2148",
     "category": "Surg Endocrine",
     "q": "Insulin and ketones in type II per p260?",
     "a": "Insulin is high initially (hyperinsulinemia) from beta-cell hypertrophy compensating for peripheral resistance. Ketones are absent/low because insulin inhibits ketogenesis. These two points are the highest yield.",
@@ -27980,7 +28024,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2145",
+    "id": "s2surg-2149",
     "category": "Surg Endocrine",
     "q": "Type II pancreas biopsy per p260?",
     "a": "Initially beta-cell hypertrophy; years later amyloid deposition and cell shrinkage. Hyperglycemia, as in type I, comes from continued hepatic gluconeogenesis plus decreased uptake by skeletal muscle and adipose tissue.",
@@ -27991,7 +28035,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2146",
+    "id": "s2surg-2150",
     "category": "Surg Endocrine",
     "q": "HHS mental status vignette per p261?",
     "a": "A long vignette with glucose of 650-700 and a question on the cause of mental status change: answer is 'hyperosmolality', 'hyperglycemia', or 'osmotic diuresis' (severe dehydration). Mechanism: hyperosmolality in the brain's ECF pulls water out of the ICF.",
@@ -28002,7 +28046,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2147",
+    "id": "s2surg-2151",
     "category": "Surg Endocrine",
     "q": "Hemochromatosis and diabetes per p261?",
     "a": "Hereditary hemochromatosis ('bronze diabetes'): iron deposition in the pancreas (the source says the tail), causing impaired fasting glucose or overt diabetes. Hyperpigmentation is from hemosiderin. Also cardiomyopathy, infertility, and pseudogout.",
@@ -28017,7 +28061,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2148",
+    "id": "s2surg-2152",
     "category": "Surg Endocrine",
     "q": "Other causes of diabetes per p261 (Cushing, acromegaly, alcohol, surgery)?",
     "a": "Cushing syndrome (insulin resistance from glucocorticoids); acromegaly (GH causes insulin resistance); alcoholism (chronic pancreatitis causing exocrine burnout and steatorrhea and loss of islet cells); pancreatectomy (removing some of the tail can lead to diabetes).",
@@ -28028,7 +28072,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2149",
+    "id": "s2surg-2153",
     "category": "Surg Endocrine",
     "q": "Tacrolimus per p261?",
     "a": "The notable drug that can cause diabetes for USMLE. An immunosuppressant that decreases IL-2 synthesis and T cell stimulation.",
@@ -28043,7 +28087,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2150",
+    "id": "s2surg-2154",
     "category": "Surg Endocrine",
     "q": "Calcium reference and symptoms per p261?",
     "a": "8.4-10.2 mg/dL. Low Ca: 'up' presentation (tetany, hyperreflexia). High Ca: 'down' (muscle flaccidity, hyporeflexia) and delirium/confusion (hypercalcemic crisis).",
@@ -28054,7 +28098,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2151",
+    "id": "s2surg-2155",
     "category": "Surg Endocrine",
     "q": "High calcium causes per p261?",
     "a": "Sarcoidosis (increased vitamin D), primary hyperparathyroidism (adenoma, hyperplasia, MEN 1/2A), metastatic malignancy, multiple myeloma, and thiazides (increase Ca reabsorption in the DCT).",
@@ -28065,7 +28109,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2152",
+    "id": "s2surg-2156",
     "category": "Surg Endocrine",
     "q": "Low calcium causes per p261?",
     "a": "Rickets/osteomalacia (low vitamin D), secondary hyperparathyroidism (renal failure), post-thyroidectomy, DiGeorge syndrome, loop diuretics (decreased paracellular reabsorption), and hypomagnesemia (usually in alcoholics; hypo-Mg can cause hypo-Ca and hypo-K nonresponsive to supplementation).",
@@ -28076,7 +28120,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2153",
+    "id": "s2surg-2157",
     "category": "Surg Endocrine",
     "q": "Sodium per p261?",
     "a": "Reference 135-145 mEq/L. High or low sodium causes CNS dysfunction (confusion, stupor, coma). Na can often be normal in USMLE vignettes despite the expected derangement (e.g., Conn syndrome with normal sodium).",
@@ -28087,7 +28131,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2154",
+    "id": "s2surg-2158",
     "category": "Surg Endocrine",
     "q": "High and low sodium causes per p261?",
     "a": "High: primary hyperaldosteronism, renal artery stenosis, fibromuscular dysplasia, dehydration, diabetes insipidus. Low: Addison disease, psychogenic polydipsia, SIADH.",
@@ -28098,7 +28142,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2155",
+    "id": "s2surg-2159",
     "category": "Surg Endocrine",
     "q": "Potassium per p261?",
     "a": "Reference 3.5-5.0 mEq/L. High or low potassium causes cardiac dysfunction (arrhythmia), in contrast to sodium causing CNS dysfunction.",
@@ -28109,7 +28153,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2156",
+    "id": "s2surg-2160",
     "category": "Surg Endocrine",
     "q": "High potassium causes per p262?",
     "a": "Addison disease, renal failure, and polypharmacy with agents such as potassium-sparing diuretics and digoxin.",
@@ -28120,7 +28164,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2157",
+    "id": "s2surg-2161",
     "category": "Surg Endocrine",
     "q": "Low potassium causes per p262?",
     "a": "Primary hyperaldosteronism, renal artery stenosis, fibromuscular dysplasia, Cushing disease (chronic high glucocorticoids acting like mineralocorticoids distally), vomiting, diarrhea, loop diuretics and thiazides, and hypomagnesemia.",
@@ -28131,7 +28175,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2158",
+    "id": "s2surg-2162",
     "category": "Surg Endocrine",
     "q": "Phosphate per p262?",
     "a": "Reference 2.5-4.5 mg/dL. High: hypoparathyroidism, secondary hyperparathyroidism, renal failure, tumor lysis syndrome, sarcoidosis (increased vitamin D). Low: primary hyperparathyroidism, rickets/osteomalacia, refeeding syndrome.",
@@ -28142,7 +28186,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2159",
+    "id": "s2surg-2163",
     "category": "Surg Endocrine",
     "q": "Normal acid-base values per p262?",
     "a": "Per the source: pH 7.35-7.45; HCO3- 22-28 mEq/L; pCO2 33-44 mmHg.",
@@ -28153,7 +28197,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2160",
+    "id": "s2surg-2164",
     "category": "Surg Endocrine",
     "q": "Metabolic acidosis per p262?",
     "a": "Low pH from low HCO3-; pCO2 falls to compensate (CO2 is acidic).",
@@ -28168,7 +28212,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2161",
+    "id": "s2surg-2165",
     "category": "Surg Endocrine",
     "q": "MUDPILES per p262?",
     "a": "High-anion-gap metabolic acidoses: Methanol, Uremia, DKA, Phenformin, Iron tablets/Isoniazid, Lactic acidosis, Ethylene glycol, Salicylates.",
@@ -28183,7 +28227,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2162",
+    "id": "s2surg-2166",
     "category": "Surg Endocrine",
     "q": "Normal anion gap acidosis per p262?",
     "a": "If metabolic acidosis has a normal anion gap, eliminate MUDPILES answers and choose something like renal tubular acidosis. Most important: diarrhea, RTA, adrenal insufficiency, and CAH (21-deficiency).",
@@ -28194,7 +28238,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2163",
+    "id": "s2surg-2167",
     "category": "Surg Endocrine",
     "q": "Anion gap calculation per p262?",
     "a": "Na+ - (HCO3- + Cl-). Normal is 8-12, so 13 or greater is high; an NBME question has a gap of 12 where the answer is RTA.",
@@ -28205,7 +28249,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2164",
+    "id": "s2surg-2168",
     "category": "Surg Endocrine",
     "q": "Metabolic alkalosis per p262?",
     "a": "High pH from high HCO3-; pCO2 rises to compensate. Causes: Conn syndrome, renal artery stenosis, fibromuscular dysplasia, vomiting, loops and thiazides (volume depletion activates RAAS).",
@@ -28216,7 +28260,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2165",
+    "id": "s2surg-2169",
     "category": "Surg Endocrine",
     "q": "Respiratory acidosis per p262?",
     "a": "Low pH from high CO2; HCO3 rises if chronic. Acute (normal bicarb): hypoventilation from opioids, benzos, barbiturates. Chronic (high bicarb): COPD, obstructive sleep apnea, obesity, ankylosing spondylitis, severe kyphoscoliosis.",
@@ -28227,7 +28271,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2166",
+    "id": "s2surg-2170",
     "category": "Surg Endocrine",
     "q": "Respiratory alkalosis per p262?",
     "a": "High pH from low CO2; HCO3 falls if chronic. Acute (normal bicarb): asthma attack, panic attack, most pulmonary emboli, first day at altitude. Chronic (low bicarb): living at high altitude, pregnancy (progesterone upregulates the respiratory center).",
@@ -28238,7 +28282,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2167",
+    "id": "s2surg-2171",
     "category": "Surg Endocrine",
     "q": "Electrolyte abnormality in Cushing syndrome per p262?",
     "a": "Hypokalemia (chronically high glucocorticoid causes distal renal potassium wasting similar to aldosterone).",
@@ -28249,7 +28293,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2168",
+    "id": "s2surg-2172",
     "category": "Surg Endocrine",
     "q": "Acid-base disturbance in asthma per p262?",
     "a": "Respiratory alkalosis: low O2, low CO2, high pH, normal bicarb.",
@@ -28260,7 +28304,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2169",
+    "id": "s2surg-2173",
     "category": "Surg Endocrine",
     "q": "Aspirin overdose acid-base per p263?",
     "a": "High-anion gap mixed metabolic acidosis and respiratory alkalosis (the S in MUDPILES).",
@@ -28271,7 +28315,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2170",
+    "id": "s2surg-2174",
     "category": "Surg Endocrine",
     "q": "Aspirin toxicity symptom per p263?",
     "a": "Most common symptom is tinnitus (ear-ringing).",
@@ -28282,7 +28326,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2171",
+    "id": "s2surg-2175",
     "category": "Surg Endocrine",
     "q": "Speed of compensation per p263?",
     "a": "Primary metabolic derangements are compensated instantly by respiration; primary respiratory derangements are compensated slowly because the kidney takes time to alter bicarb excretion.",
@@ -28293,7 +28337,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2172",
+    "id": "s2surg-2176",
     "category": "Surg Endocrine",
     "q": "Winter formula per p263?",
     "a": "Predicted pCO2 = (1.5 x HCO3-) + 8 +/- 2. Example: DKA with bicarb 14 predicts pCO2 27-31 mmHg. Lower than 27: concurrent respiratory alkalosis; higher than 31: concurrent respiratory acidosis.",
@@ -28304,7 +28348,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2173",
+    "id": "s2surg-2177",
     "category": "Surg Endocrine",
     "q": "Salicylate toxicity first symptom per p263?",
     "a": "Tinnitus (ear-ringing) is the most common first symptom. Diagnosis is salicylate (aspirin) toxicity.",
@@ -28319,7 +28363,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2174",
+    "id": "s2surg-2178",
     "category": "Surg Endocrine",
     "q": "Salicylate acid-base per p263?",
     "a": "Mixed metabolic acidosis-respiratory alkalosis. Aspirin first causes isolated respiratory alkalosis (first 20 minutes) from direct upregulation of the brain's respiratory centers; then aspirin itself (salicylic acid) causes a metabolic acidosis that wins, so pH ultimately goes low.",
@@ -28330,7 +28374,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2175",
+    "id": "s2surg-2179",
     "category": "Surg Endocrine",
     "q": "Salicylate lab arrows per p263?",
     "a": "First 20 mins: high pH, normal HCO3-, low CO2. After 20 mins: low pH, low HCO3-, low CO2, high anion gap. Salicylates are the S in MUDPILES. Sodium and potassium are normal (potassium must always be normal).",
@@ -28341,7 +28385,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2176",
+    "id": "s2surg-2180",
     "category": "Surg Endocrine",
     "q": "Why bicarb is low in salicylate toxicity per p263?",
     "a": "Not compensation: the kidney can't alter bicarb until at least 12-24 hours later. Bicarb is low because aspirin is an acid causing metabolic acidosis.",
@@ -28352,7 +28396,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2177",
+    "id": "s2surg-2181",
     "category": "Surg Endocrine",
     "q": "Chloride in salicylate toxicity per p263?",
     "a": "A 2CK-level point: if forced to choose, pick low chloride, because anion gap = Na+ - (HCO3- + Cl-) and low chloride raises the gap. Na+ and Cl- can be abnormal insofar as bicarb is low and the gap is high.",
@@ -28363,7 +28407,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2178",
+    "id": "s2surg-2182",
     "category": "Surg Endocrine",
     "q": "Renal failure key disturbances per p263?",
     "a": "Secondary hyperparathyroidism (low Ca2+, high PO4, high PTH, low 1,25-D3), plus high K+, low HCO3-, low pH, high anion gap (U in MUDPILES = uremia), Na+ variable.",
@@ -28374,7 +28418,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2179",
+    "id": "s2surg-2183",
     "category": "Surg Endocrine",
     "q": "Acute asthma and PE acid-base per p263?",
     "a": "Low pCO2, no change in HCO3-, high pH: acute respiratory alkalosis, not acidosis. pCO2 only rises if the patient tires as an attack prolongs. Bicarb is unchanged because the kidney needs at least 12-24 hours. Metabolic disturbances are compensated instantly by breathing.",
@@ -28385,7 +28429,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2180",
+    "id": "s2surg-2184",
     "category": "Surg Endocrine",
     "q": "COPD and obstructive sleep apnea per p264?",
     "a": "Chronic CO2 retainers: high pCO2, high HCO3- (bicarb rises to compensate), low pH.",
@@ -28396,7 +28440,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2181",
+    "id": "s2surg-2185",
     "category": "Surg Endocrine",
     "q": "Vomiting acid-base per p264?",
     "a": "Low serum K+, low Cl-, high HCO3-, high CO2, high pH: hypokalemic, hypochloremic metabolic alkalosis. Vomitus contains lots of potassium, chloride and protons; volume depletion promotes distal K+ and H+ losses via RAAS. CO2 is retained to compensate.",
@@ -28411,7 +28455,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2182",
+    "id": "s2surg-2186",
     "category": "Surg Endocrine",
     "q": "Loop/thiazide diuretic abuse per p264?",
     "a": "Same arrows as vomiting (low K+, low Cl-, high HCO3-, high CO2, high pH). Furosemide blocks the apical 2Cl-/K+/Na+ symporter in the thick ascending limb; volume loss upregulates RAAS and distal proton secretion: 'contraction alkalosis', with extra distal K+ secretion.",
@@ -28422,7 +28466,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2183",
+    "id": "s2surg-2187",
     "category": "Surg Endocrine",
     "q": "Thiazides and acid-base per p264?",
     "a": "Block the Na+/Cl- symporter on the apical membrane of the early DCT, causing volume depletion and increased RAAS, thereby increased distal H+ and K+ secretion; same arrows as vomiting.",
@@ -28433,7 +28477,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2184",
+    "id": "s2surg-2188",
     "category": "Surg Endocrine",
     "q": "Diarrhea acid-base per p264?",
     "a": "Low K+, high Cl-, low HCO3-, low pH, low CO2, normal anion gap. Stool is rich in potassium and bicarb; CO2 is blown off to compensate; chloride is high due to cellular shifts; the gap is normal because diarrhea isn't in MUDPILES.",
@@ -28448,7 +28492,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2185",
+    "id": "s2surg-2189",
     "category": "Surg Endocrine",
     "q": "Metformin basics per p264?",
     "a": "MOA per the source: increases glycolysis and decreases gluconeogenesis. Only used for type II DM. Causes lactic acidosis; discontinue if bicarb is low.",
@@ -28459,7 +28503,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2186",
+    "id": "s2surg-2190",
     "category": "Surg Endocrine",
     "q": "Metformin and creatinine per p264?",
     "a": "Per the source: discontinue (or don't start) if creatinine is 1.5 or greater, as reduced renal function raises lactic acidosis risk.",
@@ -28474,7 +28518,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2187",
+    "id": "s2surg-2191",
     "category": "Surg Endocrine",
     "q": "Metformin vs insulin in pregnancy per p264?",
     "a": "Choose insulin over metformin for glycemic control in pregnancy/intrapartum, as it allows optimal fine-tuning of glucose.",
@@ -28485,7 +28529,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2188",
+    "id": "s2surg-2192",
     "category": "Surg Endocrine",
     "q": "Metformin + glyburide with HbA1c 12% per p265?",
     "a": "Type II DM on metformin + glyburide, uncontrolled HbA1c 12%, with low bicarb or high creatinine: answer 'discontinue metformin and glyburide and commence intermediate-acting insulin'. Low bicarb on metformin means lactic acidosis, so choose discontinuing metformin; renal insufficiency is a lactic acidosis risk factor.",
@@ -28496,7 +28540,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2189",
+    "id": "s2surg-2193",
     "category": "Surg Endocrine",
     "q": "Metformin creatinine cutoff per p265?",
     "a": "The source says a creatinine of 1.5 or greater needs the patient off metformin (max 1.4 seen on NBME where metformin is acceptable).",
@@ -28507,7 +28551,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2190",
+    "id": "s2surg-2194",
     "category": "Surg Endocrine",
     "q": "Sulfonylureas per p265?",
     "a": "Glyburide, glipizide, glibenclamide. Insulin secretagogues: increase insulin secretion by blocking the ATP-gated K+ channel on beta-islet cells without needing ATP.",
@@ -28522,7 +28566,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2191",
+    "id": "s2surg-2195",
     "category": "Surg Endocrine",
     "q": "Sulfonylureas on NBME per p265?",
     "a": "Glyburide and glipizide show up repeatedly; the source hasn't seen other sulfonylureas. Glibenclamide was known for severe hypoglycemia (be aware in theory).",
@@ -28533,7 +28577,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2192",
+    "id": "s2surg-2196",
     "category": "Surg Endocrine",
     "q": "Meglitinides per p265?",
     "a": "Repaglinide. Like sulfonylureas, they increase insulin secretion by blocking the ATP-gated K+ channel on beta-islet cells.",
@@ -28544,7 +28588,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2193",
+    "id": "s2surg-2197",
     "category": "Surg Endocrine",
     "q": "PTU/methimazole adverse effects per p265?",
     "a": "Both used for Graves; both inhibit thyroperoxidase (PTU also inhibits 5-deiodinase). Both can cause neutropenia/agranulocytosis, often presenting as mouth ulcers: e.g., recently treated for thyroid storm, now mouth ulcers and fever: answer 'drug adverse effect' / 'drug-induced neutropenia'.",
@@ -28555,7 +28599,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2194",
+    "id": "s2surg-2198",
     "category": "Surg Endocrine",
     "q": "Propranolol, steroids, methimazole in pregnancy per p265?",
     "a": "Propranolol for tachycardia in hyperthyroidism; steroids for exophthalmos. Methimazole is teratogenic in the first trimester.",
@@ -28566,7 +28610,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2195",
+    "id": "s2surg-2199",
     "category": "Surg Endocrine",
     "q": "Demeclocycline per p265?",
     "a": "Shows up as treatment for SIADH on NBME. A tetracycline antibiotic causing nephrogenic DI as an adverse effect, a 'good thing' when treating SIADH (one problem cancels the other).",
@@ -28577,7 +28621,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2196",
+    "id": "s2surg-2200",
     "category": "Surg Endocrine",
     "q": "Octreotide per p265?",
     "a": "Somatostatin analogue used for acromegaly and esophageal varices.",
@@ -28588,7 +28632,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2197",
+    "id": "s2surg-2201",
     "category": "Surg Endocrine",
     "q": "Cinacalcet per p265?",
     "a": "Increases sensitivity of calcium-sensing receptors on the parathyroid glands. Helps suppress PTH in secondary hyperparathyroidism.",
@@ -28603,7 +28647,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2198",
+    "id": "s2surg-2202",
     "category": "Surg Mixed",
     "q": "When is a sitz bath the answer per p266?",
     "a": "Anal fissure: the stem asks the next best step in management 'in addition to stool softeners'.",
@@ -28614,7 +28658,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2199",
+    "id": "s2surg-2203",
     "category": "Surg Mixed",
     "q": "Anal fissure description per p266?",
     "a": "Ulcer in the posterior midline of the anal canal +/- an adjacent edematous skin tag at the anal verge. Highest-yield descriptor: the rectal exam cannot be performed because of exquisite pain and increased anal sphincter tone.",
@@ -28625,7 +28669,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2200",
+    "id": "s2surg-2204",
     "category": "Surg Mixed",
     "q": "When is a hydrocortisone enema the answer per p266?",
     "a": "Sometimes for IBD. First-line IBD treatment is 5-ASA (mesalamine), but 'hydrocortisone enema' is a common answer choice on surgery forms (per the source).",
@@ -28636,7 +28680,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2201",
+    "id": "s2surg-2205",
     "category": "Surg Mixed",
     "q": "When is anal manometry the answer per p266?",
     "a": "To diagnose Hirschsprung disease: a child passes one string-like stool every 4 days despite maximum laxatives with no stool in the rectal vault. Anal manometry (pressure study) is done first; confirmatory biopsy is most accurate.",
@@ -28651,7 +28695,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2202",
+    "id": "s2surg-2206",
     "category": "Surg Mixed",
     "q": "When is placement of elastic bands the answer per p266?",
     "a": "Treatment of hemorrhoids on USMLE.",
@@ -28662,7 +28706,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2203",
+    "id": "s2surg-2207",
     "category": "Surg Mixed",
     "q": "Cystic mass at the top of the gluteal cleft near the tailbone per p266?",
     "a": "Pilonidal cyst (pilonidal abscess in the literature); treatment is surgical incision and drainage just off the midline.",
@@ -28673,7 +28717,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2204",
+    "id": "s2surg-2208",
     "category": "Surg Mixed",
     "q": "How do you diagnose GERD per p266?",
     "a": "Trial of PPIs (diagnostic and therapeutic).",
@@ -28688,7 +28732,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2205",
+    "id": "s2surg-2209",
     "category": "Surg Mixed",
     "q": "When is 24-hour pH monitoring the answer per p266?",
     "a": "If patients fail a PPI trial but have suggestive symptoms, or if initial symptoms are equivocal (no burning but chronic or nocturnal cough).",
@@ -28699,7 +28743,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2206",
+    "id": "s2surg-2210",
     "category": "Surg Mixed",
     "q": "When is endoscopic ultrasound the answer per p266?",
     "a": "Almost never, but it is an occasional choice on surgery forms; may help diagnose pancreatic cancer if CT is negative (per the source).",
@@ -28710,7 +28754,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2207",
+    "id": "s2surg-2211",
     "category": "Surg Mixed",
     "q": "When is esophageal manometry the answer per p266?",
     "a": "USMLE wants it for achalasia after a barium or gastrografin (water-soluble contrast) swallow shows the bird's beak appearance.",
@@ -28721,7 +28765,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2208",
+    "id": "s2surg-2212",
     "category": "Surg Mixed",
     "q": "42M with 3 years of GERD + CXR air-fluid level behind the cardiac silhouette per p266?",
     "a": "Hiatal hernia (next steps on p267).",
@@ -28732,7 +28776,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2209",
+    "id": "s2surg-2213",
     "category": "Surg Mixed",
     "q": "High ALP + high direct bilirubin + normal amylase/lipase, recent cholecystectomy per p267?",
     "a": "Choledocholithiasis (retained stone in the cystic duct that descended, but not distal to the pancreatic duct entry). Diagnosis and treatment: ERCP.",
@@ -28743,7 +28787,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2210",
+    "id": "s2surg-2214",
     "category": "Surg Mixed",
     "q": "Same labs + diffuse pruritus + high cholesterol per p267?",
     "a": "Primary biliary cirrhosis (PBC); also if autoimmune disease in the patient or family. Diagnosis: anti-mitochondrial antibodies next; liver biopsy is confirmatory.",
@@ -28754,7 +28798,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2211",
+    "id": "s2surg-2215",
     "category": "Surg Mixed",
     "q": "Recent cholecystectomy + fever + abdominal pain per p267?",
     "a": "Post-op bile leak.",
@@ -28765,7 +28809,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2212",
+    "id": "s2surg-2216",
     "category": "Surg Mixed",
     "q": "Same labs + CT shows a cystic lesion in the bile duct per p267?",
     "a": "Choledochal cyst: simple excision of the cyst (cholangiocarcinoma isn't cystic and CT can be negative).",
@@ -28776,7 +28820,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2213",
+    "id": "s2surg-2217",
     "category": "Surg Mixed",
     "q": "Imaging choices per p267?",
     "a": "Liver or pancreas: CT with contrast. Gallbladder: ultrasound (HIDA scan only if ultrasound is negative in suspected cholecystitis). Bile ducts: ERCP or MRCP (choose ERCP over MRCP if both are listed).",
@@ -28787,7 +28831,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2214",
+    "id": "s2surg-2218",
     "category": "Surg Mixed",
     "q": "42M with hiatal hernia: next best step in diagnosis per p267?",
     "a": "Barium swallow, which shows the proximal stomach herniating through the esophageal hiatus.",
@@ -28798,7 +28842,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2215",
+    "id": "s2surg-2219",
     "category": "Surg Mixed",
     "q": "Hiatal hernia suggested on barium swallow: next step per p267?",
     "a": "Esophagogastroduodenoscopy (the answer on the NBME, per the source).",
@@ -28809,7 +28853,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2216",
+    "id": "s2surg-2220",
     "category": "Surg Mixed",
     "q": "High ALP + high direct bilirubin + high amylase or lipase per p267?",
     "a": "Gallstone pancreatitis from choledocholithiasis.",
@@ -28820,7 +28864,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2217",
+    "id": "s2surg-2221",
     "category": "Surg Mixed",
     "q": "Same labs with a remote history of cholecystectomy per p267?",
     "a": "Sphincter of Oddi dysfunction (it cannot be a gallbladder stone since the gallbladder was removed long ago).",
@@ -28831,7 +28875,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2218",
+    "id": "s2surg-2222",
     "category": "Surg Mixed",
     "q": "Diagnosis and treatment of choledocholithiasis per p267?",
     "a": "ERCP.",
@@ -28842,7 +28886,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2219",
+    "id": "s2surg-2223",
     "category": "Surg Mixed",
     "q": "High ALP + high direct bilirubin + normal amylase/lipase, remote cholecystectomy per p267?",
     "a": "Pancreatic cancer; diagnose with CT abdomen with contrast. If CT is negative: cholangiocarcinoma.",
@@ -28853,7 +28897,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2220",
+    "id": "s2surg-2224",
     "category": "Surg Mixed",
     "q": "High ALP + high direct bilirubin + normal enzymes + autoimmune disease in the patient or family per p267?",
     "a": "Primary biliary cirrhosis (PBC).",
@@ -28864,7 +28908,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2221",
+    "id": "s2surg-2225",
     "category": "Surg Mixed",
     "q": "Diagnosis of PBC per p267?",
     "a": "Anti-mitochondrial antibodies as the next step; liver biopsy is confirmatory.",
@@ -28875,7 +28919,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2222",
+    "id": "s2surg-2226",
     "category": "Surg Mixed",
     "q": "Imaging to view the liver or pancreas, gallbladder, bile ducts per p267?",
     "a": "Liver or pancreas: CT with contrast. Gallbladder: ultrasound (HIDA scan only if ultrasound is negative in suspected cholecystitis). Bile ducts: ERCP or MRCP (choose ERCP over MRCP if both are listed).",
@@ -28886,7 +28930,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2223",
+    "id": "s2surg-2227",
     "category": "Surg Mixed",
     "q": "UC + high bilirubin + high ALP per p267?",
     "a": "Primary sclerosing cholangitis.",
@@ -28897,7 +28941,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2224",
+    "id": "s2surg-2228",
     "category": "Surg Mixed",
     "q": "8-day-old neonate with jaundice, direct bilirubin 14, total 15 mg/dL per p268?",
     "a": "Biliary atresia (super HY). Next best step in diagnosis per the source: straight to liver biopsy; if positive, liver transplant.",
@@ -28912,7 +28956,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2225",
+    "id": "s2surg-2229",
     "category": "Surg Mixed",
     "q": "79M with atrial fibrillation + severe acute diffuse abdominal pain per p268?",
     "a": "Acute mesenteric ischemia from a mural thrombus embolizing to the SMA or IMA. Next step in management: mesenteric arteriography.",
@@ -28923,7 +28967,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2226",
+    "id": "s2surg-2230",
     "category": "Surg Mixed",
     "q": "Treatment of the 79M with acute mesenteric ischemia per p268?",
     "a": "Antibiotics (for necrotic bowel) then laparotomy to remove necrotic bowel. The source says the stem states IV antibiotics were given and asks the next step: laparotomy. USMLE wants resection of nonviable bowel, though the literature mentions embolectomy.",
@@ -28938,7 +28982,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2227",
+    "id": "s2surg-2231",
     "category": "Surg Mixed",
     "q": "52F with a short ventricular fibrillation episode, defibrillated, now severe abdominal pain per p268?",
     "a": "Acute mesenteric ischemia from ischemia due to VF, not an embolus: antibiotics; CT if stable; if unstable go straight to laparotomy.",
@@ -28949,7 +28993,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2228",
+    "id": "s2surg-2232",
     "category": "Surg Mixed",
     "q": "55F diabetic with claudication + abdominal pain 1-2 hours after meals per p268?",
     "a": "Chronic mesenteric ischemia from severe atherosclerosis of the SMA or IMA (angina of the bowel).",
@@ -28960,7 +29004,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2229",
+    "id": "s2surg-2233",
     "category": "Surg Mixed",
     "q": "Chronic mesenteric ischemia: next step in diagnosis and treatment per p268?",
     "a": "Mesenteric arteriography (e.g., after CABG); treatment is angioplasty + stenting to restore blood flow (e.g., with renal artery stenosis history).",
@@ -28971,7 +29015,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2230",
+    "id": "s2surg-2234",
     "category": "Surg Mixed",
     "q": "Chronic mesenteric ischemia patient with 2 days of severe abdominal pain and fever per p268?",
     "a": "Acute on chronic mesenteric ischemia (thrombosis; an 'MI' of the bowel): mesenteric arteriography to diagnose; antibiotics + laparotomy to remove necrotic bowel.",
@@ -28982,7 +29026,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2231",
+    "id": "s2surg-2235",
     "category": "Surg Mixed",
     "q": "What is the pectinate line per p268?",
     "a": "It separates the upper 2/3 of the anal canal (hindgut; endoderm) from the lower 1/3 (proctodeum; ectoderm).",
@@ -28993,7 +29037,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2232",
+    "id": "s2surg-2236",
     "category": "Surg Mixed",
     "q": "Lymphatic drainage and arterial supply above and below the pectinate line per p268?",
     "a": "Lymph: above to internal iliac nodes; below to superficial inguinal nodes. Artery: above the superior rectal artery; below the middle/inferior rectal arteries.",
@@ -29004,7 +29048,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2233",
+    "id": "s2surg-2237",
     "category": "Surg Mixed",
     "q": "Venous drainage above and below the pectinate line per p269?",
     "a": "Above: superior rectal vein; below: middle/inferior rectal veins.",
@@ -29015,7 +29059,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2234",
+    "id": "s2surg-2238",
     "category": "Surg Mixed",
     "q": "Pectinate line and hemorrhoids per p269?",
     "a": "Above: internal hemorrhoids (painless); below: external hemorrhoids (painful).",
@@ -29026,7 +29070,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2235",
+    "id": "s2surg-2239",
     "category": "Surg Mixed",
     "q": "Treatment of hemorrhoids per p269?",
     "a": "Conservative first (fiber + exercise); for intervention, rubber band ligation.",
@@ -29037,7 +29081,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2236",
+    "id": "s2surg-2240",
     "category": "Surg Mixed",
     "q": "Diagnosis of congenital midgut volvulus per p269?",
     "a": "Upper-GI series (AXR + contrast follow-through of the esophagus, stomach, and duodenum with barium or gastrografin).",
@@ -29048,7 +29092,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2237",
+    "id": "s2surg-2241",
     "category": "Surg Mixed",
     "q": "87F with a coffee bean sign on AXR and obstipation per p269?",
     "a": "Sigmoid volvulus; the source says the surgery NBME treatment is sigmoidoscopy-guided placement of a rectal tube.",
@@ -29059,7 +29103,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2238",
+    "id": "s2surg-2242",
     "category": "Surg Mixed",
     "q": "22M stressed studying, yellow eyes, similar past episodes, otherwise healthy per p269?",
     "a": "Gilbert syndrome (decreased glucuronosyltransferase expression, the bilirubin-conjugating enzyme; reduced ability to take up unconjugated bilirubin at the liver). Treatment is reassurance; it is benign.",
@@ -29070,7 +29114,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2239",
+    "id": "s2surg-2243",
     "category": "Surg Mixed",
     "q": "Criteria for pathologic neonatal jaundice per p269?",
     "a": "Any one of: jaundice in the first 24 hours; jaundice after 1 week (term) or 2 weeks (preterm); total bilirubin >15 mg/dL; direct bilirubin >10% of total even if total <15; rate of rise of total bilirubin >0.5 mg/dL/hour.",
@@ -29085,7 +29129,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2240",
+    "id": "s2surg-2244",
     "category": "Surg Mixed",
     "q": "16F with fever, leukocytosis, RLQ pain migrating from the epigastrium per p269?",
     "a": "Appendicitis. Epigastric pain is visceral; RLQ pain is parietal peritoneal inflammation. In females, pregnancy test + adnexal ultrasound for gyn causes (e.g., ruptured cyst); in males go straight to laparoscopy; if gyn causes are ruled out, laparoscopic removal.",
@@ -29096,7 +29140,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2241",
+    "id": "s2surg-2245",
     "category": "Surg Mixed",
     "q": "Normal appendix found at surgery for suspected appendicitis per p270?",
     "a": "Still remove it. Ultrasound and CT can be false-negative, so with high clinical suspicion the patient goes straight to laparoscopy.",
@@ -29107,7 +29151,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2242",
+    "id": "s2surg-2246",
     "category": "Surg Mixed",
     "q": "Mallory-Weiss tear vs esophageal varices per p270?",
     "a": "MWT: vomiting/retching in an alcoholic, a little blood in the vomitus. Varices: LOTS of blood; about half of patients with a ruptured varix die (per the source).",
@@ -29118,7 +29162,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2243",
+    "id": "s2surg-2247",
     "category": "Surg Mixed",
     "q": "Mallory-Weiss tear vs Boerhaave per p270?",
     "a": "MWT is not transmural; Boerhaave is transmural and causes subcutaneous emphysema (crepitus).",
@@ -29129,7 +29173,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2244",
+    "id": "s2surg-2248",
     "category": "Surg Mixed",
     "q": "Treatment and prophylaxis of esophageal varices per p270?",
     "a": "Treatment: banding + octreotide. Prophylaxis: propranolol.",
@@ -29140,7 +29184,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2245",
+    "id": "s2surg-2249",
     "category": "Surg Mixed",
     "q": "Biochemical disturbance in a person who is vomiting per p270?",
     "a": "Hypokalemic hypochloremic metabolic alkalosis: low K, low Cl, high pH, high bicarb, low H; anion gap normal.",
@@ -29151,7 +29195,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2246",
+    "id": "s2surg-2250",
     "category": "Surg Mixed",
     "q": "2-week-old male with forceful non-bilious vomiting per p270?",
     "a": "Hypertrophic pyloric stenosis. Diagnose with abdominal ultrasound showing an olive-shaped hypertrophied pylorus.",
@@ -29166,7 +29210,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2247",
+    "id": "s2surg-2251",
     "category": "Surg Mixed",
     "q": "Who gets pyloric stenosis per p270?",
     "a": "First-born males, and neonates taking oral erythromycin for chlamydial ophthalmia neonatorum (erythromycin is a motilin-receptor agonist).",
@@ -29177,7 +29221,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2248",
+    "id": "s2surg-2252",
     "category": "Surg Mixed",
     "q": "2-week-old male with bilious vomiting per p270?",
     "a": "Duodenal atresia, annular pancreas, congenital midgut volvulus, or Hirschsprung (Hirschsprung can present with bilious vomiting).",
@@ -29188,7 +29232,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2249",
+    "id": "s2surg-2253",
     "category": "Surg Mixed",
     "q": "2-week-old with Down syndrome + bilious vomiting + passed meconium vs slow to pass meconium per p270?",
     "a": "Passed meconium: duodenal atresia. Slow to pass meconium: Hirschsprung.",
@@ -29199,7 +29243,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2250",
+    "id": "s2surg-2254",
     "category": "Surg Mixed",
     "q": "Diagnosis of duodenal atresia per p270?",
     "a": "Abdominal x-ray showing the double-bubble sign (very HY).",
@@ -29210,7 +29254,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2251",
+    "id": "s2surg-2255",
     "category": "Surg Mixed",
     "q": "Diagnosis and mechanism of Hirschsprung per p270?",
     "a": "Rectal manometry, then confirmatory rectal biopsy showing absence of ganglion cells. Mechanism: failure of neural crest cells to migrate distally to the rectum.",
@@ -29225,7 +29269,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2252",
+    "id": "s2surg-2256",
     "category": "Surg Mixed",
     "q": "Most likely overall cause of failure to pass meconium at birth per p270?",
     "a": "Cystic fibrosis.",
@@ -29236,7 +29280,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2253",
+    "id": "s2surg-2257",
     "category": "Surg Mixed",
     "q": "18-month-old with intermittent abdominal pain, crying, blood in stool per p270?",
     "a": "Intussusception (the same for intermittent squatting or legs to chest + vomiting + FOBT positive).",
@@ -29247,7 +29291,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2254",
+    "id": "s2surg-2258",
     "category": "Surg Mixed",
     "q": "18-month-old with legs to chest, vomiting, FOBT negative per p271?",
     "a": "Congenital midgut volvulus (it sounds like intussusception but there is no blood per rectum).",
@@ -29258,7 +29302,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2255",
+    "id": "s2surg-2259",
     "category": "Surg Mixed",
     "q": "Cause of intussusception per p271?",
     "a": "More than 99% are in kids under 2, from lymphoid hyperplasia due to viral infection (e.g., rotavirus) or recent vaccination. In an adult (usually elderly) it is caused by colorectal cancer.",
@@ -29269,7 +29313,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2256",
+    "id": "s2surg-2260",
     "category": "Surg Mixed",
     "q": "Diagnosis and treatment of intussusception per p271?",
     "a": "USMLE wants an enema as the answer (air contrast, air, contrast, or water-soluble contrast enema). Ultrasound shows a target sign but the exam wants the enema.",
@@ -29284,7 +29328,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2257",
+    "id": "s2surg-2261",
     "category": "Surg Mixed",
     "q": "Barium vs water-soluble (gastrografin) contrast swallow per p271?",
     "a": "Barium most of the time. If at risk of aspiration use barium, because aspiration of gastrografin causes pneumonitis. If esophageal perforation is suspected, do not use barium (mediastinitis); use gastrografin.",
@@ -29295,7 +29339,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2258",
+    "id": "s2surg-2262",
     "category": "Surg Mixed",
     "q": "Celiac trunk level, branches, and supply per p271?",
     "a": "T12; splenic, common hepatic, left gastric arteries; supplies the foregut (mouth to duodenum at the ampulla of Vater).",
@@ -29306,7 +29350,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2259",
+    "id": "s2surg-2263",
     "category": "Surg Mixed",
     "q": "SMA level and supply per p271?",
     "a": "L1; supplies the midgut (duodenum at the ampulla until the distal 2/3 of the transverse colon); right colic and middle colic arteries come off the SMA.",
@@ -29317,7 +29361,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2260",
+    "id": "s2surg-2264",
     "category": "Surg Mixed",
     "q": "IMA level and supply per p271?",
     "a": "L3; supplies the hindgut (distal 2/3 of the transverse colon to the pectinate line); the left colic artery comes off the IMA.",
@@ -29328,7 +29372,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2261",
+    "id": "s2surg-2265",
     "category": "Surg Mixed",
     "q": "Level of renal + gonadal arteries and aortic bifurcation per p271?",
     "a": "Renal and gonadal arteries most often come off at L2. The abdominal aorta bifurcates into the common iliacs at L4.",
@@ -29339,7 +29383,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2262",
+    "id": "s2surg-2266",
     "category": "Surg Mixed",
     "q": "Who gets a one-off abdominal ultrasound for AAA per p271?",
     "a": "Males over 55 who are ever-smokers (the source's wording).",
@@ -29350,7 +29394,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2263",
+    "id": "s2surg-2267",
     "category": "Surg Mixed",
     "q": "Diagnosis of C. diff per p272?",
     "a": "Stool A/B toxin test, not stool culture.",
@@ -29361,7 +29405,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2264",
+    "id": "s2surg-2268",
     "category": "Surg Mixed",
     "q": "Most common locations of atherosclerosis in descending order per p272?",
     "a": "Abdominal aorta, coronary arteries, popliteal arteries, carotid arteries.",
@@ -29372,7 +29416,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2265",
+    "id": "s2surg-2269",
     "category": "Surg Mixed",
     "q": "Which structure is supplied by an artery of the foregut but is not derived from the foregut per p272?",
     "a": "The spleen.",
@@ -29383,7 +29427,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2266",
+    "id": "s2surg-2270",
     "category": "Surg Mixed",
     "q": "Short gastric arteries and the main pancreatic supply per p272?",
     "a": "Short gastric arteries come off the splenic artery. Main arterial supply to the pancreas: arteria pancreatica magna (greater pancreatic artery), a splenic branch.",
@@ -29394,7 +29438,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2267",
+    "id": "s2surg-2271",
     "category": "Surg Mixed",
     "q": "Which nerve must be severed to remove cancer at the gastroesophageal junction per p272?",
     "a": "The vagus (the source says to memorize it; from a retired NBME).",
@@ -29405,7 +29449,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2268",
+    "id": "s2surg-2272",
     "category": "Surg Mixed",
     "q": "HY structures through the diaphragm per p272?",
     "a": "'I Ate 10 Eggs At 12': IVC T8; esophagus + vagus at T10 (the source also lists thoracic duct); aortic hiatus (aorta, azygos vein, thoracic duct) at T12.",
@@ -29416,7 +29460,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2269",
+    "id": "s2surg-2273",
     "category": "Surg Mixed",
     "q": "Celiac disease key points per p272?",
     "a": "Gluten intolerance (wheat, oats, rye, barley); villous flattening on biopsy; often iron deficiency anemia (differs from lactose intolerance). Dx: anti-endomysial IgA, anti-tissue transglutaminase IgA, then duodenal biopsy to confirm. Tx: avoid gluten.",
@@ -29431,7 +29475,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2270",
+    "id": "s2surg-2274",
     "category": "Surg Mixed",
     "q": "Treatment of C. difficile per p272?",
     "a": "Guidelines as of Feb 2018 (per the source) say oral vancomycin first-line, not metronidazole. Vancomycin is given orally here to keep the drug in the colon lumen.",
@@ -29446,7 +29490,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2271",
+    "id": "s2surg-2275",
     "category": "Surg Mixed",
     "q": "Mechanism of colonic necrosis in C. difficile and recurrence after vancomycin per p272?",
     "a": "Necrosis: cytoskeletal disruption. Recurrence weeks later: regermination of spores.",
@@ -29457,7 +29501,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2272",
+    "id": "s2surg-2276",
     "category": "Surg Mixed",
     "q": "C. difficile + 104F fever + tachycardia + diffuse abdominal pain: next step per p272?",
     "a": "AXR to look for toxic megacolon. Treat with NPO, NG decompression + rectal tube, antibiotics (vancomycin or fidaxomicin), steroids (if UC), correct electrolytes (sometimes low K).",
@@ -29468,7 +29512,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2273",
+    "id": "s2surg-2277",
     "category": "Surg Mixed",
     "q": "Toxic megacolon not improving with conservative therapy per p273?",
     "a": "Surgery (subtotal colectomy + ileostomy). Do not do a colonoscopy in toxic megacolon: it causes perforation.",
@@ -29479,7 +29523,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2274",
+    "id": "s2surg-2278",
     "category": "Surg Mixed",
     "q": "Nerve damage that causes constipation per p273?",
     "a": "Pelvic splanchnic nerves (parasympathetic, drive bowel function). Hypogastric nerves = sympathetic (internal anal sphincter); pudendal = somatic (external anal sphincter).",
@@ -29490,7 +29534,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2275",
+    "id": "s2surg-2279",
     "category": "Surg Mixed",
     "q": "45M cirrhosis + fluid wave + fever + abdominal pain per p273?",
     "a": "Spontaneous bacterial peritonitis (SBP). Same for a diabetic on peritoneal dialysis with fever and abdominal pain, and for a child with minimal change disease causing ascites.",
@@ -29501,7 +29545,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2276",
+    "id": "s2surg-2280",
     "category": "Surg Mixed",
     "q": "Diagnosis and treatment of SBP per p273?",
     "a": "Paracentesis with Gram stain; look for >250 WBCs per HPF. Treat with ceftriaxone.",
@@ -29516,7 +29560,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2277",
+    "id": "s2surg-2281",
     "category": "Surg Mixed",
     "q": "Serum-ascites albumin gradient (SAAG) per p273?",
     "a": "Serum albumin minus ascitic albumin. >1.1: transudative/portal hypertension (CHF, Budd-Chiari, cirrhosis). <1.1: exudative (TB, SBP, pancreatitis, malignancy) or nephrotic syndrome.",
@@ -29527,7 +29571,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2278",
+    "id": "s2surg-2282",
     "category": "Surg Mixed",
     "q": "Woman in her 20s-50s with high cholesterol, diffuse pruritus, sister with rheumatoid arthritis per p273?",
     "a": "Primary biliary cirrhosis (autoimmune diseases go together in patient or family). Dx: anti-mitochondrial Abs first; liver biopsy confirms.",
@@ -29538,7 +29582,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2279",
+    "id": "s2surg-2283",
     "category": "Surg Mixed",
     "q": "Neonate born at 32 weeks with fever, abdominal distension, feeding intolerance, hematochezia per p273?",
     "a": "Necrotizing enterocolitis, bowel infection in premature neonates, usually <32 weeks gestation.",
@@ -29549,7 +29593,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2280",
+    "id": "s2surg-2284",
     "category": "Surg Mixed",
     "q": "Diagnosis of necrotizing enterocolitis per p273?",
     "a": "AXR showing pneumatosis intestinalis (air in the bowel wall), air in the portal vein, or free air under the diaphragm.",
@@ -29564,7 +29608,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2281",
+    "id": "s2surg-2285",
     "category": "Surg Mixed",
     "q": "Treatment of necrotizing enterocolitis per p274?",
     "a": "NPO, NG decompression, broad-spectrum antibiotics; if necrotic bowel, surgery.",
@@ -29575,7 +29619,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2282",
+    "id": "s2surg-2286",
     "category": "Surg Mixed",
     "q": "49M with abdominal pain after meals, now sepsis + diffuse acute abdominal pain per p274?",
     "a": "Ruptured viscus (duodenum). Next step: x-ray of chest + abdomen to look for air under the diaphragm. The source says the exam gives CXR alone, AXR alone, or both as choices.",
@@ -29586,7 +29630,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2283",
+    "id": "s2surg-2287",
     "category": "Surg Mixed",
     "q": "42M with dysphagia to solids and liquids from the start per p274?",
     "a": "Achalasia. Inability to swallow solids and liquids together implies a neurogenic cause.",
@@ -29597,7 +29641,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2284",
+    "id": "s2surg-2288",
     "category": "Surg Mixed",
     "q": "42M with EtOH history and dysphagia to solids that progresses to liquids per p274?",
     "a": "Esophageal cancer (SCC). Dysphagia to solids progressing to solids + liquids is cancer until proven otherwise.",
@@ -29608,7 +29652,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2285",
+    "id": "s2surg-2289",
     "category": "Surg Mixed",
     "q": "HY points about esophageal cancer per p274?",
     "a": "Adenocarcinoma: distal 1/3, from GERD (obesity, low LES tone, GERD, Barrett, adenocarcinoma). SCC: upper 2/3, from smoking + alcohol; also webs, burns, chemicals, and achalasia.",
@@ -29619,7 +29663,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2286",
+    "id": "s2surg-2290",
     "category": "Surg Mixed",
     "q": "Mechanism of achalasia per p274?",
     "a": "Loss of NO-secreting neurons in the myenteric plexus of the LES, giving increased LES tone: bird's beak on contrast swallow, high tone on manometry. Often idiopathic; Chagas disease (Trypanosoma cruzi) is a rare infectious cause.",
@@ -29630,7 +29674,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2287",
+    "id": "s2surg-2291",
     "category": "Surg Mixed",
     "q": "Diagnosis order of achalasia per p274?",
     "a": "Barium (or gastrografin) swallow, then manometry, then confirmatory biopsy. On an NBME 2CK question listing both barium and manometry, the answer was barium swallow.",
@@ -29641,7 +29685,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2288",
+    "id": "s2surg-2292",
     "category": "Surg Mixed",
     "q": "When is manometry the answer for achalasia per p274?",
     "a": "When the stem already shows the bird's beak from a barium swallow, or shows a manometry graph with high LES pressure (then it is the diagnosis). Most accurate/confirmatory test: LES biopsy showing loss of neurons (per the source).",
@@ -29652,7 +29696,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2289",
+    "id": "s2surg-2293",
     "category": "Surg Mixed",
     "q": "Treatment of achalasia per p274?",
     "a": "Surgery first-line (endoscopic myotomy is superior to pneumatic dilatation per the source). If high surgical risk: botulinum toxin; if it fails, dCCB or nitrates.",
@@ -29663,7 +29707,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2290",
+    "id": "s2surg-2294",
     "category": "Surg Mixed",
     "q": "42M overweight with halitosis, gurgling with fluids, regurgitating undigested food per p275?",
     "a": "Next step: barium (or gastrografin) swallow; Dx = Zenker diverticulum. With a GERD history, go straight to endoscopy (cancer, not Zenker).",
@@ -29674,7 +29718,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2291",
+    "id": "s2surg-2295",
     "category": "Surg Mixed",
     "q": "Location and mechanism of Zenker per p275?",
     "a": "False diverticulum just superior to the cricopharyngeus on the posterior pharyngeal wall. USMLE answers: increased oropharyngeal pressure, cricopharyngeal muscle spasm; not a congenital weakness. Stems often mention overweight, though the association is non-specific.",
@@ -29685,7 +29729,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2292",
+    "id": "s2surg-2296",
     "category": "Surg Mixed",
     "q": "Whipple triad per p275?",
     "a": "Insulinoma: 1) hypoglycemia, 2) symptoms of hypoglycemia (diaphoresis, tachycardia, tremulousness), 3) relief with meals (or worse between meals).",
@@ -29696,7 +29740,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2293",
+    "id": "s2surg-2297",
     "category": "Surg Mixed",
     "q": "Whipple triad: next step, and what if C-peptide is high per p275?",
     "a": "Check serum C-peptide. If high, first check a serum hypoglycemic (sulfonylurea) screen, since surreptitious sulfonylurea use also gives high C-peptide. Only after a negative screen do CT abdomen for insulinoma.",
@@ -29707,7 +29751,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2294",
+    "id": "s2surg-2298",
     "category": "Surg Mixed",
     "q": "52F with 2 kids, BMI 28, recurrent colicky epigastric pain per p275?",
     "a": "Ultrasound (cholelithiasis).",
@@ -29718,7 +29762,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2295",
+    "id": "s2surg-2299",
     "category": "Surg Mixed",
     "q": "45F BMI 29, BP 140/90, high TG, low HDL, high fasting glucose, mildly high AST/ALT per p275?",
     "a": "NASH from metabolic syndrome; treat with lifestyle modification. The source adds that stems may show completely normal labs, leaving 'she has metabolic syndrome' as the clue.",
@@ -29729,7 +29773,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2296",
+    "id": "s2surg-2300",
     "category": "Surg Mixed",
     "q": "First treatment for pancreatitis per p275?",
     "a": "NPO + fluids + NG tube. Imaging: CT with contrast for fluid collections and degree of necrosis. Drain collections percutaneously; a pseudoabscess that does not regress needs internal drainage via ERCP or EUS (continues on p276).",
@@ -29740,7 +29784,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2297",
+    "id": "s2surg-2301",
     "category": "Surg Mixed",
     "q": "Pancreatitis with frank pus or >30% necrosis per p276?",
     "a": "Necrosectomy (excision of necrotic pancreas) or aggressive percutaneous drainage.",
@@ -29751,7 +29795,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2298",
+    "id": "s2surg-2302",
     "category": "Surg Mixed",
     "q": "69M with LLQ pain + fever per p276?",
     "a": "Diverticulitis. CT abdomen with contrast; antibiotics (metronidazole PLUS a fluoroquinolone or Augmentin; metronidazole covers anaerobes). Never scope during suspected diverticulitis (perforation); colonoscopy after it is cleared to rule out malignancy.",
@@ -29762,7 +29806,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2299",
+    "id": "s2surg-2303",
     "category": "Surg Mixed",
     "q": "Crohn GI findings per p276?",
     "a": "Mouth to anus; classically terminal ileum; intermittent bloody diarrhea with colonic involvement; skip lesions with string sign; cobblestone mucosa; transmural inflammation with non-caseating granulomas; perianal fistulae; B12 + fat-soluble vitamin malabsorption.",
@@ -29773,7 +29817,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2300",
+    "id": "s2surg-2304",
     "category": "Surg Mixed",
     "q": "25M with oral ulcer + bloody diarrhea per p276?",
     "a": "Crohn disease.",
@@ -29784,7 +29828,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2301",
+    "id": "s2surg-2305",
     "category": "Surg Mixed",
     "q": "Extra-intestinal manifestations of Crohn per p276?",
     "a": "Erythema nodosum (panniculitis), anterior uveitis, oxalate stones (fat malabsorption binds calcium, leaving more oxalate absorbed). Also sometimes anti-Saccharomyces cerevisiae Abs.",
@@ -29795,7 +29839,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2302",
+    "id": "s2surg-2306",
     "category": "Surg Mixed",
     "q": "Diagnosis and treatment of Crohn for USMLE per p276?",
     "a": "Dx: colonoscopy. Tx: sulfasalazine or mesalamine (5-ASA, which the source calls NSAIDs) before steroids; immunosuppressants late (infliximab, azathioprine).",
@@ -29806,7 +29850,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2303",
+    "id": "s2surg-2307",
     "category": "Surg Mixed",
     "q": "28M with morning-worse low back pain that improves through the day + mouth ulcer per p276?",
     "a": "Crohn disease (oral involvement) + sacroiliitis (ankylosing spondylitis back pain).",
@@ -29817,7 +29861,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2304",
+    "id": "s2surg-2308",
     "category": "Surg Mixed",
     "q": "20F with bloody diarrhea, sore joints, eczematoid plaque on forehead per p276?",
     "a": "IBD + psoriatic arthritis.",
@@ -29828,7 +29872,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2305",
+    "id": "s2surg-2309",
     "category": "Surg Mixed",
     "q": "UC GI findings per p276 (continues p277)?",
     "a": "Starts at the rectum and ascends (no anus involvement); bloody diarrhea; not transmural (mucosa + submucosa); no granulomas; lead pipe appearance on contrast.",
@@ -29839,7 +29883,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2306",
+    "id": "s2surg-2310",
     "category": "Surg Mixed",
     "q": "What does lead pipe colon mean and what is seen on colonoscopy in UC per p277?",
     "a": "Loss of haustra (colon looks smooth). Crypt abscesses (microabscesses within the crypts).",
@@ -29850,7 +29894,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2307",
+    "id": "s2surg-2311",
     "category": "Surg Mixed",
     "q": "Extra-intestinal manifestations of UC per p277?",
     "a": "Primary sclerosing cholangitis (beaded bile duct; can be p-ANCA positive); pyoderma gangrenosum (crater with necrotic debris on the forearm); like Crohn, anterior uveitis + HLA-B27 associations.",
@@ -29861,7 +29905,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2308",
+    "id": "s2surg-2312",
     "category": "Surg Mixed",
     "q": "Diagnosis and treatment of UC for USMLE per p277?",
     "a": "Dx: colonoscopy. Tx: same as Crohn for USMLE purposes; colectomy in severe cases.",
@@ -29872,7 +29916,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2309",
+    "id": "s2surg-2313",
     "category": "Surg Mixed",
     "q": "65M with intermittent bloody diarrhea, now 104F fever, abdominal pain, high WBC per p277?",
     "a": "Toxic megacolon. Dx with AXR (dilated bowel, e.g., 12-cm cecum), not colonoscopy (perforation). AXR is done when looking for gas.",
@@ -29883,7 +29927,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2310",
+    "id": "s2surg-2314",
     "category": "Surg Mixed",
     "q": "Where do most colonic ischemic ulcers occur per p277?",
     "a": "Watershed areas: splenic flexure (SMA/IMA) and the sigmoid-rectal junction (IMA/hypogastric artery). 72M with advanced CVD + bloody stool: ischemic colitis.",
@@ -29894,7 +29938,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2311",
+    "id": "s2surg-2315",
     "category": "Surg Mixed",
     "q": "55M BMI 33, no diabetes mentioned, 3 months burning in throat per p277?",
     "a": "GERD; treat with a 2-week PPI trial (omeprazole); relief supports GERD.",
@@ -29905,7 +29949,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2312",
+    "id": "s2surg-2316",
     "category": "Surg Mixed",
     "q": "55M BMI 33, poorly controlled diabetes, 3 months burning in throat per p277?",
     "a": "Diabetic gastroparesis, not GERD. First pharmacologic treatment metoclopramide; if not listed, erythromycin (motilin receptor agonist).",
@@ -29916,7 +29960,7 @@ export default [
     }
   },
   {
-    "id": "s2surg-2313",
+    "id": "s2surg-2317",
     "category": "Surg Mixed",
     "q": "How do stems signal bad diabetic disease per p277?",
     "a": "Peripheral edema (albuminuria lowers oncotic pressure), cataracts (sorbitol), urinary retention (neurogenic bladder), or HbA1c of 12% (diabetes is 6.5% or greater; prediabetes 6-6.49 per the source).",
