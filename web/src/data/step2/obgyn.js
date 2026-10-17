@@ -4033,5 +4033,214 @@ export default [
       "page": 61,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=61"
     }
+  },
+  {
+    "id": "s2obgyn-0366",
+    "category": "OB Peripartum Bleeding",
+    "q": "Uterine rupture vignette per p62?",
+    "a": "Oxytocin given, strong persistent contractions, then fetal parts palpable in the RUQ: uterine rupture. Oxytocin can cause tachysystole and hypertonus.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 62,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2obgyn-0367",
+    "category": "OB Labor",
+    "q": "Tachysystole, hypertonus and normal contractions per p62?",
+    "a": "Tachysystole: more than 5 contractions in 10 minutes averaged over 30 minutes. Hypertonus: contraction >2 minutes. Normal: every 2-5 minutes, lasting 30-60 seconds.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 62,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2obgyn-0368",
+    "category": "OB Labor",
+    "q": "Montevideo units per p62?",
+    "a": "Peak minus baseline uterine pressure per contraction, summed over 10 minutes. Example: baseline 10, peak 60 = 50 each; 4 contractions = 200 MVU. Normal 200-250 MVU/10 min; below that, oxytocin augments labor.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 62,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2obgyn-0369",
+    "category": "OB Labor",
+    "q": "Power, Passenger, Pelvis per p62?",
+    "a": "Power: contraction force (200-250 MVU). Passenger: fetal size and orientation. Pelvis: maternal bony pelvis. Cephalopelvic disproportion (head too large): C-section.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 62,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2obgyn-0370",
+    "category": "OB Labor",
+    "q": "Breech management per p62?",
+    "a": "Usually C-section in developed countries. Unknown fetal position: ultrasound. Breech: external cephalic version at 36-38 weeks before C-section (after 38 weeks uterine rupture risk rises). Breech or transverse after 38 weeks on ultrasound/Leopold maneuvers: C-section.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 62,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2obgyn-0371",
+    "category": "OB Labor",
+    "q": "Internal podalic version per p62?",
+    "a": "Often a wrong answer on NBME; in theory used to deliver a breech second twin by turning it to vertex via the feet.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 62,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=62"
+    }
+  },
+  {
+    "id": "s2obgyn-0372",
+    "category": "OB Labor",
+    "q": "Breech delivery complications per p62-63?",
+    "a": "Erb-Duchenne palsy (C5/6), Klumpke palsy (C8/T1), cerebral palsy (hypoxia, scissoring), cord prolapse (variable decelerations +/- bleeding; palpate the cord on pelvic exam; C-section).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 63,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2obgyn-0373",
+    "category": "OB Fetal Monitoring",
+    "q": "Accelerations on a non-stress test per p63?",
+    "a": "Reflect fetal well-being: ~20 bpm increase lasting ~20 seconds, 2-3 times in 20 minutes.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 63,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2obgyn-0374",
+    "category": "OB Fetal Monitoring",
+    "q": "Early decelerations per p63?",
+    "a": "Fetal head compression: heart rate nadir coincides with the contraction peak; from increased vagal outflow.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 63,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2obgyn-0375",
+    "category": "OB Fetal Monitoring",
+    "q": "Late decelerations per p63?",
+    "a": "Fetal hypoxia/uteroplacental insufficiency; bradycardia just after the contraction; the bad type.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 63,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2obgyn-0376",
+    "category": "OB Fetal Monitoring",
+    "q": "Treatment of late and variable decelerations per p63?",
+    "a": "Stop oxytocin, give maternal oxygen, left-lateral decubitus; C-section if that fails.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 63,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2obgyn-0377",
+    "category": "OB Fetal Monitoring",
+    "q": "Fetal scalp pH per p63?",
+    "a": "Scalp blood sample for prolonged decelerations; pH <7.2 suggests acidosis and hypoxia (stronger cutoff than 7.35).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 63,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2obgyn-0378",
+    "category": "OB Fetal Monitoring",
+    "q": "Variable decelerations per p63?",
+    "a": "Umbilical cord compression; amnioinfusion (sterile saline into the uterus) plus the same triad.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 63,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2obgyn-0379",
+    "category": "OB Fetal Monitoring",
+    "q": "Flat NST patterns per p63-64?",
+    "a": "Flat line within 110-160 bpm: fetal sleep state. Flat line above 160 (tachycardia): maternal fever.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 63,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=63"
+    }
+  },
+  {
+    "id": "s2obgyn-0380",
+    "category": "OB Fetal Monitoring",
+    "q": "Biophysical profile per p64?",
+    "a": "Ultrasound with five parameters: fetal movement (3+ in 30 min), tone (1+ extension/flexion), breathing (1+ episode >30 s), amniotic fluid (pocket >1 cm in 2 planes), heart rate (>2 accelerations in 20 min). Each 0 or 2, max 10; 8-10 reassuring, below 8 needs evaluation.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 64,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2obgyn-0381",
+    "category": "OB Fetal Monitoring",
+    "q": "BPP indications per p64?",
+    "a": "Conditions that compromise the fetus (preeclampsia, diabetes), signs of distress, post-term gestation. Often the answer by exclusion, e.g., cholestasis of pregnancy with no fetal movement for 24 hours (not amnioinfusion or immediate C-section).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 64,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2obgyn-0382",
+    "category": "OB Fetal Monitoring",
+    "q": "Bishop score per p64?",
+    "a": "0-13 points for the likelihood of successful vaginal delivery. 8+: ripe cervix, induction with oxytocin likely to work. 6 or lower: unripe; cervical ripening with topical dinoprostone (PGE2 analogue).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 64,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=64"
+    }
+  },
+  {
+    "id": "s2obgyn-0383",
+    "category": "OB Fetal Monitoring",
+    "q": "Fundal height per p65?",
+    "a": "Centimeters from pubic bone to uterine top; equals gestational age in weeks from 20 to 32 weeks (McDonald rule). 30 weeks with fundal height 36 cm suggests polyhydramnios (e.g., GDM).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 65,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=65"
+    }
+  },
+  {
+    "id": "s2obgyn-0384",
+    "category": "OB Fetal Monitoring",
+    "q": "Fundal height landmark per p65?",
+    "a": "At 20 weeks the fundus is at the umbilicus. 16 weeks with the fundus at the umbilicus suggests molar pregnancy (big for dates).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 65,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=65"
+    }
   }
 ];
