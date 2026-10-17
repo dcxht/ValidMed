@@ -2049,5 +2049,240 @@ export default [
       "text": "The USPSTF 2024 statement (linked; I read it) recommends biennial screening mammography at ages 40 to 74, so the source's start age of 50 is outdated. The source answer stays as the exam answer.",
       "url": "https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/breast-cancer-screening"
     }
+  },
+  {
+    "id": "s2obgyn-0186",
+    "category": "OB Breast",
+    "q": "Mammography start age with a family history per p36?",
+    "a": "If a first-degree relative (parent or sibling) had breast cancer, start at age 40, not 50 (the source). USMLE will not be borderline: e.g., a 56-year-old who has not had a mammogram for two years.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 36,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=36"
+    },
+    "guideline": {
+      "text": "The USPSTF 2024 statement (linked) recommends biennial mammography from age 40 for women generally, so the source's age-50 default is outdated.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/breast-cancer-screening"
+    }
+  },
+  {
+    "id": "s2obgyn-0187",
+    "category": "OB Breast",
+    "q": "Breast screening under age 30 per p36?",
+    "a": "No mammography on USMLE; ultrasound (dense breast tissue makes mammography less specific).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 36,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2obgyn-0188",
+    "category": "OB Breast",
+    "q": "Receptor status and prognosis per p36?",
+    "a": "ER/PR positive: better prognosis (SERMs and aromatase inhibitors treat). HER2/neu positive: worse prognosis (trastuzumab targets it). Triple-negative: aggressive, recurrence, lung/brain metastasis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 36,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2obgyn-0189",
+    "category": "OB Breast",
+    "q": "HRT and breast cancer per p36?",
+    "a": "HRT raises breast cancer risk even with progesterone; due to higher absolute estrogen exposure, not unopposed estrogen. With appropriate progesterone there is no increased endometrial cancer risk. OCP link not significant and not assessed.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 36,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2obgyn-0190",
+    "category": "OB Breast",
+    "q": "Fibrocystic change per p36?",
+    "a": "Benign cystic change in women 20s-50s. Presentations: bilateral cyclic tenderness (20s-30s); unilateral sharp pain; painless unilateral cyst draining brown/green fluid (40s). Clinical diagnosis; no biopsy/ultrasound; symptomatic treatment (warm showers, evening primrose oil). Buzzy: sclerosing adenosis, apocrine metaplasia, blue dome cysts.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 36,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2obgyn-0191",
+    "category": "OB Breast",
+    "q": "Simple vs complex breast cyst per p36-37?",
+    "a": "Simple: hypoechoic (black), fluid-filled; observe, drain only if uncomfortable. Complex: part hyperechoic (white), solid component; all need FNA biopsy. A simple cyst after starting HRT 3 months ago: biopsy (sudden growth is an indication).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 36,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=36"
+    }
+  },
+  {
+    "id": "s2obgyn-0192",
+    "category": "OB Breast",
+    "q": "Mastitis per p37?",
+    "a": "Usually S. aureus. Red cracked nipple in a breastfeeding woman, or a red, warm, tender, NON-fluctuant breast mass without nipple involvement. Treatment: oral dicloxacillin (not doxycycline); continue breastfeeding (no risk to the neonate). Cephalexin is equivalent for exam purposes.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 37,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2obgyn-0193",
+    "category": "OB Breast",
+    "q": "Breast abscess per p37?",
+    "a": "Warm, red, tender FLUCTUANT mass; drain as the next step.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 37,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2obgyn-0194",
+    "category": "OB Breast",
+    "q": "Galactocele per p37?",
+    "a": "Milk retention cyst from blocked lactiferous ducts in recently breastfeeding women; painless or tender fluctuant peri-areolar mass; afebrile, not warm or red. Warm compresses, then drainage.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 37,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2obgyn-0195",
+    "category": "OB Breast",
+    "q": "Ductal ectasia per p37?",
+    "a": "Dilated lactiferous ducts; diagnosis of exclusion; 2/3 of Qs as an inverted nipple, 1/3 as a lesion with biopsy 'dilation of the ducts'.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 37,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2obgyn-0196",
+    "category": "OB Breast",
+    "q": "Virginal breast hypertrophy per p37?",
+    "a": "Benign asymmetric growth in young women (8-16 years) with a large lump under one nipple; observe even if a relative had breast cancer.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 37,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2obgyn-0197",
+    "category": "OB Breast",
+    "q": "Gynecomastia per p37?",
+    "a": "Physiologic in teenage boys: observe. Causes: liver failure (estrogen), cimetidine, spironolactone, ketoconazole, marijuana. Estrogen effect, not prolactin; with hCG the testis produces estrogen.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 37,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2obgyn-0198",
+    "category": "OB Breast",
+    "q": "Breast fat necrosis per p37?",
+    "a": "Non-enzymatic fat necrosis from trauma (softball, tight sports bras); can calcify. Not the enzymatic fat necrosis of pancreatitis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 37,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=37"
+    }
+  },
+  {
+    "id": "s2obgyn-0199",
+    "category": "OB Ovary",
+    "q": "Ruptured ovarian cyst per p38?",
+    "a": "Sudden sharp adnexal pain; 10-15 mL serosanguineous fluid in the pouch of Douglas on culdocentesis; no mass. 3 of 4 Qs: intermittent pain becoming constant. Treat symptomatically (NSAID); no laparoscopy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 38,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2obgyn-0200",
+    "category": "OB Ovary",
+    "q": "Adnexal/ovarian torsion per p38?",
+    "a": "Large adnexal mass (e.g., 8 x 12 cm), no fluid in the pouch of Douglas. Biggest risk factor: pre-existing abnormality such as a cyst. Treatment: laparoscopic detorsion.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 38,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2obgyn-0201",
+    "category": "OB Ovary",
+    "q": "Theca-lutein cyst per p38?",
+    "a": "From theca cells, usually bilateral; with high hCG (moles, multiple gestation, fertility drugs); can bleed (hemorrhagic theca-lutein cyst, diagnosis of exclusion).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 38,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2obgyn-0202",
+    "category": "OB Ovary",
+    "q": "Endometrioid cyst per p38?",
+    "a": "Endometrioma/chocolate cyst; filled with bleeding endometrial tissue in endometriosis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 38,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2obgyn-0203",
+    "category": "OB Ovary",
+    "q": "Dermoid cyst per p38?",
+    "a": "Mature cystic teratoma; multiple germ layers (hair, skin, teeth); can calcify.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 38,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2obgyn-0204",
+    "category": "OB Ovary",
+    "q": "Seminoma per p38?",
+    "a": "Most common testicular cancer; teenage years and older; large uniform cells with watery cytoplasm; chemo- and radiosensitive; placental ALP marker.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 38,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2obgyn-0205",
+    "category": "OB Ovary",
+    "q": "Testicular yolk sac and embryonal tumors per p38?",
+    "a": "Yolk sac: most common in kids <3, AFP, immature cells. Embryonal carcinoma: AFP + hCG, usually adult men.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 38,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=38"
+    }
+  },
+  {
+    "id": "s2obgyn-0206",
+    "category": "OB Ovary",
+    "q": "Sertoli-Leydig and granulosa tumors in males per p38?",
+    "a": "Sertoli-Leydig secretes androgens; gynecomastia via aromatization. Granulosa cell tumor secretes estrogen and can also cause gynecomastia; the NBME will not list both.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 38,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=38"
+    }
   }
 ];
