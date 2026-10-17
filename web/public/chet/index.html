@@ -934,12 +934,24 @@ function initFitness(){
       if (target>done) left.push(x.label+' '+(target-done)+' more');
     });
     document.getElementById('wkleft').innerHTML=left.length?('Left this week: <b>'+left.join(', ')+'</b>'):('<b>Week closed out.</b>');
-    var rec=null, recLeft=0;
-    GROUP_ORDER.forEach(function(g){
+    /* recommendation: priority order legs>back>shoulders>arms>core>chest,
+       skip groups trained in the last ~48h, aerobic fallback when lifts are covered */
+    var PRIORITY=['Legs','Back','Shoulders','Arms','Core','Chest'];
+    var recent={}, nowMs=Date.now();
+    all.forEach(function(e){ if (nowMs-e.ts<48*3600000) recent[groupFor(e.ex)]=1; });
+    var rec=null, recLeft=0, anyDef=false, recovering=[];
+    PRIORITY.forEach(function(g){
       var rem=(plan[g]||0)-(((counts[g]||{})[ws])||0);
-      if (rem>recLeft){ recLeft=rem; rec=g; }
+      if (rem>0){
+        anyDef=true;
+        if (recent[g]) recovering.push(g);
+        else if (!rec){ rec=g; recLeft=rem; }
+      }
     });
-    document.getElementById('wkrec').innerHTML=rec?('Recommended next: <b>'+rec+'</b> - '+recLeft+' sets behind this week'):('<b>Week closed out</b> - anything else is bonus.');
+    var recEl=document.getElementById('wkrec');
+    if (rec) recEl.innerHTML='Recommended next: <b>'+rec+'</b> - '+recLeft+' sets to this week\'s floor';
+    else if (anyDef) recEl.innerHTML='Recommended next: <b>Zone 2 or rest</b> - '+recovering.join(', ')+' trained in the last 48h';
+    else recEl.innerHTML='Recommended next: <b>Zone 2 run or speed session</b> - weekly lift floors met';
     var rateBits=[];
     for (i=0;i<=6;i++){ var rd=isoD(ws+i*DAY); if (ratings[rd]) rateBits.push(fmt(rd)+' '+ratings[rd]+'/10'); }
     document.getElementById('wkrate').textContent=rateBits.length?('Rated: '+rateBits.join(', ')):'';

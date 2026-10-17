@@ -1,0 +1,122 @@
+{
+  "spec": "chet-hub-fitness-recommendation-engine",
+  "version": "integrated-v1",
+  "purpose": "Not a fixed weekly plan. Given sets logged this week vs weekly target floors, recommend the next session and show balance. Weekly-grain checklist logic (Good Weeks), exercise content from Chet's Nippard-based plan, recovery/cardio framing from Huberman, peptide/enhancement lens noted from Bakri (no dosing).",
+  "week": { "starts": "monday", "ends": "sunday", "reset": "automatic fresh checklist each Monday" },
+  "weekly_target_floors_sets": {
+    "back": 12,
+    "chest": 6,
+    "shoulders": 9,
+    "arms": 12,
+    "legs": 10,
+    "core": 4,
+    "_note": "Floors, not ceilings. Chest is capped, not encouraged: never more than 3 chest sets in one session and never recommend chest when he skips it. Targets cover one Upper + one Legs session as minimum viable week."
+  },
+  "constraints": {
+    "chest_max_sets_per_session": 3,
+    "priority_groups_order": ["legs", "back", "shoulders", "arms", "core", "chest"],
+    "rir": "2-3 on all lifts (Nippard plan convention)",
+    "progression": "bump weight or reps off last logged session for that lift; no easing in, he asked for full intensity",
+    "logging": "sets arrive as texts; hub auto-fills the checklist from the lift log, he never taps to log",
+    "ratings": "optional 1-10 how-it-went per session, settable by the agent (Good Weeks mechanic)"
+  },
+  "session_templates": [
+    {
+      "id": "upper-a",
+      "label": "Upper A",
+      "covers": ["back", "chest", "shoulders", "arms"],
+      "exercises": [
+        { "name": "Chest-supported row", "sets": 3, "reps": "8-10", "muscle_group": "back" },
+        { "name": "Lat pulldown", "sets": 3, "reps": "8-10", "muscle_group": "back" },
+        { "name": "Incline DB press", "sets": 3, "reps": "8-10", "muscle_group": "chest", "skip_if": "chest floor met or he declines chest" },
+        { "name": "Seated DB shoulder press", "sets": 3, "reps": "8-10", "muscle_group": "shoulders" },
+        { "name": "Lateral raise", "sets": 3, "reps": "12-15", "muscle_group": "shoulders" },
+        { "name": "Rear delt fly", "sets": 3, "reps": "12-15", "muscle_group": "shoulders" },
+        { "name": "Incline DB curl", "sets": 3, "reps": "10-12", "muscle_group": "arms" },
+        { "name": "Hammer curl", "sets": 2, "reps": "10-12", "muscle_group": "arms" },
+        { "name": "Cable pushdown", "sets": 3, "reps": "10-12", "muscle_group": "arms" },
+        { "name": "Overhead tricep extension", "sets": 3, "reps": "10-12", "muscle_group": "arms" }
+      ],
+      "source": "texted to Chet 2026-10-17 as his current Upper A"
+    },
+    {
+      "id": "upper-b",
+      "label": "Upper B",
+      "covers": ["back", "chest", "shoulders", "arms"],
+      "exercises": [
+        { "name": "Pull-ups", "sets": 3, "reps": "6-10", "muscle_group": "back" },
+        { "name": "Seated cable row", "sets": 3, "reps": "8-12", "muscle_group": "back" },
+        { "name": "Machine chest press", "sets": 3, "reps": "8-10", "muscle_group": "chest", "skip_if": "chest floor met or he declines chest" },
+        { "name": "Arnold press", "sets": 3, "reps": "8-10", "muscle_group": "shoulders" },
+        { "name": "Cable lateral raise", "sets": 3, "reps": "12-15", "muscle_group": "shoulders" },
+        { "name": "Face pull", "sets": 3, "reps": "12-15", "muscle_group": "shoulders" },
+        { "name": "EZ-bar curl", "sets": 3, "reps": "8-10", "muscle_group": "arms" },
+        { "name": "Preacher curl", "sets": 2, "reps": "10-12", "muscle_group": "arms" },
+        { "name": "Skullcrusher", "sets": 3, "reps": "8-10", "muscle_group": "arms" },
+        { "name": "Rope pushdown", "sets": 2, "reps": "12-15", "muscle_group": "arms" }
+      ],
+      "source": "texted to Chet 2026-10-17 as his current Upper B; he trained it today"
+    },
+    {
+      "id": "legs",
+      "label": "Legs",
+      "covers": ["legs", "core"],
+      "exercises": [
+        { "name": "Squat or leg press", "sets": 3, "reps": "6-8", "muscle_group": "legs" },
+        { "name": "Romanian deadlift", "sets": 3, "reps": "8-10", "muscle_group": "legs" },
+        { "name": "Leg curl", "sets": 3, "reps": "10-12", "muscle_group": "legs" },
+        { "name": "Calf raise", "sets": 3, "reps": "10-15", "muscle_group": "legs" },
+        { "name": "Cable crunch", "sets": 3, "reps": "10-12", "muscle_group": "core" }
+      ],
+      "source": "judgment, built from the Sep 29-30 plan pieces (squat/leg press 3x8, RDL, plank/crunch) expanded to a full legs day"
+    },
+    {
+      "id": "speed-track",
+      "label": "Speed (400m track)",
+      "covers": [],
+      "type": "aerobic-power",
+      "structure": "100m straights at ~95%, walk the curves. 6-8 reps. Lives in Garmin Connect, not the lift log.",
+      "source": "his Oct 8 track session format, his words: make it easy for me"
+    },
+    {
+      "id": "zone2",
+      "label": "Zone 2 run",
+      "covers": [],
+      "type": "aerobic-base",
+      "structure": "20-45 min conversational pace, Lake Belton or wherever. Garmin-only.",
+      "source": "Huberman foundational protocol (weekly Zone 2) + Sep 22 hybrid framework"
+    }
+  ],
+  "recommendation_logic": [
+    "1. Tally this week's sets per muscle_group from the lift log (map each logged exercise to a group; custom exercises get tagged at creation).",
+    "2. Compute deficit per group = floor minus logged. Priority weight: legs > back > shoulders > arms > core > chest (his stated bring-up order; chest last and capped).",
+    "3. Recovery filter: do not recommend a session whose main groups were trained in the last ~48h. (Judgment, standard hypertrophy practice; both Nippard-style plans and the Huberman foundational protocol hit each muscle about twice a week.)",
+    "4. Pick the template covering the largest weighted deficit. If both upper templates qualify, recommend the one not done most recently (A/B alternation).",
+    "5. If all lift floors are met, recommend aerobic: speed-track if none this week, else zone2. One speed session per week max.",
+    "6. Chest rule: include the chest exercise only if chest floor unmet; if he declines chest, drop it without re-nudging.",
+    "7. Output format for the Today card: session label, exercise list with last-weight prefill, and a Left this week line (remaining sets per group). Neglected groups render amber.",
+    "8. After the session's sets are logged, prompt optional 1-10 rating (Good Weeks).",
+    "9. Never prescribe makeup volume for missed weeks; floors reset fresh each Monday. (Rotation-floor rule from the Sep 22 framework.)"
+  ],
+  "rotation_floor": {
+    "applies_from": "2026-11-23 (FM rotation)",
+    "rule": "2 lifts + 2 short aerobic sessions per week; nothing hard after call or under 6h sleep; never make up missed volume",
+    "source": "Sep 22 hybrid framework, built for rotations"
+  },
+  "daily_checkpoints": [
+    { "item": "Fixed wake time, 7+ h sleep opportunity", "source": "Huberman (Sep 22 framework)" },
+    { "item": "Morning outdoor light", "source": "Huberman (Sep 22 framework)" },
+    { "item": "Caffeine cutoff ~8h before bed", "source": "Huberman (Sep 22 framework)" },
+    { "item": "Protein 1.4-2.0 g/kg", "source": "Sep 22 framework" }
+  ],
+  "enhancement_note": {
+    "bakri_lane": "Bakri's published content is peptides/GLP-1/TRT, not training programming (he was Huberman's podcast guest on peptides). Sourced position: most peptides have minimal or no human studies. Chet's compounds (MOTS-c, bromantane) are his decided call; the plan tracks but does not dose or argue.",
+    "sources": ["https://www.hubermanlab.com/episode (Bakri peptides episode)", "/memory/entities/people/abud-bakri.md"]
+  },
+  "sources": [
+    "https://text-incubation.com/what-is-good-weeks (Good Weeks mechanics)",
+    "https://www.hubermanlab.com/newsletter/foundational-fitness-protocol (Zone 2 + interval weekly, muscle groups 2x/week, Schedule A/B periodization)",
+    "/memory/workstreams/active/hybrid-training-plan.md (his Nippard plan, constraints, rotation floor)",
+    "texted workouts 2026-09-29 to 2026-10-17 (Upper A, Upper B, full-body, track session)"
+  ]
+}
