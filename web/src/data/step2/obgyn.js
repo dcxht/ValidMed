@@ -1718,5 +1718,336 @@ export default [
       "page": 32,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=32"
     }
+  },
+  {
+    "id": "s2obgyn-0157",
+    "category": "OB Gyn Onc",
+    "q": "Fibroid progression and treatment per p33?",
+    "a": "Negligible risk of leiomyosarcoma; do not choose myomectomy. Bleeding: OCPs and NSAIDs in theory, not assessed; leuprolide nonexistent on USMLE.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 33,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2obgyn-0158",
+    "category": "OB Gyn Onc",
+    "q": "Fibroid locations per p33?",
+    "a": "Submucosal: near the endometrial side, can bleed. Subserosal: outside the uterus, no vaginal bleeding, globular uterus. Intramural: features of both. Pedunculated: stalk-like. Parasitic: detach and attach to adjacent structures (e.g., bladder).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 33,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2obgyn-0159",
+    "category": "OB Gyn Onc",
+    "q": "Beefy red mass protruding from the cervix per p33?",
+    "a": "Pedunculated submucosal leiomyoma (obscure 2CK NBME Q); 'beefy red' suggests endometrial origin; cervical SCC is usually an ulcerated exophytic mass.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 33,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2obgyn-0160",
+    "category": "OB Gyn Onc",
+    "q": "Vulvovaginal carcinoma per p33?",
+    "a": "Almost always SCC from HPV 16 or 18; rarely from lichen sclerosus.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 33,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2obgyn-0161",
+    "category": "OB Gyn Onc",
+    "q": "Condylomata acuminata per p33?",
+    "a": "Warts from HPV 6/11; painless skin-colored or hyperpigmented cauliflower-like papules.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 33,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2obgyn-0162",
+    "category": "OB Gyn Onc",
+    "q": "Lichen sclerosus per p33?",
+    "a": "Whitish-grey rough itchy vulvar/perineal patch, usually >50; chronic irritation plus autoimmunity, not HPV; atrophy, hyperkeratosis, dermal lymphocyte band; not neoplasia. Next step: biopsy to rule out SCC; if LS, topical steroid.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 33,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2obgyn-0163",
+    "category": "OB Gyn Onc",
+    "q": "Sarcoma botryoides per p33?",
+    "a": "Vaginal rhabdomyosarcoma in pediatrics: bunches of grapes protruding from the vagina.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 33,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2obgyn-0164",
+    "category": "OB Gyn Onc",
+    "q": "Clear cell vaginal carcinoma per p33?",
+    "a": "Women 30s-50s with maternal DES exposure in pregnancy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 33,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2obgyn-0165",
+    "category": "OB Gyn Onc",
+    "q": "Bartholin gland cyst per p33?",
+    "a": "Tender bump at 4 or 8 o'clock on the vulva; infected = Bartholin abscess; most likely organism: polymicrobial. Cysts: sitz bath and warm compresses; abscess: drainage.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 33,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2obgyn-0166",
+    "category": "OB Gyn Onc",
+    "q": "Child with foul-smelling vaginal discharge and no trauma per p33?",
+    "a": "Vaginal foreign body (children or elderly; no lacerations means not abuse). Sexual abuse vignettes mention lacerations, with or without discharge.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 33,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=33"
+    }
+  },
+  {
+    "id": "s2obgyn-0167",
+    "category": "OB Gyn Onc",
+    "q": "Cervical cancer per p34?",
+    "a": "SCC at the transformation zone between stratified squamous ectocervix and columnar endocervix; HPV 16/18; vaginal bleeding and uni- or bilateral hydroureter/hydronephrosis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 34,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2obgyn-0168",
+    "category": "OB Gyn Onc",
+    "q": "Pap smear schedule per p34?",
+    "a": "Start at 21 (sexually active teenager: test STDs, no Pap). 21-30: every 3 years without HPV co-testing. 30-65: Pap every 3 years or Pap-HPV co-testing every 5 years. Stop at 65 unless history of HSIL/CIN.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 34,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=34"
+    },
+    "guideline": {
+      "text": "The USPSTF cervical screening statement is linked for current screening intervals; I did not verify the source's schedule against it.",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2697704"
+    }
+  },
+  {
+    "id": "s2obgyn-0169",
+    "category": "OB Gyn Onc",
+    "q": "Pap after hysterectomy per p34?",
+    "a": "Continue Paps of the vaginal cuff if hysterectomy was for cervical cancer; not if for endometrial cancer.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 34,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2obgyn-0170",
+    "category": "OB Gyn Onc",
+    "q": "Pap smears in HIV per p34?",
+    "a": "Two Paps in the first year after diagnosis (6 months apart), then annually. A normal Pap last year does not mean waiting 2 years.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 34,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2obgyn-0171",
+    "category": "OB Gyn Onc",
+    "q": "LSIL/ASC-US and HSIL management per p34?",
+    "a": "LSIL/ASC-US: repeat Pap or HPV co-testing, then colposcopy + biopsy if HPV positive (algorithm specifics not assessed). HSIL: immediate colposcopy + biopsy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 34,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=34"
+    },
+    "guideline": {
+      "text": "The ASCCP 2019 risk-based management guidelines are linked for current management; source answers stay.",
+      "url": "https://www.asccp.org/guidelines/management-guidelines-enduring-guidelines-process/asccp-2019-risk-based-management-consensus-guidelines/"
+    }
+  },
+  {
+    "id": "s2obgyn-0172",
+    "category": "OB Gyn Onc",
+    "q": "CIN grades per p34?",
+    "a": "CIN I = LSIL confirmed on colposcopy/biopsy (high spontaneous regression; repeat Pap in a year). CIN II/III = HSIL confirmed; needs excision or ablation (LEEP, coning, cryotherapy, laser).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 34,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2obgyn-0173",
+    "category": "OB Gyn Onc",
+    "q": "Cone biopsy indication per p34?",
+    "a": "Colposcopy for HSIL when the entire squamocolumnar junction cannot be visualized (insufficient colposcopy).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 34,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2obgyn-0174",
+    "category": "OB Gyn Onc",
+    "q": "CIN III in pregnancy per p34?",
+    "a": "Not excised/ablated during pregnancy; HPV lesions can worsen temporarily in pregnancy. Postpartum, evaluate for regression over weeks; if none, excise as for non-pregnant CIN II/III.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 34,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2obgyn-0175",
+    "category": "OB Gyn Onc",
+    "q": "Cervical trauma and cervical polyp per p34?",
+    "a": "Trauma: bleeding within ~12 hours of intercourse (post-coital bleeding). Polyp: benign pedunculated ectocervical tumor, idiopathic; metrorrhagia; not described as ulcerated (ulcerated suggests SCC).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 34,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=34"
+    }
+  },
+  {
+    "id": "s2obgyn-0176",
+    "category": "OB Breast",
+    "q": "DCIS per p35?",
+    "a": "Most common malignant breast cancer in the source's wording; in situ = confined superficial to the basement membrane. Microcalcifications on mammography = DCIS until proven otherwise; NBME answer: needle-guided open biopsy (FNA wrong). Paget disease of the breast (eczematous nipple, >50) is often DCIS extension.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 35,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2obgyn-0177",
+    "category": "OB Breast",
+    "q": "Invasive ductal carcinoma per p35?",
+    "a": "Invasive form of ductal carcinoma; stellate cells on biopsy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 35,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2obgyn-0178",
+    "category": "OB Breast",
+    "q": "LCIS and invasive lobular per p35?",
+    "a": "LCIS sometimes bilateral (bilateral breast cancer: lobular until proven otherwise unless microcalcifications/stellate cells). Indian-file linear cells from reduced E-cadherin. Invasive lobular: 20-30% bilateral.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 35,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2obgyn-0179",
+    "category": "OB Breast",
+    "q": "Intraductal papilloma per p35?",
+    "a": "Unilateral bloody/rusty nipple discharge.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 35,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2obgyn-0180",
+    "category": "OB Breast",
+    "q": "Inflammatory carcinoma per p35?",
+    "a": "Red inflamed breast (rubor, dolor, tumor, calor); peau d'orange from skin tethering by Cooper ligaments with lymphatic blockage by tumor cells.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 35,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2obgyn-0181",
+    "category": "OB Breast",
+    "q": "Comedo and medullary carcinoma per p35?",
+    "a": "Comedocarcinoma has cheese-like consistency; both are nonexistent or rarely assessed on USMLE per the source.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 35,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2obgyn-0182",
+    "category": "OB Breast",
+    "q": "Fibroadenoma per p35?",
+    "a": "Most common breast tumor overall; benign; rubbery mobile non-tender lump in women in their 20s-40s; solid mass without calcification on ultrasound (calcifications suggest ductal carcinoma). FNA to confirm; confirmed fibroadenomas need no excision.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 35,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2obgyn-0183",
+    "category": "OB Breast",
+    "q": "Cystosarcoma phyllodes per p35?",
+    "a": "Fast-growing, leaf-like on light microscopy; benign or malignant by histology.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 35,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2obgyn-0184",
+    "category": "OB Breast",
+    "q": "BRCA points per p35?",
+    "a": "Tumor suppressors inherited autosomal dominant with incomplete penetrance (can skip a generation). Defective process: recombinational double-stranded DNA repair. 2CK answer for confirmed BRCA: bilateral mastectomy and oophorectomy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 35,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=35"
+    }
+  },
+  {
+    "id": "s2obgyn-0185",
+    "category": "OB Breast",
+    "q": "Mammography screening per p35?",
+    "a": "The source says every two years at ages 50-74.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 35,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=35"
+    },
+    "guideline": {
+      "text": "The USPSTF 2024 statement (linked; I read it) recommends biennial screening mammography at ages 40 to 74, so the source's start age of 50 is outdated. The source answer stays as the exam answer.",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/breast-cancer-screening"
+    }
   }
 ];
