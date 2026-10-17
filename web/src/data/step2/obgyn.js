@@ -2284,5 +2284,302 @@ export default [
       "page": 38,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=38"
     }
+  },
+  {
+    "id": "s2obgyn-0207",
+    "category": "OB Male Repro",
+    "q": "Prostate cancer basics per p39?",
+    "a": "Adenocarcinoma; most common cancer in men; stimulated by DHT; osteoblastic metastases (highest yield). Gleason scoring grades it. Free-PSA is low relative to bound PSA.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 39,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2obgyn-0208",
+    "category": "OB Male Repro",
+    "q": "Prostate cancer with spinal blastic lesions per p39?",
+    "a": "With neurologic symptoms in the legs: IV methylprednisolone. Without neuro symptoms (just blastic vertebral lesions): radiotherapy; morphine + corticosteroids is a distractor.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 39,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2obgyn-0209",
+    "category": "OB Male Repro",
+    "q": "Prostate cancer androgen deprivation per p39?",
+    "a": "Orchiectomy lowers androgens and shrinks cancer cells. Flutamide (androgen receptor blocker) is given before leuprolide (GnRH agonist that desensitizes the receptor with continuous use) because leuprolide first raises LH/FSH.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 39,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2obgyn-0210",
+    "category": "OB Male Repro",
+    "q": "Radical prostatectomy nerve injury per p39?",
+    "a": "The parasympathetic nerves for erection are at greatest risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 39,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2obgyn-0211",
+    "category": "OB Male Repro",
+    "q": "BPH per p39?",
+    "a": "Lifetime DHT exposure enlarges the prostate; dribbling, hesitancy, interrupted stream in men over 60 (usually 70s+). 'Old man + high creatinine = BPH until proven otherwise.' Nodular on palpation; free-PSA is high relative to bound PSA.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 39,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2obgyn-0212",
+    "category": "OB Male Repro",
+    "q": "BPH and anticholinergics per p39?",
+    "a": "Discontinue anticholinergics (retention): first-generation H1 blockers (diphenhydramine, chlorpheniramine), TCAs (amitriptyline), antipsychotics. Answer can be 'discontinue the diphenhydramine'.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 39,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2obgyn-0213",
+    "category": "OB Male Repro",
+    "q": "BPH treatment per p39?",
+    "a": "Alpha-1 blocker (tamsulosin/terazosin) or the 5-alpha-reductase inhibitor finasteride; TURP for refractory cases.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 39,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2obgyn-0214",
+    "category": "OB STDs",
+    "q": "HPV types per p39?",
+    "a": "6/11: condylomata acuminata (also neonatal laryngeal papillomatosis). 16/18: SCC of genitalia/anus; risk higher in immunocompromised (HIV in MSM) and heavy smokers.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 39,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2obgyn-0215",
+    "category": "OB STDs",
+    "q": "Chlamydia trachomatis D-K per p39-40?",
+    "a": "The 'regular' STD: mucopurulent discharge; can advance to PID with tubal scarring and ectopic pregnancy risk; obligate intracellular, so WBCs and no organisms on light microscopy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 39,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=39"
+    }
+  },
+  {
+    "id": "s2obgyn-0216",
+    "category": "OB STDs",
+    "q": "Chlamydia treatment per p40?",
+    "a": "One-off oral azithromycin (GI upset), or doxycycline BID for a week (no dairy/divalent cations, photosensitivity; the source calls it slightly more efficacious but burdensome). In pregnancy doxycycline is avoided (teeth discoloration): azithromycin (sometimes erythromycin).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 40,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2obgyn-0217",
+    "category": "OB STDs",
+    "q": "Chlamydia complications per p40?",
+    "a": "Reactive arthritis (urethritis, arthritis, eye inflammation). Neonatal conjunctivitis: prevent by treating the pregnant mother; treat the neonate with oral erythromycin; can lead to Chlamydia pneumonia. Serovars A-C: trachoma. L1-3: lymphogranuloma venereum (anal strictures).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 40,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2obgyn-0218",
+    "category": "OB STDs",
+    "q": "Neisseria gonorrhoeae per p40?",
+    "a": "Mucopurulent discharge; gram-negative diplococci; can cause PID and ectopic pregnancy risk. Causes gonococcal arthritis (not reactive arthritis): knee monoarthritis, or mono/polyarthritis + papules/pustules + tenosynovitis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 40,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2obgyn-0219",
+    "category": "OB STDs",
+    "q": "Gonorrhea treatment per p40?",
+    "a": "IM ceftriaxone PLUS oral azithromycin or doxycycline (cotreat chlamydia). PID after early ceftriaxone: improper treatment (no chlamydia cotreatment).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 40,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2obgyn-0220",
+    "category": "OB STDs",
+    "q": "PID management per p40?",
+    "a": "Septic patient (high fever, tachycardia, high WBC): admit with IV antibiotics, not outpatient IM plus oral. Asymptomatic patient whose partner tested positive for gonorrhea or chlamydia: treat without waiting for results.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 40,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2obgyn-0221",
+    "category": "OB STDs",
+    "q": "Neonatal conjunctivitis prophylaxis and treatment per p40?",
+    "a": "Erythromycin ointment prophylaxis; if already present, IM cefotaxime (preferred 3rd-gen cephalosporin in peds if listed).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 40,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2obgyn-0222",
+    "category": "OB STDs",
+    "q": "Trichomonas vaginalis per p40?",
+    "a": "Flagellated protozoan on wet mount; yellow-green discharge; strawberry cervix (punctate hemorrhages) or erythematous vaginal canal; treat patient and partner with metronidazole.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 40,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=40"
+    }
+  },
+  {
+    "id": "s2obgyn-0223",
+    "category": "OB STDs",
+    "q": "Gardnerella vaginalis per p41?",
+    "a": "Bacterial vaginosis: gram-negative rod, thin grey/watery discharge, positive whiff test (fish odor with KOH), clue cells (squamous cells studded with bacteria).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 41,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2obgyn-0224",
+    "category": "OB STDs",
+    "q": "Candida vaginitis per p41?",
+    "a": "Thick white cottage-cheese discharge in ~2/3 of Qs; ~1/3 itchy erythematous vagina without discharge. Topical nystatin or oral fluconazole (inhibits 14-alpha-demethylase, lanosterol to ergosterol, P-450 mediated).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 41,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2obgyn-0225",
+    "category": "OB STDs",
+    "q": "Primary syphilis per p41?",
+    "a": "Treponema pallidum, a spirochete on dark-field microscopy; painless genital chancre; diagnose by dark-field scraping.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 41,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2obgyn-0226",
+    "category": "OB STDs",
+    "q": "Secondary syphilis per p41?",
+    "a": "6 weeks to 6 months after chancre appears and disappears: body rash including palms and soles, condylomata lata (painless genital plaques).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 41,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2obgyn-0227",
+    "category": "OB STDs",
+    "q": "Tertiary syphilis per p41?",
+    "a": "Years later: gummas (painless, e.g., face/nose), arthritis, ascending aortitis (tree-barking of vasa vasorum).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 41,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2obgyn-0228",
+    "category": "OB STDs",
+    "q": "Neurosyphilis per p41?",
+    "a": "Can occur at any stage. Tabes dorsalis (dorsal column loss: vibration/proprioception, positive Romberg), Argyll-Robertson pupil (accommodates, does not react), 'stroke without hypertension' in younger patients.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 41,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2obgyn-0229",
+    "category": "OB STDs",
+    "q": "Syphilis serology per p41?",
+    "a": "Secondary, tertiary and neurosyphilis: VDRL/RPR first (sensitive, not specific), FTA confirmatory (specific, not sensitive).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 41,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=41"
+    }
+  },
+  {
+    "id": "s2obgyn-0230",
+    "category": "OB STDs",
+    "q": "VDRL versus RPR per p42?",
+    "a": "VDRL mixes serum with cardiolipin antigen and shows flocculation; RPR adds charcoal particles. An NBME Q with clumping with charcoal particles: SLE. Antiphospholipid syndrome (anti-cardiolipin antibodies) gives false-positive VDRL.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 42,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2obgyn-0231",
+    "category": "OB STDs",
+    "q": "FTA per p42?",
+    "a": "Mixes serum with fluorescent Treponema antibodies; binding confirms syphilis. Rash on the back + negative KOH: FTA.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 42,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2obgyn-0232",
+    "category": "OB STDs",
+    "q": "Syphilis treatment per p42?",
+    "a": "Penicillin for all types. Anaphylaxis history but pregnant or tertiary/neurosyphilis: desensitize and give penicillin. Mere rash to beta-lactams: give the beta-lactam anyway.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 42,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=42"
+    }
+  },
+  {
+    "id": "s2obgyn-0233",
+    "category": "OB STDs",
+    "q": "HSV 1/2 per p42?",
+    "a": "Painful vesicular lesions recurring at varying intervals (usually months). Primary infection is most severe: fever, regional lymphadenopathy, burning/stinging/itching pain, many vesicles.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 42,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=42"
+    }
   }
 ];
