@@ -288,7 +288,7 @@ function inR(t,s,e){ return t>=d(s)&&t<=d(e); }
 var blocks=[
  { short:'FM', name:'Family & Community Medicine', s:'2026-11-23', e:'2026-12-18', wk:4, cr:4, uwTo:2, amWk:3, qs:'497+444*',
    plan:[
-    ['Runway Oct 17-Nov 22','UWorld Family Medicine (497) + Ambulatory (444) = 941, ~26/day timed random + same-day incorrects. Bank finished before day 1.'],
+    ['Runway Oct 16-Nov 22','UWorld Family Medicine (497) + Ambulatory (444) = 941, ~25/day timed random + same-day incorrects. Bank finished before day 1.'],
     ['Wks 1-2','AMBOSS FM ~40/day + redo UWorld incorrects.'],
     ['Wk 3','Finish AMBOSS + incorrects. Weak-area reps from ValidMed missed.'],
     ['CMS','Sun Nov 22 (baseline), Sun Dec 6, Sat Dec 12, Tue Dec 15 - wrongs same day.'],
@@ -533,7 +533,7 @@ agenda.forEach(function(a){
 /* ---------- today ---------- */
 function wkInBlock(t,b){ return Math.floor((t-d(b.s))/(7*DAY))+1; }
 function todayPlan(t){
-  if (inR(t,'2026-10-17','2026-11-22')){
+  if (inR(t,'2026-10-16','2026-11-22')){
     var l={}; try{l=JSON.parse(localStorage.getItem('chet_shelf_log')||'{}');}catch(e){}
     var c={done0:0,goal:941,target:'2026-11-22'};
     try{var cc=JSON.parse(localStorage.getItem('chet_shelf_cfg')||'null'); if(cc){if(cc.done0!=null)c.done0=cc.done0; if(cc.goal)c.goal=cc.goal; if(cc.target)c.target=cc.target;}}catch(e){}
