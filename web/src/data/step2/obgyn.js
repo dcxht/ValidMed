@@ -5034,5 +5034,306 @@ export default [
       "page": 75,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=75"
     }
+  },
+  {
+    "id": "s2obgyn-0457",
+    "category": "OB Contraception",
+    "q": "Combined OCP mechanism per p76?",
+    "a": "Estrogen + progesterone. Estrogen reduces breakthrough bleeding and ovulation probability; progesterone thickens cervical mucus (reducing sperm penetration) and, depending on dose, can reduce ovulation.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 76,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2obgyn-0458",
+    "category": "OB Contraception",
+    "q": "Combined OCP contraindications per p76?",
+    "a": "Smokers >35 (HY), migraine with aura, history of thrombotic disorders, current breast/gynecologic cancer (estrogen component). The form may say 'synchronization of endometrium' or 'triphasic OCP'.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 76,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2obgyn-0459",
+    "category": "OB Contraception",
+    "q": "OCP and cancer risk per p76?",
+    "a": "Greatest reduction in ovarian cancer (cycle synchronization; NBME), also lower endometrial. Slightly higher cervical cancer risk (less barrier use, more HPV exposure); possible slight, non-significant breast cancer rise.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 76,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2obgyn-0460",
+    "category": "OB Contraception",
+    "q": "Progestin-only pills per p76?",
+    "a": "Mini-pill: progesterone analogue only; thickens cervical mucus; must be taken at precisely the same time daily (needs adherence).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 76,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2obgyn-0461",
+    "category": "OB Contraception",
+    "q": "Patch and vaginal ring per p76?",
+    "a": "Both release estrogen + progesterone like the combined OCP. Patch worn one week at a time; ring (NuvaRing) worn monthly.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 76,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2obgyn-0462",
+    "category": "OB Contraception",
+    "q": "Copper IUD per p76?",
+    "a": "Copper ions are toxic to sperm and inhibit motility. Among the most effective emergency contraceptives if inserted within 5 days; protects up to 10 years; risk of migration through the uterine wall.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 76,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2obgyn-0463",
+    "category": "OB Contraception",
+    "q": "Levonorgestrel IUD per p76?",
+    "a": "Releases a progesterone analogue; lasts 3-7 years; thickens cervical mucus; good for long-term contraception or poor adherence; migration risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 76,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2obgyn-0464",
+    "category": "OB Contraception",
+    "q": "Depo shot per p76?",
+    "a": "DMPA every 3 months; thickens cervical mucus; lowers bone mineral density (rebounds); bleeding: 1/3 erratic, 1/3 unchanged, 1/3 amenorrhea. Answer for a woman who forgets contraception and had an STI within 3 months (IUD contraindicated).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 76,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2obgyn-0465",
+    "category": "OB Contraception",
+    "q": "Implantable rod per p76?",
+    "a": "Implanon/Nexplanon: progesterone analogue; thickens cervical mucus; lasts 3 years.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 76,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2obgyn-0466",
+    "category": "OB Contraception",
+    "q": "Diaphragm per p76?",
+    "a": "Cervical cap inserted with spermicidal jelly; prevents sperm entering the uterine cavity.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 76,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=76"
+    }
+  },
+  {
+    "id": "s2obgyn-0467",
+    "category": "OB Contraception",
+    "q": "Plan B per p77?",
+    "a": "Emergency contraception: levonorgestrel (progesterone analogue) effective within 3 days; ulipristal (SPRM) within 5 days; copper IUD also works.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 77,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2obgyn-0468",
+    "category": "OB Contraception",
+    "q": "Plan C and Plan D per p77?",
+    "a": "Plan C (medical abortion): mifepristone (progesterone receptor antagonist) up to 10 weeks, then misoprostol (PGE1 analogue) 1-2 days later. Plan D (surgical): vacuum aspiration 6-16 weeks; dilation and evacuation >16 weeks.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 77,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2obgyn-0469",
+    "category": "OB HRT",
+    "q": "HRT indication per p77?",
+    "a": "Estrogen + progesterone only for severe perimenopausal vasomotor symptoms (the source also lists urge incontinence and atrophic vaginitis); not for bone density, mood or cognition because of higher breast cancer, MI and thromboembolism risk (estrogen upregulates fibrinogen and factors V and VIII).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 77,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=77"
+    },
+    "guideline": {
+      "text": "The source's indication framing predates NAMS 2022, which still supports hormone therapy for vasomotor symptoms and, within limits, for bone loss prevention in appropriate women. The source answer stays as the exam answer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35797481/"
+    }
+  },
+  {
+    "id": "s2obgyn-0470",
+    "category": "OB HRT",
+    "q": "HRT estrogen alone and libido per p77?",
+    "a": "Unopposed estrogen raises endometrial cancer risk only if progesterone is stopped; estrogen alone is considered only after hysterectomy. HRT can lower libido via lower endogenous androgen production (negative feedback lowers GnRH, LH, FSH).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 77,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2obgyn-0471",
+    "category": "OB Drugs",
+    "q": "Aromatase inhibitors per p77?",
+    "a": "Lower androgen-to-estrogen conversion. Letrozole stimulates ovulation by reducing negative feedback; anastrozole and exemestane for breast cancer in postmenopausal women.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 77,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2obgyn-0472",
+    "category": "OB Drugs",
+    "q": "BPH meds per p77?",
+    "a": "Finasteride: 5-alpha-reductase inhibitor, lowers DHT and prostatic growth. Tamsulosin/terazosin: alpha-1 blockers relaxing the internal urethral sphincter.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 77,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2obgyn-0473",
+    "category": "OB Drugs",
+    "q": "Clomiphene per p77?",
+    "a": "SERM stimulating ovulation (PCOS); weak partial agonist at the hypothalamus, so the hypothalamus senses low estrogen, reducing negative feedback and raising GnRH.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 77,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2obgyn-0474",
+    "category": "OB Drugs",
+    "q": "Danazol per p77?",
+    "a": "Androgen-receptor partial agonist; theoretically for endometriosis (not assessed); used in hereditary angioedema (raises C1-esterase inhibitor); causes hirsutism and pseudotumor cerebri.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 77,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2obgyn-0475",
+    "category": "OB Drugs",
+    "q": "GnRH agonists per p77-78?",
+    "a": "Leuprolide, goserelin, nafarelin: continuous administration desensitizes pituitary GnRH receptors, lowering LH and FSH (clinically act as antagonists).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 77,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=77"
+    }
+  },
+  {
+    "id": "s2obgyn-0476",
+    "category": "OB Drugs",
+    "q": "HTN meds in pregnancy per p78?",
+    "a": "Methyldopa, labetalol, nifedipine; hydralazine for hypertensive emergencies.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 78,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2obgyn-0477",
+    "category": "OB Drugs",
+    "q": "Magnesium per p78?",
+    "a": "Prevents seizures in severe preeclampsia; treats eclamptic seizures; neuroprotection for the neonate when delivering <32 weeks; can in theory be a tocolytic.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 78,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2obgyn-0478",
+    "category": "OB Drugs",
+    "q": "Methotrexate per p78?",
+    "a": "For small stable ectopics (stable, no rupture or fluid, <3.5 cm, b-hCG <5000); a dihydrofolate reductase inhibitor (folate metabolism).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 78,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2obgyn-0479",
+    "category": "OB Drugs",
+    "q": "Minoxidil per p78?",
+    "a": "Arteriolar dilator promoting hair growth in androgenetic alopecia (polygenic; higher risk with anabolic steroids).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 78,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2obgyn-0480",
+    "category": "OB Drugs",
+    "q": "SERMs per p78?",
+    "a": "Tamoxifen and raloxifene: for ER-positive breast cancer; antagonistic at breast, agonistic at bone. Tamoxifen raises endometrial cancer risk (agonist at the endometrium).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 78,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2obgyn-0481",
+    "category": "OB Drugs",
+    "q": "Tocolytics per p78?",
+    "a": "Suppress contractions to delay preterm labor while two boluses of corticosteroids are given: terbutaline (b1/2), ritodrine (b2), nifedipine; indomethacin and magnesium also technically.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 78,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2obgyn-0482",
+    "category": "OB Rapid Review",
+    "q": "Embryology timeline per p78?",
+    "a": "2 weeks: bilaminar disc (epiblast + hypoblast). 3 weeks: neural tube begins, complete by week 4. Weeks 3-8: most organogenesis. Heartbeat starts week 4.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 78,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=78"
+    }
+  },
+  {
+    "id": "s2obgyn-0483",
+    "category": "OB Rapid Review",
+    "q": "Teratogen and neural tube defect timing per p78?",
+    "a": "Most susceptible to neural tube defects (folate deficiency, valproate or other antiepileptics) around 3-4 weeks. For teratogens in general pick 3-4 weeks if listed, otherwise the broader range like 3-8 weeks.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 78,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=78"
+    }
   }
 ];
