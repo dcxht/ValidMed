@@ -3758,5 +3758,280 @@ export default [
       "page": 58,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=58"
     }
+  },
+  {
+    "id": "s2obgyn-0341",
+    "category": "OB Infections in Pregnancy",
+    "q": "GBS prophylaxis indications per p58-59?",
+    "a": "Positive rectovaginal swab at 36 weeks; GBS bacteriuria at any point in the pregnancy (even if treated); history of early-onset GBS disease in a prior neonate (not mere colonization).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 59,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2obgyn-0342",
+    "category": "OB Infections in Pregnancy",
+    "q": "GBS prophylaxis with unknown status per p59?",
+    "a": "Give if any: ROM >18 hours, maternal fever >38 C, preterm delivery (<37 weeks). Example: 40 weeks, temp 37 C, status unknown: best indication is ROM >18 hours.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 59,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2obgyn-0343",
+    "category": "OB Infections in Pregnancy",
+    "q": "Neonatal GBS sepsis treatment per p59?",
+    "a": "Ampicillin + gentamicin (vancomycin + ceftriaxone is wrong on the form).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 59,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2obgyn-0344",
+    "category": "OB Infections in Pregnancy",
+    "q": "Common neonatal bacteria per p59?",
+    "a": "GBS (gram-positive cocci), E. coli (gram-negative rods), Listeria (gram-positive rods; from soft cheeses and deli meats).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 59,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2obgyn-0345",
+    "category": "OB Infections in Pregnancy",
+    "q": "Chorioamnionitis per p59?",
+    "a": "Uterine infection during pregnancy; greatest risk factor ROM >18 hours; polymicrobial; ampicillin + gentamicin +/- clindamycin.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 59,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2obgyn-0346",
+    "category": "OB Infections in Pregnancy",
+    "q": "Postpartum endometritis per p59?",
+    "a": "Uterine infection after pregnancy: fever, uterine tenderness, foul lochia within days (e.g., C-section 2 days ago); polymicrobial; ampicillin + gentamicin +/- clindamycin. Chorioamnionitis is wrong because she is no longer pregnant.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 59,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2obgyn-0347",
+    "category": "OB Infections in Pregnancy",
+    "q": "Normal postoperative course per p59?",
+    "a": "Two days after C-section with temp 99.3 F, mildly erythematous incision and tender palpable inguinal nodes: normal postoperative course (surgery triggers a natural immune response).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 59,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2obgyn-0348",
+    "category": "OB Infections in Pregnancy",
+    "q": "Septic pelvic thrombophlebitis per p59?",
+    "a": "Infected clots in pelvic veins (uterine/ovarian); endometritis is a risk factor; persistent pelvic pain and fever despite antibiotics.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 59,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2obgyn-0349",
+    "category": "OB Infections in Pregnancy",
+    "q": "Puerperal sepsis per p59?",
+    "a": "General sepsis after childbirth (high fever, chills, tachycardia, low BP), often from endometritis; differs from septic pelvic thrombophlebitis (pelvic pain unresponsive to antibiotics).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 59,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=59"
+    }
+  },
+  {
+    "id": "s2obgyn-0350",
+    "category": "OB Infections in Pregnancy",
+    "q": "Toxic shock syndrome per p60?",
+    "a": "TSST superantigen of S. aureus; tampons, vulvovaginal/perineal skin infection (cotton nasal packing outside OB). The toxin bridges MHC-II on macrophages with the TCR on CD4 T cells, causing cytokine release. Likely cause of death: ARDS.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 60,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2obgyn-0351",
+    "category": "OB Pregnancy Skin and Liver",
+    "q": "Melasma per p60?",
+    "a": "Chloasma: benign hyperpigmentation in pregnancy and OCP use; estrogen + progesterone raise melanin; sun worsens. Hereditary hemochromatosis (bronze diabetes) can be mistaken for it and may become clinical when menses stop; ferritin >300 ng/mL is diagnostic on USMLE (the source).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 60,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2obgyn-0352",
+    "category": "OB Pregnancy Skin and Liver",
+    "q": "PUPPP per p60?",
+    "a": "Pruritic urticarial papules and plaques of pregnancy: 3rd trimester or postpartum, intensely itchy, starts in abdominal stretch marks, can spread to limbs and buttocks. Treat with topical steroids, oral antihistamines, emollients.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 60,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2obgyn-0353",
+    "category": "OB Pregnancy Skin and Liver",
+    "q": "Pemphigoid gestationis per p60?",
+    "a": "Herpes gestationis: itchy papules and hives around the umbilicus, 3rd trimester or postpartum; autoantibodies against hemidesmosomes; IgG crosses the placenta (low birth weight, preterm delivery). Topical and/or oral steroids.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 60,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2obgyn-0354",
+    "category": "OB Pregnancy Skin and Liver",
+    "q": "Intrahepatic cholestasis of pregnancy per p60?",
+    "a": "Estrogen lowers bile acid secretion: high serum bile acids, not necessarily high direct bilirubin. Itching of palms and soles without rash; higher risk of 3rd-trimester fetal loss. Ursodiol, fetal monitoring, possibly early delivery.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 60,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2obgyn-0355",
+    "category": "OB Pregnancy Skin and Liver",
+    "q": "Acute fatty liver of pregnancy per p60?",
+    "a": "Life-threatening in the 3rd trimester; fetal LCHAD deficiency (impaired mitochondrial fatty acid oxidation). Nausea, vomiting, abdominal pain, jaundice, then encephalopathy, coagulopathy, organ failure; abnormal LFTs, renal and coagulation tests. Immediate delivery.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 60,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=60"
+    }
+  },
+  {
+    "id": "s2obgyn-0356",
+    "category": "OB Peripartum Bleeding",
+    "q": "Uterine atony per p61?",
+    "a": "Most common cause of postpartum bleeding (70-80%); bleeding with a large, boggy uterus. Uterine massage after stage 2 lowers risk. Refractory: oxytocin, then ergonovine/methylergonovine; last resort uterine artery embolization or hysterectomy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 61,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2obgyn-0357",
+    "category": "OB Peripartum Bleeding",
+    "q": "Ergonovine contraindications per p61?",
+    "a": "Hypertension, preeclampsia, migraine with aura, smokers, cardiovascular disease.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 61,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2obgyn-0358",
+    "category": "OB Peripartum Bleeding",
+    "q": "Vaginal laceration per p61?",
+    "a": "Usually with fetal macrosomia (e.g., maternal diabetes); episiotomy can reduce risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 61,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2obgyn-0359",
+    "category": "OB Peripartum Bleeding",
+    "q": "Placenta previa per p61?",
+    "a": "Placenta over the internal cervical os; painless 3rd-trimester bleeding; C-section from 37 weeks. Before 36 weeks the site can move off the os. Prior uterine interventions (myomectomy, prior C-sections) raise risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 61,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2obgyn-0360",
+    "category": "OB Peripartum Bleeding",
+    "q": "Abruptio placentae per p61?",
+    "a": "Placenta detaches before delivery; painful 3rd-trimester bleeding, intense cramping; causes: cocaine, deceleration injury.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 61,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2obgyn-0361",
+    "category": "OB Peripartum Bleeding",
+    "q": "Accreta, increta, percreta per p61?",
+    "a": "Accreta: attached to the myometrial surface. Increta: into the myometrium. Percreta: through the myometrium, sometimes onto the bladder. All cause postpartum bleeding.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 61,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2obgyn-0362",
+    "category": "OB Peripartum Bleeding",
+    "q": "Vasa previa per p61?",
+    "a": "Fetal vessels over the internal os; triad: painless third-trimester bleeding, ROM, fetal bradycardia. Causes: velamentous cord insertion (vessels unprotected by Wharton jelly in the membranes) or a succenturiate lobe with vessels crossing the os.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 61,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2obgyn-0363",
+    "category": "OB Peripartum Bleeding",
+    "q": "Other postpartum bleeding causes per p61?",
+    "a": "Retained placental tissue; DIC, ITP, vWD.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 61,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2obgyn-0364",
+    "category": "OB Peripartum Bleeding",
+    "q": "Uterine inversion per p61?",
+    "a": "Uterus turns inside out after placental delivery: postpartum bleeding, abdominal pain, uterus not palpable abdominally; even with gentle cord traction on a 2CK form.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 61,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=61"
+    }
+  },
+  {
+    "id": "s2obgyn-0365",
+    "category": "OB Peripartum Bleeding",
+    "q": "Uterine rupture risk factors per p61?",
+    "a": "Labor or previous uterine surgery, especially a classic vertical C-section incision rather than low horizontal.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 61,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=61"
+    }
   }
 ];
