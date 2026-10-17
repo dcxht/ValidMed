@@ -1,11 +1,11 @@
 :root {
-  --bg: #fafafa;
+  --bg: #F5F5F4;
   --surface: #ffffff;
-  --text: #1a1a1a;
-  --text-secondary: #6b7280;
-  --border: #e5e7eb;
-  --accent: #0f766e;
-  --accent-light: #ccfbf1;
+  --text: #171717;
+  --text-secondary: #78716C;
+  --border: #E7E5E4;
+  --accent: #EA580C;
+  --accent-light: #FFEDD5;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -18,7 +18,7 @@ html, body {
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", sans-serif;
+  font-family: "Inconsolata","SF Mono",ui-monospace,Menlo,Consolas,monospace;
   background: var(--bg);
   color: var(--text);
   line-height: 1.5;
@@ -133,7 +133,7 @@ body {
   outline: none;
   background: var(--surface);
 }
-.search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 2px rgba(15,118,110,0.1); }
+.search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 2px rgba(234,88,12,0.1); }
 .filter-select {
   padding: 9px 12px;
   border: 1px solid var(--border);
@@ -586,7 +586,7 @@ body {
   touch-action: pan-y;
 }
 .q-card:active {
-  box-shadow: 0 0 0 2px rgba(15,118,110,0.15);
+  box-shadow: 0 0 0 2px rgba(234,88,12,0.15);
 }
 .q-question-img {
   display: block;
@@ -1437,4 +1437,11 @@ body {
 
 .q-guideline-label { font-weight: 600; }
 
-.q-figure-link { display: block; flex: 0 0 auto; align-self: flex-start; padding: 8px 0; color: var(--accent, #0f766e); font-size: 12px; text-decoration: underline; }
+.q-figure-link { display: block; flex: 0 0 auto; align-self: flex-start; padding: 8px 0; color: var(--accent, #EA580C); font-size: 12px; text-decoration: underline; }
+
+/* Good Weeks aesthetic */
+.app-header h1, .header-title-link, .q-sheet-title, .history-title {
+  font-family: 'Outfit',system-ui,-apple-system,sans-serif;
+}
+.app-header h1, .header-title-link { font-weight: 800; letter-spacing: -0.03em; }
+.q-card { border: none; box-shadow: 0 1px 2px rgba(23,23,23,.05), 0 6px 20px rgba(23,23,23,.06); }
