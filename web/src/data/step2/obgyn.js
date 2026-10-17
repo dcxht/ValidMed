@@ -3032,5 +3032,236 @@ export default [
       "page": 50,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=50"
     }
+  },
+  {
+    "id": "s2obgyn-0275",
+    "category": "OB Trisomies",
+    "q": "Down syndrome and intellectual disability per p50?",
+    "a": "Most common genetic cause of intellectual disability (second: Fragile X); the most common cause overall is fetal alcohol syndrome.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 50,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2obgyn-0276",
+    "category": "OB Trisomies",
+    "q": "Down syndrome features per p50?",
+    "a": "Flat facies, slanted palpebral fissures, epicanthal folds, single palmar crease (non-specific), wide gap between toes 1 and 2, Hirschsprung disease, duodenal atresia (double bubble), endocardial cushion defects, pulmonary artery malformations, ALL, congenital hypothyroidism, Eustachian tube atresia, Brushfield spots.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 50,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2obgyn-0277",
+    "category": "OB Trisomies",
+    "q": "First-trimester screen in Down syndrome per p50?",
+    "a": "At 8-10 weeks: increased nuchal translucency, increased hCG, DECREASED PAPP-A. Hypoplastic nasal bone is also a finding.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 50,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2obgyn-0278",
+    "category": "OB Trisomies",
+    "q": "Second-trimester quad screen in Down syndrome per p50?",
+    "a": "Low AFP, high hCG, low estriol, high inhibin A (the 'H' ones, hCG and inhibin A, are high).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 50,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2obgyn-0279",
+    "category": "OB Trisomies",
+    "q": "Trisomy 18 per p50?",
+    "a": "Edward syndrome: low-set ears, prominent occiput, rocker-bottom feet, clenched hands with overlapping fingers, omphalocele or gastroschisis; quad arrows all low in theory; usually fatal in utero or shortly after birth.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 50,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2obgyn-0280",
+    "category": "OB Trisomies",
+    "q": "Trisomy 13 per p50?",
+    "a": "Patau syndrome: holoprosencephaly (cyclopia), polysyndactyly; quad arrows low except inhibin normal (not tested); usually fatal early.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 50,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2obgyn-0281",
+    "category": "OB Trisomies",
+    "q": "Amniocentesis per p50?",
+    "a": "15-20 weeks; needle under ultrasound into the amniotic sac; fetal cells analyzed; iatrogenic abortion risk up to ~1/1,000; >99% accurate for trisomies.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 50,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2obgyn-0282",
+    "category": "OB Trisomies",
+    "q": "Chorionic villus sampling per p50-51?",
+    "a": "10-13 weeks; transcervical or transabdominal sample of chorionic villi. Abortion risk ~1/100-200 (higher than amniocentesis); >99% accurate; chosen for earlier diagnosis and more time for decisions.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 50,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=50"
+    }
+  },
+  {
+    "id": "s2obgyn-0283",
+    "category": "OB Trisomies",
+    "q": "Cell-free DNA per p51?",
+    "a": "Also NIPT; after 10 weeks; maternal blood contains fetal DNA fragments. >99% accurate but higher false-positive rate than amnio/CVS: a screening, not diagnostic test; positives are followed by amniocentesis or CVS.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 51,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2obgyn-0284",
+    "category": "OB Trisomies",
+    "q": "Cordocentesis per p51?",
+    "a": "After 18 weeks; needle into the umbilical cord for fetal blood. Classic indication: fetal hematologic abnormalities such as anemia; also rapid karyotyping when other tests are inconclusive or too slow.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 51,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2obgyn-0285",
+    "category": "OB Antenatal",
+    "q": "Most common cause of abnormal AFP per p51?",
+    "a": "Dating error. With AFP 2.6 times the upper limit: next step ultrasound (re-measure crown-rump length), not repeat AFP.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 51,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2obgyn-0286",
+    "category": "OB Antenatal",
+    "q": "High versus low AFP per p51?",
+    "a": "High: dating error, neural tube defects (spina bifida), anencephaly, multiple gestation, omphalocele/gastroschisis. Low: Down syndrome (also Edward and Patau).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 51,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2obgyn-0287",
+    "category": "OB Antenatal",
+    "q": "First antenatal visit per p51?",
+    "a": "Usually 8-10 weeks: history, CBC, blood type, Rh. Rh-negative: RhoGAM at 28 weeks and at delivery, and after interventions (e.g., amniocentesis) or complications (spontaneous abortion, abruption). If an Rh-negative woman already has anti-Rh titers in a later pregnancy, do not give RhoGAM.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 51,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2obgyn-0288",
+    "category": "OB Antenatal",
+    "q": "Infection screening at the first antenatal visit per p51?",
+    "a": "STD checks (especially chlamydia, gonorrhea); rubella, syphilis, hepatitis B, HIV; urinalysis. Pap smears are not routine at this visit.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 51,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=51"
+    }
+  },
+  {
+    "id": "s2obgyn-0289",
+    "category": "OB Antenatal",
+    "q": "Asymptomatic bacteriuria in pregnancy per p52?",
+    "a": "Always treat: progesterone slows ureteral peristalsis and third-trimester uterine compression raises pyelonephritis risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 52,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2obgyn-0290",
+    "category": "OB Antenatal",
+    "q": "Chronic versus gestational hypertension per p52?",
+    "a": "Chronic: HTN before pregnancy or diagnosed before 20 weeks; usually persists postpartum. Gestational: new-onset after 20 weeks; typically resolves postpartum.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 52,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2obgyn-0291",
+    "category": "OB Antenatal",
+    "q": "Other first-visit items per p52?",
+    "a": "Glucose only if high-risk; ultrasound confirms pregnancy, gestational age (crown-rump length) and multiples; killed IM flu shot is safe (intranasal live vaccine only for non-pregnant immunocompetent people age 2-45).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 52,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2obgyn-0292",
+    "category": "OB Antenatal",
+    "q": "Vaccines recommended in pregnancy per p52?",
+    "a": "Influenza; Tdap (third trimester); hepatitis B if surface antibody negative.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 52,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2obgyn-0293",
+    "category": "OB Antenatal",
+    "q": "Vaccines contraindicated in pregnancy per p52?",
+    "a": "Live-attenuated: MMR, varicella, intranasal influenza, BCG. HPV not given (insufficient safety evidence).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 52,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2obgyn-0294",
+    "category": "OB Antenatal",
+    "q": "Thalassemia versus iron deficiency in pregnancy per p52?",
+    "a": "Microcytic anemia despite iron supplementation with normal iron and ferritin suggests thalassemia. Hb can fall to ~10 g/dL by dilution. Do not rely on target cells.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 52,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=52"
+    }
+  },
+  {
+    "id": "s2obgyn-0295",
+    "category": "OB Antenatal",
+    "q": "Next step for low Hb and MCV in pregnancy per p52?",
+    "a": "Check serum iron and ferritin if listed (low: IDA; normal: likely thalassemia). If normal, or if on a prenatal vitamin for at least a month and the check is not listed: hemoglobin electrophoresis (normal with 1-2 alpha mutations; high HbA2/HbF in beta-thal minor). DNA testing is a wrong answer.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 52,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=52"
+    }
   }
 ];
