@@ -8640,5 +8640,357 @@ export default [
       "page": 121,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=121"
     }
+  },
+  {
+    "id": "s2obgyn-0783",
+    "category": "OB Vignettes",
+    "q": "Hepatitis B and the newborn per p122?",
+    "a": "Mother HBsAg positive: HBIG + vaccine within 12 hours. Negative: vaccine within 12 hours. Unknown: vaccine within 12 hours, HBIG within 7 days if her test is positive or stays unknown.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 122,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2obgyn-0784",
+    "category": "OB Vignettes",
+    "q": "Vaccines in pregnancy per p122?",
+    "a": "Not immune to hepatitis B at 14 weeks: vaccinate now. Influenza: killed IM vaccine is safe (fall/winter). MMR: vaccinate before pregnancy, not during.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 122,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2obgyn-0785",
+    "category": "OB Vignettes",
+    "q": "TB in pregnancy per p122?",
+    "a": "Treat latent and active TB. Active: RIPE for 2 months, then rifampin + isoniazid for 7 more months (9 total) per the source; RI for 4 more months if not pregnant.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 122,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2obgyn-0786",
+    "category": "OB Vignettes",
+    "q": "Breastfeeding and OCPs per p122?",
+    "a": "The source says estrogen-containing contraception lowers breast milk protein, supply and duration; contraindicated <6 weeks postpartum; use progestin-only if hormonal.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 122,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2obgyn-0787",
+    "category": "OB Vignettes",
+    "q": "AIS versus Mullerian agenesis per p122?",
+    "a": "Both: phenotypic female teenager, normal breasts, blind vaginal pouch. AIS: sparse/absent pubic and axillary hair, karyotype 46,XY (next step karyotype). Mullerian agenesis: normal or coarse hair, 46,XX.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 122,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2obgyn-0788",
+    "category": "OB Vignettes",
+    "q": "16F, 5 feet 9 inches, sparse hair per p122?",
+    "a": "AIS (karyotypically male despite 'girl' in the stem).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 122,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2obgyn-0789",
+    "category": "OB Vignettes",
+    "q": "12F with clitoromegaly and no uterus per p122?",
+    "a": "One-year hair growth and acne, 2 cm vaginal canal, clitoromegaly, posterior labioscrotal fusion, no cervix or uterus: 5-alpha-reductase deficiency; shelf asks karyotype: 46,XY.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 122,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2obgyn-0790",
+    "category": "OB Vignettes",
+    "q": "Primary amenorrhea with high FSH per p122?",
+    "a": "17F, high FSH, absent breasts, scant pubic hair: karyotype (Turner). 15F Tanner 2, 4 feet 11 inches, bone age equal to chronologic age: karyotype (Turner).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 122,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=122"
+    }
+  },
+  {
+    "id": "s2obgyn-0791",
+    "category": "OB Vignettes",
+    "q": "Normal postoperative course per p123?",
+    "a": "37F, C-section two days ago, erythematous incision, tender abdomen, normal vitals, two palpable inguinal nodes: normal postoperative course.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 123,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2obgyn-0792",
+    "category": "OB Vignettes",
+    "q": "Bleeding with hydroureter per p123?",
+    "a": "37F: cervical SCC (impinges on the ureter).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 123,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2obgyn-0793",
+    "category": "OB Vignettes",
+    "q": "OCP contraindications per p123?",
+    "a": "Smokers over 35, migraine with aura, HTN (>160/100), current or past VTE, thrombotic disorder (prothrombin mutation, FVL), cerebrovascular event, ischemic heart disease, current breast cancer, liver tumor. Shelf wording 'triphasic oral contraceptives' = OCP.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 123,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2obgyn-0794",
+    "category": "OB Vignettes",
+    "q": "Irregular cycles of 14-40 days per p123?",
+    "a": "18F, b-hCG negative: cyclic progesterone therapy (shelf wording for OCPs).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 123,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2obgyn-0795",
+    "category": "OB Vignettes",
+    "q": "Emergency contraception ranking per p123?",
+    "a": "Most effective: copper IUD; second: ulipristal (SPRM).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 123,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2obgyn-0796",
+    "category": "OB Vignettes",
+    "q": "Copper IUD with a 4 cm fibroid per p123?",
+    "a": "Leave the IUD in place and tell her the fibroid may cause heavier menses.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 123,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2obgyn-0797",
+    "category": "OB Vignettes",
+    "q": "Depo versus Implanon per p123?",
+    "a": "Depo: progestin injection for three months; lower bone density; breast cancer risk on the shelf. Implanon: progestin implant for three years; erratic periods.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 123,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2obgyn-0798",
+    "category": "OB Vignettes",
+    "q": "IUD contraindications per p123?",
+    "a": "Active STI/PID or infection within 3 months, pregnancy, history of gynecologic malignancy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 123,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2obgyn-0799",
+    "category": "OB Vignettes",
+    "q": "Contraception for poor adherence per p123?",
+    "a": "42F with HTN on forgotten meds: levonorgestrel IUD. 27F forgetful with chlamydia treated 3 months ago: Depo (IUD not ideal).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 123,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=123"
+    }
+  },
+  {
+    "id": "s2obgyn-0800",
+    "category": "OB Vignettes",
+    "q": "Breast cancer history with leg paresthesias per p124?",
+    "a": "68F: steroids first for possible spinal metastases, then MRI of the spine.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 124,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2obgyn-0801",
+    "category": "OB Vignettes",
+    "q": "Prior 4540 g neonate per p124?",
+    "a": "Increased risk of gestational diabetes. Screen normal-risk women at 24-28 weeks.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 124,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2obgyn-0802",
+    "category": "OB Vignettes",
+    "q": "Diabetic mother's neonate with NRDS per p124?",
+    "a": "Fetal hormone responsible: insulin (inhibits surfactant production); maternal insulin does not cross the placenta.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 124,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2obgyn-0803",
+    "category": "OB Vignettes",
+    "q": "NRDS mechanism per p124?",
+    "a": "Decreased surfactant, low lecithin/sphingomyelin ratio (lecithin is dipalmitoyl phosphatidylcholine).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 124,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2obgyn-0804",
+    "category": "OB Vignettes",
+    "q": "Steroids and magnesium timing per p124?",
+    "a": "Two boluses within 24 hours of delivery <34 weeks; one bolus at 34 0/7-36 6/7 weeks; add magnesium before 32 weeks. A 33-week mother given a bolus 12 hours ago: give another.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 124,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2obgyn-0805",
+    "category": "OB Vignettes",
+    "q": "Tocolytics per p124?",
+    "a": "Used <34 weeks if delivery would be premature; delay birth only a few days; terbutaline, ritodrine, nifedipine; help give steroids; contraindicated with infection, IUGR, dilation >4 cm.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 124,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2obgyn-0806",
+    "category": "OB Vignettes",
+    "q": "Braxton-Hicks versus labor per p124?",
+    "a": "Braxton-Hicks: irregular spontaneous third-trimester contractions, benign. Labor: regular, increasingly sustained.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 124,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2obgyn-0807",
+    "category": "OB Vignettes",
+    "q": "GBS prophylaxis indications per p124-125?",
+    "a": "Prior neonate with early-onset GBS disease (not mere colonization); GBS bacteriuria any time; positive swab at 36 weeks; unknown status with fever >38 C, ROM >18 hours or preterm <37 weeks. IV penicillin or ampicillin within 4 hours of delivery (per the source); Augmentin is wrong.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 124,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=124"
+    }
+  },
+  {
+    "id": "s2obgyn-0808",
+    "category": "OB Vignettes",
+    "q": "Bishop score overview per p125?",
+    "a": "Five criteria summing to 13; >8 likely successful vaginal delivery; <6 may need cervical ripening; not calculated on USMLE.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 125,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2obgyn-0809",
+    "category": "OB Vignettes",
+    "q": "Bishop position and consistency per p125?",
+    "a": "Position: posterior 0, middle 1, anterior 2. Consistency: firm 0, medium 1, soft 2.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 125,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2obgyn-0810",
+    "category": "OB Vignettes",
+    "q": "Bishop effacement per p125?",
+    "a": "0-30% = 0; 30-50% = 1; 50-70% = 2; >70% = 3. Normal cervix ~3 cm long, paper-thin when fully effaced.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 125,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2obgyn-0811",
+    "category": "OB Vignettes",
+    "q": "Bishop dilation per p125?",
+    "a": "Closed 0; 1-2 cm 1; 2-4 cm 2; >4 cm 3; the most important indicator of first-stage progress.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 125,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2obgyn-0812",
+    "category": "OB Vignettes",
+    "q": "Bishop station per p125?",
+    "a": "-3: 0; -2: 1; -1, 0: 2; +1, +2: 3. Station is the head relative to the ischial spines (negative above, positive below).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 125,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2obgyn-0813",
+    "category": "OB Vignettes",
+    "q": "Fetal fibronectin per p125?",
+    "a": "Glue between chorion and decidua; at 22-35 weeks with preterm labor symptoms, negative means <5% chance of delivery within two weeks; positive: preterm labor likely.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 125,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=125"
+    }
+  },
+  {
+    "id": "s2obgyn-0814",
+    "category": "OB Vignettes",
+    "q": "Leaking clear fluid at 33 weeks per p126?",
+    "a": "28F, two days of clear fluid, no contractions or bleeding: sterile speculum exam (likely PPROM); fetal fibronectin is wrong (only for preterm labor/contractions).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 126,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=126"
+    }
   }
 ];
