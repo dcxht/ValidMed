@@ -5962,5 +5962,346 @@ export default [
       "page": 87,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=87"
     }
+  },
+  {
+    "id": "s2obgyn-0541",
+    "category": "OB Rapid Review",
+    "q": "Posterior midline episiotomy extension per p88?",
+    "a": "Cutting too far goes into the external anal sphincter.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 88,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2obgyn-0542",
+    "category": "OB Rapid Review",
+    "q": "Kegel exercises per p88?",
+    "a": "Strengthen voluntary pelvic floor muscles such as levator ani; the internal anal and urethral sphincters (sympathetic, not voluntary) are not strengthened.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 88,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2obgyn-0543",
+    "category": "OB Rapid Review",
+    "q": "Penile cross-section per p88?",
+    "a": "You may need to identify the erectile compartment (e.g., where sildenafil would help).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 88,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2obgyn-0544",
+    "category": "OB Rapid Review",
+    "q": "Erection, emission, ejaculation innervation per p88?",
+    "a": "Erection: parasympathetic S2-4, pelvic splanchnic nerves. Emission: sympathetic, hypogastric nerves T11-L2. Ejaculation: somatic, pudendal nerve.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 88,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2obgyn-0545",
+    "category": "OB Rapid Review",
+    "q": "Endometrial glands in the proliferative phase per p88?",
+    "a": "Straight/tubular glands.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 88,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=88"
+    }
+  },
+  {
+    "id": "s2obgyn-0546",
+    "category": "OB Rapid Review",
+    "q": "Secretory phase glands per p89?",
+    "a": "Coiled glands; early luteal: no secretions in lumens; late luteal: secretions in lumens.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 89,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2obgyn-0547",
+    "category": "OB Rapid Review",
+    "q": "Reproductive epithelia per p89?",
+    "a": "Vagina and ectocervix: stratified squamous. Uterus and tubes: simple columnar (tubes ciliated). Transformation zone: squamocolumnar junction. Ovaries: simple cuboidal.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 89,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2obgyn-0548",
+    "category": "OB Rapid Review",
+    "q": "Sertoli versus Leydig cells histology per p89?",
+    "a": "Sertoli cells are linear and form the blood-testis barrier; Leydig (interstitial) cells are randomly distributed.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 89,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2obgyn-0549",
+    "category": "OB Rapid Review",
+    "q": "Spermatogenesis and gametes per p89?",
+    "a": "Spermatogonia are stem cells; spermatids are haploid (23). Sperm need cilia: motility impaired in Kartagener (primary ciliary dyskinesia). Sperm absent in cystic fibrosis (CBAVD).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 89,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2obgyn-0550",
+    "category": "OB Rapid Review",
+    "q": "Oocyte arrest points per p89?",
+    "a": "Primary oocytes are locked in prophase I until ovulation; the secondary oocyte released is locked in metaphase II until fertilization, then completes meiosis.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 89,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2obgyn-0551",
+    "category": "OB Rapid Review",
+    "q": "Complete mole per p89-90?",
+    "a": "Empty egg fertilized by two sperm (or one that duplicates); all paternal genetic material; 46 chromosomes; no fetal parts; snowstorm/bunch of grapes ultrasound; high choriocarcinoma risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 89,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=89"
+    }
+  },
+  {
+    "id": "s2obgyn-0552",
+    "category": "OB Rapid Review",
+    "q": "Partial mole per p90?",
+    "a": "Normal ovum fertilized by two sperm; 69 chromosomes; fetal parts present; can lead to choriocarcinoma but lower risk.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 90,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2obgyn-0553",
+    "category": "OB Rapid Review",
+    "q": "Moles presentation and treatment per p90?",
+    "a": "Very high b-hCG; large for dates (fundus at the umbilicus at 16 weeks); can mimic preeclampsia before 20 weeks (after 20 weeks preeclampsia is more likely). D&C or suction curettage for both.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 90,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2obgyn-0554",
+    "category": "OB Rapid Review",
+    "q": "Choriocarcinoma per p90?",
+    "a": "Trophoblastic cancer with very high b-hCG; metastasizes to lungs (CXR nodules) or brain (stroke-like); grossly a bloody mess.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 90,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2obgyn-0555",
+    "category": "OB Rapid Review",
+    "q": "Serous ovarian tumors per p90?",
+    "a": "Cystadenoma: benign, tube-like epithelium. Cystadenocarcinoma: malignant, psammoma bodies. Both can be bilateral.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 90,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2obgyn-0556",
+    "category": "OB Rapid Review",
+    "q": "Mucinous ovarian tumors per p90?",
+    "a": "Cystadenoma: benign, mucous, loculated. Cystadenocarcinoma: malignant; pseudomyxoma peritonei.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 90,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2obgyn-0557",
+    "category": "OB Rapid Review",
+    "q": "Dermoid cyst per p90?",
+    "a": "Mature cystic teratoma (skin, hair, teeth; three germ layers); can calcify; almost always benign unless 'immature' histology.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 90,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=90"
+    }
+  },
+  {
+    "id": "s2obgyn-0558",
+    "category": "OB Rapid Review",
+    "q": "Dysgerminoma and yolk sac tumor per p91?",
+    "a": "Dysgerminoma: ovarian, high LDH, pulling sensation in the groin. Yolk sac tumor: pediatric ovarian tumor secreting AFP.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 91,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2obgyn-0559",
+    "category": "OB Rapid Review",
+    "q": "Sertoli-Leydig and granulosa tumors in women per p91?",
+    "a": "Sertoli-Leydig: androgens, virilization. Granulosa: estrogens, endometrial hyperplasia.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 91,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2obgyn-0560",
+    "category": "OB Rapid Review",
+    "q": "Struma ovarii, Krukenberg, Brenner per p91?",
+    "a": "Struma ovarii: germ cell tumor secreting thyroid hormone. Krukenberg: bilateral gastric metastases with mucin signet ring cells. Brenner: transitional (bladder-type) epithelium.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 91,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2obgyn-0561",
+    "category": "OB Rapid Review",
+    "q": "Endometrial adenocarcinoma per p91?",
+    "a": "Biggest risk: unopposed estrogen from anovulation (high BMI, abnormal periods). Midcycle bleeding in a perimenopausal woman or any postmenopausal bleeding: endometrial biopsy.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 91,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2obgyn-0562",
+    "category": "OB Rapid Review",
+    "q": "Fibroids per p91?",
+    "a": "Most common tumor in women; benign; white whorled; almost always observed (no myomectomy even if she will get pregnant); bleeding: OCPs and/or NSAIDs first.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 91,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2obgyn-0563",
+    "category": "OB Rapid Review",
+    "q": "Leiomyosarcoma per p91?",
+    "a": "Malignant; not derived from leiomyoma, which is why leiomyomas are observed.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 91,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2obgyn-0564",
+    "category": "OB Rapid Review",
+    "q": "Other gynecologic cancer points per p91?",
+    "a": "Cervical cancer: SCC, HPV 16/18. Clear cell vaginal carcinoma: maternal DES. Sarcoma botryoides: pediatric rhabdomyosarcoma. Gynecologic cancers: more risk in BRCA1/2 and HNPCC.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 91,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=91"
+    }
+  },
+  {
+    "id": "s2obgyn-0565",
+    "category": "OB Rapid Review",
+    "q": "Lichen sclerosus per p92?",
+    "a": "White/grey parchment-like rough vulvar area in a woman over 50; biopsy to rule out SCC; topical steroids if lichen sclerosus; excise if SCC.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 92,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2obgyn-0566",
+    "category": "OB Rapid Review",
+    "q": "Bartholin cyst/abscess per p92?",
+    "a": "Tender bump at 4 or 8 o'clock on the labia majora; warm compresses or sitz bath; warm, red, tender lesion can be drained immediately; polymicrobial.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 92,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2obgyn-0567",
+    "category": "OB Rapid Review",
+    "q": "Seminoma per p92?",
+    "a": "Most common; ages 15-35; hard non-transilluminating mass; can be found after trauma; more risk with cryptorchidism or Klinefelter; large clear cells; highly radiosensitive even if metastatic; placental ALP marker.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 92,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2obgyn-0568",
+    "category": "OB Rapid Review",
+    "q": "Other testicular tumors per p92?",
+    "a": "Yolk sac: pediatric, AFP. Choriocarcinoma: b-hCG. Leydig-Sertoli: gynecomastia (androgens aromatized to estrogens).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 92,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2obgyn-0569",
+    "category": "OB Rapid Review",
+    "q": "Fibroadenoma per p92?",
+    "a": "Benign, most common; rubbery mobile painless mass in women 40s or younger; FNA to diagnose; the source says surgically remove if diagnosed (p35 says no excision needed).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 92,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2obgyn-0570",
+    "category": "OB Rapid Review",
+    "q": "DCIS per p92?",
+    "a": "Malignant potential, not past the basement membrane; clustered microcalcifications; NBME next step: needle-guided open biopsy (FNA wrong). Paget disease: eczematoid nipple in a woman over 50 with an underlying mass = underlying DCIS.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 92,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=92"
+    }
+  },
+  {
+    "id": "s2obgyn-0571",
+    "category": "OB Rapid Review",
+    "q": "Intraductal papilloma and invasive ductal per p92?",
+    "a": "Papilloma: unilateral bloody nipple discharge (not DCIS). Invasive ductal: crossed basement membranes; stellate morphology.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 92,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=92"
+    }
   }
 ];
