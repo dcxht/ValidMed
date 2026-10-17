@@ -2581,5 +2581,225 @@ export default [
       "page": 42,
       "url": "/mehlman/hy-obgyn-repro.pdf#page=42"
     }
+  },
+  {
+    "id": "s2obgyn-0234",
+    "category": "OB STDs",
+    "q": "Normal hysterosalpingogram per p43?",
+    "a": "The tubes are open at both ends, so bilateral spillage of dye into the peritoneal cavity is normal (not rupture). After PID scarring, one or both tubes may be sealed with failure of spillage.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 43,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2obgyn-0235",
+    "category": "OB STDs",
+    "q": "PID with persistent fever despite antibiotics per p43?",
+    "a": "Next step: ultrasound for tubo-ovarian abscess.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 43,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2obgyn-0236",
+    "category": "OB STDs",
+    "q": "Fitz-Hugh-Curtis syndrome per p43?",
+    "a": "Extension of PID to the liver capsule.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 43,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2obgyn-0237",
+    "category": "OB TORCH",
+    "q": "Congenital toxoplasmosis per p43?",
+    "a": "Triad: hydrocephalus, chorioretinitis, intracranial calcifications. The stem need not mention a cat; can come from pork.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 43,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2obgyn-0238",
+    "category": "OB TORCH",
+    "q": "Parvovirus B19 in utero per p43-44?",
+    "a": "Aplastic anemia (all three lines down) in utero or neonate, more with sickle cell; sometimes pure RBC aplasia. Fetal hydrops (in utero heart failure) after maternal flu-like illness: Parvo; confirm with neonatal Parvo IgM.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 43,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=43"
+    }
+  },
+  {
+    "id": "s2obgyn-0239",
+    "category": "OB TORCH",
+    "q": "Varicella in pregnancy per p44?",
+    "a": "Congenital VZV: microcephaly, limb hypoplasia; higher risk of pediatric shingles. Maternal first infection from 5 days before to 2 days after delivery: VZV immunoglobulin to the neonate. Mother previously infected or vaccinated: no IVIG needed (transplacental IgG). Pregnant women can get VZV pneumonia.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 44,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2obgyn-0240",
+    "category": "OB TORCH",
+    "q": "Congenital rubella per p44?",
+    "a": "PDA (exceedingly high yield), cataracts, deafness. Mother may have had only arthritis, no rash.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 44,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2obgyn-0241",
+    "category": "OB TORCH",
+    "q": "MMR in pregnancy per p44?",
+    "a": "Live-attenuated, contraindicated in pregnancy (theoretical risk). Inadvertent vaccination during or within a month before pregnancy: not an indication for abortion, but monitor.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 44,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2obgyn-0242",
+    "category": "OB TORCH",
+    "q": "Congenital CMV per p44?",
+    "a": "Diagnosis of exclusion: deafness, hepatomegaly, blueberry muffin rash, intracranial calcifications (non-specific). Rubella would mention PDA; syphilis would mention tooth/shin findings; toxo is the strict triad. Owl-eye cells (intranuclear inclusions). Treat with ganciclovir (DNA polymerase inhibitor); resistance by altered viral thymidine kinase.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 44,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2obgyn-0243",
+    "category": "OB TORCH",
+    "q": "Maternal HSV in pregnancy per p44?",
+    "a": "Vertical transmission raises risk of neonatal encephalitis. Prodromal symptoms (tingling, burning) even without lesions: C-section. Predictable recurrences: acyclovir within 4-6 weeks of delivery.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 44,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2obgyn-0244",
+    "category": "OB TORCH",
+    "q": "HIV in pregnancy per p44?",
+    "a": "HAART started immediately regardless of CD4, three-drug therapy. Avoid efavirenz (NNRTI). TMP/SMX avoided in first trimester or when trying to conceive, okay in 2nd/3rd. Intrapartum zidovudine + C-section. Neonatal zidovudine within 6-12 hours of birth for 6 weeks.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 44,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=44"
+    }
+  },
+  {
+    "id": "s2obgyn-0245",
+    "category": "OB TORCH",
+    "q": "HIV and breastfeeding per p45?",
+    "a": "HIV is in breast milk; generally avoid breastfeeding. With undetectable viral load on continued HAART, transmission might not occur but it is still advised against (the source).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 45,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2obgyn-0246",
+    "category": "OB TORCH",
+    "q": "Congenital syphilis per p45?",
+    "a": "Highest yield: tooth abnormalities (mulberry molars/incisors); also saber shins, saddle nose, deafness, cataracts.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 45,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2obgyn-0247",
+    "category": "OB Puberty",
+    "q": "Tanner stage 3 per p45?",
+    "a": "Menarche is imminent. A 13-14-year-old with no period at Tanner 2 or 3: follow up in 6 months.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 45,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2obgyn-0248",
+    "category": "OB Puberty",
+    "q": "Turner syndrome Tanner staging per p45?",
+    "a": "Tanner 1-2 breasts but 4-5 pubic/axillary hair (adrenal, not ovarian, androgens). 'Shield chest' means Tanner 1-2 breasts.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 45,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2obgyn-0249",
+    "category": "OB Puberty",
+    "q": "Androgen insensitivity Tanner staging per p45?",
+    "a": "46XY with female phenotype: normal breast development (Tanner 4-5), scant or absent pubic/axillary hair (Tanner 1).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 45,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2obgyn-0250",
+    "category": "OB Puberty",
+    "q": "Bone age and short stature per p45?",
+    "a": "Bone age below chronologic age: constitutional short stature, will catch up (growth chart right-shifted; parents average height). Sometimes given as early Tanner stage instead. Bone age equal to chronologic age: genuine short stature (e.g., Turner, usually under 5 feet).",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 45,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=45"
+    }
+  },
+  {
+    "id": "s2obgyn-0251",
+    "category": "OB Puberty",
+    "q": "Puberty terms per p46?",
+    "a": "Adrenarche: more adrenal androgens leading to pubic/axillary hair. Thelarche: breast development. Pubarche: pubic hair. Menarche: first menstruation. Source mnemonic 'ATP Man'.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 46,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2obgyn-0252",
+    "category": "OB Puberty",
+    "q": "First event before female puberty per p46?",
+    "a": "Breast bud development.",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 46,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=46"
+    }
+  },
+  {
+    "id": "s2obgyn-0253",
+    "category": "OB Puberty",
+    "q": "Turner syndrome per p46?",
+    "a": "45,XO, female phenotype; no Barr body; infertile from streak ovaries ('menopause before menarche').",
+    "source": {
+      "title": "Mehlman HY Obgyn/Repro",
+      "page": 46,
+      "url": "/mehlman/hy-obgyn-repro.pdf#page=46"
+    }
   }
 ];
