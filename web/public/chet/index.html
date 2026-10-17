@@ -111,6 +111,21 @@ h1 { font-size:22px; letter-spacing:-0.02em; }
 .pace .verdict b.behind { color:#b45309; }
 .pace .sub { font-size:12px; color:var(--text-secondary); margin-top:3px; }
 
+
+/* shelf tracker */
+.lgrid { display:flex; gap:8px; margin-top:8px; }
+.lgrid label { flex:1; min-width:0; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.04em; color:var(--text-secondary); }
+.lgrid input { display:block; width:100%; font-size:16px; padding:10px 12px; border:1px solid var(--border); border-radius:10px; margin-top:4px; -webkit-appearance:none; }
+.pbar { height:10px; background:var(--bg); border:1px solid var(--border); border-radius:6px; overflow:hidden; margin:4px 0 10px; }
+.pbar div { height:100%; background:var(--accent); width:0; transition:width .3s; }
+.bars { display:flex; align-items:flex-end; gap:3px; height:92px; margin-top:6px; }
+.bcol { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:flex-end; height:100%; min-width:0; }
+.bcol .b { width:100%; background:var(--accent); border-radius:3px 3px 0 0; min-height:2px; }
+.bcol.zero .b { background:var(--border); }
+.bcol .bv { font-size:8.5px; font-weight:600; color:var(--text-secondary); }
+.bcol .bl { font-size:8px; color:var(--text-secondary); margin-top:2px; }
+.cfglink { font-size:12px; color:var(--accent); cursor:pointer; text-decoration:underline; }
+
 /* quick links */
 .qlinks { display:flex; flex-direction:column; gap:8px; }
 .qlinks a { display:flex; justify-content:space-between; align-items:center; gap:10px; background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:13px 16px; font-size:15px; font-weight:600; color:var(--text); text-decoration:none; min-height:48px; }
@@ -139,7 +154,7 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 <div class="wrap">
 <header>
 <h1>Chet</h1>
-<p class="tagline">MS3 hub - Step 1 Sep 5 - rotations Nov 23 to Oct 8</p>
+<p class="tagline">MS3 hub - Step 1 done - rotations Nov 23 '26 to Oct 8 '27</p>
 </header>
 
 <div class="chips" id="chips"></div>
@@ -152,20 +167,44 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 </div>
 
 
-<h2 class="sec" id="uwsec-h">UWorld pace</h2>
-<div class="pace" id="uwsec">
-  <div class="lbl">Questions left in the bank (UWorld home, top right)</div>
-  <div class="row">
-    <input id="uwleft" type="number" inputmode="numeric" min="0" placeholder="e.g. 950" />
-    <button id="uwset">Set</button>
+
+
+<h2 class="sec">Shelf tracker - FM</h2>
+<div class="pace">
+  <div class="lbl">Log questions for <input id="lgdate" type="date" style="font-size:13px;padding:4px 6px;border:1px solid var(--border);border-radius:8px;-webkit-appearance:none;" /></div>
+  <div class="lgrid">
+    <label>UWorld<input id="lguw" type="number" inputmode="numeric" min="0" placeholder="0" /></label>
+    <label>AMBOSS<input id="lgam" type="number" inputmode="numeric" min="0" placeholder="0" /></label>
+    <label>Anki<input id="lgan" type="number" inputmode="numeric" min="0" placeholder="0" /></label>
   </div>
-  <div class="verdict" id="uwv"></div>
-  <div class="sub" id="uwsub"></div>
+  <div class="row" style="margin-top:10px"><button id="lgsave" style="flex:1">Save</button></div>
+  <div class="sub" id="lgsaved"></div>
+</div>
+
+<div class="pace" style="margin-top:12px">
+  <div class="lbl">UWorld FM + Ambulatory - done before FM starts Nov 23</div>
+  <div class="pbar"><div id="pfill"></div></div>
+  <div class="verdict" id="pv"></div>
+  <div class="sub" id="psub"></div>
+  <div class="sub" style="margin-top:6px"><span class="cfglink" id="cfgtoggle">adjust goal</span></div>
+  <div id="cfgbox" style="display:none">
+    <div class="lgrid">
+      <label>Done already<input id="cfgdone" type="number" inputmode="numeric" min="0" /></label>
+      <label>Bank size<input id="cfgoal" type="number" inputmode="numeric" min="0" /></label>
+      <label>Finish by<input id="cfgdate" type="date" /></label>
+    </div>
+  </div>
+</div>
+
+<div class="pace" style="margin-top:12px">
+  <div class="lbl">Last 14 days - UWorld Qs/day</div>
+  <div class="bars" id="bars"></div>
+  <div class="sub" id="wk"></div>
 </div>
 
 <h2 class="sec">Drills</h2>
 <div class="qlinks">
-  <a href="/c?bank=immuno"><span>Immunology drill</span><small>weak-area reps - resumes where you left off</small></a>
+  <a href="/c?bank=s2fm"><span>Family Medicine drill</span><small>3,245 cards - resumes where you left off</small></a>
   <a href="/c?bank=__missed__"><span>Review missed</span><small>every miss, all banks</small></a>
   <a href="/c"><span>All banks</span><small>/c</small></a>
   <a href="/mehlman"><span>Mehlman PDFs</span><small>all 34</small></a>
@@ -215,7 +254,7 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 <h2 class="sec">Agenda</h2>
 <div class="list" id="agenda"></div>
 
-<footer>UWorld counts from UWorld's official question-count page, Aug 2026 (Step 2 CK total 4,281; they add questions over time). *No FM/Neuro subject in the CK bank - those use UWorld's shelf-review categories (Family Medicine 447 + Ambulatory ~400; Clinical Neurology ~360, 2025 snapshot). Breaks counted as full days off between blocks.</footer>
+<footer>UWorld counts from Chet's own account, Oct 2026: Family Medicine 497, Ambulatory 444, Medicine 1,174 (overlaps both), total bank 5,133. *Neuro uses the shelf-review category (~360). Breaks counted as full days off between blocks.</footer>
 </div>
 </div>
 
@@ -247,14 +286,14 @@ function inR(t,s,e){ return t>=d(s)&&t<=d(e); }
 
 /* block data: uwTo = UWorld through week N, amWk = AMBOSS week, shelf = last day */
 var blocks=[
- { short:'FM', name:'Family & Community Medicine', s:'2026-11-23', e:'2026-12-18', wk:4, cr:4, uwTo:2, amWk:3, qs:'447*',
+ { short:'FM', name:'Family & Community Medicine', s:'2026-11-23', e:'2026-12-18', wk:4, cr:4, uwTo:2, amWk:3, qs:'497+444*',
    plan:[
-    ['Runway Nov 9-22','20 UWorld FM (shelf-review category)/day, timed, random - 280 of 447 banked before day 1.'],
-    ['Wks 1-2','15 new UWorld FM/day + same-day incorrects. Bank finishes ~Dec 4.'],
-    ['Wk 3','AMBOSS FM ~40/day + incorrects. Drop if behind - UWorld always first.'],
-    ['CMS','Sun Nov 29, Sun Dec 6, Sat Dec 12, Tue Dec 15 - wrongs same day.'],
+    ['Runway Oct 17-Nov 22','UWorld Family Medicine (497) + Ambulatory (444) = 941, ~26/day timed random + same-day incorrects. Bank finished before day 1.'],
+    ['Wks 1-2','AMBOSS FM ~40/day + redo UWorld incorrects.'],
+    ['Wk 3','Finish AMBOSS + incorrects. Weak-area reps from ValidMed missed.'],
+    ['CMS','Sun Nov 22 (baseline), Sun Dec 6, Sat Dec 12, Tue Dec 15 - wrongs same day.'],
     ['Dec 14-17','No new material. Incorrects + CMS wrongs + Anki. Dec 17 light.']],
-   res:'Breadth over depth - mini IM+Peds+OB. UWorld CK has no FM subject - the Family Medicine shelf-review category (447) is the bank; the Ambulatory Medicine category (~400) is the add-on for extra reps. AMBOSS is strong for FM-style ambulatory Qs. Case Files FM if you want one book.' },
+   res:'Breadth over depth - mini IM+Peds+OB. Bank = UWorld Family Medicine (497) + Ambulatory (444) from his own account; the Medicine subject (1,174) overlaps but is not required. AMBOSS for FM-style ambulatory Qs after UWorld. Case Files FM as a 1-2 day speed review before the shelf.' },
  { short:'Psych', name:'Psychiatry', s:'2027-01-04', e:'2027-01-29', wk:4, cr:4, uwTo:2, amWk:3, qs:'363',
    plan:[
     ['Wks 1-2','30 UWorld Psych/day + same-day incorrects. Bank is 363 - finishes ~Jan 15.'],
@@ -310,7 +349,7 @@ var gapNames={ '2026-12-18':'Winter break', '2027-04-09':'Spring break', '2027-0
 /* ---------- countdown chips ---------- */
 (function(){
   var t=dnow();
-  var marks=[['Free 120','2026-08-31',0],['Step 1','2026-09-05',1],['ATS draft','2026-11-05',0],['FM day 1','2026-11-23',1]];
+  var marks=[['ATS draft','2026-11-05',0],['FM day 1','2026-11-23',1],['FM shelf','2026-12-18',1]];
   var el=document.getElementById('chips'), shown=0;
   marks.forEach(function(m){
     var days=Math.round((d(m[1])-t)/DAY);
@@ -322,30 +361,6 @@ var gapNames={ '2026-12-18':'Winter break', '2027-04-09':'Spring break', '2027-0
   });
 })();
 
-/* ---------- uworld pace ---------- */
-var UW_PLAN=[['2026-08-27',120],['2026-08-28',120],['2026-08-29',120],['2026-08-30',120],['2026-09-03',60]];
-(function(){
-  var t=dnow();
-  if (t>d('2026-09-03')){ document.getElementById('uwsec').style.display='none'; document.getElementById('uwsec-h').style.display='none'; return; }
-  var rem=UW_PLAN.filter(function(p){return d(p[0])>=t;});
-  var days=rem.length, cap=rem.reduce(function(su,p){return su+p[1];},0);
-  var inp=document.getElementById('uwleft'), out=document.getElementById('uwv'), sub=document.getElementById('uwsub');
-  try{ var sv=JSON.parse(localStorage.getItem('chet_uw')||'null'); if (sv&&sv.left!=null) inp.value=sv.left; }catch(e){}
-  function render(){
-    var left=parseInt(inp.value,10);
-    if (isNaN(left)||left<0){ out.innerHTML=''; sub.textContent=''; return; }
-    try{ localStorage.setItem('chet_uw',JSON.stringify({left:left,ts:Date.now()})); }catch(e){}
-    if (left===0){ out.innerHTML='<b class="ok">Bank finished.</b>'; sub.textContent=''; return; }
-    var need=Math.ceil(left/days);
-    var ok=need<=120;
-    out.innerHTML='<b>'+left+'</b> left - need <b>'+need+'/day</b> over '+days+' question day'+(days>1?'s':'')+' - '+(ok?'<b class="ok">on pace</b>':'<b class="behind">behind (pace is 120)</b>');
-    sub.textContent='Schedule has room for '+cap+' more ('+(ok?'covers it':'short by '+(left-cap))+') - bank 3,640, '+Math.round((3640-left)/3640*100)+'% done.';
-  }
-  document.getElementById('uwset').addEventListener('click',render);
-  inp.addEventListener('input',render);
-  inp.addEventListener('keydown',function(e){ if(e.key==='Enter') render(); });
-  render();
-})();
 
 /* ---------- timeline ---------- */
 var START=d('2026-09-01'), END=d('2027-10-15'), PX=2.6;
@@ -414,11 +429,13 @@ blocks.forEach(function(b,i){
 
 /* ---------- agenda ---------- */
 var agenda=[
- ['2026-08-31','Free 120','8:30 AM - timed, review wrongs same day',0],
- ['2026-09-05','USMLE Step 1','San Antonio - report 8:00 AM for 8:30 slot. Permit + ID.',1],
  ['2026-11-05','ATS manuscript deadline','Submission due',0],
- ['2026-11-06','Buy UWorld Step 2 subscription','Nov 6-8 - date-based clock, start it early',0],
+ ['2026-11-22','UWorld FM + Ambulatory done','941 questions banked before day 1 - CMS #1 baseline same day',0],
  ['2026-11-23','FM begins','Shelf Dec 18',0],
+ ['2026-12-06','CMS FM #2','Wrongs reviewed same day',0],
+ ['2026-12-12','CMS FM #3','Wrongs reviewed same day',0],
+ ['2026-12-15','CMS FM #4','Last one - keep Dec 16-17 light',0],
+ ['2026-12-18','FM SHELF','Last day of block',1],
  ['2027-01-04','Psych begins','Shelf Jan 29',0],
  ['2027-02-01','Neuro begins','Shelf Feb 26',0],
  ['2027-03-01','Peds begins','Shelf Apr 9',0],
@@ -435,20 +452,98 @@ agenda.forEach(function(a){
   ag.appendChild(r);
 });
 
+/* ---------- shelf tracker ---------- */
+(function(){
+  var LSK='chet_shelf_log', CSK='chet_shelf_cfg';
+  var log={}; try{ log=JSON.parse(localStorage.getItem(LSK)||'{}'); }catch(e){}
+  var cfg={done0:0,goal:941,target:'2026-11-22'};
+  try{ var c=JSON.parse(localStorage.getItem(CSK)||'null'); if(c){ if(c.done0!=null)cfg.done0=c.done0; if(c.goal)cfg.goal=c.goal; if(c.target)cfg.target=c.target; } }catch(e){}
+  function iso(t){ var x=new Date(t); return x.getUTCFullYear()+'-'+String(x.getUTCMonth()+1).padStart(2,'0')+'-'+String(x.getUTCDate()).padStart(2,'0'); }
+  function save(){ try{ localStorage.setItem(LSK,JSON.stringify(log)); localStorage.setItem(CSK,JSON.stringify(cfg)); }catch(e){} }
+  function doneTotal(){ var su=cfg.done0; for(var k in log) su+=(log[k].uw||0); return su; }
+
+  var dIn=document.getElementById('lgdate'), uwIn=document.getElementById('lguw'),
+      amIn=document.getElementById('lgam'), anIn=document.getElementById('lgan'),
+      savedMsg=document.getElementById('lgsaved');
+  dIn.value=iso(dnow());
+  function loadDay(){ var e=log[dIn.value]||{}; uwIn.value=e.uw!=null?e.uw:''; amIn.value=e.am!=null?e.am:''; anIn.value=e.anki!=null?e.anki:''; savedMsg.textContent=''; }
+  dIn.addEventListener('change',loadDay);
+
+  function renderPace(){
+    var t=dnow(), done=doneTotal(), goal=cfg.goal;
+    var daysLeft=Math.max(0,Math.round((d(cfg.target)-t)/DAY)+1);
+    var rem=Math.max(0,goal-done);
+    var need=daysLeft>0?Math.ceil(rem/daysLeft):rem;
+    var s7=0; for(var i=0;i<7;i++){ var e=log[iso(t-i*DAY)]; if(e) s7+=(e.uw||0); }
+    var avg7=s7/7;
+    document.getElementById('pfill').style.width=Math.min(100,Math.round(done/goal*100))+'%';
+    var v,sub;
+    if (rem<=0){ v='<b class="ok">Bank finished - '+done+' of '+goal+'.</b>'; sub='Move to AMBOSS + incorrects.'; }
+    else {
+      var ok=s7>0&&avg7>=need;
+      v='<b>'+done+'</b> of <b>'+goal+'</b> ('+Math.round(done/goal*100)+'%) - need <b>'+need+'/day</b> over '+daysLeft+' day'+(daysLeft===1?'':'')+'s';
+      v+=' - '+(s7===0?'log today to set your pace':(ok?'<b class="ok">on pace</b>':'<b class="behind">behind - 7-day avg '+(Math.round(avg7*10)/10)+'/day</b>'));
+      if (avg7>0){ var proj=iso(t+Math.ceil(rem/avg7)*DAY); sub='7-day avg '+(Math.round(avg7*10)/10)+'/day - at that pace done '+fmt(proj)+(d(proj)>d(cfg.target)?' (after '+fmt(cfg.target)+' goal)':''); }
+      else sub='Goal: finish by '+fmt(cfg.target)+'.';
+    }
+    document.getElementById('pv').innerHTML=v;
+    document.getElementById('psub').textContent=sub;
+  }
+
+  function renderBars(){
+    var t=dnow(), box=document.getElementById('bars');
+    box.innerHTML='';
+    var i,e,max=1;
+    for(i=13;i>=0;i--){ e=log[iso(t-i*DAY)]; if(e&&(e.uw||0)>max) max=e.uw; }
+    var wkUw=0,wkAm=0,wkAn=0;
+    for(i=6;i>=0;i--){ e=log[iso(t-i*DAY)]; if(e){ wkUw+=e.uw||0; wkAm+=e.am||0; wkAn+=e.anki||0; } }
+    for(i=13;i>=0;i--){
+      var ts=t-i*DAY, dt=new Date(ts);
+      e=log[iso(ts)]; var val=e?(e.uw||0):0;
+      var col=document.createElement('div');
+      col.className='bcol'+(val===0?' zero':'');
+      col.innerHTML='<div class="bv">'+(val||'')+'</div><div class="b" style="height:'+Math.max(2,Math.round(val/max*64))+'px"></div><div class="bl">'+(i%2?'':dt.getUTCDate())+'</div>';
+      box.appendChild(col);
+    }
+    document.getElementById('wk').textContent='This week: '+wkUw+' UWorld - '+wkAm+' AMBOSS - '+wkAn+' Anki';
+  }
+
+  document.getElementById('lgsave').addEventListener('click',function(){
+    var rec={ uw:Math.max(0,parseInt(uwIn.value,10)||0), am:Math.max(0,parseInt(amIn.value,10)||0), anki:Math.max(0,parseInt(anIn.value,10)||0) };
+    log[dIn.value]=rec; save();
+    savedMsg.textContent='Saved '+dIn.value+' - '+rec.uw+' UWorld, '+rec.am+' AMBOSS, '+rec.anki+' Anki';
+    renderPace(); renderBars();
+  });
+
+  var cfgBox=document.getElementById('cfgbox');
+  document.getElementById('cfgtoggle').addEventListener('click',function(){ cfgBox.style.display=cfgBox.style.display==='none'?'block':'none'; });
+  var cdIn=document.getElementById('cfgdone'), cgIn=document.getElementById('cfgoal'), ctIn=document.getElementById('cfgdate');
+  cdIn.value=cfg.done0; cgIn.value=cfg.goal; ctIn.value=cfg.target;
+  function cfgUpd(){
+    cfg.done0=Math.max(0,parseInt(cdIn.value,10)||0);
+    cfg.goal=Math.max(1,parseInt(cgIn.value,10)||941);
+    if (ctIn.value) cfg.target=ctIn.value;
+    save(); renderPace();
+  }
+  cdIn.addEventListener('input',cfgUpd); cgIn.addEventListener('input',cfgUpd); ctIn.addEventListener('change',cfgUpd);
+
+  loadDay(); renderPace(); renderBars();
+})();
+
 /* ---------- today ---------- */
 function wkInBlock(t,b){ return Math.floor((t-d(b.s))/(7*DAY))+1; }
 function todayPlan(t){
-  if (t<d('2026-08-31')&&t>=d('2026-08-27')) return {p:'Step 1 minus '+Math.round((d('2026-09-05')-t)/DAY)+' - question day', ts:['120 UWorld, timed random','Review incorrects same day','Anki reviews']};
-  if (t===d('2026-08-31')) return {p:'Step 1 minus 5 - Free 120 day', ts:['Free 120, timed - 8:30 AM','Review wrongs same day','Anki reviews']};
-  if (t===d('2026-09-01')) return {p:'Step 1 minus 4 - review + class day', ts:['Review Free 120 wrongs','Class 1 PM','Anki reviews']};
-  if (t===d('2026-09-02')) return {p:'Step 1 minus 3 - light review', ts:['Missed questions only','Anki reviews']};
-  if (t===d('2026-09-03')) return {p:'Step 1 minus 2 - last question day', ts:['60 UWorld','Anki reviews','Logistics check: permit, ID, route']};
-  if (t===d('2026-09-04')) return {p:'Step 1 minus 1 - travel day', ts:['Drive to San Antonio','Light Anki only','Sleep early']};
-  if (t===d('2026-09-05')) return {p:'STEP 1 DAY', ts:['Report 8:00 AM - 16648 San Pedro Ave, Suite 101','Permit + ID + glasses','Done by ~5. Go eat.']};
-  if (inR(t,'2026-09-06','2026-09-13')) return {p:'Off week', ts:['Sleep','Nothing is due']};
-  if (inR(t,'2026-09-14','2026-11-05')) return {p:'ATS manuscript - '+Math.round((d('2026-11-05')-t)/DAY)+' days to deadline', ts:['Manuscript work','Anki 20-30 min']};
-  if (inR(t,'2026-11-06','2026-11-08')) return {p:'Buy the UWorld Step 2 sub', ts:['Purchase UWorld Step 2 (date-based clock - starts now)']};
-  if (inR(t,'2026-11-09','2026-11-22')) return {p:'FM runway - '+Math.round((d('2026-11-23')-t)/DAY)+' days to day 1', ts:['20 UWorld FM, timed random','Anki reviews']};
+  if (inR(t,'2026-10-17','2026-11-22')){
+    var l={}; try{l=JSON.parse(localStorage.getItem('chet_shelf_log')||'{}');}catch(e){}
+    var c={done0:0,goal:941,target:'2026-11-22'};
+    try{var cc=JSON.parse(localStorage.getItem('chet_shelf_cfg')||'null'); if(cc){if(cc.done0!=null)c.done0=cc.done0; if(cc.goal)c.goal=cc.goal; if(cc.target)c.target=cc.target;}}catch(e){}
+    var dn=c.done0; for(var k in l) dn+=(l[k].uw||0);
+    var dl=Math.max(1,Math.round((d(c.target)-t)/DAY)+1);
+    var nd=Math.ceil(Math.max(0,c.goal-dn)/dl);
+    var ts=[nd+' UWorld FM+Amb, timed random ('+Math.max(0,c.goal-dn)+' left)','Incorrects same day','Anki reviews'];
+    if (t<=d('2026-11-05')) ts.push('ATS manuscript - due Nov 5');
+    return {p:'FM runway - '+Math.round((d('2026-11-23')-t)/DAY)+' days to day 1', ts:ts};
+  }
   for (var i=0;i<blocks.length;i++){
     var b=blocks[i];
     if (inR(t,b.s,b.e)){
@@ -456,6 +551,10 @@ function todayPlan(t){
       var wk=wkInBlock(t,b), last=b.wk;
       if (t===d(b.e)) return {p:b.name+' SHELF DAY', ts:['You know the material. Execute.']};
       if (wk>=last) return {p:b.name+' wk '+wk+' - dedicated review', ts:['UWorld incorrects','CMS wrongs','Anki','Shelf '+fmt(b.e)]};
+      if (b.short==='FM'){
+        if (wk<=2) return {p:b.name+' wk '+wk+' - AMBOSS block', ts:['~40 AMBOSS FM/day','Redo UWorld incorrects','Anki (max 5 new)','CMS per agenda']};
+        return {p:b.name+' wk '+wk+' - finish AMBOSS + incorrects', ts:['AMBOSS FM + incorrects','Weak-area reps (ValidMed missed)','Anki (max 5 new)','CMS per agenda']};
+      }
       if (wk===b.amWk) return {p:b.name+' wk '+wk+' - AMBOSS block', ts:['~40 AMBOSS '+b.short+'/day','Incorrects same day','Anki (max 5 new)']};
       return {p:b.name+' wk '+wk+' - UWorld block', ts:['UWorld '+b.short+' questions','Incorrects same day','Anki (max 5 new)']};
     }
