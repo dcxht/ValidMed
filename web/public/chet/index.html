@@ -154,7 +154,7 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
 <div class="wrap">
 <header>
 <h1>Chet</h1>
-<p class="tagline">MS3 hub - Step 1 done - rotations Nov 23 '26 to Oct 8 '27</p>
+<p class="tagline">MS3 hub - rotations Nov 23 '26 to Oct 8 '27</p>
 </header>
 
 <div class="chips" id="chips"></div>
@@ -175,7 +175,6 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
   <div class="lgrid">
     <label>UWorld<input id="lguw" type="number" inputmode="numeric" min="0" placeholder="0" /></label>
     <label>AMBOSS<input id="lgam" type="number" inputmode="numeric" min="0" placeholder="0" /></label>
-    <label>Anki<input id="lgan" type="number" inputmode="numeric" min="0" placeholder="0" /></label>
   </div>
   <div class="row" style="margin-top:10px"><button id="lgsave" style="flex:1">Save</button></div>
   <div class="sub" id="lgsaved"></div>
@@ -210,27 +209,6 @@ footer { margin-top:24px; font-size:12px; color:var(--text-secondary); }
   <a href="/mehlman"><span>Mehlman PDFs</span><small>all 34</small></a>
 </div>
 
-<h2 class="sec">Scores</h2>
-<div class="chart">
-<svg viewBox="0 0 340 132" role="img" aria-label="NBME score trend">
-  <line x1="36" y1="38" x2="312" y2="38" stroke="#b45309" stroke-width="1" stroke-dasharray="4 3"/>
-  <text x="334" y="41" font-size="10" fill="#b45309" text-anchor="end" font-weight="600">goal 80</text>
-  <polyline points="40,92 94,84.8 148,74 202,45.2 256,41.6 310,52.4" fill="none" stroke="#0f766e" stroke-width="2"/>
-  <g fill="#0f766e">
-    <circle cx="40" cy="92" r="3.5"/><circle cx="94" cy="84.8" r="3.5"/><circle cx="148" cy="74" r="3.5"/>
-    <circle cx="202" cy="45.2" r="3.5"/><circle cx="256" cy="41.6" r="3.5"/>
-  </g>
-  <circle cx="310" cy="52.4" r="3.5" fill="#64748b"/>
-  <g font-size="10" font-weight="600" fill="#1a1a1a" text-anchor="middle">
-    <text x="40" y="82">65</text><text x="94" y="74.8">67</text><text x="148" y="64">70</text>
-    <text x="202" y="35.2">78</text><text x="256" y="31.6">79</text><text x="310" y="42.4">76</text>
-  </g>
-  <g font-size="9.5" fill="#6b7280" text-anchor="middle">
-    <text x="40" y="126">28</text><text x="94" y="126">31</text><text x="148" y="126">30</text>
-    <text x="202" y="126">32</text><text x="256" y="126">33</text><text x="310" y="126">CBSE</text>
-  </g>
-</svg>
-</div>
 
 <h2 class="sec">Timeline</h2>
 <div class="tl-scroll"><div class="tl-inner" id="tl">
@@ -399,7 +377,6 @@ function flag(ds,label,cls){
   f.innerHTML='<div class="lbl">'+label+'</div><div class="line"></div>';
   inner.appendChild(f);
 }
-flag('2026-09-05','Step 1 - Sep 5','');
 flag('2026-12-18','FM shelf','shelf');
 
 /* ---------- block cards ---------- */
@@ -463,10 +440,10 @@ agenda.forEach(function(a){
   function doneTotal(){ var su=cfg.done0; for(var k in log) su+=(log[k].uw||0); return su; }
 
   var dIn=document.getElementById('lgdate'), uwIn=document.getElementById('lguw'),
-      amIn=document.getElementById('lgam'), anIn=document.getElementById('lgan'),
+      amIn=document.getElementById('lgam'),
       savedMsg=document.getElementById('lgsaved');
   dIn.value=iso(dnow());
-  function loadDay(){ var e=log[dIn.value]||{}; uwIn.value=e.uw!=null?e.uw:''; amIn.value=e.am!=null?e.am:''; anIn.value=e.anki!=null?e.anki:''; savedMsg.textContent=''; }
+  function loadDay(){ var e=log[dIn.value]||{}; uwIn.value=e.uw!=null?e.uw:''; amIn.value=e.am!=null?e.am:''; savedMsg.textContent=''; }
   dIn.addEventListener('change',loadDay);
 
   function renderPace(){
@@ -495,8 +472,8 @@ agenda.forEach(function(a){
     box.innerHTML='';
     var i,e,max=1;
     for(i=13;i>=0;i--){ e=log[iso(t-i*DAY)]; if(e&&(e.uw||0)>max) max=e.uw; }
-    var wkUw=0,wkAm=0,wkAn=0;
-    for(i=6;i>=0;i--){ e=log[iso(t-i*DAY)]; if(e){ wkUw+=e.uw||0; wkAm+=e.am||0; wkAn+=e.anki||0; } }
+    var wkUw=0,wkAm=0;
+    for(i=6;i>=0;i--){ e=log[iso(t-i*DAY)]; if(e){ wkUw+=e.uw||0; wkAm+=e.am||0; } }
     for(i=13;i>=0;i--){
       var ts=t-i*DAY, dt=new Date(ts);
       e=log[iso(ts)]; var val=e?(e.uw||0):0;
@@ -505,13 +482,13 @@ agenda.forEach(function(a){
       col.innerHTML='<div class="bv">'+(val||'')+'</div><div class="b" style="height:'+Math.max(2,Math.round(val/max*64))+'px"></div><div class="bl">'+(i%2?'':dt.getUTCDate())+'</div>';
       box.appendChild(col);
     }
-    document.getElementById('wk').textContent='This week: '+wkUw+' UWorld - '+wkAm+' AMBOSS - '+wkAn+' Anki';
+    document.getElementById('wk').textContent='This week: '+wkUw+' UWorld - '+wkAm+' AMBOSS';
   }
 
   document.getElementById('lgsave').addEventListener('click',function(){
-    var rec={ uw:Math.max(0,parseInt(uwIn.value,10)||0), am:Math.max(0,parseInt(amIn.value,10)||0), anki:Math.max(0,parseInt(anIn.value,10)||0) };
+    var rec={ uw:Math.max(0,parseInt(uwIn.value,10)||0), am:Math.max(0,parseInt(amIn.value,10)||0) };
     log[dIn.value]=rec; save();
-    savedMsg.textContent='Saved '+dIn.value+' - '+rec.uw+' UWorld, '+rec.am+' AMBOSS, '+rec.anki+' Anki';
+    savedMsg.textContent='Saved '+dIn.value+' - '+rec.uw+' UWorld, '+rec.am+' AMBOSS';
     renderPace(); renderBars();
   });
 
