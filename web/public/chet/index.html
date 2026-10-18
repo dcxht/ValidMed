@@ -354,7 +354,7 @@ function gatherSync(){
   var state={}, i, k;
   try{
     var v;
-    for (i=0;i<6;i++){ k=['chet_shelf_log','chet_shelf_cfg','chet_lift_log','chet_workout_plan','chet_week_plan','chet_session_ratings'][i]; v=localStorage.getItem(k); if(v!=null) state[k]=v; }
+    for (i=0;i<7;i++){ k=['chet_shelf_log','chet_shelf_cfg','chet_lift_log','chet_workout_plan','chet_week_plan','chet_session_ratings','chet_run_log'][i]; v=localStorage.getItem(k); if(v!=null) state[k]=v; }
     for (i=0;i<localStorage.length;i++){ k=localStorage.key(i); if(k&&k.indexOf('chet_todo_')===0) state[k]=localStorage.getItem(k); }
   }catch(e){}
   return state;
@@ -385,6 +385,14 @@ function syncPull(){
         if (cl2&&cl2.entries){
           for (var ek in cl2.entries) lf.entries[ek]=cl2.entries[ek];
           localStorage.setItem('chet_lift_log',JSON.stringify(lf));
+        }
+      }catch(e){}
+      try{
+        var rl0=JSON.parse(localStorage.getItem('chet_run_log')||'{"entries":{}}');
+        var cl3=state.chet_run_log?JSON.parse(state.chet_run_log):null;
+        if (cl3&&cl3.entries){
+          for (var rk in cl3.entries) rl0.entries[rk]=cl3.entries[rk];
+          localStorage.setItem('chet_run_log',JSON.stringify(rl0));
         }
       }catch(e){}
       for (var k in state) if (k.indexOf('chet_todo_')===0) try{ localStorage.setItem(k,state[k]); }catch(e){}
@@ -932,9 +940,20 @@ function initFitness(){
       rows.appendChild(row);
       if (target>done) left.push(g+' '+(target-done)+' sets');
     });
+    var runCounts={};
+    try{
+      var rl=JSON.parse(localStorage.getItem('chet_run_log')||'{"entries":{}}');
+      for (var rk2 in rl.entries){
+        var re=rl.entries[rk2];
+        if (!re||re.del||!re.type) continue;
+        var rt=d(re.d);
+        if (rt>=ws&&rt<=we) runCounts[re.type]=(runCounts[re.type]||0)+1;
+      }
+    }catch(e){}
     extras.forEach(function(x){
       if (!x||!x.label) return;
-      var done=x.done||0, target=x.target||0;
+      var lk=x.label.toLowerCase();
+      var done=(lk==='speed'||lk==='zone 2')?(runCounts[lk==='speed'?'speed':'zone2']||0):(x.done||0), target=x.target||0;
       var row=document.createElement('div');
       row.className='wkrow'+(done===0?' zero':(target>0&&done>=target?' done':''));
       var pct=target>0?Math.min(100,Math.round(done/target*100)):(done>0?100:0);
