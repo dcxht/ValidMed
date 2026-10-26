@@ -86,6 +86,10 @@ h1 { font-size:22px; letter-spacing:-0.02em; }
 .rules li { font-size:14px; padding:4px 0 4px 18px; position:relative; list-style:none; }
 .rules li::before { content:""; position:absolute; left:4px; top:12px; width:6px; height:6px; border-radius:3px; background:#b45309; }
 
+/* fm clerkship */
+.fmgrp { font-size:12px; font-weight:700; text-transform:uppercase; letter-spacing:0.04em; color:var(--text-secondary); margin:14px 0 2px; }
+.fmgrp:first-child { margin-top:0; }
+
 /* agenda */
 .list { background:var(--surface); border:1px solid var(--border); border-radius:12px; overflow:hidden; }
 .arow { display:flex; gap:14px; padding:12px 16px; border-bottom:1px solid var(--border); }
@@ -269,6 +273,45 @@ h1 { font-weight:800; letter-spacing:-0.03em; }
 </div>
 
 
+<h2 class="sec">FM clerkship - requirements</h2>
+<div class="today" id="fmreqs"></div>
+
+<div class="card" style="margin-top:12px">
+  <div class="nm" style="margin-bottom:6px">Pass marks - each component must pass on its own</div>
+  <ul class="plan">
+    <li><span class="k">NBME shelf:</span> national 5th percentile (deck puts it at 62). Fri Dec 18, 100 MCQ in 2.5 hrs, bring your laptop.</li>
+    <li><span class="k">SP / OSCE:</span> COD floors - Info Gathering 67.5, Reasoning 72.1, Communication 68.8. Deck says &ge;70% overall. Wk4 Tue or Wed - Sim Center assigns the day.</li>
+    <li><span class="k">WBAs:</span> at least 50% of ratings at Level 2+ on each.</li>
+    <li><span class="k">CSWFT:</span> at least 50% of ratings at Level 3+.</li>
+    <li><span class="k">HAPPYs:</span> pass all 3 didactics exercises.</li>
+    <li><span class="k">Professionalism:</span> its own pass/fail axis - late launches land here.</li>
+    <li><span class="k">Miss one:</span> Deferred grade + retake that component. Fail 2+ of NBME/CSWFT/SP, or any component twice, = repeat the clerkship.</li>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="nm" style="margin-bottom:6px">Docs disagree - COD vs orientation deck</div>
+  <ul class="plan">
+    <li><span class="k">WBA count:</span> 10 (COD) vs 9 (deck) - plan for 10, confirm at orientation.</li>
+    <li><span class="k">Mid-Term Feedback:</span> due Wk2 (COD) vs Wk3 (deck) - do it Wk2.</li>
+    <li><span class="k">SP exam day:</span> Wk4 Wednesday (COD) vs Tuesday (deck) - wait for the Sim Center assignment.</li>
+    <li><span class="k">NBME pass number:</span> 62 (deck) vs 5th percentile, which moves (COD).</li>
+    <li><span class="k">CSWFT evaluators:</span> 1-3 (deck) vs 2-4 typical at multi-preceptor sites (COD).</li>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="nm" style="margin-bottom:6px">From orientation - how to work it</div>
+  <ul class="plan">
+    <li><span class="k">WBAs:</span> ~3/week starting Wk1. Stack them (DOH/P + MRC, or ART + CD in one visit). Launch the form the same day.</li>
+    <li><span class="k">Thursday PM:</span> protected Independent Study Time - UWorld, WBA launching, Healer cases.</li>
+    <li><span class="k">UWorld target:</span> 832 Qs (436 FM + 396 Amb) done by end of Wk3. Your runway goal finishes 941 before day 1, ahead of this.</li>
+    <li><span class="k">Absences:</span> VidaNova Absence Tracker + notify preceptor. 1-2 excused days fine, 3-4 remediation, &gt;4 repeat.</li>
+    <li><span class="k">Eval concerns:</span> go to Dr. Sarkar (CD, 281-650-3221), never the preceptor. Coordinator: Elvira Ruiz.</li>
+    <li><span class="k">Know cold:</span> DM, HTN, HLD, COPD, CHF, UTI, URI, OA, AUB.</li>
+  </ul>
+</div>
+
 <h2 class="sec">Timeline</h2>
 <div class="tl-scroll"><div class="tl-inner" id="tl">
   <div class="tl-months" id="tlm"></div>
@@ -354,7 +397,7 @@ function gatherSync(){
   var state={}, i, k;
   try{
     var v;
-    for (i=0;i<7;i++){ k=['chet_shelf_log','chet_shelf_cfg','chet_lift_log','chet_workout_plan','chet_week_plan','chet_session_ratings','chet_run_log'][i]; v=localStorage.getItem(k); if(v!=null) state[k]=v; }
+    ['chet_shelf_log','chet_shelf_cfg','chet_lift_log','chet_workout_plan','chet_week_plan','chet_session_ratings','chet_run_log','chet_fm_reqs'].forEach(function(k){ v=localStorage.getItem(k); if(v!=null) state[k]=v; });
     for (i=0;i<localStorage.length;i++){ k=localStorage.key(i); if(k&&k.indexOf('chet_todo_')===0) state[k]=localStorage.getItem(k); }
   }catch(e){}
   return state;
@@ -376,6 +419,7 @@ function syncPull(){
         localStorage.setItem('chet_shelf_log',JSON.stringify(ll));
       }catch(e){ if(state.chet_shelf_log) try{localStorage.setItem('chet_shelf_log',state.chet_shelf_log);}catch(e2){} }
       if (state.chet_shelf_cfg) try{ localStorage.setItem('chet_shelf_cfg',state.chet_shelf_cfg); }catch(e){}
+      if (state.chet_fm_reqs) try{ localStorage.setItem('chet_fm_reqs',state.chet_fm_reqs); }catch(e){}
       if (state.chet_workout_plan) try{ localStorage.setItem('chet_workout_plan',state.chet_workout_plan); }catch(e){}
       if (state.chet_week_plan) try{ localStorage.setItem('chet_week_plan',state.chet_week_plan); }catch(e){}
       if (state.chet_session_ratings) try{ localStorage.setItem('chet_session_ratings',state.chet_session_ratings); }catch(e){}
@@ -414,7 +458,7 @@ function boot(){
   if (booted) return; booted=true;
   Promise.resolve(syncPull()).then(initDynamic,initDynamic);
 }
-function initDynamic(){ initShelfTracker(); initToday(); initFitness(); }
+function initDynamic(){ initShelfTracker(); initFmReqs(); initToday(); initFitness(); }
 
 /* view tabs (remembered per device, not synced) */
 function setView(v){
@@ -595,11 +639,12 @@ blocks.forEach(function(b,i){
 var agenda=[
  ['2026-11-05','ATS manuscript deadline','Submission due',0],
  ['2026-11-22','UWorld FM + Ambulatory done','941 questions banked before day 1 - CMS #1 baseline same day',0],
- ['2026-11-23','FM begins','Shelf Dec 18',0],
+ ['2026-11-23','FM day 1 - orientation 8:15','COD attestation on VidaNova unlocks content. Shelf Dec 18',0],
  ['2026-12-06','CMS FM #2','Wrongs reviewed same day',0],
  ['2026-12-12','CMS FM #3','Wrongs reviewed same day',0],
  ['2026-12-15','CMS FM #4','Last one - keep Dec 16-17 light',0],
- ['2026-12-18','FM SHELF','Last day of block',1],
+ ['2026-12-15','SP/OSCE exam (unconfirmed day)','Sim Center assigns - Tue 15 or Wed 16 per conflicting docs',0],
+ ['2026-12-18','FM SHELF','NBME 100 MCQ, bring laptop - Healer cases + evals due 11:59pm',1],
  ['2027-01-04','Psych begins','Shelf Jan 29',0],
  ['2027-02-01','Neuro begins','Shelf Feb 26',0],
  ['2027-03-01','Peds begins','Shelf Apr 9',0],
@@ -615,6 +660,50 @@ agenda.forEach(function(a){
   r.innerHTML='<div class="ad">'+fmtY(a[0])+'</div><div class="ae">'+a[1]+'<small>'+a[2]+'</small></div>';
   ag.appendChild(r);
 });
+
+/* ---------- fm clerkship requirements checklist ---------- */
+function initFmReqs(){
+  var K='chet_fm_reqs';
+  var done={}; try{ done=JSON.parse(localStorage.getItem(K)||'{}'); }catch(e){}
+  var groups=[
+   ['Wk1 - Nov 23-29',[
+    ['cod','COD attestation on VidaNova - unlocks clerkship content + HAPPYs, Incomplete without it'],
+    ['orient','Day 1 orientation, 8:15 start (Diabetes + Caregiving sessions)']]],
+   ['Wk2 - Nov 30-Dec 6',[
+    ['dohp','Direct Observation H/Ps launched (docs disagree: 3 vs 4 total)'],
+    ['art','2 ARTs launched'],
+    ['mtf','Mid-Term Feedback: self-assessment filled, launched to preceptor']]],
+   ['Wk3 - Dec 7-13',[
+    ['wba3','WBA pace kept: ~3/week, stacked, launched same day'],
+    ['spprep','SP prep session (Thursday didactics)'],
+    ['uw832','832 UWorld done by end of week (orientation target)']]],
+   ['Wk4 - Dec 14-18',[
+    ['mrc','2 MRCs done'],
+    ['cd2','2 CDs done'],
+    ['rce','All 12 Required Clinical Experiences logged'],
+    ['healer','2 Healer cases submitted (Fri 11:59pm)'],
+    ['cswft','CSWFT launched to 1-3 preceptors'],
+    ['evals','Preceptor + course evals submitted (Fri 11:59pm)'],
+    ['spx','SP/OSCE exam (Sim Center assigns the day)'],
+    ['nbme','NBME shelf Fri Dec 18 - 100 MCQ, 2.5 hrs, laptop']]]
+  ];
+  var host=document.getElementById('fmreqs');
+  groups.forEach(function(g){
+    var h=document.createElement('div'); h.className='fmgrp'; h.textContent=g[0]; host.appendChild(h);
+    g[1].forEach(function(it){
+      var row=document.createElement('div');
+      row.className='chk'+(done[it[0]]?' done':'');
+      row.innerHTML='<div class="box"></div><div class="t">'+it[1]+'</div>';
+      row.addEventListener('click',function(){
+        done[it[0]]=!done[it[0]];
+        row.classList.toggle('done',!!done[it[0]]);
+        try{ localStorage.setItem(K,JSON.stringify(done)); }catch(e){}
+        syncPush();
+      });
+      host.appendChild(row);
+    });
+  });
+}
 
 /* ---------- shelf tracker ---------- */
 function initShelfTracker(){
