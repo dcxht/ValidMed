@@ -305,7 +305,7 @@ h1 { font-weight:800; letter-spacing:-0.03em; }
   <ul class="plan">
     <li><span class="k">WBAs:</span> ~3/week starting Wk1. Stack them (DOH/P + MRC, or ART + CD in one visit). Launch the form the same day.</li>
     <li><span class="k">Thursday PM:</span> protected Independent Study Time - UWorld, WBA launching, Healer cases.</li>
-    <li><span class="k">UWorld target:</span> 832 Qs (436 FM + 396 Amb) done by end of Wk3. Your runway goal finishes 941 before day 1, ahead of this.</li>
+    <li><span class="k">UWorld target:</span> all UWorld Ambulatory + FM done by end of Wk3. The deck lists this as 832 Qs (436 FM + 396 Amb), but the live bank now has 941 in the same categories - finish the category, not a number.</li>
     <li><span class="k">Absences:</span> VidaNova Absence Tracker + notify preceptor. 1-2 excused days fine, 3-4 remediation, &gt;4 repeat.</li>
     <li><span class="k">Eval concerns:</span> go to Dr. Sarkar (CD, 281-650-3221), never the preceptor. Coordinator: Elvira Ruiz.</li>
     <li><span class="k">Know cold:</span> DM, HTN, HLD, COPD, CHF, UTI, URI, OA, AUB.</li>
@@ -366,6 +366,17 @@ h1 { font-weight:800; letter-spacing:-0.03em; }
   <div class="sub" id="fsaved"></div>
   <div class="finfo" id="finfo"></div>
   <div class="ftoday" id="ftoday"></div>
+</div>
+
+<div class="pace" style="margin-top:12px">
+  <div class="lbl">Hybrid rules - lifting + running</div>
+  <ul class="plan">
+    <li><span class="k">Pick a lead:</span> unless you're new to both, one of lifting or running leads; the other rides at minimum effective dose. Floors = lifting leads.</li>
+    <li><span class="k">Cardio stays easy:</span> strength and size gains survive low-intensity work (Zone 2). Adding run intensity means cutting lifting intensity or volume.</li>
+    <li><span class="k">Hard sessions capped:</span> stacking high-intensity intervals breaks the combo - 1 speed session a week, not 4.</li>
+    <li><span class="k">Recovery is the budget:</span> more training only works with more sleep and food.</li>
+  </ul>
+  <div class="sub" style="margin-top:6px">From Brady Holmer (@Hybridathlete), <a href="https://x.com/Hybridathlete/status/2115461674245493173" style="color:var(--accent)">post you saved Oct 28</a>. His wall: 17-min 5K + ~1200 total, then cut lifting to keep getting faster.</div>
 </div>
 
 <div class="pace" style="margin-top:12px">
@@ -639,7 +650,7 @@ blocks.forEach(function(b,i){
 var agenda=[
  ['2026-11-05','ATS manuscript deadline','Submission due',0],
  ['2026-11-22','UWorld FM + Ambulatory done','941 questions banked before day 1 - CMS #1 baseline same day',0],
- ['2026-11-23','FM day 1 - orientation 8:15','COD attestation on VidaNova unlocks content. Shelf Dec 18',0],
+ ['2026-11-23','FM day 1 - orientation, time TBD','8:15 in the deck is a sample schedule, not assigned. COD attestation on VidaNova unlocks content. Shelf Dec 18',0],
  ['2026-12-06','CMS FM #2','Wrongs reviewed same day',0],
  ['2026-12-12','CMS FM #3','Wrongs reviewed same day',0],
  ['2026-12-15','CMS FM #4','Last one - keep Dec 16-17 light',0],
@@ -668,7 +679,7 @@ function initFmReqs(){
   var groups=[
    ['Wk1 - Nov 23-29',[
     ['cod','COD attestation on VidaNova - unlocks clerkship content + HAPPYs, Incomplete without it'],
-    ['orient','Day 1 orientation, 8:15 start (Diabetes + Caregiving sessions)']]],
+    ['orient','Day 1 orientation - time TBD (8:15 in deck is a sample schedule, not assigned); Diabetes + Caregiving sessions']]],
    ['Wk2 - Nov 30-Dec 6',[
     ['dohp','Direct Observation H/Ps launched (docs disagree: 3 vs 4 total)'],
     ['art','2 ARTs launched'],
@@ -676,7 +687,7 @@ function initFmReqs(){
    ['Wk3 - Dec 7-13',[
     ['wba3','WBA pace kept: ~3/week, stacked, launched same day'],
     ['spprep','SP prep session (Thursday didactics)'],
-    ['uw832','832 UWorld done by end of week (orientation target)']]],
+    ['uw832','All UWorld FM + Ambulatory done by end of week (deck target; listed as 832 Qs)']]],
    ['Wk4 - Dec 14-18',[
     ['mrc','2 MRCs done'],
     ['cd2','2 CDs done'],
@@ -794,7 +805,7 @@ function initFitness(){
   function saveLift(){ try{ localStorage.setItem(LFT,JSON.stringify(lift)); }catch(e){} syncPush(); }
   function isoToday(){ var n=new Date(); return n.getFullYear()+'-'+String(n.getMonth()+1).padStart(2,'0')+'-'+String(n.getDate()).padStart(2,'0'); }
   function fmtD(ds){ var p=ds.split('-'); return MN[+p[1]-1]+' '+ (+p[2]); }
-  function fmtSet(e){ var w=(isBW(e.ex)?(e.w>0?'+'+e.w:'BW'):(''+e.w)); return w+' x'+e.r; }
+  function fmtSet(e){ if(e.u) return 'x?'; var w=(isBW(e.ex)?(e.w>0?'+'+e.w:'BW'):(''+e.w)); return w+' x'+e.r; }
   function e1rm(e){ return e.w*(1+e.r/30); }
   function entries(){ var a=[]; for (var id in lift.entries){ var e=lift.entries[id]; if(!e.del) a.push(e); } return a; }
   function exList(){
@@ -811,7 +822,7 @@ function initFitness(){
   }
   function bestSet(ex){
     var best=null;
-    setsFor(ex).forEach(function(e){ if(!best||e1rm(e)>e1rm(best)) best=e; });
+    setsFor(ex).forEach(function(e){ if(e.u) return; if(!best||e1rm(e)>e1rm(best)) best=e; });
     return best;
   }
   function lastSets(ex, beforeToday){
@@ -887,7 +898,7 @@ function initFitness(){
   var hxMode='date', hxEx=null;
   function prFor(ex){
     var best=null;
-    setsFor(ex).forEach(function(e){ if(!best||e1rm(e)>e1rm(best)) best=e; });
+    setsFor(ex).forEach(function(e){ if(e.u) return; if(!best||e1rm(e)>e1rm(best)) best=e; });
     return best;
   }
   function setStar(e,pr){ return fmtSet(e)+(pr&&e.d===pr.d&&e.ts===pr.ts&&e.w===pr.w&&e.r===pr.r?' <span class="star">★PR</span>':''); }
@@ -941,7 +952,7 @@ function initFitness(){
         box.appendChild(row);
       });
       if (dates2.length>1){
-        function bestOn(dd){ var b=null; byD2[dd].forEach(function(e){ if(!b||e1rm(e)>e1rm(b)) b=e; }); return b; }
+        function bestOn(dd){ var b=null; byD2[dd].forEach(function(e){ if(e.u) return; if(!b||e1rm(e)>e1rm(b)) b=e; }); return b; }
         var cur=bestOn(dates2[0]), prev=bestOn(dates2[1]);
         var t=document.createElement('div'); t.className='hxrow';
         var cls='flat', arrow='=', verb='same as';
@@ -967,7 +978,7 @@ function initFitness(){
       var sets=setsFor(it.ex);
       var setsToday=sets.filter(function(e){ return e.d===t; }).length;
       var m=(it.target||'').match(/^(\d+)/); var targetSets=m?+m[1]:0;
-      var last=sets.length?sets[sets.length-1]:null;
+      var last=null; for(var li=sets.length-1;li>=0;li--){ if(!sets[li].u){ last=sets[li]; break; } }
       var row=document.createElement('div'); row.className='wrow';
       var info=document.createElement('div'); info.className='wi';
       info.innerHTML='<div class="wn">'+it.ex+(targetSets&&setsToday?' <span class="wp">'+Math.min(setsToday,targetSets)+'/'+targetSets+'</span>':'')+'</div>'
@@ -994,7 +1005,7 @@ function initFitness(){
     ['Arms',['curl','pushdown','skullcrusher','tricep','extension','preacher','hammer','wrist']]
   ];
   var GROUP_ORDER=['Back','Chest','Shoulders','Arms','Legs','Core'];
-  var DEFAULT_WEEK_PLAN={Back:12,Chest:6,Shoulders:9,Arms:12,Legs:10,Core:4};
+  var DEFAULT_WEEK_PLAN={Back:12,Chest:6,Shoulders:9,Arms:12,Legs:12,Core:3};
   function groupFor(ex){
     var x=' '+ex.toLowerCase()+' ';
     for (var i=0;i<GROUP_RULES.length;i++){

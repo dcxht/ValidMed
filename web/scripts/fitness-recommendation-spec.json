@@ -2,73 +2,197 @@
   "spec": "chet-hub-fitness-recommendation-engine",
   "version": "integrated-v1",
   "purpose": "Not a fixed weekly plan. Given sets logged this week vs weekly target floors, recommend the next session and show balance. Weekly-grain checklist logic (Good Weeks), exercise content from Chet's Nippard-based plan, recovery/cardio framing from Huberman, peptide/enhancement lens noted from Bakri (no dosing).",
-  "week": { "starts": "monday", "ends": "sunday", "reset": "automatic fresh checklist each Monday" },
+  "week": {
+    "starts": "monday",
+    "ends": "sunday",
+    "reset": "automatic fresh checklist each Monday"
+  },
   "weekly_target_floors_sets": {
     "back": 12,
     "chest": 6,
     "shoulders": 9,
     "arms": 12,
-    "legs": 10,
-    "core": 4,
-    "_note": "Floors, not ceilings. Chest is capped, not encouraged: never more than 3 chest sets in one session and never recommend chest when he skips it. Targets cover one Upper + one Legs session as minimum viable week."
+    "legs": 12,
+    "core": 3,
+    "_note": "Floors, not ceilings. Chest capped: never >3 chest sets in one session, never push chest when declined. One Upper A + one Upper B + one Legs (short versions) exactly covers all floors incl. core 3; recommendation engine stays deficit-based so partial weeks still rebalance."
   },
   "constraints": {
     "chest_max_sets_per_session": 3,
-    "priority_groups_order": ["legs", "back", "shoulders", "arms", "core", "chest"],
+    "priority_groups_order": [
+      "legs",
+      "back",
+      "shoulders",
+      "arms",
+      "core",
+      "chest"
+    ],
     "rir": "2-3 on all lifts (Nippard plan convention)",
     "progression": "bump weight or reps off last logged session for that lift; no easing in, he asked for full intensity",
     "logging": "sets arrive as texts; hub auto-fills the checklist from the lift log, he never taps to log",
-    "ratings": "optional 1-10 how-it-went per session, settable by the agent (Good Weeks mechanic)"
+    "ratings": "optional 1-10 how-it-went per session, settable by the agent (Good Weeks mechanic)",
+    "session_time_cap": "hard cap 45-60 min per session, all sessions (Chet, 2026-10-18): ~6-7 exercises, ~18 sets max at his ~3 min/set pace",
+    "hybrid_rules": "lifting+running combo (Brady Holmer post saved 2026-10-28): one leads, other at minimum effective dose; keep endurance mostly low-intensity (Zone 2); high-intensity run sessions capped at 1/week; more training requires more sleep+food"
   },
   "session_templates": [
     {
       "id": "upper-a",
       "label": "Upper A",
-      "covers": ["back", "chest", "shoulders", "arms"],
-      "exercises": [
-        { "name": "Chest-supported row", "sets": 3, "reps": "8-10", "muscle_group": "back" },
-        { "name": "Lat pulldown", "sets": 3, "reps": "8-10", "muscle_group": "back" },
-        { "name": "Incline DB press", "sets": 3, "reps": "8-10", "muscle_group": "chest", "skip_if": "chest floor met or he declines chest" },
-        { "name": "Seated DB shoulder press", "sets": 3, "reps": "8-10", "muscle_group": "shoulders" },
-        { "name": "Lateral raise", "sets": 3, "reps": "12-15", "muscle_group": "shoulders" },
-        { "name": "Rear delt fly", "sets": 3, "reps": "12-15", "muscle_group": "shoulders" },
-        { "name": "Incline DB curl", "sets": 3, "reps": "10-12", "muscle_group": "arms" },
-        { "name": "Hammer curl", "sets": 2, "reps": "10-12", "muscle_group": "arms" },
-        { "name": "Cable pushdown", "sets": 3, "reps": "10-12", "muscle_group": "arms" },
-        { "name": "Overhead tricep extension", "sets": 3, "reps": "10-12", "muscle_group": "arms" }
+      "covers": [
+        "back",
+        "chest",
+        "shoulders",
+        "arms"
       ],
-      "source": "texted to Chet 2026-10-17 as his current Upper A"
+      "exercises": [
+        {
+          "name": "Chest-supported row",
+          "sets": 3,
+          "reps": "8-10",
+          "muscle_group": "back"
+        },
+        {
+          "name": "Lat pulldown",
+          "sets": 3,
+          "reps": "8-10",
+          "muscle_group": "back"
+        },
+        {
+          "name": "Incline DB press",
+          "sets": 3,
+          "reps": "8-10",
+          "muscle_group": "chest"
+        },
+        {
+          "name": "Seated DB shoulder press",
+          "sets": 3,
+          "reps": "8-10",
+          "muscle_group": "shoulders"
+        },
+        {
+          "name": "Lateral raise",
+          "sets": 2,
+          "reps": "12-15",
+          "muscle_group": "shoulders"
+        },
+        {
+          "name": "Incline DB curl",
+          "sets": 2,
+          "reps": "10-12",
+          "muscle_group": "arms"
+        },
+        {
+          "name": "Cable pushdown",
+          "sets": 2,
+          "reps": "10-12",
+          "muscle_group": "arms"
+        }
+      ],
+      "source": "short-session rework 2026-10-18 (Chet: cap every session 45-60 min, ~6-7 exercises <=18 sets; floors spread across the week, no makeup volume)",
+      "session_sets": 18
     },
     {
       "id": "upper-b",
       "label": "Upper B",
-      "covers": ["back", "chest", "shoulders", "arms"],
-      "exercises": [
-        { "name": "Pull-ups", "sets": 3, "reps": "6-10", "muscle_group": "back" },
-        { "name": "Seated cable row", "sets": 3, "reps": "8-12", "muscle_group": "back" },
-        { "name": "Machine chest press", "sets": 3, "reps": "8-10", "muscle_group": "chest", "skip_if": "chest floor met or he declines chest" },
-        { "name": "Arnold press", "sets": 3, "reps": "8-10", "muscle_group": "shoulders" },
-        { "name": "Cable lateral raise", "sets": 3, "reps": "12-15", "muscle_group": "shoulders" },
-        { "name": "Face pull", "sets": 3, "reps": "12-15", "muscle_group": "shoulders" },
-        { "name": "EZ-bar curl", "sets": 3, "reps": "8-10", "muscle_group": "arms" },
-        { "name": "Preacher curl", "sets": 2, "reps": "10-12", "muscle_group": "arms" },
-        { "name": "Skullcrusher", "sets": 3, "reps": "8-10", "muscle_group": "arms" },
-        { "name": "Rope pushdown", "sets": 2, "reps": "12-15", "muscle_group": "arms" }
+      "covers": [
+        "back",
+        "chest",
+        "shoulders",
+        "arms"
       ],
-      "source": "texted to Chet 2026-10-17 as his current Upper B; he trained it today"
+      "exercises": [
+        {
+          "name": "Pull-ups",
+          "sets": 3,
+          "reps": "6-10",
+          "muscle_group": "back"
+        },
+        {
+          "name": "Seated cable row",
+          "sets": 3,
+          "reps": "8-12",
+          "muscle_group": "back"
+        },
+        {
+          "name": "Machine chest press",
+          "sets": 3,
+          "reps": "8-10",
+          "muscle_group": "chest"
+        },
+        {
+          "name": "Cable lateral raise",
+          "sets": 2,
+          "reps": "12-15",
+          "muscle_group": "shoulders"
+        },
+        {
+          "name": "Face pull",
+          "sets": 2,
+          "reps": "12-15",
+          "muscle_group": "shoulders"
+        },
+        {
+          "name": "EZ-bar curl",
+          "sets": 3,
+          "reps": "8-10",
+          "muscle_group": "arms"
+        },
+        {
+          "name": "Rope pushdown",
+          "sets": 2,
+          "reps": "12-15",
+          "muscle_group": "arms"
+        }
+      ],
+      "source": "short-session rework 2026-10-18 (Chet: cap every session 45-60 min, ~6-7 exercises <=18 sets; floors spread across the week, no makeup volume)",
+      "session_sets": 18
     },
     {
       "id": "legs",
       "label": "Legs",
-      "covers": ["legs", "core"],
-      "exercises": [
-        { "name": "Squat or leg press", "sets": 3, "reps": "6-8", "muscle_group": "legs" },
-        { "name": "Romanian deadlift", "sets": 3, "reps": "8-10", "muscle_group": "legs" },
-        { "name": "Leg curl", "sets": 3, "reps": "10-12", "muscle_group": "legs" },
-        { "name": "Calf raise", "sets": 3, "reps": "10-15", "muscle_group": "legs" },
-        { "name": "Cable crunch", "sets": 3, "reps": "10-12", "muscle_group": "core" }
+      "covers": [
+        "legs",
+        "core"
       ],
-      "source": "judgment, built from the Sep 29-30 plan pieces (squat/leg press 3x8, RDL, plank/crunch) expanded to a full legs day"
+      "exercises": [
+        {
+          "name": "Squat or leg press",
+          "sets": 3,
+          "reps": "6-8",
+          "muscle_group": "legs"
+        },
+        {
+          "name": "Romanian deadlift",
+          "sets": 3,
+          "reps": "8-10",
+          "muscle_group": "legs"
+        },
+        {
+          "name": "Leg curl",
+          "sets": 3,
+          "reps": "10-12",
+          "muscle_group": "legs"
+        },
+        {
+          "name": "Calf raise",
+          "sets": 3,
+          "reps": "10-15",
+          "muscle_group": "legs"
+        },
+        {
+          "name": "Cable crunch",
+          "sets": 3,
+          "reps": "10-12",
+          "muscle_group": "core"
+        },
+        {
+          "name": "Hammer curl",
+          "sets": 3,
+          "reps": "10-12",
+          "muscle_group": "arms"
+        }
+      ],
+      "source": "short-session rework 2026-10-18 (Chet: cap every session 45-60 min, ~6-7 exercises <=18 sets; floors spread across the week, no makeup volume)",
+      "session_sets": 18
     },
     {
       "id": "speed-track",
@@ -104,14 +228,29 @@
     "source": "Sep 22 hybrid framework, built for rotations"
   },
   "daily_checkpoints": [
-    { "item": "Fixed wake time, 7+ h sleep opportunity", "source": "Huberman (Sep 22 framework)" },
-    { "item": "Morning outdoor light", "source": "Huberman (Sep 22 framework)" },
-    { "item": "Caffeine cutoff ~8h before bed", "source": "Huberman (Sep 22 framework)" },
-    { "item": "Protein 1.4-2.0 g/kg", "source": "Sep 22 framework" }
+    {
+      "item": "Fixed wake time, 7+ h sleep opportunity",
+      "source": "Huberman (Sep 22 framework)"
+    },
+    {
+      "item": "Morning outdoor light",
+      "source": "Huberman (Sep 22 framework)"
+    },
+    {
+      "item": "Caffeine cutoff ~8h before bed",
+      "source": "Huberman (Sep 22 framework)"
+    },
+    {
+      "item": "Protein 1.4-2.0 g/kg",
+      "source": "Sep 22 framework"
+    }
   ],
   "enhancement_note": {
     "bakri_lane": "Bakri's published content is peptides/GLP-1/TRT, not training programming (he was Huberman's podcast guest on peptides). Sourced position: most peptides have minimal or no human studies. Chet's compounds (MOTS-c, bromantane) are his decided call; the plan tracks but does not dose or argue.",
-    "sources": ["https://www.hubermanlab.com/episode (Bakri peptides episode)", "/memory/entities/people/abud-bakri.md"]
+    "sources": [
+      "https://www.hubermanlab.com/episode (Bakri peptides episode)",
+      "/memory/entities/people/abud-bakri.md"
+    ]
   },
   "sources": [
     "https://text-incubation.com/what-is-good-weeks (Good Weeks mechanics)",
