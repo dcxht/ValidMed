@@ -205,6 +205,15 @@ h1, h2, h3, .card .nm { font-family:'Outfit',system-ui,-apple-system,sans-serif;
 h1 { font-weight:800; letter-spacing:-0.03em; }
 .card { border:none; box-shadow:0 1px 2px rgba(23,23,23,.05), 0 6px 20px rgba(23,23,23,.06); }
 #gate > div { border:none !important; box-shadow:0 1px 2px rgba(23,23,23,.05), 0 6px 20px rgba(23,23,23,.06); }
+
+/* reference accordion */
+details.ref { margin:0 0 14px; }
+details.ref > summary { cursor:pointer; list-style:none; font-size:12px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); padding:10px 2px; user-select:none; }
+details.ref > summary::-webkit-details-marker { display:none; }
+details.ref > summary::after { content:'+'; float:right; color:var(--acc); font-weight:800; }
+details.ref[open] > summary::after { content:'\2013'; }
+details.ref > summary:hover { color:var(--acc); }
+.acc-sub { font-size:11px; color:var(--muted); margin-top:2px; }
 </style>
 </head>
 <body>
@@ -246,6 +255,8 @@ h1 { font-weight:800; letter-spacing:-0.03em; }
   <div class="lgrid">
     <label>UWorld<input id="lguw" type="number" inputmode="numeric" min="0" placeholder="0" /></label>
     <label>AMBOSS<input id="lgam" type="number" inputmode="numeric" min="0" placeholder="0" /></label>
+    <label>UW correct (opt)<input id="lguwc" type="number" inputmode="numeric" min="0" placeholder="-" /></label>
+    <label>AMBOSS correct (opt)<input id="lgamc" type="number" inputmode="numeric" min="0" placeholder="-" /></label>
   </div>
   <div class="row" style="margin-top:10px"><button id="lgsave" style="flex:1">Save</button></div>
   <div class="sub" id="lgsaved"></div>
@@ -270,11 +281,18 @@ h1 { font-weight:800; letter-spacing:-0.03em; }
   <div class="lbl">Last 14 days - UWorld Qs/day</div>
   <div class="bars" id="bars"></div>
   <div class="sub" id="wk"></div>
+  <div class="sub" id="acc7"></div>
+  <div class="sub acc-sub" id="accnote" style="display:none">Weighted by question count, from days where you logged correct answers. New vs repeat, timed vs tutor - the hub can't tell those apart.</div>
 </div>
 
 
+<h2 class="sec">Agenda</h2>
+<div class="list" id="agenda"></div>
+
 <h2 class="sec">FM clerkship - requirements</h2>
 <div class="today" id="fmreqs"></div>
+
+<details class="ref"><summary>FM reference - pass marks, doc conflicts, orientation notes</summary>
 
 <div class="card" style="margin-top:12px">
   <div class="nm" style="margin-bottom:6px">Pass marks - each component must pass on its own</div>
@@ -293,8 +311,8 @@ h1 { font-weight:800; letter-spacing:-0.03em; }
   <div class="nm" style="margin-bottom:6px">Docs disagree - COD vs orientation deck</div>
   <ul class="plan">
     <li><span class="k">WBA count:</span> 10 (COD) vs 9 (deck) - plan for 10, confirm at orientation.</li>
-    <li><span class="k">Mid-Term Feedback:</span> due Wk2 (COD) vs Wk3 (deck) - do it Wk2.</li>
-    <li><span class="k">SP exam day:</span> Wk4 Wednesday (COD) vs Tuesday (deck) - wait for the Sim Center assignment.</li>
+    <li><span class="k">Mid-Term Feedback:</span> due Wk2 (COD) vs Wk3 (deck) - do it Wk2; assigned mid-review is Thu Dec 3, 11:00-12:30.</li>
+    <li><span class="k">SP exam day:</span> resolved - assigned schedule says Tue Dec 15 (COD had said Wk4 Wed, deck Tue).</li>
     <li><span class="k">NBME pass number:</span> 62 (deck) vs 5th percentile, which moves (COD).</li>
     <li><span class="k">CSWFT evaluators:</span> 1-3 (deck) vs 2-4 typical at multi-preceptor sites (COD).</li>
   </ul>
@@ -304,7 +322,7 @@ h1 { font-weight:800; letter-spacing:-0.03em; }
   <div class="nm" style="margin-bottom:6px">From orientation - how to work it</div>
   <ul class="plan">
     <li><span class="k">WBAs:</span> ~3/week starting Wk1. Stack them (DOH/P + MRC, or ART + CD in one visit). Launch the form the same day.</li>
-    <li><span class="k">Thursday PM:</span> protected Independent Study Time - UWorld, WBA launching, Healer cases.</li>
+    <li><span class="k">Thursdays:</span> deck promised protected study PMs, but the assigned schedule fills all four (Dec 3 in-person + mid-review, Dec 10 Teams, Dec 17 wrap-up; Nov 26 Thanksgiving). Plan study time around them.</li>
     <li><span class="k">UWorld target:</span> all UWorld Ambulatory + FM done by end of Wk3. The deck lists this as 832 Qs (436 FM + 396 Amb), but the live bank now has 941 in the same categories - finish the category, not a number.</li>
     <li><span class="k">Absences:</span> VidaNova Absence Tracker + notify preceptor. 1-2 excused days fine, 3-4 remediation, &gt;4 repeat.</li>
     <li><span class="k">Eval concerns:</span> go to Dr. Sarkar (CD, 281-650-3221), never the preceptor. Coordinator: Elvira Ruiz.</li>
@@ -312,27 +330,26 @@ h1 { font-weight:800; letter-spacing:-0.03em; }
   </ul>
 </div>
 
-<h2 class="sec">Timeline</h2>
+</details>
+
+<details class="ref"><summary>Timeline - full MS3 year</summary>
 <div class="tl-scroll"><div class="tl-inner" id="tl">
   <div class="tl-months" id="tlm"></div>
   <div class="tl-track" id="tlt"></div>
 </div></div>
-<div class="tl-hint">scroll sideways</div>
+<div class="tl-hint">scroll sideways</div></details>
 
-<h2 class="sec">The rules (every block)</h2>
+<details class="ref"><summary>The rules - every block</summary>
 <div class="rules"><ul>
   <li><b>UWorld first.</b> If only one bank gets finished, it's UWorld + incorrects.</li>
   <li>Then AMBOSS same subject + incorrects. Drop AMBOSS if behind, never UWorld.</li>
   <li>CMS forms one per weekend, wrongs reviewed same day. Do every form NBME sells for the subject (~4 per clerkship, 50 Qs each - count changes, check the store).</li>
   <li>Anki daily: cue format only ("if you see ___, think ___"), max 5 new/day, written off missed questions.</li>
   <li>Final week: no new material. Incorrects + CMS wrongs + Anki. Shelf on the last day of the block.</li>
-</ul></div>
+</ul></div></details>
 
-<h2 class="sec">Blocks &amp; shelf plans</h2>
-<div id="cards"></div>
-
-<h2 class="sec">Agenda</h2>
-<div class="list" id="agenda"></div>
+<details class="ref"><summary>Blocks &amp; shelf plans - all rotations</summary>
+<div id="cards"></div></details>
 
 </div>
 
@@ -419,10 +436,10 @@ function syncPull(){
   var t=setTimeout(function(){ try{ctrl.abort();}catch(e){} },3500);
   return fetch(SYNC_URL,{signal:ctrl.signal}).then(function(r){
     clearTimeout(t);
-    if(!r.ok) return;
+    if(!r.ok) return false;
     return r.json().then(function(j){
       var state=j&&j.state;
-      if(!state||typeof state!=='object'){ syncPushNow(); return; } // first device: seed cloud
+      if(!state||typeof state!=='object'){ syncPushNow(); return true; } // first device: seed cloud
       try{
         var ll=JSON.parse(localStorage.getItem('chet_shelf_log')||'{}');
         var cl=state.chet_shelf_log?JSON.parse(state.chet_shelf_log):{};
@@ -451,8 +468,9 @@ function syncPull(){
         }
       }catch(e){}
       for (var k in state) if (k.indexOf('chet_todo_')===0) try{ localStorage.setItem(k,state[k]); }catch(e){}
-    });
-  },function(){ clearTimeout(t); });
+      return true;
+    },function(){ return false; });
+  },function(){ clearTimeout(t); return false; });
 }
 function syncPushNow(){
   try{
@@ -467,7 +485,12 @@ function syncPush(){
 var booted=false;
 function boot(){
   if (booted) return; booted=true;
-  Promise.resolve(syncPull()).then(initDynamic,initDynamic);
+  Promise.resolve(syncPull()).then(function(ok){
+    if (ok){ initDynamic(); return; }
+    setTimeout(function(){ Promise.resolve(syncPull()).then(function(){ initDynamic(); }, function(){ initDynamic(); }); }, 1500);
+  }, function(){
+    setTimeout(function(){ Promise.resolve(syncPull()).then(function(){ initDynamic(); }, function(){ initDynamic(); }); }, 1500);
+  });
 }
 function initDynamic(){ initShelfTracker(); initFmReqs(); initToday(); initFitness(); }
 
@@ -650,11 +673,16 @@ blocks.forEach(function(b,i){
 var agenda=[
  ['2026-11-05','ATS manuscript deadline','Submission due',0],
  ['2026-11-22','UWorld FM + Ambulatory done','941 questions banked before day 1 - CMS #1 baseline same day',0],
- ['2026-11-23','FM day 1 - orientation, time TBD','8:15 in the deck is a sample schedule, not assigned. COD attestation on VidaNova unlocks content. Shelf Dec 18',0],
+ ['2026-11-23','FM day 1 - orientation 8:00a, MEC 410C','In person. Didactics 9a Diabetes, 10a Caregiver Stress; then Belton Main Clinic. COD attestation on VidaNova unlocks content',0],
+ ['2026-11-25','Thanksgiving break','No classes Wed 25 - Fri 27',0],
+ ['2026-12-03','In-person didactics, MEC 410C 8:00a','SDoH 8a, HTN 9:30a, Obesity 10:30a + Mid-Term Review 11:00-12:30 with Dr. Meece',0],
  ['2026-12-06','CMS FM #2','Wrongs reviewed same day',0],
+ ['2026-12-08','ACTA morning - Waco','Dr. Wehmeyer AM clinic, 7700 Fish Pond Rd, Waco (front desk, ask for Dr. Wehmeyer). PM Belton Main',0],
+ ['2026-12-10','Teams didactics 8:00a (camera on)','Back & Knee Pain 8a, Women\'s Health 9a, SP Exam Prep 10a (Sarkar)',0],
  ['2026-12-12','CMS FM #3','Wrongs reviewed same day',0],
+ ['2026-12-15','SP Exam','Assigned schedule: Tue Dec 15 (resolves COD Wed vs deck Tue conflict)',1],
  ['2026-12-15','CMS FM #4','Last one - keep Dec 16-17 light',0],
- ['2026-12-15','SP/OSCE exam (unconfirmed day)','Sim Center assigns - Tue 15 or Wed 16 per conflicting docs',0],
+ ['2026-12-17','In-person didactics + wrap-up, MEC 410C','High Value Care 8a; Reflections & wrap-up with Dr. Crew 9-11a',0],
  ['2026-12-18','FM SHELF','NBME 100 MCQ, bring laptop - Healer cases + evals due 11:59pm',1],
  ['2027-01-04','Psych begins','Shelf Jan 29',0],
  ['2027-02-01','Neuro begins','Shelf Feb 26',0],
@@ -665,7 +693,9 @@ var agenda=[
  ['2027-08-30','OB/Gyn begins','Shelf Oct 8',0]
 ];
 var ag=document.getElementById('agenda');
+var _t0=dnow();
 agenda.forEach(function(a){
+  if (d(a[0])<_t0) return; // past rows drop off
   var r=document.createElement('div');
   r.className='arow'+(a[3]?' exam':'');
   r.innerHTML='<div class="ad">'+fmtY(a[0])+'</div><div class="ae">'+a[1]+'<small>'+a[2]+'</small></div>';
@@ -679,7 +709,7 @@ function initFmReqs(){
   var groups=[
    ['Wk1 - Nov 23-29',[
     ['cod','COD attestation on VidaNova - unlocks clerkship content + HAPPYs, Incomplete without it'],
-    ['orient','Day 1 orientation - time TBD (8:15 in deck is a sample schedule, not assigned); Diabetes + Caregiving sessions']]],
+    ['orient','Day 1 orientation 8:00a, MEC 410C (assigned); Diabetes + Caregiver Stress sessions, then Belton Main Clinic']]],
    ['Wk2 - Nov 30-Dec 6',[
     ['dohp','Direct Observation H/Ps launched (docs disagree: 3 vs 4 total)'],
     ['art','2 ARTs launched'],
@@ -695,7 +725,7 @@ function initFmReqs(){
     ['healer','2 Healer cases submitted (Fri 11:59pm)'],
     ['cswft','CSWFT launched to 1-3 preceptors'],
     ['evals','Preceptor + course evals submitted (Fri 11:59pm)'],
-    ['spx','SP/OSCE exam (Sim Center assigns the day)'],
+    ['spx','SP exam Tue Dec 15 (assigned schedule)'],
     ['nbme','NBME shelf Fri Dec 18 - 100 MCQ, 2.5 hrs, laptop']]]
   ];
   var host=document.getElementById('fmreqs');
@@ -727,10 +757,10 @@ function initShelfTracker(){
   function doneTotal(){ var su=cfg.done0; for(var k in log) su+=(log[k].uw||0); return su; }
 
   var dIn=document.getElementById('lgdate'), uwIn=document.getElementById('lguw'),
-      amIn=document.getElementById('lgam'),
+      amIn=document.getElementById('lgam'), uwCIn=document.getElementById('lguwc'), amCIn=document.getElementById('lgamc'),
       savedMsg=document.getElementById('lgsaved');
   dIn.value=iso(dnow());
-  function loadDay(){ var e=log[dIn.value]||{}; uwIn.value=e.uw!=null?e.uw:''; amIn.value=e.am!=null?e.am:''; savedMsg.textContent=''; }
+  function loadDay(){ var e=log[dIn.value]||{}; uwIn.value=e.uw!=null?e.uw:''; amIn.value=e.am!=null?e.am:''; uwCIn.value=e.uwc!=null?e.uwc:''; amCIn.value=e.amc!=null?e.amc:''; savedMsg.textContent=''; }
   dIn.addEventListener('change',loadDay);
 
   function renderPace(){
@@ -772,11 +802,29 @@ function initShelfTracker(){
     document.getElementById('wk').textContent='This week: '+wkUw+' UWorld - '+wkAm+' AMBOSS';
   }
 
+  function renderAcc(){
+    var t=dnow(), suw=0,suwc=0,sam=0,samc=0, i, e;
+    for(i=0;i<7;i++){ e=log[iso(t-i*DAY)]; if(!e) continue;
+      if (typeof e.uwc==='number' && (e.uw||0)>0){ suw+=e.uw; suwc+=Math.min(e.uwc,e.uw); }
+      if (typeof e.amc==='number' && (e.am||0)>0){ sam+=e.am; samc+=Math.min(e.amc,e.am); }
+    }
+    var parts=[];
+    if (suw>0) parts.push('UWorld '+Math.round(suwc/suw*100)+'% ('+suwc+'/'+suw+')');
+    if (sam>0) parts.push('AMBOSS '+Math.round(samc/sam*100)+'% ('+samc+'/'+sam+')');
+    document.getElementById('acc7').textContent=parts.length? 'Last 7 days, as logged: '+parts.join(' - ') : '';
+    document.getElementById('accnote').style.display=parts.length?'block':'none';
+  }
+
   document.getElementById('lgsave').addEventListener('click',function(){
-    var rec={ uw:Math.max(0,parseInt(uwIn.value,10)||0), am:Math.max(0,parseInt(amIn.value,10)||0) };
+    var prev=log[dIn.value]||{}, rec={}, k0;
+    for (k0 in prev) rec[k0]=prev[k0]; // keep fields this form doesn't know
+    rec.uw=Math.max(0,parseInt(uwIn.value,10)||0);
+    rec.am=Math.max(0,parseInt(amIn.value,10)||0);
+    if (uwCIn.value.trim()!=='') rec.uwc=Math.max(0,parseInt(uwCIn.value,10)||0);
+    if (amCIn.value.trim()!=='') rec.amc=Math.max(0,parseInt(amCIn.value,10)||0);
     log[dIn.value]=rec; save();
     savedMsg.textContent='Saved '+dIn.value+' - '+rec.uw+' UWorld, '+rec.am+' AMBOSS';
-    renderPace(); renderBars();
+    renderPace(); renderBars(); renderAcc();
   });
 
   var cfgBox=document.getElementById('cfgbox');
@@ -791,7 +839,7 @@ function initShelfTracker(){
   }
   cdIn.addEventListener('input',cfgUpd); cgIn.addEventListener('input',cfgUpd); ctIn.addEventListener('change',cfgUpd);
 
-  loadDay(); renderPace(); renderBars();
+  loadDay(); renderPace(); renderBars(); renderAcc();
 }
 
 /* ---------- fitness (lift log) ---------- */
