@@ -258,12 +258,13 @@ details.ref > summary:hover { color:var(--acc); }
     <label>UW correct (opt)<input id="lguwc" type="number" inputmode="numeric" min="0" placeholder="-" /></label>
     <label>AMBOSS correct (opt)<input id="lgamc" type="number" inputmode="numeric" min="0" placeholder="-" /></label>
   </div>
+  <div class="sub" style="margin-top:6px"><span class="cfglink" id="clruwc" style="display:none">clear UW correct</span>&nbsp;&nbsp;<span class="cfglink" id="clramc" style="display:none">clear AMBOSS correct</span></div>
   <div class="row" style="margin-top:10px"><button id="lgsave" style="flex:1">Save</button></div>
   <div class="sub" id="lgsaved"></div>
 </div>
 
 <div class="pace" style="margin-top:12px">
-  <div class="lbl">UWorld FM + Ambulatory - done before FM starts Nov 23</div>
+  <div class="lbl" id="pacelbl">UWorld FM + Ambulatory</div>
   <div class="pbar"><div id="pfill"></div></div>
   <div class="verdict" id="pv"></div>
   <div class="sub" id="psub"></div>
@@ -443,7 +444,8 @@ function syncPull(){
       try{
         var ll=JSON.parse(localStorage.getItem('chet_shelf_log')||'{}');
         var cl=state.chet_shelf_log?JSON.parse(state.chet_shelf_log):{};
-        for (var dk in cl) ll[dk]=cl[dk];
+        var dirty=getDirty();
+        for (var dk in cl) if(!dirty[dk]) ll[dk]=cl[dk]; // unpushed local edits win
         localStorage.setItem('chet_shelf_log',JSON.stringify(ll));
       }catch(e){ if(state.chet_shelf_log) try{localStorage.setItem('chet_shelf_log',state.chet_shelf_log);}catch(e2){} }
       if (state.chet_shelf_cfg) try{ localStorage.setItem('chet_shelf_cfg',state.chet_shelf_cfg); }catch(e){}
@@ -468,17 +470,40 @@ function syncPull(){
         }
       }catch(e){}
       for (var k in state) if (k.indexOf('chet_todo_')===0) try{ localStorage.setItem(k,state[k]); }catch(e){}
+      if (Object.keys(getDirty()).length) syncPush(); // unpushed edits from a previous session
       return true;
     },function(){ return false; });
   },function(){ clearTimeout(t); return false; });
 }
+var DIRTYK='chet_shelf_dirty';
+function getDirty(){ try{ return JSON.parse(localStorage.getItem(DIRTYK)||'{}'); }catch(e){ return {}; } }
+function markDirty(day){ var dd=getDirty(); dd[day]=1; try{ localStorage.setItem(DIRTYK,JSON.stringify(dd)); }catch(e){} }
+function clearDirty(){ try{ localStorage.removeItem(DIRTYK); }catch(e){} }
+var syncFailN=0, syncRetryT=null, syncRev=0;
+function syncNote(msg){
+  var el=document.getElementById('syncmsg');
+  if(!el){ el=document.createElement('div'); el.id='syncmsg';
+    el.style.cssText='position:fixed;bottom:10px;left:50%;transform:translateX(-50%);background:#b45309;color:#fff;padding:6px 12px;border-radius:8px;font-size:12px;z-index:60;';
+    document.body.appendChild(el); }
+  el.textContent=msg||''; el.style.display=msg?'block':'none';
+}
 function syncPushNow(){
   try{
-    fetch(SYNC_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({state:gatherSync()})}).catch(function(){});
+    var rev=syncRev;
+    fetch(SYNC_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({state:gatherSync()})})
+      .then(function(r){ if(!r.ok) throw new Error('sync '+r.status);
+        if(rev===syncRev){ syncFailN=0; clearDirty(); syncNote(''); } // only clear edits this ack actually covers
+      })
+      .catch(function(){
+        syncFailN++;
+        syncNote('Not synced - data is on this device, retrying');
+        if(!syncRetryT) syncRetryT=setTimeout(function(){ syncRetryT=null; syncPushNow(); }, Math.min(30000, 3000*syncFailN)); // 3s, 6s, 9s... 30s cap, one pending retry max
+      });
   }catch(e){}
 }
 var syncTimer=null;
 function syncPush(){
+  syncRev++; // every save bumps the revision; acks from older in-flight pushes can't clear newer dirty flags
   clearTimeout(syncTimer);
   syncTimer=setTimeout(syncPushNow,800);
 }
@@ -492,7 +517,7 @@ function boot(){
     setTimeout(function(){ Promise.resolve(syncPull()).then(function(){ initDynamic(); }, function(){ initDynamic(); }); }, 1500);
   });
 }
-function initDynamic(){ initShelfTracker(); initFmReqs(); initToday(); initFitness(); }
+function initDynamic(){ initShelfTracker(); renderAgenda(); initFmReqs(); initToday(); initFitness(); }
 
 /* view tabs (remembered per device, not synced) */
 function setView(v){
@@ -670,9 +695,12 @@ blocks.forEach(function(b,i){
 });
 
 /* ---------- agenda ---------- */
+function renderAgenda(){
+var _goalT='2026-11-20', _goalN=941; try{ var _gc=JSON.parse(localStorage.getItem('chet_shelf_cfg')||'null'); if(_gc){ if(_gc.target) _goalT=_gc.target; if(_gc.goal) _goalN=_gc.goal; } }catch(e){}
 var agenda=[
  ['2026-11-05','ATS manuscript deadline','Submission due',0],
- ['2026-11-22','UWorld FM + Ambulatory done','941 questions banked before day 1 - CMS #1 baseline same day',0],
+ [_goalT,'UWorld FM + Ambulatory done - personal goal',_goalN+' banked - first pass FM + Ambulatory',0],
+ ['2026-11-22','CMS FM #1 - baseline','Baseline self-assessment',0],
  ['2026-11-23','FM day 1 - orientation 8:00a, MEC 410C','In person. Didactics 9a Diabetes, 10a Caregiver Stress; then Belton Main Clinic. COD attestation on VidaNova unlocks content',0],
  ['2026-11-25','Thanksgiving break','No classes Wed 25 - Fri 27',0],
  ['2026-12-03','In-person didactics, MEC 410C 8:00a','SDoH 8a, HTN 9:30a, Obesity 10:30a + Mid-Term Review 11:00-12:30 with Dr. Meece',0],
@@ -692,7 +720,9 @@ var agenda=[
  ['2027-08-16','Wellness begins','No shelf',0],
  ['2027-08-30','OB/Gyn begins','Shelf Oct 8',0]
 ];
+agenda.sort(function(a,b){ return a[0]<b[0]?-1:(a[0]>b[0]?1:0); });
 var ag=document.getElementById('agenda');
+ag.innerHTML='';
 var _t0=dnow();
 agenda.forEach(function(a){
   if (d(a[0])<_t0) return; // past rows drop off
@@ -701,6 +731,7 @@ agenda.forEach(function(a){
   r.innerHTML='<div class="ad">'+fmtY(a[0])+'</div><div class="ae">'+a[1]+'<small>'+a[2]+'</small></div>';
   ag.appendChild(r);
 });
+}
 
 /* ---------- fm clerkship requirements checklist ---------- */
 function initFmReqs(){
@@ -760,10 +791,21 @@ function initShelfTracker(){
       amIn=document.getElementById('lgam'), uwCIn=document.getElementById('lguwc'), amCIn=document.getElementById('lgamc'),
       savedMsg=document.getElementById('lgsaved');
   dIn.value=iso(dnow());
-  function loadDay(){ var e=log[dIn.value]||{}; uwIn.value=e.uw!=null?e.uw:''; amIn.value=e.am!=null?e.am:''; uwCIn.value=e.uwc!=null?e.uwc:''; amCIn.value=e.amc!=null?e.amc:''; savedMsg.textContent=''; }
+  var clrUwc=false, clrAmc=false;
+  var clrUwL=document.getElementById('clruwc'), clrAmL=document.getElementById('clramc');
+  function updClr(){
+    var e=log[dIn.value]||{};
+    clrUwL.style.display=(typeof e.uwc==='number')?'inline':'none';
+    clrAmL.style.display=(typeof e.amc==='number')?'inline':'none';
+    clrUwL.textContent='clear UW correct'; clrAmL.textContent='clear AMBOSS correct';
+  }
+  clrUwL.addEventListener('click',function(){ clrUwc=true; clrUwL.textContent='UW correct will clear on save'; });
+  clrAmL.addEventListener('click',function(){ clrAmc=true; clrAmL.textContent='AMBOSS correct will clear on save'; });
+  function loadDay(){ var e=log[dIn.value]||{}; uwIn.value=e.uw!=null?e.uw:''; amIn.value=e.am!=null?e.am:''; uwCIn.value=e.uwc!=null?e.uwc:''; amCIn.value=e.amc!=null?e.amc:''; clrUwc=false; clrAmc=false; updClr(); savedMsg.textContent=''; }
   dIn.addEventListener('change',loadDay);
 
   function renderPace(){
+    document.getElementById('pacelbl').textContent='UWorld FM + Ambulatory - goal: done by '+fmt(cfg.target);
     var t=dnow(), done=doneTotal(), goal=cfg.goal;
     var daysLeft=Math.max(0,Math.round((d(cfg.target)-t)/DAY)+1);
     var rem=Math.max(0,goal-done);
@@ -803,14 +845,15 @@ function initShelfTracker(){
   }
 
   function renderAcc(){
-    var t=dnow(), suw=0,suwc=0,sam=0,samc=0, i, e;
+    var t=dnow(), suw=0,suwc=0,sam=0,samc=0, bad=0, i, e;
     for(i=0;i<7;i++){ e=log[iso(t-i*DAY)]; if(!e) continue;
-      if (typeof e.uwc==='number' && (e.uw||0)>0){ suw+=e.uw; suwc+=Math.min(e.uwc,e.uw); }
-      if (typeof e.amc==='number' && (e.am||0)>0){ sam+=e.am; samc+=Math.min(e.amc,e.am); }
+      if (typeof e.uwc==='number'){ if (e.uwc>(e.uw||0)) bad++; else if (e.uw>0){ suw+=e.uw; suwc+=e.uwc; } }
+      if (typeof e.amc==='number'){ if (e.amc>(e.am||0)) bad++; else if (e.am>0){ sam+=e.am; samc+=e.amc; } }
     }
     var parts=[];
     if (suw>0) parts.push('UWorld '+Math.round(suwc/suw*100)+'% ('+suwc+'/'+suw+')');
     if (sam>0) parts.push('AMBOSS '+Math.round(samc/sam*100)+'% ('+samc+'/'+sam+')');
+    if (bad>0) parts.push(bad+' day'+(bad===1?'':'s')+' skipped - correct > questions, fix or clear it');
     document.getElementById('acc7').textContent=parts.length? 'Last 7 days, as logged: '+parts.join(' - ') : '';
     document.getElementById('accnote').style.display=parts.length?'block':'none';
   }
@@ -821,8 +864,13 @@ function initShelfTracker(){
     rec.uw=Math.max(0,parseInt(uwIn.value,10)||0);
     rec.am=Math.max(0,parseInt(amIn.value,10)||0);
     if (uwCIn.value.trim()!=='') rec.uwc=Math.max(0,parseInt(uwCIn.value,10)||0);
+    else if (clrUwc) rec.uwc=null; // explicit clear: tombstone so sync deletes it
     if (amCIn.value.trim()!=='') rec.amc=Math.max(0,parseInt(amCIn.value,10)||0);
-    log[dIn.value]=rec; save();
+    else if (clrAmc) rec.amc=null;
+    if (typeof rec.uwc==='number' && rec.uwc>rec.uw){ savedMsg.textContent='Not saved: UW correct ('+rec.uwc+') is more than UW questions ('+rec.uw+') - fix the numbers or clear UW correct.'; return; }
+    if (typeof rec.amc==='number' && rec.amc>rec.am){ savedMsg.textContent='Not saved: AMBOSS correct ('+rec.amc+') is more than AMBOSS questions ('+rec.am+') - fix the numbers or clear AMBOSS correct.'; return; }
+    log[dIn.value]=rec; markDirty(dIn.value); save();
+    clrUwc=false; clrAmc=false; updClr();
     savedMsg.textContent='Saved '+dIn.value+' - '+rec.uw+' UWorld, '+rec.am+' AMBOSS';
     renderPace(); renderBars(); renderAcc();
   });
@@ -835,7 +883,7 @@ function initShelfTracker(){
     cfg.done0=Math.max(0,parseInt(cdIn.value,10)||0);
     cfg.goal=Math.max(1,parseInt(cgIn.value,10)||941);
     if (ctIn.value) cfg.target=ctIn.value;
-    save(); renderPace();
+    save(); renderPace(); renderAgenda();
   }
   cdIn.addEventListener('input',cfgUpd); cgIn.addEventListener('input',cfgUpd); ctIn.addEventListener('change',cfgUpd);
 
