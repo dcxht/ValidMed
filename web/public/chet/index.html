@@ -323,7 +323,7 @@ details.ref > summary:hover { color:var(--acc); }
   <div class="nm" style="margin-bottom:6px">From orientation - how to work it</div>
   <ul class="plan">
     <li><span class="k">WBAs:</span> ~3/week starting Wk1. Stack them (DOH/P + MRC, or ART + CD in one visit). Launch the form the same day.</li>
-    <li><span class="k">Thursdays:</span> deck promised protected study PMs, but the assigned schedule fills all four (Dec 3 in-person + mid-review, Dec 10 Teams, Dec 17 wrap-up; Nov 26 Thanksgiving). Plan study time around them.</li>
+    <li><span class="k">Thursdays:</span> assigned schedule overrides the generic Thursday plan: Dec 3 in-person 8a-12:30p + mid-review then PM clinic; Dec 10 Teams 8-11a, PM unlisted; Dec 17 wrap-up 8-11a; Nov 26 holiday. Check unlisted afternoons with your preceptor.</li>
     <li><span class="k">UWorld target:</span> deck recommends all UWorld Ambulatory + FM done by end of Wk3 (slide lists 832 Qs: 436 FM + 396 Amb) - a recommendation, not a requirement. Your hub goal counts 941 in those categories (bank had 497+444 as of Oct 12). Finish the category, not a number.</li>
     <li><span class="k">Absences:</span> VidaNova Absence Tracker + notify preceptor. 1-2 excused days fine, 3-4 remediation, &gt;4 repeat.</li>
     <li><span class="k">Eval concerns:</span> go to Dr. Sarkar (CD, 281-650-3221), never the preceptor. Coordinator: Elvira Ruiz.</li>
@@ -702,14 +702,15 @@ var agenda=[
  [_goalT,'UWorld FM + Ambulatory done - personal goal',_goalN+' banked - first pass FM + Ambulatory',0],
  ['2026-11-22','CMS FM #1 - baseline','Baseline self-assessment',0],
  ['2026-11-23','FM day 1 - orientation 8:00a, MEC 410C','In person. Didactics 9a Diabetes, 10a Caregiver Stress; then Belton Main Clinic. COD attestation on VidaNova unlocks content',0],
- ['2026-11-25','Thanksgiving break','No classes Wed 25 - Fri 27',0],
- ['2026-12-03','In-person didactics, MEC 410C 8:00a','SDoH 8a, HTN 9:30a, Obesity 10:30a + Mid-Term Review 11:00-12:30 with Dr. Meece',0],
+ ['2026-11-25','Belton Main Clinic','Clinic day per assigned schedule - Thanksgiving break is Thu 26 - Fri 27',0],
+ ['2026-11-26','Thanksgiving break','No clinic Thu 26 - Fri 27',0],
+ ['2026-12-03','In-person didactics, MEC 410C 8:00a','SDoH 8a, HTN 9:30a, Obesity 10:30a + Mid-Term Review 11:00-12:30 with Dr. Meece. PM Belton Main Clinic',0],
  ['2026-12-06','CMS FM #2','Wrongs reviewed same day',0],
  ['2026-12-08','ACTA morning - Waco','Dr. Wehmeyer AM clinic, 7700 Fish Pond Rd, Waco (front desk, ask for Dr. Wehmeyer). PM Belton Main',0],
- ['2026-12-10','Teams didactics 8:00a (camera on)','Back & Knee Pain 8a, Women\'s Health 9a, SP Exam Prep 10a (Sarkar)',0],
+ ['2026-12-10','Teams didactics 8:00a (camera on)','Back & Knee Pain 8a, Women\'s Health 9a, SP Exam Prep 10a (Sarkar). No PM clinic listed in schedule',0],
  ['2026-12-12','CMS FM #3','Wrongs reviewed same day',0],
  ['2026-12-15','SP Exam','Assigned schedule: Tue Dec 15 (resolves COD Wed vs deck Tue conflict)',1],
- ['2026-12-15','CMS FM #4','Last one - keep Dec 16-17 light',0],
+ ['2026-12-13','CMS FM #4 (optional)','Only if fresh after CMS #3 Sat - otherwise incorrects + CMS wrongs. Keep Dec 16-17 light',0],
  ['2026-12-17','In-person didactics + wrap-up, MEC 410C','High Value Care 8a; Reflections & wrap-up with Dr. Crew 9-11a',0],
  ['2026-12-18','FM SHELF','NBME 100 MCQ, bring laptop - Healer cases + evals due 11:59pm',1],
  ['2027-01-04','Psych begins','Shelf Jan 29',0],
@@ -815,9 +816,15 @@ function initShelfTracker(){
     document.getElementById('pfill').style.width=Math.min(100,Math.round(done/goal*100))+'%';
     var v,sub;
     if (rem<=0){ v='<b class="ok">Bank finished - '+done+' of '+goal+'.</b>'; sub='Move to AMBOSS + incorrects.'; }
+    else if (daysLeft<=0){
+      v='<b>'+done+'</b> of <b>'+goal+'</b> ('+Math.round(done/goal*100)+'%) - '+rem+' left - goal date '+fmt(cfg.target)+' passed';
+      v+=' - <b class="behind">adjust goal to set a new pace</b>';
+      if (avg7>0){ var proj=iso(t+Math.ceil(rem/avg7)*DAY); sub='7-day avg '+(Math.round(avg7*10)/10)+'/day - at that pace done '+fmt(proj)+'.'; }
+      else sub='Nothing logged in the last 7 days.';
+    }
     else {
       var ok=s7>0&&avg7>=need;
-      v='<b>'+done+'</b> of <b>'+goal+'</b> ('+Math.round(done/goal*100)+'%) - need <b>'+need+'/day</b> over '+daysLeft+' day'+(daysLeft===1?'':'')+'s';
+      v='<b>'+done+'</b> of <b>'+goal+'</b> ('+Math.round(done/goal*100)+'%) - need <b>'+need+'/day</b> over '+daysLeft+(daysLeft===1?' day':' days');
       v+=' - '+(s7===0?'log today to set your pace':(ok?'<b class="ok">on pace</b>':'<b class="behind">behind - 7-day avg '+(Math.round(avg7*10)/10)+'/day</b>'));
       if (avg7>0){ var proj=iso(t+Math.ceil(rem/avg7)*DAY); sub='7-day avg '+(Math.round(avg7*10)/10)+'/day - at that pace done '+fmt(proj)+(d(proj)>d(cfg.target)?' (after '+fmt(cfg.target)+' goal)':''); }
       else sub='Goal: finish by '+fmt(cfg.target)+'.';
@@ -1227,6 +1234,31 @@ function initFitness(){
 }
 
 /* ---------- today ---------- */
+/* FM block day types from the assigned Belton Main schedule PDF (R6-FCM Match).
+   clinic = preceptor clinic day; light = didactics morning (Dec 10 PM unlisted, not confirmed free); off = no clinic scheduled; exam = SP exam.
+   Weekdays not listed default to clinic, weekends to off. Clinic start/end times are not published - do not invent them. */
+var FM_DAYS={
+ '2026-11-23':['Orientation 8a + didactics, then Belton Main Clinic','clinic'],
+ '2026-11-24':['Belton Main Clinic','clinic'],
+ '2026-11-25':['Belton Main Clinic','clinic'],
+ '2026-11-26':['Thanksgiving break','off'],
+ '2026-11-27':['Thanksgiving break','off'],
+ '2026-11-30':['Belton Main Clinic','clinic'],
+ '2026-12-01':['Belton Main Clinic','clinic'],
+ '2026-12-02':['Belton Main Clinic','clinic'],
+ '2026-12-03':['Didactics 8a-12:30p, PM Belton Main Clinic','clinic'],
+ '2026-12-04':['Belton Main Clinic','clinic'],
+ '2026-12-07':['Belton Main Clinic','clinic'],
+ '2026-12-08':['ACTA Waco AM, Belton Main PM','clinic'],
+ '2026-12-09':['Belton Main Clinic','clinic'],
+ '2026-12-10':['Teams didactics 8-11a - PM not in schedule','light'],
+ '2026-12-11':['Belton Main Clinic','clinic'],
+ '2026-12-14':['Belton Main Clinic','clinic'],
+ '2026-12-15':['SP Exam','exam'],
+ '2026-12-16':['Belton Main Clinic','clinic'],
+ '2026-12-17':['Didactics 8-11a + wrap-up','light']
+};
+var FM_CMS={ '2026-12-06':1, '2026-12-12':1 };
 function wkInBlock(t,b){ return Math.floor((t-d(b.s))/(7*DAY))+1; }
 function todayPlan(t){
   if (inR(t,'2026-10-16','2026-11-22')){
@@ -1246,10 +1278,18 @@ function todayPlan(t){
       if (b.short==='Wellness') return {p:'Wellness block', ts:['Anki streak','Rollover incorrects','Rest']};
       var wk=wkInBlock(t,b), last=b.wk;
       if (t===d(b.e)) return {p:b.name+' SHELF DAY', ts:['You know the material. Execute.']};
-      if (wk>=last) return {p:b.name+' wk '+wk+' - dedicated review', ts:['UWorld incorrects','CMS wrongs','Anki','Shelf '+fmt(b.e)]};
+      if (wk>=last && b.short!=='FM') return {p:b.name+' wk '+wk+' - dedicated review', ts:['UWorld incorrects','CMS wrongs','Anki','Shelf '+fmt(b.e)]};
       if (b.short==='FM'){
-        if (wk<=2) return {p:b.name+' wk '+wk+' - AMBOSS block', ts:['~40 AMBOSS FM/day','Redo UWorld incorrects','Anki (max 5 new)','CMS per agenda']};
-        return {p:b.name+' wk '+wk+' - finish AMBOSS + incorrects', ts:['AMBOSS FM + incorrects','Weak-area reps (ValidMed missed)','Anki (max 5 new)','CMS per agenda']};
+        var iso=new Date(t).toISOString().slice(0,10), dow=new Date(t).getUTCDay();
+        var cd=FM_DAYS[iso], typ=cd?cd[1]:(dow===0||dow===6?'off':'clinic');
+        var desc=cd?cd[0]:(typ==='off'?'No clinic listed':'Belton Main Clinic');
+        var p=b.name+' wk '+wk+' - '+desc;
+        var rep=wk<=2?'Redo UWorld incorrects':'Incorrects + weak-area reps';
+        if (typ==='exam') return {p:p, ts:['SP Exam today','Incorrects only, if anything','Anki']};
+        if (FM_CMS[iso]) return {p:p, ts:['CMS form + review wrongs same day','More questions optional after','Anki']};
+        if (wk>=b.wk) return {p:p, ts: typ==='off' ? ['UWorld incorrects','CMS wrongs','Anki','Shelf '+fmt(b.e)] : ['Incorrects + CMS wrongs - keep it light','Anki','Shelf '+fmt(b.e)]};
+        if (typ==='clinic'||typ==='light') return {p:p, ts:['~20 AMBOSS FM - lighter-day target, flexible',rep,'Anki (max 5 new)']};
+        return {p:p, ts:['Up to ~40 AMBOSS FM - your call how much',rep,'Anki (max 5 new)','CMS per agenda']};
       }
       if (wk===b.amWk) return {p:b.name+' wk '+wk+' - AMBOSS block', ts:['~40 AMBOSS '+b.short+'/day','Anki (max 5 new)']};
       return {p:b.name+' wk '+wk+' - UWorld block', ts:['UWorld '+b.short+' questions','Anki (max 5 new)']};
