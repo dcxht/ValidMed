@@ -421,12 +421,36 @@ var PASSCODE = 'm';            // <- change the passcode here
 /* ---------- cloud sync (same /api/sync the quiz banks use; slot "chethub") ----------
    Pull on open (cloud wins per key; the shelf log merges per day), debounced
    push on every save. Silent fallback to on-device-only when offline/unset. */
+
+/* ---------- storage + state registry (for humans and agents) ----------
+   localStorage keys (synced = included in the /api/sync slot "chethub"):
+     chet_shelf_log   synced  {day:{uw,am,uwc?,amc?}}; null field = clear tombstone
+     chet_shelf_cfg   synced  {done0,goal,target}
+     chet_shelf_dirty local   {day:1} unpushed shelf days; pull merge keeps these local
+     chet_lift_log    synced  {entries:{id:{d,ex,w,r,ts,del?}}}; del = undo tombstone
+     chet_lift_custom synced  [exercise names] - union-merged across devices
+     chet_lift_sel    local   last picked exercise chip (UI preference)
+     chet_lift_seed   local   '1' = first-lift seed already written
+     chet_run_log     synced  {entries:{id:{d,name,dist_mi,type,...}}} read-only here
+     chet_workout_plan synced {date,name,items:[{ex,target,note?}]}
+     chet_week_plan   synced  {groups:{Group:sets}, extras:[{label,done,target}]}
+     chet_session_ratings synced {day:1-10} - rendered when present; no writer on this page
+     chet_fm_reqs     synced  {reqId:bool} clerkship checklist
+     chet_todo_YYYY-M-D  legacy unpadded today checks (read-migrated, left in place)
+     chet_todo_YYYY-MM-DD synced today checks {taskIndex:bool}
+     chet_gate        local   '1' = passcode entered (per device, by design)
+     chet_view        local   'acad'|'fit' tab (per device, by design)
+   Explicit state machines: sync status (idle/pushing/ok/error/offline -> #syncmsg
+   pill), shelf pace (active/finished/goal-passed in renderPace), FM day type
+   (clinic/light/off/exam via FM_DAYS + documented defaults), today checklist
+   (per-day index map), lift undo (del tombstone), weekly floors (derived from
+   the lift log, never stored). */
 var SYNC_URL='/api/sync?name=chethub';
 function gatherSync(){
   var state={}, i, k;
   try{
     var v;
-    ['chet_shelf_log','chet_shelf_cfg','chet_lift_log','chet_workout_plan','chet_week_plan','chet_session_ratings','chet_run_log','chet_fm_reqs'].forEach(function(k){ v=localStorage.getItem(k); if(v!=null) state[k]=v; });
+    ['chet_shelf_log','chet_shelf_cfg','chet_lift_log','chet_lift_custom','chet_workout_plan','chet_week_plan','chet_session_ratings','chet_run_log','chet_fm_reqs'].forEach(function(k){ v=localStorage.getItem(k); if(v!=null) state[k]=v; });
     for (i=0;i<localStorage.length;i++){ k=localStorage.key(i); if(k&&k.indexOf('chet_todo_')===0) state[k]=localStorage.getItem(k); }
   }catch(e){}
   return state;
@@ -438,6 +462,7 @@ function syncPull(){
   return fetch(SYNC_URL,{signal:ctrl.signal}).then(function(r){
     clearTimeout(t);
     if(!r.ok) return false;
+    if (bootOffline){ bootOffline=false; syncNote(''); }
     return r.json().then(function(j){
       var state=j&&j.state;
       if(!state||typeof state!=='object'){ syncPushNow(); return true; } // first device: seed cloud
@@ -469,6 +494,14 @@ function syncPull(){
           localStorage.setItem('chet_run_log',JSON.stringify(rl0));
         }
       }catch(e){}
+      try{ // custom exercises: union across devices (add-only, so no deletion loss)
+        var lcA=JSON.parse(localStorage.getItem('chet_lift_custom')||'[]');
+        var ccA=state.chet_lift_custom?JSON.parse(state.chet_lift_custom):[];
+        if (!Array.isArray(lcA)) lcA=[]; if (!Array.isArray(ccA)) ccA=[];
+        var seenA={}, uniA=[];
+        lcA.concat(ccA).forEach(function(x){ if (typeof x!=='string') return; var nx=x.toLowerCase(); if(!seenA[nx]){ seenA[nx]=1; uniA.push(x); } });
+        localStorage.setItem('chet_lift_custom',JSON.stringify(uniA));
+      }catch(e){}
       for (var k in state) if (k.indexOf('chet_todo_')===0) try{ localStorage.setItem(k,state[k]); }catch(e){}
       if (Object.keys(getDirty()).length) syncPush(); // unpushed edits from a previous session
       return true;
@@ -479,20 +512,28 @@ var DIRTYK='chet_shelf_dirty';
 function getDirty(){ try{ return JSON.parse(localStorage.getItem(DIRTYK)||'{}'); }catch(e){ return {}; } }
 function markDirty(day){ var dd=getDirty(); dd[day]=1; try{ localStorage.setItem(DIRTYK,JSON.stringify(dd)); }catch(e){} }
 function clearDirty(){ try{ localStorage.removeItem(DIRTYK); }catch(e){} }
-var syncFailN=0, syncRetryT=null, syncRev=0;
-function syncNote(msg){
+var syncFailN=0, syncRetryT=null, syncRev=0, syncNoteSeq=0, bootOffline=false;
+/* sync status, made explicit: idle -> pushing -> ok ('Synced h:mm', auto-hides
+   after 4s) | error ('Not synced', persists, auto-retries 3s..30s) | offline at
+   boot (persists until the next successful pull/push). ok=teal, error=amber. */
+function syncNote(msg, kind){
   var el=document.getElementById('syncmsg');
-  if(!el){ el=document.createElement('div'); el.id='syncmsg';
-    el.style.cssText='position:fixed;bottom:10px;left:50%;transform:translateX(-50%);background:#b45309;color:#fff;padding:6px 12px;border-radius:8px;font-size:12px;z-index:60;';
-    document.body.appendChild(el); }
+  if(!el){ el=document.createElement('div'); el.id='syncmsg'; document.body.appendChild(el); }
+  el.style.cssText='position:fixed;bottom:10px;left:50%;transform:translateX(-50%);color:#fff;padding:6px 12px;border-radius:8px;font-size:12px;z-index:60;'
+    +'background:'+(kind==='ok'?'#0f766e':'#b45309')+';';
   el.textContent=msg||''; el.style.display=msg?'block':'none';
+}
+function syncOkNote(){
+  var n=new Date(), h=n.getHours(), m=n.getMinutes(), seq=++syncNoteSeq;
+  syncNote('Synced '+(h%12||12)+':'+(m<10?'0':'')+m+' '+(h>=12?'PM':'AM'),'ok');
+  setTimeout(function(){ if(syncNoteSeq===seq) syncNote(''); },4000);
 }
 function syncPushNow(){
   try{
     var rev=syncRev;
     fetch(SYNC_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({state:gatherSync()})})
       .then(function(r){ if(!r.ok) throw new Error('sync '+r.status);
-        if(rev===syncRev){ syncFailN=0; clearDirty(); syncNote(''); } // only clear edits this ack actually covers
+        if(rev===syncRev){ syncFailN=0; clearDirty(); syncOkNote(); } // only clear edits this ack actually covers
       })
       .catch(function(){
         syncFailN++;
@@ -510,12 +551,15 @@ function syncPush(){
 var booted=false;
 function boot(){
   if (booted) return; booted=true;
-  Promise.resolve(syncPull()).then(function(ok){
+  function afterSecond(ok){
+    if (!ok){ bootOffline=true; syncNote('Offline - on-device data; will sync when connection returns'); }
+    initDynamic();
+  }
+  function first(ok){
     if (ok){ initDynamic(); return; }
-    setTimeout(function(){ Promise.resolve(syncPull()).then(function(){ initDynamic(); }, function(){ initDynamic(); }); }, 1500);
-  }, function(){
-    setTimeout(function(){ Promise.resolve(syncPull()).then(function(){ initDynamic(); }, function(){ initDynamic(); }); }, 1500);
-  });
+    setTimeout(function(){ Promise.resolve(syncPull()).then(afterSecond, function(){ afterSecond(false); }); }, 1500);
+  }
+  Promise.resolve(syncPull()).then(first, function(){ first(false); });
 }
 function initDynamic(){ initShelfTracker(); renderAgenda(); initFmReqs(); initToday(); initFitness(); }
 
@@ -551,6 +595,7 @@ function dnow(){ var n=new Date(); return Date.UTC(n.getFullYear(),n.getMonth(),
 function fmt(s){ var t=new Date(d(s)); return MN[t.getUTCMonth()]+' '+t.getUTCDate(); }
 function fmtY(s){ var t=new Date(d(s)); return MN[t.getUTCMonth()]+' '+t.getUTCDate()+", '"+String(t.getUTCFullYear()).slice(2); }
 function inR(t,s,e){ return t>=d(s)&&t<=d(e); }
+function isoDay(t){ var x=new Date(t); return x.getUTCFullYear()+'-'+String(x.getUTCMonth()+1).padStart(2,'0')+'-'+String(x.getUTCDate()).padStart(2,'0'); }
 
 /* block data: uwTo = UWorld through week N, amWk = AMBOSS week, shelf = last day */
 var blocks=[
@@ -1305,7 +1350,12 @@ function initToday(){
   var t=dnow(), plan=todayPlan(t), dt=new Date(t);
   document.getElementById('tdate').textContent=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'][dt.getUTCDay()]+', '+MN[dt.getUTCMonth()]+' '+dt.getUTCDate()+', '+dt.getUTCFullYear();
   document.getElementById('tphase').textContent=plan.p;
-  var key='chet_todo_'+dt.getUTCFullYear()+dt.getUTCMonth()+dt.getUTCDate();
+  var key='chet_todo_'+isoDay(t); // padded + parseable, e.g. chet_todo_2026-11-09
+  try{ // one-time read-migration from the legacy unpadded key; legacy left in place
+    var legacyK='chet_todo_'+dt.getUTCFullYear()+dt.getUTCMonth()+dt.getUTCDate();
+    var legacyV=localStorage.getItem(legacyK);
+    if (legacyV!=null && localStorage.getItem(key)==null) localStorage.setItem(key,legacyV);
+  }catch(e){}
   var saved={}; try{ saved=JSON.parse(localStorage.getItem(key)||'{}'); }catch(e){}
   var list=document.getElementById('tlist');
   plan.ts.forEach(function(task,i){
